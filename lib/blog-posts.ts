@@ -1380,7 +1380,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-29",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-port-cargo-weighing.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1391,8 +1391,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Does an FOB Price Actually Represent?",
         image: {
-          src: "/images/global-export-map.jpg",
-          alt: "Map showing global sunflower seed export destinations",
+          src: "/images/ai-port-cargo-weighing.jpg",
+          alt: "A dock worker weighing bulk cargo bags on an industrial scale at a port",
           caption: "FOB price is set at the port of export — everything from that point onward is the buyer's responsibility.",
         },
         body: [
@@ -2435,7 +2435,7 @@ export const blogPosts: BlogPost[] = [
     category: "Logistics & Packaging",
     date: "2026-09-09",
     author: "James Feng",
-    image: "/images/process-12-automated-packaging.jpg",
+    image: "/images/ai-vacuum-sealed-bag-macro.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2446,8 +2446,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does Vacuum Sealing Preserve Freshness?",
         image: {
-          src: "/images/process-12-automated-packaging.jpg",
-          alt: "Sunflower seeds being packaged on an automated line",
+          src: "/images/ai-vacuum-sealed-bag-macro.jpg",
+          alt: "A vacuum-sealed bag of sunflower seeds with the plastic film pulled tight, no air pockets",
           caption: "Removing oxygen from the package is the core mechanism behind vacuum sealing's freshness benefits.",
         },
         body: [
@@ -2515,7 +2515,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-09-10",
     author: "James Feng",
-    image: "/images/process-01-raw-material-inspection.jpg",
+    image: "/images/ai-lab-testing-seeds.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2526,8 +2526,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Does Non-GMO Verification Actually Involve?",
         image: {
-          src: "/images/process-01-raw-material-inspection.jpg",
-          alt: "Raw material inspection as part of sunflower seed quality testing",
+          src: "/images/ai-lab-testing-seeds.jpg",
+          alt: "A food safety lab technician testing a seed sample for pesticide residue and non-GMO verification",
           caption: "Non-GMO verification and pesticide-residue testing are two separate checks buyers may ask about.",
         },
         body: [
@@ -2773,7 +2773,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-09-23",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-processing-facility-aerial.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2784,8 +2784,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Is China a Net Importer or Exporter of Sunflower Seed?",
         image: {
-          src: "/images/global-export-map.jpg",
-          alt: "Map showing China's sunflower seed export destinations",
+          src: "/images/ai-processing-facility-aerial.jpg",
+          alt: "Aerial view of a large-scale grain processing facility surrounded by farmland in Inner Mongolia",
           caption: "China imports raw oil-crushing seed while exporting a growing volume of confectionery seed — two distinct trade flows.",
         },
         body: [
