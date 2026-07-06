@@ -48,6 +48,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seeds-recipes",
     title: "Sunflower Seed Recipes: A Complete Cooking Guide",
+    seoTitle: "Sunflower Seed Recipes: A Cooking Guide",
+    seoDescription:
+      "Eight creative recipes for cooking with sunflower seeds, from coatings to pesto to salad toppings.",
     excerpt:
       "Eight creative recipes, cooking with sunflower seed oil, and using seeds as a salad topping — a complete guide to turning XingYi Trading's sunflower seeds into a versatile kitchen ingredient.",
     category: "Recipes & Cooking",
@@ -165,6 +168,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-pesto-and-seed-butter",
     title: "Sunflower Seed Pesto and Seed Butter: Two Recipes Worth Making",
+    seoTitle: "Sunflower Seed Pesto and Seed Butter",
+    seoDescription:
+      "Two recipes worth making with sunflower seeds — a nutty pesto and a nut-free seed butter spread.",
     excerpt:
       "Our 363 Series turned into a nutty pesto and a nut-free seed butter — recipes, food-safety notes, and how each compares nutritionally to the traditional alternative.",
     category: "Recipes & Cooking",
@@ -259,6 +265,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seeds-cosmetic-industry",
     title: "Sunflower Seeds in Beauty: Cosmetics, Skincare, and Hair Care",
+    seoTitle: "Sunflower Seeds in Beauty & Skincare",
+    seoDescription:
+      "How sunflower seed oil is used in cosmetics, skincare, and hair care, backed by real research.",
     excerpt:
       "From vitamin-E-rich oil to biodegradable exfoliants and hair conditioning — sunflower seeds have a growing, well-documented role in skincare, hair care, and natural cosmetics formulation.",
     category: "Beauty & Wellness",
@@ -354,6 +363,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-festivals",
     title: "Sunflower Seed Festivals: Celebrating Nature's Golden Bounty",
+    seoTitle: "Sunflower Seed Festivals & Culture",
+    seoDescription:
+      "Real sunflower festivals and cultural celebrations in Bayannur, Inner Mongolia.",
     excerpt:
       "From the Wuyuan Sunflower Scenic Area to the International Sunflower Conference, sunflower seeds are a genuine cultural and economic celebration in Bayannur, Inner Mongolia.",
     category: "Culture",
@@ -432,6 +444,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "harvesting-sunflower-seeds-drying",
     title: "Drying and Storing Sunflower Seeds: A Complete Guide",
+    seoTitle: "Drying and Storing Sunflower Seeds",
+    seoDescription:
+      "How to dry and store sunflower seeds properly, plus the moisture levels that prevent spoilage.",
     excerpt:
       "Sun drying, oven drying, or a dehydrator, plus the moisture and temperature control that keeps stored seeds free of mold and pests — a complete guide from harvest to shelf.",
     category: "Harvesting & Storage",
@@ -533,6 +548,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "harvesting-sunflower-seeds-methods",
     title: "Harvesting Sunflower Seeds: Timing and Methods",
+    seoTitle: "Harvesting Sunflower Seeds: Methods",
+    seoDescription:
+      "Visual cues, moisture readings, and equipment used to time and execute a sunflower harvest.",
     excerpt:
       "Visual cues, moisture readings, and equipment choice — how growers judge the exact moment sunflower seeds are ready, and the harvesting methods matched to different scales of operation.",
     category: "Harvesting & Storage",
@@ -626,6 +644,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-nutrition-benefits",
     title: "Sunflower Seed Nutrition: Immune Support, Weight Management, and Minerals",
+    seoTitle: "Sunflower Seed Nutrition Benefits",
+    seoDescription:
+      "Vitamin E, protein, and minerals in sunflower seeds — the full nutritional profile explained.",
     excerpt:
       "Vitamin E, protein, fiber, and a dense mineral profile — a complete look at the nutrients in sunflower seeds and the role they play in immune function, weight management, and daily nutrition.",
     category: "Health & Nutrition",
