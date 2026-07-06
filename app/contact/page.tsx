@@ -163,6 +163,10 @@ export default function ContactPage() {
                 referrerPolicy="strict-origin-when-cross-origin"
                 title="XingYi Trading facility location, Linhe District, Bayannur City, Inner Mongolia"
               />
+              <MapPin
+                className="absolute left-1/2 top-1/2 h-10 w-10 -translate-x-1/2 -translate-y-full text-red-600 drop-shadow-lg pointer-events-none"
+                fill="currentColor"
+              />
             </div>
           </div>
         </div>
