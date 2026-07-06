@@ -1904,7 +1904,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-08-19",
     author: "James Feng",
-    image: "/images/product-seeds-closeup.jpg",
+    image: "/images/ai-confectionery-vs-oil-comparison.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1915,8 +1915,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What's the Difference Between Confectionery and Oil-Type Sunflower Seeds?",
         image: {
-          src: "/images/product-seeds-closeup.jpg",
-          alt: "Confectionery sunflower seeds with characteristic striped shells",
+          src: "/images/ai-confectionery-vs-oil-comparison.jpg",
+          alt: "Confectionery sunflower seeds with striped shells next to oil-type seeds with solid black shells",
           caption: "Confectionery-type seeds have a distinctive striped black-and-white shell, larger and thicker than oil-type seeds.",
         },
         body: [
@@ -1990,7 +1990,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-08-20",
     author: "James Feng",
-    image: "/images/product-361-detail.jpg",
+    image: "/images/ai-raw-vs-roasted-comparison.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2001,8 +2001,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Does Roasting Extend or Shorten Sunflower Seed Shelf Life?",
         image: {
-          src: "/images/product-361-detail.jpg",
-          alt: "Raw sunflower seed kernels before roasting",
+          src: "/images/ai-raw-vs-roasted-comparison.jpg",
+          alt: "Raw pale sunflower kernels next to golden-brown roasted kernels",
           caption: "Raw, unroasted seed generally holds up longer in storage than roasted product.",
         },
         body: [
