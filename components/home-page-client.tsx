@@ -117,60 +117,84 @@ export default function HomePageClient() {
         <div className="absolute inset-0 bg-black/50 z-10" />
 
         {/* Hero Content */}
-        <div className="absolute inset-0 z-30 flex items-center justify-center">
+        <div className="absolute inset-0 z-30 flex items-center">
           <div className="container mx-auto px-4">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6 }}
-              className="max-w-3xl mx-auto text-center"
-            >
+            <div className="grid lg:grid-cols-[1.3fr_1fr] gap-8 lg:gap-12 items-center">
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.6, delay: 0.2 }}
-                className="inline-block px-4 py-2 bg-amber-500/90 text-white rounded-full text-sm font-medium mb-4"
+                transition={{ duration: 0.6 }}
+                className="max-w-2xl mx-auto lg:mx-0 text-center lg:text-left"
               >
-                Confectionery Sunflower Seeds, Exported Worldwide
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.6, delay: 0.2 }}
+                  className="inline-block px-4 py-2 bg-amber-500/90 text-white rounded-full text-sm font-medium mb-4"
+                >
+                  Confectionery Sunflower Seeds, Exported Worldwide
+                </motion.div>
+
+                <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 md:mb-6 drop-shadow-md">
+                  Sunflower Seeds Verified Through <span className="text-amber-400">16 Quality Checkpoints</span>
+                </h1>
+
+                <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6 md:mb-10 max-w-xl mx-auto lg:mx-0 drop-shadow-md">
+                  In-shell 361, 363, and Tongqing No.6 series — inspected, graded, and packed at our own
+                  Bayannur facility, then shipped to buyers across the Middle East, North America, South
+                  America, and Southeast Asia.
+                </p>
+
+                <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center lg:justify-start">
+                  <AnimatedButton
+                    asChild
+                    size="lg"
+                    className="bg-amber-600 hover:bg-amber-700 text-white font-semibold px-6 sm:px-8 w-full sm:w-auto"
+                    hoverEffect="lift"
+                  >
+                    <Link href="/products">
+                      View Our Products
+                      <ChevronRight className="ml-2 h-4 w-4" />
+                    </Link>
+                  </AnimatedButton>
+                  <HoverButton
+                    asChild
+                    size="lg"
+                    variant="outline"
+                    className="bg-transparent text-white border-white hover:bg-white/20 hover:text-white font-semibold px-6 sm:px-8 w-full sm:w-auto backdrop-blur-sm"
+                    hoverEffect="glow"
+                    rippleColor="rgba(255, 255, 255, 0.3)"
+                  >
+                    <Link href="/contact#quote-form">
+                      Request a Quote
+                      <ChevronRight className="ml-2 h-4 w-4" />
+                    </Link>
+                  </HoverButton>
+                </div>
               </motion.div>
 
-              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 md:mb-6 drop-shadow-md">
-                Sunflower Seeds Verified Through <span className="text-amber-400">16 Quality Checkpoints</span>
-              </h1>
-
-              <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6 md:mb-10 max-w-xl md:max-w-2xl mx-auto drop-shadow-md">
-                In-shell 361, 363, and Tongqing No.6 series — inspected, graded, and packed at our own
-                Bayannur facility, then shipped to buyers across the Middle East, North America, South
-                America, and Southeast Asia.
-              </p>
-
-              <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
-                <AnimatedButton
-                  asChild
-                  size="lg"
-                  className="bg-amber-600 hover:bg-amber-700 text-white font-semibold px-6 sm:px-8 w-full sm:w-auto"
-                  hoverEffect="lift"
-                >
-                  <Link href="/products">
-                    View Our Products
-                    <ChevronRight className="ml-2 h-4 w-4" />
-                  </Link>
-                </AnimatedButton>
-                <HoverButton
-                  asChild
-                  size="lg"
-                  variant="outline"
-                  className="bg-transparent text-white border-white hover:bg-white/20 hover:text-white font-semibold px-6 sm:px-8 w-full sm:w-auto backdrop-blur-sm"
-                  hoverEffect="glow"
-                  rippleColor="rgba(255, 255, 255, 0.3)"
-                >
-                  <Link href="/contact#quote-form">
-                    Request a Quote
-                    <ChevronRight className="ml-2 h-4 w-4" />
-                  </Link>
-                </HoverButton>
-              </div>
-            </motion.div>
+              {/* Product Shot — so visitors immediately see what we sell */}
+              <motion.div
+                initial={{ opacity: 0, scale: 0.9 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ duration: 0.6, delay: 0.3 }}
+                className="hidden lg:flex justify-center"
+              >
+                <div className="relative w-[340px] h-[340px] xl:w-[400px] xl:h-[400px]">
+                  <div className="absolute inset-0 rounded-full ring-4 ring-white/30 shadow-2xl" />
+                  <Image
+                    src="/images/product-hero-circle.png"
+                    alt="Close-up of XingYi Trading's confectionery sunflower seeds"
+                    fill
+                    className="object-contain rounded-full"
+                    priority
+                  />
+                  <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 bg-white dark:bg-gray-900 px-5 py-2 rounded-full shadow-lg text-sm font-semibold text-gray-900 dark:text-white whitespace-nowrap">
+                    361 · 363 · Tongqing No.6
+                  </div>
+                </div>
+              </motion.div>
+            </div>
           </div>
         </div>
       </section>

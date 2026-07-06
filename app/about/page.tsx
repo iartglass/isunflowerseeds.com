@@ -34,7 +34,7 @@ export default function AboutPage() {
       <SchemaBreadcrumb crumbs={[{ name: "Home", url: "/" }, { name: "About Us", url: "/about" }]} />
     <div className="flex min-h-screen flex-col">
       {/* Hero Section */}
-      <section className="relative h-[400px] w-full overflow-hidden">
+      <section className="relative h-[300px] sm:h-[360px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
           src="/images/20210810160139o.jpg"
