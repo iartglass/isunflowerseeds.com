@@ -176,13 +176,12 @@ export default function HomePageClient() {
                 </div>
               </motion.div>
 
-              {/* Product Shot — so visitors immediately see what we sell */}
-              <motion.div
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ duration: 0.6, delay: 0.3 }}
-                className="hidden lg:flex justify-center"
-              >
+              {/* Product Shot — so visitors immediately see what we sell.
+                  Plain div, no entrance animation and no `priority`: this
+                  sits next to the background image which is the real LCP
+                  candidate, and an opacity-gated motion wrapper was
+                  delaying paint until framer-motion's JS executed. */}
+              <div className="hidden lg:flex justify-center">
                 <div className="relative w-[340px] h-[340px] xl:w-[400px] xl:h-[400px]">
                   <div className="absolute inset-0 rounded-full ring-4 ring-white/30 shadow-2xl" />
                   <Image
@@ -190,13 +189,12 @@ export default function HomePageClient() {
                     alt="Close-up of XingYi Trading's confectionery sunflower seeds"
                     fill
                     className="object-contain rounded-full"
-                    priority
                   />
                   <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 bg-white dark:bg-gray-900 px-5 py-2 rounded-full shadow-lg text-sm font-semibold text-gray-900 dark:text-white whitespace-nowrap">
                     361 · 363 · Tongqing No.6
                   </div>
                 </div>
-              </motion.div>
+              </div>
             </div>
           </div>
         </div>
