@@ -866,7 +866,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-09",
     author: "James Feng",
-    image: "/images/process-12-automated-packaging.jpg",
+    image: "/images/ai-customs-documents-desk.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1563,7 +1563,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-08-05",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-incoterms-port-handoff.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1574,8 +1574,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Is FOB (Free on Board)?",
         image: {
-          src: "/images/global-export-map.jpg",
-          alt: "Global shipping routes map for export logistics",
+          src: "/images/ai-incoterms-port-handoff.jpg",
+          alt: "Container ship docked at port with cargo being loaded, symbolizing the risk-transfer handoff point in Incoterms",
           caption: "FOB and CIF differ mainly in who arranges freight and insurance to the destination port.",
         },
         body: [
@@ -1658,7 +1658,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-08-06",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-middle-east-market.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1669,8 +1669,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Is the UAE Important for Middle East Sunflower Seed Trade?",
         image: {
-          src: "/images/global-export-map.jpg",
-          alt: "Map showing sunflower seed trade routes to the Middle East",
+          src: "/images/ai-middle-east-market.jpg",
+          alt: "A Middle Eastern wholesale market stall selling nuts, seeds, and dried goods",
           caption: "Dubai and Jebel Ali function as regional redistribution hubs for goods entering the wider Gulf market.",
         },
         body: [
@@ -1744,7 +1744,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-08-12",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-southeast-asia-market.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1755,8 +1755,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Fast Is Southeast Asia's Snack Food Market Growing?",
         image: {
-          src: "/images/global-export-map.jpg",
-          alt: "Map showing sunflower seed export routes to Southeast Asia",
+          src: "/images/ai-southeast-asia-market.jpg",
+          alt: "A Southeast Asian grocery store shelf stocked with packaged snack foods",
           caption: "Southeast Asia's snack food market has shown consistent growth across multiple countries in the region.",
         },
         body: [
@@ -1824,7 +1824,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-08-13",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-north-america-warehouse.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1835,8 +1835,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Who Are the Established Players in North American Bulk Seed Distribution?",
         image: {
-          src: "/images/global-export-map.jpg",
-          alt: "Map showing sunflower seed export routes to North America",
+          src: "/images/ai-north-america-warehouse.jpg",
+          alt: "A North American food distribution warehouse with pallets of packaged snack goods",
           caption: "Established US distributors and private-label manufacturers regularly source seeds and nuts from overseas suppliers.",
         },
         body: [
@@ -2252,7 +2252,7 @@ export const blogPosts: BlogPost[] = [
     category: "Logistics & Packaging",
     date: "2026-09-02",
     author: "James Feng",
-    image: "/images/warehouse-storage.jpg",
+    image: "/images/ai-cargo-port-containers.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2263,8 +2263,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What's the Difference Between FCL and LCL?",
         image: {
-          src: "/images/warehouse-storage.jpg",
-          alt: "Warehouse storage ready for container loading",
+          src: "/images/ai-cargo-port-containers.jpg",
+          alt: "A container ship being loaded with shipping containers at a busy commercial port",
           caption: "FCL means exclusive use of a container; LCL means sharing container space with other shippers' cargo.",
         },
         body: [
@@ -2601,7 +2601,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-09-16",
     author: "James Feng",
-    image: "/images/stock-sunflower-field-mature.jpg",
+    image: "/images/ai-sunflower-harvest-combine.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2612,8 +2612,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "When Is Sunflower Harvest Season in Inner Mongolia?",
         image: {
-          src: "/images/stock-sunflower-field-mature.jpg",
-          alt: "Mature sunflower field ready for harvest",
+          src: "/images/ai-sunflower-harvest-combine.jpg",
+          alt: "A combine harvester working through a golden sunflower field at harvest time",
           caption: "Inner Mongolia's sunflowers are typically planted in June and harvested in September.",
         },
         body: [
