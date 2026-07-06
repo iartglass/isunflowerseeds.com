@@ -113,8 +113,11 @@ export default function HomePageClient() {
           />
         </div>
 
-        {/* Dark Overlay for better text readability */}
-        <div className="absolute inset-0 bg-black/50 z-10" />
+        {/* Overlay for text readability — flat on mobile, a left-to-right gradient on
+            larger screens so the sunflower field stays bright and colorful on the
+            right where the product circle sits */}
+        <div className="absolute inset-0 bg-black/35 z-10 lg:hidden" />
+        <div className="absolute inset-0 z-10 hidden lg:block bg-gradient-to-r from-black/70 via-black/35 to-black/5" />
 
         {/* Hero Content */}
         <div className="absolute inset-0 z-30 flex items-center">
