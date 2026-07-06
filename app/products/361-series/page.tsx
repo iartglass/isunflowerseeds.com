@@ -69,7 +69,7 @@ export default function Series361Page() {
       />
     <div className="flex min-h-screen flex-col">
       {/* Hero Section */}
-      <section className="relative h-[600px] w-full overflow-hidden">
+      <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
           src="/images/361-1.jpg"
