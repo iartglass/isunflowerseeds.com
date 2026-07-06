@@ -785,7 +785,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Payment Terms Are Standard for a Sunflower Seed Import Order?",
         body: [
-          "T/T (telegraphic transfer) is the most common payment method for small-to-mid-size orders from Chinese suppliers, typically structured as a deposit (often around 30%) before production begins and the balance before or against shipping documents. L/C (letter of credit) shifts more verification risk onto the banks, since the buyer's bank only releases payment against compliant shipping documents — but the extra banking costs mean it's generally considered impractical for smaller orders, with L/C banking fees running noticeably higher than the fees on an equivalent T/T transfer.",
+          "T/T (telegraphic transfer) is the most common payment method for small-to-mid-size orders from Chinese suppliers, typically structured as a deposit (often around 30%) before production begins and the balance before or against shipping documents. L/C (letter of credit) shifts more verification risk onto the banks, since the buyer's bank only releases payment against compliant shipping documents — but the extra banking costs mean it's generally considered [impractical for smaller orders](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/), with L/C banking fees running noticeably higher than the fees on an equivalent T/T transfer.",
           "Whichever method you use, agree on the deposit/balance split and the exact trigger for the balance payment (shipment, arrival, or against specific documents) in writing before production starts.",
         ],
       },
@@ -798,7 +798,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should First-Time Importers Know About Destination-Country Requirements?",
         body: [
-          "Requirements vary by destination market, so confirm the specifics for your country before your first shipment. As one example: buyers importing into the United States should know that foreign facilities producing food for U.S. consumption must be registered with the FDA, and that Prior Notice of the shipment must be filed with the FDA before the goods arrive — U.S. Customs and Border Protection will not release a food shipment without proof that Prior Notice was filed. Buyers importing into the EU or other markets face a different but analogous set of food-contact and phytosanitary requirements, so it's worth confirming the destination-specific rules with a customs broker or your own import compliance team early in the process, not after the shipment is already in transit.",
+          "Requirements vary by destination market, so confirm the specifics for your country before your first shipment. As one example: buyers importing into the United States should know that foreign facilities producing food for U.S. consumption must be registered with the FDA, and that [Prior Notice of the shipment must be filed with the FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods) before the goods arrive — U.S. Customs and Border Protection will not release a food shipment without proof that Prior Notice was filed. Buyers importing into the EU or other markets face a different but analogous set of food-contact and phytosanitary requirements, so it's worth confirming the destination-specific rules with a customs broker or your own import compliance team early in the process, not after the shipment is already in transit.",
         ],
       },
       {
@@ -877,7 +877,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Is the HS Code for Sunflower Seeds?",
         body: [
-          "Sunflower seeds fall under Heading **1206** — \"Sunflower seeds, whether or not broken\" — in the World Customs Organization's Harmonized System, the 6-digit classification standard used globally. Countries then add their own digits for more specific import declarations: the US uses a 10-digit HTS code, while the EU uses an 8-digit Combined Nomenclature (CN) code and a 10-digit TARIC code for the actual import declaration.",
+          "Sunflower seeds fall under [Heading 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) — \"Sunflower seeds, whether or not broken\" — in the World Customs Organization's Harmonized System, the 6-digit classification standard used globally. Countries then add their own digits for more specific import declarations: the US uses a [10-digit HTS code](https://www.datamyne.com/hts/12/1206000069), while the EU uses an 8-digit Combined Nomenclature (CN) code and a [10-digit TARIC code](https://www.taricsupport.com/nomenclature/en/1206009900.html) for the actual import declaration.",
           "Within Heading 1206, the exact subheading depends on the product's processing state. In the EU's Combined Nomenclature, for example, code 1206 00 10 covers sunflower seed \"for sowing\" (planting seed, not relevant to food-grade product), 1206 00 91 covers shelled (dehulled kernel), and 1206 00 99 is the residual \"other\" category that typically covers in-shell seed not intended for sowing. In the US, HTS code 1206.00.0069 specifically covers \"sunflower seeds for human use, shelled.\"",
           "Because the exact subheading can depend on processing state (in-shell vs. shelled) and destination-country ruling precedent, always confirm the precise classification with a licensed customs broker for your specific destination market and product form before relying on it for a customs filing.",
         ],
@@ -926,7 +926,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Is ISPM 15 and Why Does It Matter for Wood Packaging?",
         body: [
-          "ISPM 15 is the international standard requiring wood packaging material — pallets, crates, dunnage — to be debarked and heat-treated (or, less commonly today, fumigated) and stamped with an official IPPC mark before crossing borders. Non-compliant wood packaging can result in a shipment being held, returned, or destroyed at the destination port at the shipper's or consignee's expense, so it's worth confirming with your freight forwarder that any wood packaging used meets this standard before the container is sealed.",
+          "[ISPM 15](https://www.aphis.usda.gov/plant-exports/wood-packaging-material/export) is the international standard requiring wood packaging material — pallets, crates, dunnage — to be debarked and heat-treated (or, less commonly today, fumigated) and stamped with an official IPPC mark before crossing borders. Non-compliant wood packaging can result in a shipment being held, returned, or destroyed at the destination port at the shipper's or consignee's expense, so it's worth confirming with your freight forwarder that any wood packaging used meets this standard before the container is sealed.",
         ],
       },
       {
@@ -1094,7 +1094,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Food safety certifications and hands-on quality inspection are two separate things worth asking about.",
         },
         body: [
-          "GFSI-recognized food safety certification schemes — BRCGS, IFS, and FSSC 22000 are the three most commonly cited — are a standard reference point B2B buyers use when evaluating a supplier's food safety management system. Which one matters most can depend on your own destination market's retail requirements, so it's worth asking a prospective supplier directly which certifications they hold and requesting the certificate itself rather than taking a general claim at face value.",
+          "[GFSI-recognized food safety certification schemes](https://mygfsi.com/) — BRCGS, IFS, and FSSC 22000 are the three most commonly cited — are a standard reference point B2B buyers use when evaluating a supplier's food safety management system. Which one matters most can depend on your own destination market's retail requirements, so it's worth asking a prospective supplier directly which certifications they hold and requesting the certificate itself rather than taking a general claim at face value.",
           "Regional preference varies in practice: buyers selling into UK retail commonly expect BRCGS, German retail buyers often prefer IFS, and global B2B buyers more broadly tend to accept any of the three GFSI-recognized schemes. If you're sourcing for a specific retail market, it's worth checking which certification that market's retailers actually expect before assuming any one scheme is universally sufficient.",
         ],
       },
@@ -1203,7 +1203,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Bulk sunflower seeds are most commonly packed in PP woven bags at the 25kg or 50kg mark.",
         },
         list: [
-          "PP (polypropylene) woven bags — the standard bulk export format, most commonly in 25kg and 50kg sizes",
+          "[PP (polypropylene) woven bags](https://jnplastic.en.made-in-china.com/product/tKAQrTXJIoRv/China-25kg-50kg-PP-Woven-Bag-Packaging-Sunflower-Seed.html) — the standard bulk export format, most commonly in 25kg and 50kg sizes",
           "Smaller variants (10-20kg) with BOPP lamination for added moisture resistance and print quality, used in some markets",
           "FIBC / jumbo bags — bulk bags for larger-volume shipments, generally used where handling equipment supports bigger unit loads",
         ],
@@ -1303,14 +1303,14 @@ export const blogPosts: BlogPost[] = [
           caption: "Phytosanitary inspection covers the product, its packaging, and the transport vehicle before certification.",
         },
         body: [
-          "A phytosanitary certificate is a legally binding document attesting that a shipment of plants or plant products is free of regulated pests and meets the importing country's phytosanitary requirements. It's required for regulated articles including seeds, grain, and other plant products — inspection typically covers the product itself, its packaging, and the transport vehicle, with samples lab-tested when needed before the certificate is issued.",
-          "The underlying justification is a Pest Risk Analysis (PRA) — the technical process import countries use to identify seed-borne pests, contaminating arthropods, fungal structures, and even weed seeds mixed into a seed lot as genuine pest risks worth screening for at the border.",
+          "A [phytosanitary certificate](https://www.aphis.usda.gov/plant-exports/certification) is a legally binding document attesting that a shipment of plants or plant products is free of regulated pests and meets the importing country's phytosanitary requirements. It's required for regulated articles including seeds, grain, and other plant products — inspection typically covers the product itself, its packaging, and the transport vehicle, with samples lab-tested when needed before the certificate is issued.",
+          "The underlying justification is a [Pest Risk Analysis (PRA)](https://www.fao.org/4/y3241e/y3241e06.htm) — the technical process import countries use to identify seed-borne pests, contaminating arthropods, fungal structures, and even weed seeds mixed into a seed lot as genuine pest risks worth screening for at the border.",
         ],
       },
       {
         heading: "Who Issues Phytosanitary Certificates for Shipments From China?",
         body: [
-          "Phytosanitary certificates for Chinese exports are issued by port animal and plant quarantine offices under the General Administration of Customs China (GACC). China has notified the WTO of standard certificate templates, including a separate template for re-export shipments where relevant.",
+          "Phytosanitary certificates for Chinese exports are issued by port animal and plant quarantine offices under the General Administration of Customs China (GACC). China has [notified the WTO of standard certificate templates](https://www.fas.usda.gov/data/china-updated-phytosanitary-certificates-wto-notified), including a separate template for re-export shipments where relevant.",
         ],
       },
       {
@@ -1396,7 +1396,7 @@ export const blogPosts: BlogPost[] = [
           caption: "FOB price is set at the port of export — everything from that point onward is the buyer's responsibility.",
         },
         body: [
-          "FOB price represents the value of goods once loaded onto the vessel at the port of export — the seller bears all costs up to that loading point, and the buyer takes on shipping, insurance, and import costs from there. See our [Incoterms guide](/blog/incoterms-sunflower-seeds-fob-cif) for how FOB compares to CIF and other common terms.",
+          "[FOB price represents the value of goods](https://www.blue-alligator.com/2025/05/01/fob-cost-calculation-what-exporters-really-need-to-know/) once loaded onto the vessel at the port of export — the seller bears all costs up to that loading point, and the buyer takes on shipping, insurance, and import costs from there. See our [Incoterms guide](/blog/incoterms-sunflower-seeds-fob-cif) for how FOB compares to CIF and other common terms.",
         ],
       },
       {
@@ -1497,7 +1497,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Is MOQ Often Tied to Container Size?",
         body: [
-          "Once cargo fills roughly 60-70% or more of a container's capacity, shipping a Full Container Load (FCL) becomes more cost-efficient than Less than Container Load (LCL) shipping, which involves consolidation fees and shared handling. A 20ft container typically holds around 10 standard pallets of palletized cargo in a single tier, while a 40ft container holds roughly double that — so suppliers often set MOQ at or near a full container's worth of product to align with this natural cost break point. See our guide on [FCL vs. LCL container loading](/blog/container-loading-fcl-lcl-sunflower-seeds) for more detail on how this works.",
+          "Once cargo fills roughly 60-70% or more of a container's capacity, shipping a Full Container Load (FCL) becomes more cost-efficient than Less than Container Load (LCL) shipping, which involves consolidation fees and shared handling. A [20ft container typically holds around 10 standard pallets](https://ecu360.com/contentHub/blog/fcl-container-size-and-dimensions-a-complete-guide/) of palletized cargo in a single tier, while a 40ft container holds roughly double that — so suppliers often set MOQ at or near a full container's worth of product to align with this natural cost break point. See our guide on [FCL vs. LCL container loading](/blog/container-loading-fcl-lcl-sunflower-seeds) for more detail on how this works.",
         ],
       },
       {
@@ -1568,7 +1568,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         body: [
-          "Incoterms — the standardized trade terms published by the International Chamber of Commerce — define exactly where the seller's responsibility ends and the buyer's begins. For a first-time importer, getting this wrong can mean an unexpected cost or an insurance gap. Here's what the terms you'll see most often actually mean.",
+          "[Incoterms](https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/) — the standardized trade terms published by the International Chamber of Commerce — define exactly where the seller's responsibility ends and the buyer's begins. For a first-time importer, getting this wrong can mean an unexpected cost or an insurance gap. Here's what the terms you'll see most often actually mean.",
         ],
       },
       {
@@ -1612,7 +1612,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Does the ICC Recommend FCA and CIP for Container Shipments?",
         body: [
-          "FOB and CIF were originally designed for break-bulk cargo loaded directly onto a vessel, where the ship's rail was a meaningful transfer point for risk. Containerized cargo is typically handed over at a container yard well before it's loaded onto the vessel, which is part of why the ICC's own guidance recommends FCA (Free Carrier) and CIP (Carriage and Insurance Paid To) as the technically more precise terms for container shipments. In practice, FOB and CIF remain heavily used in bulk commodity trading by long-standing convention, so don't be surprised to see them quoted even for a containerized order — just confirm with your supplier and freight forwarder exactly where risk transfers under the specific term used.",
+          "FOB and CIF were originally designed for break-bulk cargo loaded directly onto a vessel, where the ship's rail was a meaningful transfer point for risk. Containerized cargo is typically handed over at a container yard well before it's loaded onto the vessel, which is part of why [the ICC's own guidance](https://www.trade.gov/know-your-incoterms) recommends FCA (Free Carrier) and CIP (Carriage and Insurance Paid To) as the technically more precise terms for container shipments. In practice, FOB and CIF remain heavily used in bulk commodity trading by long-standing convention, so don't be surprised to see them quoted even for a containerized order — just confirm with your supplier and freight forwarder exactly where risk transfers under the specific term used.",
         ],
       },
       {
@@ -1674,13 +1674,13 @@ export const blogPosts: BlogPost[] = [
           caption: "Dubai and Jebel Ali function as regional redistribution hubs for goods entering the wider Gulf market.",
         },
         body: [
-          "Dubai and Jebel Ali function as major redistribution hubs for the region — a substantial share of food imported into the UAE is re-exported onward to neighboring markets, which makes the UAE a strategic entry point rather than only an end destination. Trade data has shown meaningful year-over-year growth in UAE sunflower seed shipment volumes, reflecting this redistribution role.",
+          "Dubai and Jebel Ali function as [major redistribution hubs](https://grain.org/en/article/7170-from-land-to-logistics-uae-s-growing-power-in-the-global-food-system) for the region — a substantial share of food imported into the UAE is re-exported onward to neighboring markets, which makes the UAE a strategic entry point rather than only an end destination. Trade data has shown meaningful year-over-year growth in UAE sunflower seed shipment volumes, reflecting this redistribution role.",
         ],
       },
       {
         heading: "How Big Is the GCC Snack Food Market?",
         body: [
-          "The GCC snacks market has been valued in the high single-digit billions of dollars, with salted snacks — including nuts and seeds — as the dominant sub-segment, and continued growth projected through the rest of the decade. That growth trajectory is a meaningful part of why sunflower seed demand in the region has been trending upward.",
+          "[The GCC snacks market](https://www.marknteladvisors.com/research-library/gcc-snacks-market.html) has been valued in the high single-digit billions of dollars, with salted snacks — including nuts and seeds — as the dominant sub-segment, and continued growth projected through the rest of the decade. That growth trajectory is a meaningful part of why sunflower seed demand in the region has been trending upward.",
         ],
       },
       {
@@ -1760,7 +1760,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Southeast Asia's snack food market has shown consistent growth across multiple countries in the region.",
         },
         body: [
-          "Southeast Asia's snack food market has posted solid annual growth in recent years, with continued expansion projected. Platform-level trade data (reported by Alibaba.com based on its own seller activity) has pointed to rising buyer interest in sunflower kernels specifically — worth noting this reflects one platform's internal data rather than independent third-party market research, but it's a directionally consistent signal alongside the broader regional snack market growth.",
+          "[Southeast Asia's snack food market](https://www.statista.com/outlook/cmo/food/confectionery-snacks/snack-food/southeast-asia) has posted solid annual growth in recent years, with continued expansion projected. Platform-level trade data (reported by Alibaba.com based on its own seller activity) has pointed to rising buyer interest in sunflower kernels specifically — worth noting this reflects one platform's internal data rather than independent third-party market research, but it's a directionally consistent signal alongside the broader regional snack market growth.",
         ],
       },
       {
@@ -1840,13 +1840,13 @@ export const blogPosts: BlogPost[] = [
           caption: "Established US distributors and private-label manufacturers regularly source seeds and nuts from overseas suppliers.",
         },
         body: [
-          "SIGCO Sun Products, founded in 1958 and based in Breckenridge, Minnesota, has a long history in confection sunflower seed processing (now operating as part of SunOpta following a 2003 acquisition). Earth Ranch, based in Jackson, Wisconsin, is a clean-label snack manufacturer offering private-label and co-manufacturing services covering nuts, trail mix, and related bulk snack products. Companies like these illustrate a well-established North American model of blending overseas-sourced raw material with domestic repackaging and private-label manufacturing.",
+          "[SIGCO Sun Products](https://www.foodnavigator-usa.com/Article/2010/11/09/SunOpta-s-Dahlgren-acquisition-creates-huge-confection-sunflower-business/), founded in 1958 and based in Breckenridge, Minnesota, has a long history in confection sunflower seed processing (now operating as part of SunOpta following a 2003 acquisition). Earth Ranch, based in Jackson, Wisconsin, is a clean-label snack manufacturer offering private-label and co-manufacturing services covering nuts, trail mix, and related bulk snack products. Companies like these illustrate a well-established North American model of blending overseas-sourced raw material with domestic repackaging and private-label manufacturing.",
         ],
       },
       {
         heading: "How Big Is the Private-Label Opportunity in North America?",
         body: [
-          "US private-label sales have approached record levels in dollar terms in recent years, and private-label manufacturing lets brands and retailers launch snack products without owning a factory — a trend toward new formats (grab-and-go, portion control) and functional/health positioning has been shaping demand in this category.",
+          "[US private-label sales have approached record levels](https://www.just-food.com/comment/private-labels-growth-surge-and-the-us-brand-battle-ahead/) in dollar terms in recent years, and private-label manufacturing lets brands and retailers launch snack products without owning a factory — a trend toward new formats (grab-and-go, portion control) and functional/health positioning has been shaping demand in this category.",
         ],
       },
       {
@@ -1919,6 +1919,9 @@ export const blogPosts: BlogPost[] = [
           alt: "Confectionery sunflower seeds with characteristic striped shells",
           caption: "Confectionery-type seeds have a distinctive striped black-and-white shell, larger and thicker than oil-type seeds.",
         },
+        body: [
+          "According to the [Northern Crops Institute](https://www.northern-crops.com/crops-of-the-northern-region/2014/3/15/sunflowers) and the [USDA's Agricultural Marketing Resource Center](https://www.agmrc.org/commodities-products/grains-oilseeds/sunflower-profile), the two types differ across several dimensions:",
+        ],
         list: [
           "Shell appearance — confectionery seeds have a striped black-and-white shell; oil-type seeds have a smaller, solid black shell",
           "Size — confectionery seeds are larger and plumper; oil-type seeds are smaller",
@@ -1947,7 +1950,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Is a Sunflower \"Seed\" Actually a Botanical Seed?",
         body: [
-          "Not technically — what's commonly called a sunflower seed (in its shell) is botanically a cypsela, a type of dry, one-seeded fruit characteristic of the Asteraceae (daisy) plant family that sunflowers belong to. This is a minor point but worth knowing if you ever need to discuss classification with a customs official or lab using precise botanical terminology.",
+          "Not technically — what's commonly called a sunflower seed (in its shell) is [botanically a cypsela](https://en.wikipedia.org/wiki/Sunflower_seed), a type of dry, one-seeded fruit characteristic of the Asteraceae (daisy) plant family that sunflowers belong to. This is a minor point but worth knowing if you ever need to discuss classification with a customs official or lab using precise botanical terminology.",
         ],
       },
       {
@@ -2003,7 +2006,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Raw, unroasted seed generally holds up longer in storage than roasted product.",
         },
         body: [
-          "Counterintuitively, roasting shortens shelf life rather than extending it. Raw in-shell seed can last up to around two years in cool, dark, airtight storage, while raw hulled kernel keeps for roughly six months under good conditions. Roasted seed, by contrast, typically lasts only a few months at room temperature, because the roasting process alters the seed's structure in a way that exposes its natural oils to oxygen more readily, accelerating oxidative rancidity.",
+          "Counterintuitively, roasting shortens shelf life rather than extending it. Raw in-shell seed can last up to around two years in cool, dark, airtight storage, while raw hulled kernel keeps for roughly six months under good conditions. [Roasted seed, by contrast, typically lasts only a few months](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) at room temperature, because the roasting process alters the seed's structure in a way that exposes its natural oils to oxygen more readily, accelerating oxidative rancidity.",
         ],
       },
       {
@@ -2095,13 +2098,13 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Moisture Range Do Industry Sources Recommend?",
         body: [
-          "Published agronomic guidance generally recommends a range of roughly 7.5-9% moisture content to minimize mold and pest risk while preserving seed quality, with the higher end of that range (around 9-10%) considered acceptable for shorter-term storage and the lower end recommended for longer-term storage. These figures come from grain-storage and agronomic research sources rather than a single unified global regulatory standard, so exact thresholds can vary slightly by source and by how long the seed will be stored before use.",
+          "[Published agronomic guidance](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed) generally recommends a range of roughly 7.5-9% moisture content to minimize mold and pest risk while preserving seed quality, with the higher end of that range (around 9-10%) considered acceptable for shorter-term storage and the lower end recommended for longer-term storage. These figures come from grain-storage and agronomic research sources rather than a single unified global regulatory standard, so exact thresholds can vary slightly by source and by how long the seed will be stored before use.",
         ],
       },
       {
         heading: "What Does \"Purity\" Mean for a Sunflower Seed Shipment?",
         body: [
-          "Purity generally refers to the percentage of foreign material — soil, plant debris, other seed types — mixed into the shipment, alongside the percentage of damaged, broken, or undersized kernels. International grain trade contracts (such as those published by GAFTA, the Grain and Feed Trade Association) commonly specify maximum moisture and foreign-material thresholds as part of a standard contract, along with standardized testing methods used across the industry.",
+          "Purity generally refers to the percentage of foreign material — soil, plant debris, other seed types — mixed into the shipment, alongside the percentage of damaged, broken, or undersized kernels. International grain trade contracts (such as [those published by GAFTA](https://www.gafta.com/contracts/), the Grain and Feed Trade Association) commonly specify maximum moisture and foreign-material thresholds as part of a standard contract, along with standardized testing methods used across the industry.",
         ],
       },
       {
@@ -2191,7 +2194,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Is Aflatoxin Risk Typically Screened?",
         body: [
-          "Sunflower seed intended for food or feed use is generally expected to test negative for aflatoxin. A quick field screening method — checking for Bright Greenish Yellow Fluorescence (BGYF) under black light — is sometimes used as a first-pass triage tool, but it isn't definitive on its own: fluorescence can occur without actual toxin presence, and toxin can be present without fluorescence. Lab-grade testing is the reliable method for a genuine pass/fail determination.",
+          "Sunflower seed intended for food or feed use is generally expected to [test negative for aflatoxin](https://pmc.ncbi.nlm.nih.gov/articles/PMC9501980/). A quick field screening method — checking for Bright Greenish Yellow Fluorescence (BGYF) under black light — is sometimes used as a first-pass triage tool, but it isn't definitive on its own: fluorescence can occur without actual toxin presence, and toxin can be present without fluorescence. [Lab-grade testing](https://www.eurofinsus.com/food-testing/resources/ask-the-expert-mycotoxins-grain-grading/) is the reliable method for a genuine pass/fail determination.",
         ],
       },
       {
@@ -2271,7 +2274,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "At What Volume Does FCL Become More Cost-Effective Than LCL?",
         body: [
-          "As a general rule of thumb, LCL tends to be preferred for smaller shipments, while FCL becomes more economical once cargo reaches somewhere in the mid-teens of cubic meters (CBM) or more — at that point, combined LCL per-CBM rates plus CFS handling fees (consolidation, deconsolidation, documentation, terminal handling) can approach or exceed the cost of booking a full 20ft container outright. A practical utilization guideline: once cargo can fill roughly 60-70% or more of a container's volume, FCL usually delivers better value.",
+          "As a [general rule of thumb](https://www.icontainers.com/help/lcl-vs-fcl/), LCL tends to be preferred for smaller shipments, while FCL becomes more economical once cargo reaches somewhere in the mid-teens of cubic meters (CBM) or more — at that point, combined LCL per-CBM rates plus CFS handling fees (consolidation, deconsolidation, documentation, terminal handling) can approach or exceed the cost of booking a full 20ft container outright. A practical utilization guideline: once cargo can fill roughly 60-70% or more of a container's volume, FCL usually delivers better value.",
         ],
       },
       {
@@ -2359,7 +2362,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Packaging quality and storage temperature both play a large role in how long a batch stays fresh.",
         },
         body: [
-          "A shelf-stability study from the National Sunflower Association found that roasted sunflower kernels last more than 12 months in nitrogen-flushed pouches, but only about 8 weeks when exposed to air at elevated temperature (100°F / 38°C). Raw sunflower kernels last more than 12 months in packaging that limits moisture and oxygen exposure — the packaging barrier matters as much as the seed itself.",
+          "A [shelf-stability study from the National Sunflower Association](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) found that roasted sunflower kernels last more than 12 months in nitrogen-flushed pouches, but only about 8 weeks when exposed to air at elevated temperature (100°F / 38°C). Raw sunflower kernels last more than 12 months in packaging that limits moisture and oxygen exposure — the packaging barrier matters as much as the seed itself.",
         ],
       },
       {
@@ -2448,7 +2451,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Removing oxygen from the package is the core mechanism behind vacuum sealing's freshness benefits.",
         },
         body: [
-          "Vacuum sealing removes oxygen from the package, which suppresses both bacterial/mold growth and the oxidative rancidity that's the primary spoilage pathway for oil-rich seeds. The general principle in food preservation is that vacuum-sealed product can stay fresh dramatically longer than conventionally packaged product — though the exact multiplier varies by food type, so treat this as a general packaging principle rather than a seed-specific number.",
+          "[Vacuum sealing removes oxygen from the package](https://www.packaging-gateway.com/features/the-benefits-of-vacuum-packing-in-food-packaging/), which suppresses both bacterial/mold growth and the oxidative rancidity that's the primary spoilage pathway for oil-rich seeds. The general principle in food preservation is that vacuum-sealed product can stay fresh dramatically longer than conventionally packaged product — though the exact multiplier varies by food type, so treat this as a general packaging principle rather than a seed-specific number.",
         ],
       },
       {
@@ -2528,13 +2531,13 @@ export const blogPosts: BlogPost[] = [
           caption: "Non-GMO verification and pesticide-residue testing are two separate checks buyers may ask about.",
         },
         body: [
-          "Under frameworks like the Non-GMO Project Standard, testing for high-risk crops is conducted using DNA-based PCR (polymerase chain reaction) methods at labs accredited to the ISO/IEC 17025 standard — the internationally recognized accreditation for testing and calibration laboratories. It's worth being clear with buyers that non-GMO status alone doesn't address pesticide or fertilizer use — that's a separate question covered by residue testing, not the same certification.",
+          "Under frameworks like the [Non-GMO Project Standard](https://www.foodchainid.com/resources/gmo-testing-for-non-gmo-project-verification-explained/), testing for high-risk crops is conducted using DNA-based PCR (polymerase chain reaction) methods at labs accredited to the ISO/IEC 17025 standard — the internationally recognized accreditation for testing and calibration laboratories. It's worth being clear with buyers that non-GMO status alone doesn't address pesticide or fertilizer use — that's a separate question covered by residue testing, not the same certification.",
         ],
       },
       {
         heading: "What Is MRL (Maximum Residue Limit) Testing?",
         body: [
-          "MRL is the highest legally tolerated pesticide residue level permitted in food or feed in a given jurisdiction — and this is both a regulatory and a commercial issue, because a shipment that's fully compliant with one country's limits can be legally rejected in another market with stricter limits. Buyers in some regions request multi-residue screening covering hundreds of different pesticides as part of their own import compliance process.",
+          "MRL is the highest legally tolerated pesticide residue level permitted in food or feed in a given jurisdiction — and this is both a regulatory and a commercial issue, because a shipment that's fully compliant with [one country's limits can be legally rejected](https://food.ec.europa.eu/plants/pesticides/maximum-residue-levels/qas-pesticides_en) in another market with stricter limits. Buyers in some regions request multi-residue screening covering hundreds of different pesticides as part of their own import compliance process.",
         ],
       },
       {
@@ -2614,7 +2617,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Inner Mongolia's sunflowers are typically planted in June and harvested in September.",
         },
         body: [
-          "In Inner Mongolia specifically, sunflowers are typically planted in June and harvested in September. More broadly across China's growing regions, sowing spans February through May with harvest running July through October, depending on the specific region.",
+          "[In Inner Mongolia specifically](https://www.tridge.com/intelligences/sunflower-seed/CN/season), sunflowers are typically planted in June and harvested in September. More broadly across China's growing regions, sowing spans February through May with harvest running July through October, depending on the specific region.",
         ],
       },
       {
@@ -2626,7 +2629,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Where Does National Pricing Get Set?",
         body: [
-          "The Hongding Agricultural Trading Market in Wuyuan County, within Bayannur, functions as the national center for sunflower seed price formation in China, according to peer-reviewed agricultural research — meaning harvest-season trading activity there is a primary driver of the pricing signals that ripple out to the rest of the market.",
+          "The Hongding Agricultural Trading Market in Wuyuan County, within Bayannur, functions as [the national center for sunflower seed price formation in China](https://www.ocl-journal.org/articles/ocl/full_html/2022/01/ocl210062/ocl210062.html), according to peer-reviewed agricultural research — meaning harvest-season trading activity there is a primary driver of the pricing signals that ripple out to the rest of the market.",
         ],
       },
       {
@@ -2700,7 +2703,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Bayannur is officially described as China's largest base for edible sunflower production.",
         },
         body: [
-          "Bayannur is officially described, per China's State Council Information Office and Xinhua, as \"China's largest base for edible sunflower production.\" The city plants more than 4 million mu of sunflower annually — roughly half of China's total edible sunflower acreage — with 2024 production exceeding 940,000 tonnes.",
+          "Bayannur is officially described, per [China's State Council Information Office](http://english.scio.gov.cn/m/chinavoices/2026-01/16/content_118283090.html) and [Xinhua](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html), as \"China's largest base for edible sunflower production.\" The city plants more than 4 million mu of sunflower annually — roughly half of China's total edible sunflower acreage — with 2024 production exceeding 940,000 tonnes.",
         ],
       },
       {
@@ -2718,7 +2721,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does This History Translate to Export Performance Today?",
         body: [
-          "From January to November 2025, Bayannur exported nearly 395,000 tonnes of sunflower seed products — up more than 23% year-on-year — with export value rising roughly 22% to 4.55 billion yuan. Products reach more than 40 countries and regions, concentrated in the Middle East, Southeast Asia, and Europe. Sunflower exports represent 64% of the city's total agricultural export value, and the local processing industry cluster includes around 120 sunflower processing enterprises.",
+          "From [January to November 2025](http://en.people.cn/n3/2024/0208/c90000-20132728.html), Bayannur exported nearly 395,000 tonnes of sunflower seed products — up more than 23% year-on-year — with export value rising roughly 22% to 4.55 billion yuan. Products reach more than 40 countries and regions, concentrated in the Middle East, Southeast Asia, and Europe. Sunflower exports represent 64% of the city's total agricultural export value, and the local processing industry cluster includes around 120 sunflower processing enterprises.",
         ],
       },
       {
@@ -2786,7 +2789,7 @@ export const blogPosts: BlogPost[] = [
           caption: "China imports raw oil-crushing seed while exporting a growing volume of confectionery seed — two distinct trade flows.",
         },
         body: [
-          "Both, depending on the category — and this distinction matters. At the national level, China is actually a net importer of raw sunflower seed for crushing into oil, with imports from suppliers like Kazakhstan, Bulgaria, and Russia. But that's a separate trade flow from confectionery/in-shell sunflower seed — the category XingYi Trading exports — where China has been a growing exporter, not an importer.",
+          "Both, depending on the category — and this distinction matters. At the national level, [China is actually a net importer of raw sunflower seed](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Oilseeds+and+Products+Annual_Beijing_China+-+People%27s+Republic+of_CH2026-0032.pdf) for crushing into oil, with imports from suppliers like Kazakhstan, Bulgaria, and Russia. But that's a separate trade flow from confectionery/in-shell sunflower seed — the category XingYi Trading exports — where China has been a growing exporter, not an importer.",
         ],
       },
       {
@@ -2816,7 +2819,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Can a Buyer Verify These Trade Figures Independently?",
         body: [
-          "Beyond the regional and enterprise-level figures cited above, UN Comtrade and the World Bank's WITS platform allow direct queries of country-level export and import data under HS code 120600, letting a buyer pull current figures for a specific year and partner-country pairing rather than relying solely on secondary reporting.",
+          "Beyond the regional and enterprise-level figures cited above, [UN Comtrade and the World Bank's WITS platform](https://wits.worldbank.org/trade/comtrade/en/country/ALL/year/2022/tradeflow/Exports/partner/WLD/product/120600) allow direct queries of country-level export and import data under HS code 120600, letting a buyer pull current figures for a specific year and partner-country pairing rather than relying solely on secondary reporting. The [Observatory of Economic Complexity](https://oec.world/en/profile/bilateral-product/sunflower-seeds/reporter/chn) also publishes a browsable trade profile for China's sunflower seed trade specifically.",
         ],
       },
       {
