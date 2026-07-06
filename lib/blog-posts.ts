@@ -56,7 +56,7 @@ export const blogPosts: BlogPost[] = [
     category: "Recipes & Cooking",
     date: "2024-08-25",
     author: "James Feng",
-    image: "/images/product-seeds-closeup.jpg",
+    image: "/images/ai-salad-sunflower-seeds.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -176,7 +176,7 @@ export const blogPosts: BlogPost[] = [
     category: "Recipes & Cooking",
     date: "2024-08-15",
     author: "James Feng",
-    image: "/images/363-2-e1718611094176.jpg",
+    image: "/images/ai-pesto-sunflower-seed.jpg",
     relatedSeries: ["363-series", "tq6-series"],
     sections: [
       {
@@ -273,7 +273,7 @@ export const blogPosts: BlogPost[] = [
     category: "Beauty & Wellness",
     date: "2024-08-24",
     author: "James Feng",
-    image: "/images/361-1.jpg",
+    image: "/images/ai-cosmetic-oil-bottle.jpg",
     sections: [
       {
         body: [
@@ -371,7 +371,7 @@ export const blogPosts: BlogPost[] = [
     category: "Culture",
     date: "2024-08-23",
     author: "James Feng",
-    image: "/images/601-1.jpg",
+    image: "/images/ai-sunflower-field-thriving.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -556,7 +556,7 @@ export const blogPosts: BlogPost[] = [
     category: "Harvesting & Storage",
     date: "2024-08-20",
     author: "James Feng",
-    image: "/images/product-363-detail.jpg",
+    image: "/images/ai-sunflower-heads-hanging-dry.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -652,7 +652,7 @@ export const blogPosts: BlogPost[] = [
     category: "Health & Nutrition",
     date: "2024-08-13",
     author: "James Feng",
-    image: "/images/363.jpg",
+    image: "/images/ai-seeds-bowl-portion.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
