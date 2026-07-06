@@ -5,7 +5,7 @@ import { ArrowRight, CheckCircle, HeartPulse, Salad, Snowflake } from "lucide-re
 import { Button } from "@/components/ui/button"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
-import { blogPosts } from "@/lib/blog-posts"
+import { getPublishedBlogPosts } from "@/lib/blog-posts"
 import { SchemaProduct, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
 
 export const metadata = {
@@ -15,7 +15,7 @@ export const metadata = {
   alternates: { canonical: "/products/363-series" },
 }
 
-const relatedPosts = blogPosts.filter((p) => p.relatedSeries?.includes("363-series")).slice(0, 3)
+const relatedPosts = getPublishedBlogPosts().filter((p) => p.relatedSeries?.includes("363-series")).slice(0, 3)
 
 const series363Faqs = [
   {

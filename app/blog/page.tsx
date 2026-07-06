@@ -3,9 +3,13 @@ import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
-import { blogCategories, blogPosts } from "@/lib/blog-posts"
+import { blogCategories, getPublishedBlogPosts } from "@/lib/blog-posts"
 import { BlogGrid } from "@/components/blog/blog-grid"
 import { SchemaBreadcrumb, SchemaItemList } from "@/components/schema"
+
+// Publish dates are scheduled across Jul-Oct 2026 (see guazi/seo-plan/BLOG-CALENDAR-Q3-2026.md).
+// Dynamic rendering ensures future-dated posts appear automatically on their date.
+export const dynamic = "force-dynamic"
 
 export const metadata = {
   title: "Sunflower Seed Blog & Resources",
@@ -15,6 +19,7 @@ export const metadata = {
 }
 
 export default function BlogPage() {
+  const blogPosts = getPublishedBlogPosts()
   return (
     <>
       <SchemaBreadcrumb crumbs={[{ name: "Home", url: "/" }, { name: "Blog", url: "/blog" }]} />

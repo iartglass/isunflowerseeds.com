@@ -6,11 +6,15 @@ import { ArrowRight, ArrowLeft, Calendar, Clock, BookOpen, Mail, Phone, Tag, Che
 import { Button } from "@/components/ui/button"
 import { TableOfContents } from "@/components/blog/table-of-contents"
 import { RichText } from "@/components/blog/rich-text"
-import { blogPosts, getBlogPost, seriesInfo } from "@/lib/blog-posts"
+import { getBlogPost, getPublishedBlogPosts, seriesInfo } from "@/lib/blog-posts"
 import { SchemaBlogPosting, SchemaBreadcrumb } from "@/components/schema"
 
+// Publish dates are scheduled across Jul-Oct 2026 (see guazi/seo-plan/BLOG-CALENDAR-Q3-2026.md).
+// Dynamic rendering ensures a post's URL 404s until its scheduled date arrives.
+export const dynamic = "force-dynamic"
+
 export function generateStaticParams() {
-  return blogPosts.map((post) => ({ slug: post.slug }))
+  return getPublishedBlogPosts().map((post) => ({ slug: post.slug }))
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }) {
@@ -54,9 +58,11 @@ function initials(name: string) {
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const post = getBlogPost(params.slug)
-  if (!post) notFound()
+  if (!post || new Date(post.date) > new Date()) notFound()
 
-  const related = blogPosts.filter((p) => p.category === post.category && p.slug !== post.slug).slice(0, 3)
+  const related = getPublishedBlogPosts()
+    .filter((p) => p.category === post.category && p.slug !== post.slug)
+    .slice(0, 3)
   const readTime = estimateReadTime(post.sections)
   const headedSections = post.sections.filter(
     (s): s is typeof s & { heading: string } => Boolean(s.heading),
@@ -306,9 +312,9 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                     </Link>
                   </Button>
                   <div className="mt-5 pt-5 border-t border-white/20 space-y-2 text-sm">
-                    <a href="mailto:james@zenbeadsgarden.com" className="flex items-center gap-2 text-white/90 hover:text-white">
+                    <a href="mailto:james@isunflowerseeds.com" className="flex items-center gap-2 text-white/90 hover:text-white">
                       <Mail className="h-4 w-4" />
-                      james@zenbeadsgarden.com
+                      james@isunflowerseeds.com
                     </a>
                     <a href="https://wa.me/8618653369950" className="flex items-center gap-2 text-white/90 hover:text-white">
                       <Phone className="h-4 w-4" />

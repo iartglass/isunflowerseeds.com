@@ -2776,3 +2776,14 @@ export const blogPosts: BlogPost[] = [
 export function getBlogPost(slug: string): BlogPost | undefined {
   return blogPosts.find((post) => post.slug === slug)
 }
+
+// Posts are scheduled by their `date` field — this filters out anything dated
+// in the future so the Q3 2026 calendar (Wed/Thu publish cadence, spread
+// across July-October) goes live automatically as each date arrives, without
+// needing a separate deploy per post. Pages using this must render dynamically
+// (export const dynamic = "force-dynamic") so the comparison re-evaluates on
+// each request rather than freezing at build time.
+export function getPublishedBlogPosts(): BlogPost[] {
+  const now = new Date()
+  return blogPosts.filter((post) => new Date(post.date) <= now)
+}

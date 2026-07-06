@@ -1,9 +1,14 @@
 import type { MetadataRoute } from "next"
-import { blogPosts } from "@/lib/blog-posts"
+import { getPublishedBlogPosts } from "@/lib/blog-posts"
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://isunflowerseeds.com"
 
+// Dynamic rendering ensures future-dated posts (Q3 2026 calendar) drop out of
+// the sitemap until their scheduled date arrives.
+export const dynamic = "force-dynamic"
+
 export default function sitemap(): MetadataRoute.Sitemap {
+  const blogPosts = getPublishedBlogPosts()
   const now = new Date()
 
   const staticRoutes: MetadataRoute.Sitemap = [

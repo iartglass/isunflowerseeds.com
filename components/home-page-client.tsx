@@ -23,9 +23,9 @@ import { StaggerIn } from "@/components/animations/stagger-in"
 import { HoverCard } from "@/components/animations/hover-card"
 import { CountUp } from "@/components/animations/count-up"
 import { ScrollProgress } from "@/components/animations/scroll-progress"
-import { blogPosts } from "@/lib/blog-posts"
+import { getPublishedBlogPosts } from "@/lib/blog-posts"
 
-const latestPosts = blogPosts.slice(0, 3)
+const latestPosts = getPublishedBlogPosts().slice(0, 3)
 
 const homeProducts = [
   {
