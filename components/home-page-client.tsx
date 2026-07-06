@@ -100,16 +100,18 @@ export default function HomePageClient() {
 
       {/* Hero Section with Static Background Image */}
       <section className="relative w-full overflow-hidden h-[600px] md:h-[700px] lg:h-[800px]">
-        {/* Background Image */}
+        {/* Background Image — plain <img> with a manual srcset instead of
+            next/image: images.unoptimized is set (see next.config.mjs), so
+            next/image can't generate responsive variants and was serving
+            the same 2000px desktop file to mobile visitors too. */}
         <div className="absolute inset-0">
-          <Image
+          <img
             src="/images/ai-sunflower-field-closeup-hero.jpg"
-            alt="Close-up of a blooming sunflower field, the crop behind XingYi Trading's sunflower seeds"
-            fill
-            priority
-            className="object-cover"
+            srcSet="/images/ai-sunflower-field-closeup-hero-mobile.jpg 800w, /images/ai-sunflower-field-closeup-hero.jpg 2000w"
             sizes="100vw"
-            quality={90}
+            alt="Close-up of a blooming sunflower field, the crop behind XingYi Trading's sunflower seeds"
+            fetchPriority="high"
+            className="absolute inset-0 h-full w-full object-cover"
           />
         </div>
 

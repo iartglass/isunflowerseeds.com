@@ -13,17 +13,21 @@ import { SchemaOrganization, SchemaWebSite } from "@/components/schema"
 
 import "@/app/globals.css"
 
-// Initialize the fonts with display swap for better performance
+// Initialize the fonts with display swap for better performance.
+// Only 400/500/600/700 are actually used anywhere in the codebase (checked
+// via grep for font-normal/medium/semibold/bold classes) — 300 and 800 were
+// being preloaded on every page load for nothing, competing with the hero
+// image for bandwidth on mobile.
 const montserrat = Montserrat({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700", "800"],
+  weight: ["400", "500", "600", "700"],
   variable: "--font-montserrat",
   display: "swap",
 })
 
 const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700", "800"],
+  weight: ["400", "500", "600", "700"],
   variable: "--font-poppins",
   display: "swap",
 })
