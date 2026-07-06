@@ -152,13 +152,17 @@ export default function ContactPage() {
       <section className="py-10 bg-white dark:bg-gray-900">
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
-            <div className="bg-gray-300 dark:bg-gray-700 h-[400px] rounded-2xl overflow-hidden relative">
-              {/* This would be replaced with an actual map embed in production */}
-              <div className="absolute inset-0 flex items-center justify-center">
-                <p className="text-gray-600 dark:text-gray-300 text-lg font-medium">
-                  Map: Linhe District, Bayannur City, Inner Mongolia
-                </p>
-              </div>
+            <div className="h-[400px] rounded-2xl overflow-hidden relative">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2537.9386013303397!2d107.42952755530932!3d40.84696760748314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-CN!2sus!4v1783344195887!5m2!1szh-CN!2sus"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="strict-origin-when-cross-origin"
+                title="XingYi Trading facility location, Linhe District, Bayannur City, Inner Mongolia"
+              />
             </div>
           </div>
         </div>
