@@ -7,7 +7,8 @@ import { Button } from "@/components/ui/button"
 import { TableOfContents } from "@/components/blog/table-of-contents"
 import { RichText } from "@/components/blog/rich-text"
 import { getBlogPost, getPublishedBlogPosts, seriesInfo } from "@/lib/blog-posts"
-import { SchemaBlogPosting, SchemaBreadcrumb } from "@/components/schema"
+import type { BlogSection } from "@/lib/blog-posts"
+import { SchemaBlogPosting, SchemaBreadcrumb, SchemaFAQ } from "@/components/schema"
 
 // Publish dates are scheduled across Jul-Oct 2026 (see guazi/seo-plan/BLOG-CALENDAR-Q3-2026.md).
 // Dynamic rendering ensures a post's URL 404s until its scheduled date arrives.
@@ -21,8 +22,11 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const post = getBlogPost(params.slug)
   if (!post) return {}
   return {
-    title: post.title,
-    description: post.excerpt,
+    // `absolute` skips the root layout's "%s | XingYi Trading" template —
+    // these titles are already tuned to fit Google's ~60-char SERP limit on
+    // their own, so appending the brand suffix would push them over again.
+    title: { absolute: post.seoTitle ?? post.title },
+    description: post.seoDescription ?? post.excerpt,
     alternates: { canonical: `/blog/${post.slug}` },
   }
 }
@@ -56,6 +60,22 @@ function initials(name: string) {
     .slice(0, 2)
 }
 
+function stripLinks(text: string) {
+  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+}
+
+// FAQPage schema for sections genuinely phrased as a question with a direct
+// answer — CTA headings ("Ready to Start Sourcing...") don't end in "?" with
+// a matching body most of the time, so this naturally excludes them.
+function getFaqItems(sections: BlogSection[]) {
+  return sections
+    .filter(
+      (s): s is BlogSection & { heading: string; body: string[] } =>
+        Boolean(s.heading?.trim().endsWith("?") && s.body && s.body.length > 0),
+    )
+    .map((s) => ({ q: s.heading, a: stripLinks(s.body.join(" ")) }))
+}
+
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const post = getBlogPost(params.slug)
   if (!post || new Date(post.date) > new Date()) notFound()
@@ -68,6 +88,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     (s): s is typeof s & { heading: string } => Boolean(s.heading),
   )
   const tocItems = headedSections.map((s) => ({ id: slugify(s.heading), label: s.heading }))
+  const faqItems = getFaqItems(post.sections)
 
   return (
     <>
@@ -87,6 +108,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           { name: post.title, url: `/blog/${post.slug}` },
         ]}
       />
+      {faqItems.length > 0 && <SchemaFAQ items={faqItems} />}
     <div className="flex min-h-screen flex-col">
       {/* Hero Image with overlaid title/meta */}
       <section className="relative h-[420px] sm:h-[480px] w-full overflow-hidden">
