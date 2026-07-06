@@ -44,7 +44,7 @@ export function SchemaOrganization() {
         telephone: "+86-18653369950",
         contactType: "sales",
         availableLanguage: ["English", "Chinese"],
-        email: "james@zenbeadsgarden.com",
+        email: "james@isunflowerseeds.com",
         areaServed: "Worldwide",
       },
     ],

@@ -824,6 +824,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "How Long Does the Import Process Typically Take, Start to Finish?",
+        image: {
+          src: "/images/process-00-cleaning-screen.jpg",
+          alt: "Sunflower seed cleaning and screening equipment inside the production facility",
+          caption: "Production lead time is one of several stages that add up between order confirmation and arrival.",
+        },
         body: [
           "Timelines vary by order size and destination, but a rough sequence for a first order is: supplier vetting and sample review (days to a few weeks, buyer-paced), production lead time once an order is confirmed, ocean freight transit time (which varies significantly by origin port and destination), and customs clearance at the destination (typically a matter of days once documentation is complete and accurate). Building in buffer time for a first order — rather than assuming the fastest-case timeline — avoids unnecessary pressure if a document needs correcting or a vessel schedule shifts.",
         ],
@@ -958,6 +963,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Do Import Requirements Differ by Destination Country?",
+        image: {
+          src: "/images/global-export-map.jpg",
+          alt: "Map showing XingYi Trading's export destinations across North America, the Middle East, and Southeast Asia",
+          caption: "Documentation requirements shift by destination market, even for the same product and HS code.",
+        },
         body: [
           "Yes — significantly. A document set and classification that clears customs in one market won't necessarily match another country's exact requirements, so this article should be read as a general framework, not a substitute for confirming your specific destination market's current rules with a customs broker or compliance specialist before your first shipment.",
         ],
@@ -1046,6 +1056,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Does Series Choice Affect Raw vs. Roasted Availability?",
+        image: {
+          src: "/images/product-363-detail.jpg",
+          alt: "Close-up of graded sunflower seed kernels from the 363 Series",
+          caption: "Raw and roasted availability is a separate decision from series selection.",
+        },
         body: [
           "All three series can generally be supplied raw or roasted — the series decision (volume, premium, or large-kernel) and the raw/roasted decision are separate choices you can make independently based on your product needs. See our [raw vs. roasted comparison](/blog/raw-vs-roasted-sunflower-seeds) for how that choice affects shelf life and processing control.",
         ],
@@ -1173,6 +1188,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Should You Visit a Supplier's Facility Before Committing to a Large Order?",
+        image: {
+          src: "/images/process-06-color-sorting.jpg",
+          alt: "Color sorting equipment on the sunflower seed production line",
+          caption: "A facility visit or video walkthrough lets a buyer see the production line firsthand.",
+        },
         body: [
           "For a first-time buyer planning a significant volume commitment, an in-person facility visit — or, if travel isn't practical, a live video walkthrough — adds a level of verification that photos and documents alone can't provide. It's not always necessary for a smaller trial order, but it's worth considering before scaling to a full container relationship, particularly if you haven't worked with the supplier before.",
         ],
@@ -1240,6 +1260,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "What Are FIBC or Jumbo Bags, and When Do They Make Sense?",
+        image: {
+          src: "/images/ai-fibc-jumbo-bags-warehouse.jpg",
+          alt: "Stacked FIBC jumbo bags of sunflower seeds on pallets at a warehouse loading dock",
+          caption: "FIBC bags suit larger unit loads where handling equipment supports them.",
+        },
         body: [
           "FIBC (flexible intermediate bulk container) bags, sometimes called jumbo bags, are a bulk packaging format generally used where handling equipment supports larger unit loads than a standard 25kg or 50kg sack. They can make loading and unloading more efficient for very large shipments, though exact specifications and suitability vary by supplier and by the destination market's own handling infrastructure — confirm with your supplier whether this format fits your specific order and receiving setup.",
         ],
@@ -1348,6 +1373,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Is There a Different Process for Re-Export Shipments?",
+        image: {
+          src: "/images/ai-export-documents-desk-stamp.jpg",
+          alt: "Export shipping documents and an ink stamp on an office desk",
+          caption: "Re-export shipments use a separate certificate template from goods grown and processed directly in China.",
+        },
         body: [
           "Yes — China has notified the WTO of a separate phytosanitary certificate template specifically for re-export shipments, distinct from the standard certificate used for goods grown and processed directly in China. If your shipment involves any re-export component, confirm with your supplier and freight forwarder which template applies, since using the wrong one can cause delays at the destination.",
         ],
@@ -1443,6 +1473,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Why Do Sunflower Seed Prices Vary Between Suppliers?",
+        image: {
+          src: "/images/product-seeds-closeup.jpg",
+          alt: "Close-up of graded sunflower seed kernels",
+          caption: "Grade, packaging, and inspection overhead all factor into why quotes differ between suppliers.",
+        },
         body: [
           "Two suppliers quoting the same grade can land on different FOB prices for legitimate reasons — different packaging formats, different inspection/certification overhead, different production scale and efficiency, or simply different timing relative to harvest season. A lower quote isn't automatically a better deal if it comes with less documentation, weaker quality control, or a less reliable production timeline.",
         ],
@@ -1523,6 +1558,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "What Other Factors Influence MOQ?",
+        image: {
+          src: "/images/process-05-hole-machine.jpg",
+          alt: "Sizing and grading equipment on the sunflower seed production line",
+          caption: "Production batch-size economics on the line itself is one of several factors that shape MOQ.",
+        },
         list: [
           "Container size chosen — 20ft vs. 40ft",
           "Packaging format — bulk bags vs. smaller retail-ready units, which affects how efficiently a container can be packed",
@@ -1638,6 +1678,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Which Incoterm Is Most Common for Bulk Sunflower Seed Orders?",
+        image: {
+          src: "/images/global-export-map.jpg",
+          alt: "Map showing XingYi Trading's export destinations across North America, the Middle East, and Southeast Asia",
+          caption: "FOB and CIF remain the most commonly quoted terms across these export routes.",
+        },
         body: [
           "FOB and CIF are both widely used in bulk agricultural commodity trading by long-standing convention, even though for containerized shipments the ICC technically recommends the newer FCA and CIP terms instead. In practice, expect to see FOB and CIF quoted most often — confirm with your supplier which term a given price reflects before comparing quotes.",
         ],
@@ -1724,6 +1769,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "What Should a Trader Confirm Before Sourcing for This Market?",
+        image: {
+          src: "/images/ai-processing-facility-aerial.jpg",
+          alt: "Aerial view of a sunflower seed processing facility with storage silos",
+          caption: "Confirming supply-side documentation and capacity matters as much as confirming demand-side requirements.",
+        },
         body: [
           "Destination-market food import requirements vary even within the region, so confirm phytosanitary and labeling requirements for your specific target country rather than assuming UAE requirements apply uniformly across the Gulf. See our [documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin) for the certificates involved in any of these shipments.",
         ],
@@ -1798,6 +1848,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Is Southeast Asia Better Suited to Kernel or In-Shell Product?",
+        image: {
+          src: "/images/process-09-secondary-screening.jpg",
+          alt: "Secondary screening equipment separating sunflower seed kernels by size",
+          caption: "Screening and grading equipment separates kernel and in-shell product to each destination's spec.",
+        },
         body: [
           "Both formats have a place, and the right choice depends on your specific product line rather than a single regional preference — confectionery/kernel demand has been reported as meaningful across Thailand, Vietnam, and South Korea specifically, but that doesn't rule out in-shell demand in other channels or countries within the region. Confirm with your own distribution partners which format their end customers expect before committing to a packaging line.",
         ],
@@ -1890,6 +1945,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Which Series Suits Private-Label Snack Manufacturing?",
+        image: {
+          src: "/images/process-07-gravity-separator.jpg",
+          alt: "Gravity separator equipment used in sunflower seed grading",
+          caption: "Grading equipment on the production line determines the consistency private-label manufacturers depend on.",
+        },
         body: [
           "[363 Series](/products/363-series) is our premium raw grade, positioned well for branded or health-focused private-label lines, while [361 Series](/products/361-series) suits higher-volume, value-focused product lines. See our [full series comparison](/blog/361-vs-363-vs-tongqing-no6-comparison) for more detail.",
         ],
@@ -1958,6 +2018,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "What Sub-Classes Exist Within Confectionery Sunflower Seed?",
+        image: {
+          src: "/images/process-08-secondary-stone-removal.jpg",
+          alt: "Secondary stone removal equipment on the sunflower seed processing line",
+          caption: "In-shell and kernel grades are separated and cleaned on the same processing line before packing.",
+        },
         body: [
           "Confectionery sunflower is generally sorted into in-shell (roasted or salted for direct snacking, larger/jumbo grades), kernel (dehulled, medium size), and smaller grades used for other purposes. Our [361, 363, and Tongqing No.6](/products) series fall within this confectionery category, differentiated mainly by kernel size and positioning rather than by oil content.",
         ],
@@ -2050,6 +2115,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Is There a Flavor or Quality Difference Buyers Should Know About?",
+        image: {
+          src: "/images/ai-seeds-bowl-portion.jpg",
+          alt: "A portioned bowl of sunflower seed kernels",
+          caption: "Roasting develops flavor through Maillard browning that raw seed doesn't have.",
+        },
         body: [
           "Roasting develops flavor through Maillard browning reactions that raw seed simply doesn't have, which is part of why roasted product commands a premium in some retail snacking markets. That flavor development is a genuine tradeoff against the shelf-life cost — neither form is objectively \"better,\" the right choice depends entirely on what your product needs.",
         ],
@@ -2154,6 +2224,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "How Is Moisture Content Actually Tested?",
+        image: {
+          src: "/images/process-10-secondary-color-sorting.jpg",
+          alt: "Secondary color sorting equipment on the sunflower seed production line",
+          caption: "Moisture testing happens alongside screening and sorting as the batch moves through the inspection line.",
+        },
         body: [
           "Moisture is tested as a routine part of raw material inspection before a batch proceeds through screening and grading — see our [Capabilities section](/about#capabilities) for how this fits into our own 16-stage inspection line.",
         ],
@@ -2226,6 +2301,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "How Do Inspectors Sample a Shipment for Damage Assessment?",
+        image: {
+          src: "/images/process-04-stone-removal.jpg",
+          alt: "Stone removal equipment on the sunflower seed processing line",
+          caption: "A representative work sample is drawn after mechanical cleaning stages like this one, then scored for damage.",
+        },
         body: [
           "Rather than inspecting an entire shipment kernel by kernel, standard grain inspection practice involves cutting a representative portion from a work sample after mechanical cleaning, then scoring damage percentage from that portion. This standardized sampling approach is what allows damage-percentage figures to be compared consistently across different shipments and inspectors.",
         ],
@@ -2300,6 +2380,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "How Much Does a Standard Container Hold?",
+        image: {
+          src: "/images/global-export-map.jpg",
+          alt: "Map showing XingYi Trading's export destinations across North America, the Middle East, and Southeast Asia",
+          caption: "Container capacity is one of the first numbers to check against your target volume and destination.",
+        },
         list: [
           "20ft container — roughly 28 CBM maximum, about 10 standard pallets in a single tier",
           "40ft container — roughly 58 CBM maximum, about 20-21 standard pallets",
@@ -2421,6 +2506,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "What Storage Conditions Should a Buyer Maintain After Arrival?",
+        image: {
+          src: "/images/warehouse-storage.jpg",
+          alt: "Warehouse storage of bulk packaged sunflower seeds",
+          caption: "Cool, dark, dry storage away from temperature swings preserves shelf life after arrival.",
+        },
         body: [
           "Cool, dark, dry storage away from temperature swings extends shelf life regardless of form — direct sunlight and heat both accelerate the oxidative processes that cause rancidity. If your warehouse doesn't offer climate control, prioritizing faster inventory turnover for whatever stock you're holding becomes more important than it would be in a temperature-stable facility.",
         ],
@@ -2477,6 +2567,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "What Are Standard PP Woven Bags?",
+        image: {
+          src: "/images/process-12-automated-packaging.jpg",
+          alt: "Automated packaging line filling standard export bags of sunflower seeds",
+          caption: "Standard PP woven bags are filled and sealed on an automated line for most bulk shipments.",
+        },
         body: [
           "PP (polypropylene) woven bags are the standard bulk agricultural export format — durable and cost-effective, but not inherently moisture- or vapor-proof on their own. Foil-lined or laminated PP woven bags add a plastic film or foil lining inside the woven bag to create a genuine moisture and odor barrier that plain woven PP lacks, commonly used for grains and food commodities that need extra protection from humidity.",
         ],
@@ -2599,6 +2694,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Who Is Responsible for MRL Compliance in an Export Shipment?",
+        image: {
+          src: "/images/quality-inspection-founder.jpg",
+          alt: "Quality inspection during sunflower seed processing",
+          caption: "Documentation demonstrating residue-control steps is part of a supplier's own quality control process.",
+        },
         body: [
           "Responsibility for MRL compliance generally rests contractually with the exporter, and HACCP-based documentation demonstrating residue-control steps is commonly requested by buyers as part of their own due diligence. Confirm current testing practices and available documentation directly with your supplier when discussing an order — we're glad to share what's available for a specific shipment when you request a quote.",
         ],
@@ -2673,6 +2773,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Does Harvest Timing Affect Product Quality, Not Just Price?",
+        image: {
+          src: "/images/product-363-detail.jpg",
+          alt: "Close-up of graded sunflower seed kernels from the 363 Series",
+          caption: "Properly dried and processed seed shouldn't differ in quality regardless of when in the season it was harvested.",
+        },
         body: [
           "Freshly harvested seed that's properly dried and processed shouldn't differ in underlying quality from seed processed later in the season, provided storage conditions are maintained correctly throughout — see our [moisture content and purity standards guide](/blog/sunflower-seed-moisture-content-purity-standards) for what determines storage quality over time regardless of when in the season a batch was processed.",
         ],
@@ -2747,6 +2852,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "How Large Is the Local Processing Industry?",
+        image: {
+          src: "/images/process-03-primary-screening.jpg",
+          alt: "Primary screening equipment on a sunflower seed processing line in Bayannur",
+          caption: "The Bayannur area hosts around 120 sunflower processing enterprises alongside farming operations.",
+        },
         body: [
           "Around 120 sunflower processing enterprises operate in the Bayannur area, reflecting decades of specialized infrastructure built around this single crop rather than a single company's isolated operation. To put individual enterprise scale in perspective, one regionally reported example (via USDA's Foreign Agricultural Service) exports roughly 60,000 tonnes of sunflower seed per year valued at more than 600 million yuan — illustrating the kind of production capacity that exists within this cluster, distinct from XingYi Trading's own specific output.",
         ],
@@ -2827,6 +2937,11 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "Where Does China's Raw Seed Import Volume Come From?",
+        image: {
+          src: "/images/ai-cargo-ship-departing-port.jpg",
+          alt: "A container cargo ship departing a busy Chinese port at dusk",
+          caption: "Confectionery exports and raw oil-crushing imports move through the same ports but are two distinct trade flows.",
+        },
         body: [
           "China's raw sunflower seed imports for crushing come primarily from Kazakhstan, Bulgaria, and Russia, and that import volume has actually been trending downward in recent reporting periods rather than growing. This is a separate, smaller trade flow from the confectionery export trend covered above — the two move somewhat independently of each other, since they serve different end markets (oil crushing versus direct human snacking).",
         ],

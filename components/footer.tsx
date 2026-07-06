@@ -134,8 +134,8 @@ export function Footer() {
               </li>
               <li className="flex items-start justify-center sm:justify-start">
                 <Mail className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <a href="mailto:james@zenbeadsgarden.com" className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors">
-                  james@zenbeadsgarden.com
+                <a href="mailto:james@isunflowerseeds.com" className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors">
+                  james@isunflowerseeds.com
                 </a>
               </li>
             </ul>
