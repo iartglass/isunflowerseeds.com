@@ -111,8 +111,8 @@ export default function Series363Page() {
             </div>
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/images/product-363-detail.jpg"
-                alt="363 Series raw material inspection"
+                src="/images/packaging-worker.jpg"
+                alt="363 Series premium raw sunflower seeds being packed for retail and branded orders"
                 fill
                 className="object-cover"
               />

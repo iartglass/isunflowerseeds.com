@@ -71,8 +71,8 @@ export default function SeriesTQ6Page() {
       <section className="relative h-[400px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="/images/product-seeds-closeup.jpg"
-          alt="Tongqing No.6 (TQ6) sunflower seeds ready for packaging"
+          src="/images/process-06-color-sorting.jpg"
+          alt="Tongqing No.6 (TQ6) sunflower seeds on the color-sorting line"
           fill
           className="object-cover"
           priority
@@ -115,8 +115,8 @@ export default function SeriesTQ6Page() {
             </div>
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/images/process-06-color-sorting.jpg"
-                alt="TQ6 color sorting process"
+                src="/images/601-1.jpg"
+                alt="Tongqing No.6 (TQ6) sunflower seeds close-up"
                 fill
                 className="object-cover"
               />

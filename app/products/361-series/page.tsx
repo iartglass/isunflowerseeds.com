@@ -116,8 +116,8 @@ export default function Series361Page() {
             </div>
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/images/product-361-detail.jpg"
-                alt="361 Series processing line"
+                src="/images/product-grading-caliper.jpg"
+                alt="361 Series kernel size being measured with a caliper for grading consistency"
                 fill
                 className="object-cover"
               />
