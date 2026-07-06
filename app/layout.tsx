@@ -1,8 +1,11 @@
 import type React from "react"
 import type { Metadata, Viewport } from "next"
+import Script from "next/script"
 import ClientLayout from "./client-layout"
 
 import "./globals.css"
+
+const GA_MEASUREMENT_ID = "G-9XBEHKKL2R"
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://isunflowerseeds.com"
 
@@ -54,5 +57,21 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
-  return <ClientLayout>{children}</ClientLayout>
+  return (
+    <>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+        strategy="afterInteractive"
+      />
+      <Script id="ga4-init" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${GA_MEASUREMENT_ID}');
+        `}
+      </Script>
+      <ClientLayout>{children}</ClientLayout>
+    </>
+  )
 }
