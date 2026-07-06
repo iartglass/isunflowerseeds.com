@@ -4,10 +4,13 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    // Custom Node server (server.js) supports Next.js image optimization —
-    // sharp is already installed. Unoptimized mode was serving several
-    // multi-hundred-KB originals straight to mobile, hurting LCP.
-    formats: ["image/avif", "image/webp"],
+    // Temporarily disabled: on-demand sharp resizing under concurrent load
+    // was exceeding the host's memory limit and crash-looping the Node
+    // process (visible as repeated "Ready on 0.0.0.0:3000" restarts in
+    // runtime logs), which caused images to intermittently fail to load.
+    // Re-enable once hosting has more memory headroom or images are
+    // pre-optimized at build time instead of resized on request.
+    unoptimized: true,
   },
   // 301 redirects from the old isunflowerseeds.com WordPress/WooCommerce site.
   // Source of truth: ../seo-plan/URL-REDIRECT-MAP.md — update that doc first,
