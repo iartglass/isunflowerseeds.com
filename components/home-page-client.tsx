@@ -103,8 +103,8 @@ export default function HomePageClient() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/facility-exterior-1.jpg"
-            alt="XingYi Trading sunflower seed processing facility in Bayannur, Inner Mongolia"
+            src="/images/ai-sunflower-field-closeup-hero.jpg"
+            alt="Close-up of a blooming sunflower field, the crop behind XingYi Trading's sunflower seeds"
             fill
             priority
             className="object-cover"
