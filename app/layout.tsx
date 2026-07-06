@@ -41,6 +41,12 @@ export const metadata: Metadata = {
     title: "XingYi Trading | Wholesale Sunflower Seeds Supplier",
     description: "Wholesale sunflower seeds processed and exported from Bayannur, Inner Mongolia.",
   },
+  verification: {
+    google: "aHeXH-iGgnP-eS4XUkYNLLZpzQTPt_8YfxBwdAQekKY",
+    other: {
+      "msvalidate.01": "69914C47CAF94B18226B523472B72B89",
+    },
+  },
 }
 
 export default function RootLayout({
