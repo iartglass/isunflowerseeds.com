@@ -1,9 +1,9 @@
 import Image from "next/image"
-import { Mail, MapPin, Phone, ArrowRight, MessageSquare, ClipboardCheck, Truck } from "lucide-react"
+import { Mail, MapPin, Phone, MessageSquare, ClipboardCheck, Truck } from "lucide-react"
 
-import { Button } from "@/components/ui/button"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SchemaWebPage, SchemaBreadcrumb, SchemaFAQ } from "@/components/schema"
+import { ContactForm } from "@/components/contact-form"
 
 export const metadata = {
   title: "Contact Us — Request a Sunflower Seed Quote",
@@ -82,8 +82,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg">Email Address</h3>
-                    <a href="mailto:james@zenbeadsgarden.com" className="text-gray-700 hover:text-amber-600">
-                      james@zenbeadsgarden.com
+                    <a href="mailto:james@isunflowerseeds.com" className="text-gray-700 hover:text-amber-600">
+                      james@isunflowerseeds.com
                     </a>
                   </div>
                 </div>
@@ -95,102 +95,7 @@ export default function ContactPage() {
                 <p className="text-gray-700 dark:text-gray-300 mb-6">
                   Tell us about your order and we'll follow up with pricing and specifications.
                 </p>
-                <form className="bg-gray-50 dark:bg-gray-800 p-10 rounded-2xl shadow-sm">
-                  <div className="grid md:grid-cols-2 gap-6 mb-6">
-                    <div>
-                      <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
-                        Your Name
-                      </label>
-                      <input
-                        type="text"
-                        id="name"
-                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                        placeholder="John Doe"
-                      />
-                    </div>
-                    <div>
-                      <label htmlFor="company" className="block text-sm font-medium text-gray-700 mb-2">
-                        Company Name
-                      </label>
-                      <input
-                        type="text"
-                        id="company"
-                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                        placeholder="Your Company Ltd."
-                      />
-                    </div>
-                  </div>
-                  <div className="grid md:grid-cols-2 gap-6 mb-6">
-                    <div>
-                      <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
-                        Email Address
-                      </label>
-                      <input
-                        type="email"
-                        id="email"
-                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                        placeholder="john@example.com"
-                      />
-                    </div>
-                    <div>
-                      <label htmlFor="country" className="block text-sm font-medium text-gray-700 mb-2">
-                        Country
-                      </label>
-                      <input
-                        type="text"
-                        id="country"
-                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                        placeholder="Destination country"
-                      />
-                    </div>
-                  </div>
-                  <div className="grid md:grid-cols-2 gap-6 mb-6">
-                    <div>
-                      <label htmlFor="product" className="block text-sm font-medium text-gray-700 mb-2">
-                        Product / Series
-                      </label>
-                      <select
-                        id="product"
-                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                        defaultValue=""
-                      >
-                        <option value="" disabled>
-                          Select a series
-                        </option>
-                        <option value="361">361 Series</option>
-                        <option value="363">363 Series</option>
-                        <option value="tq6">Tongqing No.6 (TQ6)</option>
-                        <option value="not-sure">Not sure yet</option>
-                      </select>
-                    </div>
-                    <div>
-                      <label htmlFor="quantity" className="block text-sm font-medium text-gray-700 mb-2">
-                        Order Quantity
-                      </label>
-                      <input
-                        type="text"
-                        id="quantity"
-                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                        placeholder="e.g. 20 tons"
-                      />
-                    </div>
-                  </div>
-                  <div className="mb-6">
-                    <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
-                      Your Message
-                    </label>
-                    <textarea
-                      id="message"
-                      rows={4}
-                      className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"
-                      placeholder="Tell us about your sourcing needs..."
-                    ></textarea>
-                  </div>
-                  <Button className="w-full bg-amber-500 hover:bg-amber-600 text-black font-medium py-3">
-                    Send Message
-                    <ArrowRight className="ml-2 h-4 w-4" />
-                  </Button>
-                </form>
+                <ContactForm />
               </div>
             </div>
           </div>
