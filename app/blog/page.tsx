@@ -42,8 +42,8 @@ export default function BlogPage() {
       <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="/images/warehouse-storage.jpg"
-          alt="Rows of packed sunflower seed bags stored in XingYi Trading's warehouse"
+          src="/images/ai-blog-hero-seeds-flatlay.jpg"
+          alt="A bowl of sunflower seeds, seed butter toast, and scattered petals on a rustic table"
           fill
           className="object-cover"
           priority
