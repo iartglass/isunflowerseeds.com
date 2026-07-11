@@ -4292,7 +4292,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-11-19",
     author: "James Feng",
-    image: "/images/ai-export-documents-desk-stamp.jpg",
+    image: "/images/ai-contract-signing-desk.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4502,7 +4502,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-12-02",
     author: "James Feng",
-    image: "/images/ai-cargo-port-containers.jpg",
+    image: "/images/ai-cny-quiet-container-yard.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4597,7 +4597,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-12-03",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/ai-customs-duty-calculator-desk.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4608,8 +4608,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What's the Current State of US-China Tariffs as of Late 2026?",
         image: {
-          src: "/images/ai-export-documents-desk-stamp.jpg",
-          alt: "Export shipping documents and an ink stamp on an office desk",
+          src: "/images/ai-customs-duty-calculator-desk.jpg",
+          alt: "A customs broker's desk with a calculator and shipping documents",
           caption: "Tariff agreements between the US and China are subject to renewal and change — confirm current status before finalizing a cost estimate.",
         },
         body: [
