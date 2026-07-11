@@ -5,6 +5,7 @@ import { ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { blogCategories, getPublishedBlogPosts } from "@/lib/blog-posts"
 import { BlogGrid } from "@/components/blog/blog-grid"
+import { FeaturedPost } from "@/components/blog/featured-post"
 import { SchemaBreadcrumb, SchemaItemList } from "@/components/schema"
 
 // Publish dates are scheduled across Jul-Oct 2026 (see guazi/seo-plan/BLOG-CALENDAR-Q3-2026.md).
@@ -19,7 +20,10 @@ export const metadata = {
 }
 
 export default function BlogPage() {
+  // getPublishedBlogPosts() returns newest-first, so the first post is
+  // always the correct "latest" spotlight — no separate sort needed here.
   const blogPosts = getPublishedBlogPosts()
+  const [featuredPost, ...remainingPosts] = blogPosts
   return (
     <>
       <SchemaBreadcrumb crumbs={[{ name: "Home", url: "/" }, { name: "Blog", url: "/blog" }]} />
@@ -56,7 +60,11 @@ export default function BlogPage() {
       {/* Blog Grid */}
       <section className="py-12 md:py-20 bg-white dark:bg-gray-900">
         <div className="container mx-auto px-4">
-          <BlogGrid posts={blogPosts} categories={blogCategories} />
+          {featuredPost && <FeaturedPost post={featuredPost} />}
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 md:mb-14 text-gray-900 dark:text-white">
+            All Articles
+          </h2>
+          <BlogGrid posts={remainingPosts} categories={blogCategories} />
         </div>
       </section>
 

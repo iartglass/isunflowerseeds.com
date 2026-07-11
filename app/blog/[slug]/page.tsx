@@ -6,7 +6,7 @@ import { ArrowRight, ArrowLeft, Calendar, Clock, BookOpen, Mail, Phone, Tag, Che
 import { Button } from "@/components/ui/button"
 import { TableOfContents } from "@/components/blog/table-of-contents"
 import { RichText } from "@/components/blog/rich-text"
-import { getBlogPost, getPublishedBlogPosts, seriesInfo } from "@/lib/blog-posts"
+import { getBlogPost, getPublishedBlogPosts, estimateReadTime, seriesInfo } from "@/lib/blog-posts"
 import type { BlogSection } from "@/lib/blog-posts"
 import { SchemaBlogPosting, SchemaBreadcrumb, SchemaFAQ } from "@/components/schema"
 
@@ -40,15 +40,6 @@ function slugify(text: string) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "")
-}
-
-function estimateReadTime(sections: { body?: string[]; list?: string[] }[]) {
-  const words = sections.reduce((total, section) => {
-    const bodyWords = section.body?.join(" ").split(/\s+/).length ?? 0
-    const listWords = section.list?.join(" ").split(/\s+/).length ?? 0
-    return total + bodyWords + listWords
-  }, 0)
-  return Math.max(1, Math.round(words / 200))
 }
 
 function initials(name: string) {

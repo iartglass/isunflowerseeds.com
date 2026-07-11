@@ -4901,7 +4901,22 @@ export function getBlogPost(slug: string): BlogPost | undefined {
 // needing a separate deploy per post. Pages using this must render dynamically
 // (export const dynamic = "force-dynamic") so the comparison re-evaluates on
 // each request rather than freezing at build time.
+//
+// Sorted newest-first so every consumer (blog listing, "Latest from Blog" on
+// Home, related-posts lists) shows the most recent post first without each
+// call site having to re-sort.
 export function getPublishedBlogPosts(): BlogPost[] {
   const now = new Date()
-  return blogPosts.filter((post) => new Date(post.date) <= now)
+  return blogPosts
+    .filter((post) => new Date(post.date) <= now)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+}
+
+export function estimateReadTime(sections: { body?: string[]; list?: string[] }[]) {
+  const words = sections.reduce((total, section) => {
+    const bodyWords = section.body?.join(" ").split(/\s+/).length ?? 0
+    const listWords = section.list?.join(" ").split(/\s+/).length ?? 0
+    return total + bodyWords + listWords
+  }, 0)
+  return Math.max(1, Math.round(words / 200))
 }
