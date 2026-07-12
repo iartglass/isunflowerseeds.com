@@ -663,7 +663,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Nutrients in Sunflower Seeds Support the Immune System?",
         image: {
-          src: "/images/product-hero-circle.png",
+          src: "/images/product-hero-circle.webp",
           alt: "Raw sunflower seed kernels in a bowl, ready for packing",
           caption: "Raw sunflower seed kernels retain their nutrient profile before roasting.",
         },

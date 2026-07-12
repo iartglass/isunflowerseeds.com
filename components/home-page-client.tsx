@@ -187,7 +187,7 @@ export default function HomePageClient() {
                 <div className="relative w-[340px] h-[340px] xl:w-[400px] xl:h-[400px]">
                   <div className="absolute inset-0 rounded-full ring-4 ring-white/30 shadow-2xl" />
                   <Image
-                    src="/images/product-hero-circle.png"
+                    src="/images/product-hero-circle.webp"
                     alt="Close-up of XingYi Trading's confectionery sunflower seeds"
                     fill
                     className="object-contain rounded-full"
