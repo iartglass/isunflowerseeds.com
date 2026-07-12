@@ -3597,7 +3597,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-10-22",
     author: "James Feng",
-    image: "/images/quality-inspection-founder.jpg",
+    image: "/images/ai-certification-binder-facility.jpg",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
