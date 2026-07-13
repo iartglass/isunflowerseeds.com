@@ -56,7 +56,7 @@ export default function SeriesTQ6Page() {
         name="Tongqing No.6 (TQ6) Sunflower Seeds"
         description="Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a large-kernel variety, organically grown and non-GMO."
         url="/products/tq6-series"
-        image="/images/product-seeds-closeup.jpg"
+        image="/images/product-seeds-closeup.webp"
       />
       <SchemaFAQ items={tq6Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
       <SchemaBreadcrumb

@@ -57,7 +57,7 @@ export default function Series361Page() {
         name="361 Series Sunflower Seeds"
         description="361 Series sunflower seeds for bulk buyers — plump, aromatic kernels for snacking, baking, and garnishing."
         url="/products/361-series"
-        image="/images/product-361-detail.jpg"
+        image="/images/product-361-detail.webp"
       />
       <SchemaFAQ items={series361Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
       <SchemaBreadcrumb

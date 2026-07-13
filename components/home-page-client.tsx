@@ -32,21 +32,21 @@ const homeProducts = [
     title: "361 Series Sunflower Seeds",
     description:
       "Packed with nutrients and perfect for snacking, baking, or garnishing — a versatile, high-quality kernel.",
-    image: "/images/product-361-detail.jpg",
+    image: "/images/product-361-detail.webp",
     link: "/products/361-series",
   },
   {
     title: "363 Series Premium Raw",
     description:
       "Organic, non-GMO sunflower seeds rich in protein, healthy fats, and minerals — perfect for snacking, cooking, and baking.",
-    image: "/images/product-363-detail.jpg",
+    image: "/images/product-363-detail.webp",
     link: "/products/363-series",
   },
   {
     title: "Tongqing No.6 (TQ6) Series",
     description:
       "A large-kernel cultivar sourced from Inner Mongolia, offering a rich source of protein, healthy fats, and essential minerals.",
-    image: "/images/product-seeds-closeup.jpg",
+    image: "/images/product-seeds-closeup.webp",
     link: "/products/tq6-series",
   },
 ]
@@ -106,8 +106,8 @@ export default function HomePageClient() {
             the same 2000px desktop file to mobile visitors too. */}
         <div className="absolute inset-0">
           <img
-            src="/images/ai-sunflower-field-closeup-hero.jpg"
-            srcSet="/images/ai-sunflower-field-closeup-hero-mobile.jpg 800w, /images/ai-sunflower-field-closeup-hero.jpg 2000w"
+            src="/images/ai-sunflower-field-closeup-hero.webp"
+            srcSet="/images/ai-sunflower-field-closeup-hero-mobile.webp 800w, /images/ai-sunflower-field-closeup-hero.webp 2000w"
             sizes="100vw"
             alt="Close-up of a blooming sunflower field, the crop behind XingYi Trading's sunflower seeds"
             fetchPriority="high"

@@ -35,7 +35,7 @@ export default function ProductsPage() {
       <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="/images/product-seeds-closeup.jpg"
+          src="/images/product-seeds-closeup.webp"
           alt="Premium sunflower seeds from XingYi Trading"
           fill
           className="object-cover"
@@ -299,7 +299,7 @@ const products = [
     title: "Tongqing No.6 (TQ6) Series",
     description:
       "A large-kernel cultivar sourced from Inner Mongolia, offering a rich source of protein, healthy fats, and essential minerals.",
-    image: "/images/product-seeds-closeup.jpg",
+    image: "/images/product-seeds-closeup.webp",
     link: "/products/tq6-series",
   },
 ]

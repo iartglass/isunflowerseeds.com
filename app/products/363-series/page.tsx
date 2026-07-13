@@ -52,7 +52,7 @@ export default function Series363Page() {
         name="363 Series Premium Raw Sunflower Seeds"
         description="363 Series premium raw sunflower seeds for bulk buyers — organic, non-GMO, rich in protein and healthy fats."
         url="/products/363-series"
-        image="/images/product-363-detail.jpg"
+        image="/images/product-363-detail.webp"
       />
       <SchemaFAQ items={series363Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
       <SchemaBreadcrumb

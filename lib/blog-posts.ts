@@ -67,7 +67,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Are Eight Ways to Cook With Sunflower Seeds?",
         image: {
-          src: "/images/product-361-detail.jpg",
+          src: "/images/product-361-detail.webp",
           alt: "Sunflower seed kernels arranged for recipe preparation",
           caption: "Kernels ready for grinding, roasting, or blending into a recipe.",
         },
@@ -1063,7 +1063,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Does Series Choice Affect Raw vs. Roasted Availability?",
         image: {
-          src: "/images/product-363-detail.jpg",
+          src: "/images/product-363-detail.webp",
           alt: "Close-up of graded sunflower seed kernels from the 363 Series",
           caption: "Raw and roasted availability is a separate decision from series selection.",
         },
@@ -1480,7 +1480,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Do Sunflower Seed Prices Vary Between Suppliers?",
         image: {
-          src: "/images/product-seeds-closeup.jpg",
+          src: "/images/product-seeds-closeup.webp",
           alt: "Close-up of graded sunflower seed kernels",
           caption: "Grade, packaging, and inspection overhead all factor into why quotes differ between suppliers.",
         },
@@ -2780,7 +2780,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Does Harvest Timing Affect Product Quality, Not Just Price?",
         image: {
-          src: "/images/product-363-detail.jpg",
+          src: "/images/product-363-detail.webp",
           alt: "Close-up of graded sunflower seed kernels from the 363 Series",
           caption: "Properly dried and processed seed shouldn't differ in quality regardless of when in the season it was harvested.",
         },
@@ -3310,7 +3310,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Counts as Food Fraud in a Sunflower Seed Shipment?",
         image: {
-          src: "/images/product-363-detail.jpg",
+          src: "/images/product-363-detail.webp",
           alt: "Close-up of graded sunflower seed kernels from the 363 Series",
           caption: "Mislabeling the series, grade, or growing origin of a shipment are the most relevant fraud risks for this commodity.",
         },
@@ -4008,7 +4008,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Are the Core Nutrition Facts for Sunflower Seed Kernels?",
         image: {
-          src: "/images/product-363-detail.jpg",
+          src: "/images/product-363-detail.webp",
           alt: "Close-up of graded sunflower seed kernels from the 363 Series",
           caption: "Per 100g of dried sunflower seed kernels, per USDA FoodData Central.",
         },
@@ -4701,7 +4701,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-12-09",
     author: "James Feng",
-    image: "/images/product-seeds-closeup.jpg",
+    image: "/images/product-seeds-closeup.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
