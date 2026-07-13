@@ -71,7 +71,7 @@ export default function SeriesTQ6Page() {
       <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="/images/process-06-color-sorting.jpg"
+          src="/images/process-06-color-sorting.webp"
           alt="Tongqing No.6 (TQ6) sunflower seeds on the color-sorting line"
           fill
           className="object-cover"

@@ -452,7 +452,7 @@ export const blogPosts: BlogPost[] = [
     category: "Harvesting & Storage",
     date: "2024-08-22",
     author: "James Feng",
-    image: "/images/process-02-storage-silos.jpg",
+    image: "/images/process-02-storage-silos.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -825,7 +825,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Long Does the Import Process Typically Take, Start to Finish?",
         image: {
-          src: "/images/process-00-cleaning-screen.jpg",
+          src: "/images/process-00-cleaning-screen.webp",
           alt: "Sunflower seed cleaning and screening equipment inside the production facility",
           caption: "Production lead time is one of several stages that add up between order confirmation and arrival.",
         },
@@ -1195,7 +1195,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Should You Visit a Supplier's Facility Before Committing to a Large Order?",
         image: {
-          src: "/images/process-06-color-sorting.jpg",
+          src: "/images/process-06-color-sorting.webp",
           alt: "Color sorting equipment on the sunflower seed production line",
           caption: "A facility visit or video walkthrough lets a buyer see the production line firsthand.",
         },
@@ -1234,7 +1234,7 @@ export const blogPosts: BlogPost[] = [
     category: "Logistics & Packaging",
     date: "2026-07-22",
     author: "James Feng",
-    image: "/images/process-12-automated-packaging.jpg",
+    image: "/images/process-12-automated-packaging.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1245,7 +1245,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Are the Standard Bulk Packaging Formats for Sunflower Seeds?",
         image: {
-          src: "/images/process-12-automated-packaging.jpg",
+          src: "/images/process-12-automated-packaging.webp",
           alt: "Automated packaging line filling bags of sunflower seeds",
           caption: "Bulk sunflower seeds are most commonly packed in PP woven bags at the 25kg or 50kg mark.",
         },
@@ -1565,7 +1565,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Other Factors Influence MOQ?",
         image: {
-          src: "/images/process-05-hole-machine.jpg",
+          src: "/images/process-05-hole-machine.webp",
           alt: "Sizing and grading equipment on the sunflower seed production line",
           caption: "Production batch-size economics on the line itself is one of several factors that shape MOQ.",
         },
@@ -1855,7 +1855,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Is Southeast Asia Better Suited to Kernel or In-Shell Product?",
         image: {
-          src: "/images/process-09-secondary-screening.jpg",
+          src: "/images/process-09-secondary-screening.webp",
           alt: "Secondary screening equipment separating sunflower seed kernels by size",
           caption: "Screening and grading equipment separates kernel and in-shell product to each destination's spec.",
         },
@@ -1952,7 +1952,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Which Series Suits Private-Label Snack Manufacturing?",
         image: {
-          src: "/images/process-07-gravity-separator.jpg",
+          src: "/images/process-07-gravity-separator.webp",
           alt: "Gravity separator equipment used in sunflower seed grading",
           caption: "Grading equipment on the production line determines the consistency private-label manufacturers depend on.",
         },
@@ -2025,7 +2025,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Sub-Classes Exist Within Confectionery Sunflower Seed?",
         image: {
-          src: "/images/process-08-secondary-stone-removal.jpg",
+          src: "/images/process-08-secondary-stone-removal.webp",
           alt: "Secondary stone removal equipment on the sunflower seed processing line",
           caption: "In-shell and kernel grades are separated and cleaned on the same processing line before packing.",
         },
@@ -2173,7 +2173,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-08-26",
     author: "James Feng",
-    image: "/images/process-01-raw-material-inspection.jpg",
+    image: "/images/process-01-raw-material-inspection.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2184,7 +2184,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Does Moisture Content Matter So Much for Sunflower Seed Storage?",
         image: {
-          src: "/images/process-01-raw-material-inspection.jpg",
+          src: "/images/process-01-raw-material-inspection.webp",
           alt: "Raw material inspection checking sunflower seed quality",
           caption: "Moisture testing is one of the first checks in the inspection line, since it determines safe storage duration.",
         },
@@ -2231,7 +2231,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Is Moisture Content Actually Tested?",
         image: {
-          src: "/images/process-10-secondary-color-sorting.jpg",
+          src: "/images/process-10-secondary-color-sorting.webp",
           alt: "Secondary color sorting equipment on the sunflower seed production line",
           caption: "Moisture testing happens alongside screening and sorting as the batch moves through the inspection line.",
         },
@@ -2264,7 +2264,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-08-27",
     author: "James Feng",
-    image: "/images/process-11-xray-inspection.jpg",
+    image: "/images/process-11-xray-inspection.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2275,7 +2275,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Quality Defects Do Inspectors Typically Check For?",
         image: {
-          src: "/images/process-11-xray-inspection.jpg",
+          src: "/images/process-11-xray-inspection.webp",
           alt: "X-ray inspection detecting defects in sunflower seeds",
           caption: "X-ray inspection catches internal defects that a visual check alone would miss.",
         },
@@ -2308,7 +2308,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Do Inspectors Sample a Shipment for Damage Assessment?",
         image: {
-          src: "/images/process-04-stone-removal.jpg",
+          src: "/images/process-04-stone-removal.webp",
           alt: "Stone removal equipment on the sunflower seed processing line",
           caption: "A representative work sample is drawn after mechanical cleaning stages like this one, then scored for damage.",
         },
@@ -2458,7 +2458,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-09-03",
     author: "James Feng",
-    image: "/images/process-02-storage-silos.jpg",
+    image: "/images/process-02-storage-silos.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2469,7 +2469,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Long Do Sunflower Seeds Last Under Proper Storage?",
         image: {
-          src: "/images/process-02-storage-silos.jpg",
+          src: "/images/process-02-storage-silos.webp",
           alt: "Storage silos for sunflower seed inventory",
           caption: "Packaging quality and storage temperature both play a large role in how long a batch stays fresh.",
         },
@@ -2574,7 +2574,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Are Standard PP Woven Bags?",
         image: {
-          src: "/images/process-12-automated-packaging.jpg",
+          src: "/images/process-12-automated-packaging.webp",
           alt: "Automated packaging line filling standard export bags of sunflower seeds",
           caption: "Standard PP woven bags are filled and sealed on an automated line for most bulk shipments.",
         },
@@ -2859,7 +2859,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Large Is the Local Processing Industry?",
         image: {
-          src: "/images/process-03-primary-screening.jpg",
+          src: "/images/process-03-primary-screening.webp",
           alt: "Primary screening equipment on a sunflower seed processing line in Bayannur",
           caption: "The Bayannur area hosts around 120 sunflower processing enterprises alongside farming operations.",
         },
@@ -3506,7 +3506,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should a Supplier Self-Audit Cover?",
         image: {
-          src: "/images/process-06-color-sorting.jpg",
+          src: "/images/process-06-color-sorting.webp",
           alt: "Color sorting equipment on the sunflower seed production line",
           caption: "Confirming production capacity and equipment against what a supplier claims is part of a thorough self-audit.",
         },
@@ -3906,7 +3906,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Does \"Private-Label\" Actually Mean in Practice?",
         image: {
-          src: "/images/process-12-automated-packaging.jpg",
+          src: "/images/process-12-automated-packaging.webp",
           alt: "Automated packaging line filling bags of sunflower seeds",
           caption: "Private-label production runs the same processing and packaging line, with your branding on the finished bag.",
         },
@@ -4401,7 +4401,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Happens First When Raw Seed Arrives?",
         image: {
-          src: "/images/process-01-raw-material-inspection.jpg",
+          src: "/images/process-01-raw-material-inspection.webp",
           alt: "Raw material inspection checking sunflower seed quality",
           caption: "Every batch starts with raw material inspection before it enters the processing line.",
         },
@@ -4412,7 +4412,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Do the Cleaning and Screening Stages Remove?",
         image: {
-          src: "/images/process-00-cleaning-screen.jpg",
+          src: "/images/process-00-cleaning-screen.webp",
           alt: "Sunflower seed cleaning and screening equipment",
           caption: "Cleaning and screening remove undersized, misshapen, and foreign material before finer sorting begins.",
         },
@@ -4423,7 +4423,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Does Color Sorting Actually Detect?",
         image: {
-          src: "/images/process-06-color-sorting.jpg",
+          src: "/images/process-06-color-sorting.webp",
           alt: "Color sorting equipment on the sunflower seed production line",
           caption: "Optical color sorters remove discolored kernels that can indicate mold or age.",
         },
@@ -4434,7 +4434,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Happens at the X-Ray Inspection Stage?",
         image: {
-          src: "/images/process-11-xray-inspection.jpg",
+          src: "/images/process-11-xray-inspection.webp",
           alt: "X-ray inspection detecting defects in sunflower seeds",
           caption: "X-ray inspection catches internal defects and foreign objects that visual and color sorting can't detect.",
         },
@@ -4445,7 +4445,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does the Seed Get Packed After Inspection?",
         image: {
-          src: "/images/process-12-automated-packaging.jpg",
+          src: "/images/process-12-automated-packaging.webp",
           alt: "Automated packaging line filling bags of sunflower seeds",
           caption: "Inspected, graded seed is packed into export bags on an automated line.",
         },
@@ -4712,7 +4712,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Happens Immediately After You Approve a Sample?",
         image: {
-          src: "/images/process-01-raw-material-inspection.jpg",
+          src: "/images/process-01-raw-material-inspection.webp",
           alt: "Raw material inspection checking sunflower seed quality",
           caption: "Sample approval confirms the specification the full production batch will be held against.",
         },
@@ -4814,7 +4814,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What's the First Thing to Confirm for a Q1 Order?",
         image: {
-          src: "/images/process-02-storage-silos.jpg",
+          src: "/images/process-02-storage-silos.webp",
           alt: "Storage silos for sunflower seed inventory",
           caption: "Confirming current inventory and production availability is the starting point for Q1 order planning.",
         },

@@ -55,22 +55,22 @@ const homeProcessSteps = [
   {
     title: "Raw Material Inspection",
     description: "Comprehensive sampling and analysis on all incoming raw materials.",
-    image: "/images/process-01-raw-material-inspection.jpg",
+    image: "/images/process-01-raw-material-inspection.webp",
   },
   {
     title: "Stone Removal",
     description: "Elimination of stones, soil, metal, and glass.",
-    image: "/images/process-04-stone-removal.jpg",
+    image: "/images/process-04-stone-removal.webp",
   },
   {
     title: "Color Sorting",
     description: "Optical separation of discolored and defective kernels.",
-    image: "/images/process-06-color-sorting.jpg",
+    image: "/images/process-06-color-sorting.webp",
   },
   {
     title: "X-Ray Inspection",
     description: "Advanced X-ray detects and removes any remaining foreign objects.",
-    image: "/images/process-11-xray-inspection.jpg",
+    image: "/images/process-11-xray-inspection.webp",
   },
 ]
 
