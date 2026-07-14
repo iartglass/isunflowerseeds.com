@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { getPublishedBlogPosts } from "@/lib/blog-posts"
-import { SchemaProduct, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
+import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
 
 export const metadata = {
   title: "363 Series Premium Raw Sunflower Seeds",
@@ -48,11 +48,10 @@ const series363Faqs = [
 export default function Series363Page() {
   return (
     <>
-      <SchemaProduct
+      <SchemaWebPage
         name="363 Series Premium Raw Sunflower Seeds"
         description="363 Series premium raw sunflower seeds for bulk buyers — organic, non-GMO, rich in protein and healthy fats."
         url="/products/363-series"
-        image="/images/product-363-detail.webp"
       />
       <SchemaFAQ items={series363Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
       <SchemaBreadcrumb

@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { getPublishedBlogPosts } from "@/lib/blog-posts"
-import { SchemaProduct, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
+import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
 
 export const metadata = {
   title: "Tongqing No.6 (TQ6) Sunflower Seeds — Large Kernel",
@@ -52,11 +52,10 @@ const tq6Faqs = [
 export default function SeriesTQ6Page() {
   return (
     <>
-      <SchemaProduct
+      <SchemaWebPage
         name="Tongqing No.6 (TQ6) Sunflower Seeds"
         description="Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a large-kernel variety, organically grown and non-GMO."
         url="/products/tq6-series"
-        image="/images/product-seeds-closeup.webp"
       />
       <SchemaFAQ items={tq6Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
       <SchemaBreadcrumb

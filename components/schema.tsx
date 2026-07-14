@@ -1,5 +1,5 @@
 // JSON-LD structured data components for SEO
-// Usage: <SchemaOrganization />, <SchemaProduct .../>, etc. — each renders a <script type="application/ld+json"> tag
+// Usage: <SchemaOrganization />, <SchemaWebPage .../>, etc. — each renders a <script type="application/ld+json"> tag
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://isunflowerseeds.com"
 const COMPANY_NAME = "XingYi Trading"
@@ -90,75 +90,6 @@ export function SchemaOrganization() {
         },
       ],
     },
-  }
-
-  return (
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-    />
-  )
-}
-
-// ── Product (individual series pages) ─────────────────────────────────────
-export function SchemaProduct({
-  name,
-  description,
-  url = "",
-  image,
-}: {
-  name: string
-  description: string
-  url?: string
-  image: string
-}) {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "@id": `${BASE_URL}${url}#product`,
-    name,
-    description,
-    url: `${BASE_URL}${url}`,
-    image: image.startsWith("http") ? image : `${BASE_URL}${image}`,
-    brand: {
-      "@type": "Brand",
-      name: COMPANY_NAME,
-      url: BASE_URL,
-    },
-    manufacturer: orgRef,
-    category: "Sunflower Seeds / Agricultural Export",
-    countryOfOrigin: { "@type": "Country", name: "China" },
-    offers: {
-      "@type": "Offer",
-      "@id": `${BASE_URL}${url}#offer`,
-      seller: orgRef,
-      priceSpecification: {
-        "@type": "PriceSpecification",
-        priceCurrency: "USD",
-        description: "Contact for current pricing and specification sheet.",
-      },
-      availability: "https://schema.org/InStock",
-      itemCondition: "https://schema.org/NewCondition",
-      shippingDetails: {
-        "@type": "OfferShippingDetails",
-        shippingRate: {
-          "@type": "MonetaryAmount",
-          value: "0",
-          currency: "USD",
-          description: "Shipping cost provided on quote.",
-        },
-        shippingDestination: {
-          "@type": "DefinedRegion",
-          name: "Worldwide",
-          addressCountry: "CN",
-        },
-      },
-    },
-    additionalProperty: [
-      { "@type": "PropertyValue", name: "Quality Control", value: "16-stage inspection and grading line" },
-      { "@type": "PropertyValue", name: "Country of Manufacture", value: "China" },
-      { "@type": "PropertyValue", name: "Packaging", value: "Standard export bags (25kg/50kg), private-label available" },
-    ],
   }
 
   return (
