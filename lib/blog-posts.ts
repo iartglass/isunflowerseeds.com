@@ -624,7 +624,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Does Commercial Harvest Method Choice Matter for Quality?",
         body: [
-          "At export scale, harvest method is a quality-control decision as much as an efficiency one. NDSU's Sunflower Production Guide — the standard reference for commercial sunflower production in North America's largest growing region — covers header adjustment and combine settings in detail, because incorrect settings are one of the most common causes of kernel cracking and foreign material contamination at harvest. Combine harvesting done well minimizes both, which is part of why it's the standard for any operation supplying a food-grade or export market rather than a small home garden.",
+          "At export scale, harvest method is a quality-control decision as much as an efficiency one. [NDSU's Sunflower Production Guide](https://www.ndsu.edu/agriculture/extension/publications/sunflower-production-guide) — the standard reference for commercial sunflower production in North America's largest growing region — covers header adjustment and combine settings in detail, because incorrect settings are one of the most common causes of kernel cracking and foreign material contamination at harvest. Combine harvesting done well minimizes both, which is part of why it's the standard for any operation supplying a food-grade or export market rather than a small home garden.",
         ],
       },
       {
@@ -1051,7 +1051,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Will the Grade and Size Stay Consistent Across Harvest Seasons?",
         body: [
-          "Every batch — regardless of harvest season — passes through the same 16-stage inspection and grading line, including size grading and color sorting, before it's approved for packing. If your product depends on a specific size band staying consistent across repeat orders, tell us in your quote request so it can be built into the agreement.",
+          "Every batch — regardless of harvest season — passes through the same 16-stage inspection and grading line, including size grading and color sorting, before it's approved for packing. This kind of documented, repeatable grading process is the same underlying principle behind [GFSI-benchmarked quality schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) like BRCGS — consistency has to be built into the process itself, not checked for after the fact. If your product depends on a specific size band staying consistent across repeat orders, tell us in your quote request so it can be built into the agreement.",
         ],
       },
       {
@@ -1098,7 +1098,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Do the Three Series Differ in Nutritional Profile?",
         body: [
-          "The core nutritional profile — vitamin E, magnesium, phosphorus, and other minerals — is broadly consistent across all three series, since they're all confectionery-type sunflower rather than nutritionally distinct crops. See our [full nutrition breakdown](/blog/sunflower-seed-nutrition-benefits) if nutritional positioning is part of your product's marketing angle; the differentiation between series is really about kernel size and market positioning, not nutrition.",
+          "The core nutritional profile — [vitamin E, magnesium, and selenium](https://fdc.nal.usda.gov/) content per USDA's nutrient database — is broadly consistent across all three series, since they're all confectionery-type sunflower rather than nutritionally distinct crops. See our [full nutrition breakdown](/blog/sunflower-seed-nutrition-benefits) if nutritional positioning is part of your product's marketing angle; the differentiation between series is really about kernel size and market positioning, not nutrition.",
         ],
       },
       {
@@ -1136,7 +1136,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Food safety certifications and hands-on quality inspection are two separate things worth asking about.",
         },
         body: [
-          "[GFSI-recognized food safety certification schemes](https://mygfsi.com/) — BRCGS, IFS, and FSSC 22000 are the three most commonly cited — are a standard reference point B2B buyers use when evaluating a supplier's food safety management system. Which one matters most can depend on your own destination market's retail requirements, so it's worth asking a prospective supplier directly which certifications they hold and requesting the certificate itself rather than taking a general claim at face value.",
+          "[GFSI-recognized food safety certification schemes](https://safefoodalliance.com/food-safety-resources/what-is-gfsi/) — BRCGS, IFS, and FSSC 22000 are the three most commonly cited — are a standard reference point B2B buyers use when evaluating a supplier's food safety management system. Which one matters most can depend on your own destination market's retail requirements, so it's worth asking a prospective supplier directly which certifications they hold and requesting the certificate itself rather than taking a general claim at face value.",
           "Regional preference varies in practice: buyers selling into UK retail commonly expect BRCGS, German retail buyers often prefer IFS, and global B2B buyers more broadly tend to accept any of the three GFSI-recognized schemes. If you're sourcing for a specific retail market, it's worth checking which certification that market's retailers actually expect before assuming any one scheme is universally sufficient.",
         ],
       },
@@ -1165,7 +1165,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Do You Verify a Supplier Is Credible Before Committing?",
         body: [
-          "Check business licenses, request client references you can actually contact, and ask for documentation of past third-party audits or regulatory inspections — including how any past non-compliance was corrected. A supplier confident in its own process should have no issue sharing this. Independently tested samples, not just a supplier-provided spec sheet, are standard practice before committing to volume — see our guide on [what happens after you request samples](/contact#quote-form) for how that process works with us specifically.",
+          "Check business licenses, request client references you can actually contact, and ask for documentation of past third-party audits (through firms like [SGS](https://www.sgs.com/en/agriculture-food) or [Intertek](https://www.intertek.com/food/)) or regulatory inspections — including how any past non-compliance was corrected. A supplier confident in its own process should have no issue sharing this. Independently tested samples, not just a supplier-provided spec sheet, are standard practice before committing to volume — see our guide on [what happens after you request samples](/contact#quote-form) for how that process works with us specifically.",
         ],
       },
       {
@@ -1284,7 +1284,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should You Confirm About Food Safety Testing at the Packaging Stage?",
         body: [
-          "Some buyers, particularly in the EU and North America, ask about aflatoxin test reports alongside standard export documentation. Exact required thresholds vary by destination market and should be confirmed against your specific country's current regulatory limits — ask your supplier what testing is performed and at what stage, and confirm current documentation directly when you request a quote.",
+          "Some buyers, particularly in the EU and North America, ask about aflatoxin test reports alongside standard export documentation. Exact required thresholds vary by destination market and should be confirmed against your specific country's current regulatory limits via [FDA's food safety resources](https://www.fda.gov/food) or the equivalent agency for your destination — ask your supplier what testing is performed and at what stage, and confirm current documentation directly when you request a quote.",
         ],
       },
       {
@@ -1473,7 +1473,7 @@ export const blogPosts: BlogPost[] = [
           "Supply and demand — tighter supply relative to demand pushes prices up, and vice versa",
           "Production costs — land, labor, fertilizer, and machinery costs set the floor a seller needs to cover",
           "Currency exchange rates — a strengthening exporting-country currency can raise the FOB price in foreign-currency terms",
-          "Government policy — export restrictions or taxes can constrain supply and push prices higher",
+          "Government policy — [export restrictions or bans](https://www.foodsecurityportal.org/tools/COVID-19-food-trade-policy-tracker) in a producing country can constrain supply and push prices higher",
           "Seasonality — harvest timing affects near-term supply availability; see our guide on [how harvest timing affects availability and pricing](/blog/seasonal-harvest-timing-sunflower-seed-availability)",
         ],
       },
@@ -1584,7 +1584,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does MOQ Interact With Your Total Landed Cost?",
         body: [
-          "A smaller order via LCL shipping carries a higher per-unit freight cost than a full container, so the effective MOQ that makes financial sense for you may be higher than the supplier's stated minimum once you factor in your own freight economics. See our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) and [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) for the fuller cost picture beyond the quoted per-ton price.",
+          "A smaller order via [LCL shipping carries a higher per-unit freight cost](https://www.freightos.com/freight-resources/) than a full container, so the effective MOQ that makes financial sense for you may be higher than the supplier's stated minimum once you factor in your own freight economics. See our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) and [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) for the fuller cost picture beyond the quoted per-ton price.",
         ],
       },
       {
@@ -1872,7 +1872,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should You Confirm Before Sourcing for Southeast Asia?",
         body: [
-          "Import documentation and food safety requirements vary by country in the region, so confirm your specific destination market's requirements rather than assuming uniform rules across Southeast Asia. Our [HS codes and documentation guide](/blog/sunflower-seed-hs-codes-export-documentation) covers the general document set, but destination-specific rules should be confirmed with a customs broker.",
+          "Import documentation and food safety requirements vary by country in the region, so confirm your specific destination market's requirements rather than assuming uniform rules across Southeast Asia. [Country-level trade flow data](https://www.trademap.org/Browse/Product.aspx?PID=120600) is worth checking as a starting point for scoping which markets already import meaningful volume. Our [HS codes and documentation guide](/blog/sunflower-seed-hs-codes-export-documentation) covers the general document set, but destination-specific rules should be confirmed with a customs broker.",
         ],
       },
       {
@@ -2127,7 +2127,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Roasting develops flavor through Maillard browning that raw seed doesn't have.",
         },
         body: [
-          "Roasting develops flavor through Maillard browning reactions that raw seed simply doesn't have, which is part of why roasted product commands a premium in some retail snacking markets. That flavor development is a genuine tradeoff against the shelf-life cost — neither form is objectively \"better,\" the right choice depends entirely on what your product needs.",
+          "Roasting develops flavor through Maillard browning reactions that raw seed simply doesn't have, which is part of why roasted product commands a premium in some retail snacking markets. The core nutrient profile — [vitamin E and mineral content per USDA's database](https://fdc.nal.usda.gov/) — stays broadly similar between raw and roasted, though prolonged high-heat roasting can gradually reduce heat-sensitive vitamin E content. That flavor development is a genuine tradeoff against the shelf-life cost — neither form is objectively \"better,\" the right choice depends entirely on what your product needs.",
         ],
       },
       {
@@ -2400,7 +2400,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Does FCL Matter More for Food-Grade Dry Goods Like Seeds?",
         body: [
-          "FCL is generally faster in transit and lower-risk for contamination or damage, since goods are loaded once, sealed, and unloaded once. LCL involves multiple handling touchpoints, which for food-grade dry goods raises the practical risk of moisture exposure, odor transfer, or pest contamination — and typically requires more robust packing (palletizing, shrink-wrap, stronger cartons) to hold up through the extra handling.",
+          "FCL is generally faster in transit and lower-risk for contamination or damage, since goods are loaded once, sealed, and unloaded once. [LCL involves multiple handling touchpoints](https://www.emotrans-global.com/blog/ltl-lcl-ftl-fcl-guide/), which for food-grade dry goods raises the practical risk of moisture exposure, odor transfer, or pest contamination — and typically requires more robust packing (palletizing, shrink-wrap, stronger cartons) to hold up through the extra handling.",
         ],
       },
       {
@@ -2489,7 +2489,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What's a Safe Moisture Level for Long-Term Storage?",
         body: [
-          "A safe storage moisture level of around 10% or below is commonly cited, with lower moisture (closer to 8-9%) recommended for longer storage durations. See our [full moisture content and purity standards guide](/blog/sunflower-seed-moisture-content-purity-standards) for the detail behind these numbers.",
+          "A safe storage moisture level of around 10% or below is commonly cited, with lower moisture (closer to 8-9%) recommended for longer storage durations — [drying guidance from the National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) reflects similar targets for the kernel itself. See our [full moisture content and purity standards guide](/blog/sunflower-seed-moisture-content-purity-standards) for the detail behind these numbers.",
         ],
       },
       {
@@ -2609,7 +2609,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should You Ask a Supplier About Their Packaging Materials?",
         body: [
-          "Ask whether bags are food-grade certified, what the specific lining or lamination material is (if any), and whether packaging materials themselves have been tested for contaminants. This is a less commonly asked question than product-quality testing, but packaging material safety is a real part of overall food safety compliance.",
+          "Ask whether bags are food-grade certified, what the specific lining or lamination material is (if any), and whether packaging materials themselves have been tested for contaminants. This is a less commonly asked question than product-quality testing, but packaging material safety is a real part of overall [food safety compliance](https://www.fda.gov/food).",
         ],
       },
       {
@@ -3513,7 +3513,7 @@ export const blogPosts: BlogPost[] = [
         list: [
           "Business registration and licenses — ask for documentation, don't just take a verbal claim",
           "Production capacity and equipment — does what they describe match what a facility their size could realistically produce?",
-          "Food safety certifications held, and copies of the actual certificates",
+          "Food safety certifications held, and copies of the actual certificates — check them against a [GFSI-recognized scheme](https://safefoodalliance.com/food-safety-resources/what-is-gfsi/) like BRCGS, SQF, or FSSC 22000 rather than an unfamiliar private certification",
           "Client references you can independently contact, not just testimonials on their own site",
           "Documented history of past third-party audits or regulatory inspections, including how any past issues were resolved",
         ],
@@ -3539,7 +3539,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does a Self-Audit Differ From a Paid Third-Party Audit?",
         body: [
-          "A self-audit is something you do yourself, based on documentation and conversation — it's free but relies on the supplier's willingness to share information honestly. A [paid third-party inspection](/blog/third-party-inspection-sunflower-seeds) involves an independent party physically checking the actual product and, in some cases, the facility itself, which catches things a documentation-only self-audit can't. Many buyers do both: a self-audit before committing to a supplier relationship, then periodic third-party inspections on actual shipments.",
+          "A self-audit is something you do yourself, based on documentation and conversation — it's free but relies on the supplier's willingness to share information honestly. A [paid third-party inspection](/blog/third-party-inspection-sunflower-seeds) — typically through firms like [SGS](https://www.sgs.com/en/agriculture-food) or [Intertek](https://www.intertek.com/food/) — involves an independent party physically checking the actual product and, in some cases, the facility itself, which catches things a documentation-only self-audit can't. Many buyers do both: a self-audit before committing to a supplier relationship, then periodic third-party inspections on actual shipments.",
         ],
       },
       {
@@ -3919,7 +3919,7 @@ export const blogPosts: BlogPost[] = [
         list: [
           "Confirm target series, grade, and form (raw or roasted, in-shell or kernel)",
           "Finalize packaging format — bag size, material, and your artwork/branding",
-          "Confirm nutrition labeling requirements for your destination market",
+          "Confirm [nutrition labeling requirements](https://www.fda.gov/food) for your destination market",
           "Agree on minimum order quantity and lead time",
           "Approve a sample run before the full production order",
         ],
@@ -4240,7 +4240,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Should You Still Request Samples for Every Reorder?",
         body: [
-          "Not necessarily for every single reorder, but it's reasonable to periodically re-confirm quality — especially around harvest season transitions, when [seasonal timing can affect availability and, occasionally, quality consistency](/blog/seasonal-harvest-timing-sunflower-seed-availability). Many repeat buyers scale back from sample-checking every order to periodic checks once trust is well established.",
+          "Not necessarily for every single reorder, but it's reasonable to periodically re-confirm quality — especially around harvest season transitions, when [seasonal timing can affect availability and, occasionally, quality consistency](/blog/seasonal-harvest-timing-sunflower-seed-availability). Many repeat buyers scale back from full sample-checking to periodic [third-party inspections](https://www.sgs.com/en/agriculture-food) once trust is well established, rather than dropping verification altogether.",
         ],
       },
       {
@@ -4264,7 +4264,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should You Do If a Long-Term Supplier's Pricing Starts Drifting From Market Rates?",
         body: [
-          "Raise it directly and ask for an explanation before assuming bad faith — input costs, freight rates, and currency movements genuinely shift a supplier's cost base over time, and a long-term relationship doesn't mean pricing stays frozen indefinitely. What a strong relationship should get you is transparency about why a price is moving and advance notice before it changes, rather than a surprise on your next invoice.",
+          "Raise it directly and ask for an explanation before assuming bad faith — input costs, freight rates, and currency movements genuinely shift a supplier's cost base over time, and a long-term relationship doesn't mean pricing stays frozen indefinitely. Checking [broader trade data on sunflower seed export values](https://tradingeconomics.com/european-union/exports/united-states/sunflower-seeds-broken) can help you tell whether a price change reflects the wider market or is specific to your supplier. What a strong relationship should get you is transparency about why a price is moving and advance notice before it changes, rather than a surprise on your next invoice.",
         ],
       },
       {
@@ -4406,7 +4406,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Every batch starts with raw material inspection before it enters the processing line.",
         },
         body: [
-          "Raw material inspection — checking moisture content, visible foreign material, and general batch condition before the seed enters the rest of the line. This first checkpoint matters because any moisture or contamination issue is far cheaper to catch here than after the batch has already been through multiple downstream processing stages.",
+          "Raw material inspection — checking [moisture content](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/), visible foreign material, and general batch condition before the seed enters the rest of the line. This first checkpoint matters because any moisture or contamination issue is far cheaper to catch here than after the batch has already been through multiple downstream processing stages.",
         ],
       },
       {
@@ -4462,7 +4462,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Does Every Supplier's Processing Line Look Like This?",
         body: [
-          "No — processing line sophistication varies significantly between suppliers, which is part of why [asking specifically about a supplier's inspection stages and equipment](/blog/what-to-ask-sunflower-seed-supplier) — not just accepting a general \"quality controlled\" claim — is worth doing before committing to an order.",
+          "No — processing line sophistication varies significantly between suppliers, which is part of why [asking specifically about a supplier's inspection stages and equipment](/blog/what-to-ask-sunflower-seed-supplier) — not just accepting a general \"quality controlled\" claim, or a certification name dropped without documentation — is worth doing before committing to an order. [GFSI-benchmarked schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) exist precisely because \"quality controlled\" means very different things across different facilities.",
         ],
       },
       {
@@ -4724,7 +4724,7 @@ export const blogPosts: BlogPost[] = [
         heading: "What Commercial Terms Get Finalized After Sample Approval?",
         list: [
           "Final volume and whether it's a trial LCL shipment or a full container",
-          "[FOB or CIF pricing](/blog/fob-pricing-sunflower-seeds) and which Incoterm applies",
+          "[FOB or CIF pricing](/blog/fob-pricing-sunflower-seeds) and which [Incoterm](https://www.trade.gov/know-your-incoterms) applies",
           "[Payment terms](/blog/tt-vs-letter-of-credit-sunflower-seeds) — deposit percentage and balance trigger",
           "Packaging format and any private-label requirements",
           "Target production and shipping timeline",
@@ -4757,7 +4757,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "What Should You Confirm Once the Shipment Is Booked?",
         body: [
-          "Confirm the vessel schedule and estimated arrival date with your forwarder, and make sure your customs broker has what's needed to file entry documentation — including [Prior Notice](/blog/fda-prior-notice-imported-food) for US-bound shipments — well ahead of arrival rather than scrambling as the vessel approaches port.",
+          "Confirm the vessel schedule and estimated arrival date with your forwarder, and make sure your customs broker has what's needed to file entry documentation — including [Prior Notice](/blog/fda-prior-notice-imported-food) for US-bound shipments and the correct [HS/HTS classification](https://hts.usitc.gov/search) for your product — well ahead of arrival rather than scrambling as the vessel approaches port.",
         ],
       },
       {
@@ -4834,7 +4834,7 @@ export const blogPosts: BlogPost[] = [
           "Confirm your target arrival date and work backward to an order-confirmation deadline, accounting for the Chinese New Year shutdown window",
           "Request current pricing — don't assume post-harvest pricing still applies this far into the marketing year",
           "Confirm current production lead time with your supplier, which can shift meaningfully around the holiday period",
-          "If applicable, confirm current tariff/duty status for your specific HS classification before finalizing a landed-cost budget",
+          "If applicable, confirm current tariff/duty status for your specific [HS classification](https://hts.usitc.gov/search) before finalizing a landed-cost budget",
           "Build in buffer time for documentation — phytosanitary certificate, certificate of origin, and Prior Notice filing for US-bound shipments — rather than assuming the fastest-case timeline",
           "If you typically hold lean inventory, consider whether a larger Q4 order makes sense to cover the Chinese New Year gap",
         ],
@@ -4842,7 +4842,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Should You Place a Larger Order to Cover the Chinese New Year Period?",
         body: [
-          "For buyers who can't tolerate a supply gap, this is a common strategy — ordering a larger volume in Q4 for arrival before the shutdown window, rather than a smaller order timed to arrive during the disruption period itself. Whether this makes sense depends on your storage capacity, cash flow, and how tight your typical inventory turnover is.",
+          "For buyers who can't tolerate a supply gap, this is a common strategy — ordering a larger volume in Q4 for arrival before the shutdown window, rather than a smaller order timed to arrive during the disruption period itself. Whether this makes sense depends on your storage capacity, cash flow, and how tight your typical inventory turnover is. Checking [current sunflower seed trade flow data](https://www.trademap.org/Browse/Product.aspx?PID=120600) can also help you gauge whether global supply is unusually tight heading into a given Q1.",
         ],
       },
       {
