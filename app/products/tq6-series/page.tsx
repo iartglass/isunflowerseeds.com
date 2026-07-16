@@ -70,8 +70,8 @@ export default function SeriesTQ6Page() {
       <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="/images/process-06-color-sorting.webp"
-          alt="Tongqing No.6 (TQ6) sunflower seeds on the color-sorting line"
+          src="/images/tq6-seeds-closeup.jpg"
+          alt="Tongqing No.6 (TQ6) large-kernel sunflower seeds, close-up"
           fill
           className="object-cover"
           priority
@@ -114,8 +114,8 @@ export default function SeriesTQ6Page() {
             </div>
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/images/601-1.jpg"
-                alt="Tongqing No.6 (TQ6) sunflower seeds close-up"
+                src="/images/process-06-color-sorting.webp"
+                alt="Color sorting equipment on the sunflower seed processing line"
                 fill
                 className="object-cover"
               />
@@ -214,7 +214,21 @@ export default function SeriesTQ6Page() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12 max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold mb-4">How Does TQ6 Series Compare to 361 and 363?</h2>
-            <p className="text-gray-700">A quick reference against our other two series.</p>
+            <p className="text-gray-700">
+              A quick reference against our{" "}
+              <Link href="/products/361-series" className="underline decoration-dotted hover:text-amber-600">
+                361 Series
+              </Link>{" "}
+              and{" "}
+              <Link href="/products/363-series" className="underline decoration-dotted hover:text-amber-600">
+                363 Series
+              </Link>{" "}
+              — or see the{" "}
+              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
+                full series comparison page
+              </Link>
+              .
+            </p>
           </div>
           <div className="max-w-5xl mx-auto">
             <SeriesComparisonTable />

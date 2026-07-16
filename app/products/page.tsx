@@ -148,7 +148,23 @@ export default function ProductsPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3 md:mb-6">Which Series Is Right for You?</h2>
             <p className="text-base md:text-lg text-gray-700">
-              A side-by-side look before you dive into the details on each series page.
+              A side-by-side look before you dive into the details on each{" "}
+              <Link href="/products/361-series" className="underline decoration-dotted hover:text-amber-600">
+                361
+              </Link>
+              ,{" "}
+              <Link href="/products/363-series" className="underline decoration-dotted hover:text-amber-600">
+                363
+              </Link>
+              , or{" "}
+              <Link href="/products/tq6-series" className="underline decoration-dotted hover:text-amber-600">
+                TQ6
+              </Link>{" "}
+              series page — or see the{" "}
+              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
+                full comparison page
+              </Link>
+              .
             </p>
           </div>
           <div className="max-w-5xl mx-auto">
@@ -292,7 +308,7 @@ const products = [
     title: "363 Series Premium Raw",
     description:
       "Organic, non-GMO sunflower seeds rich in protein, healthy fats, and minerals — perfect for snacking, cooking, and baking.",
-    image: "/images/363-2.jpg",
+    image: "/images/363.jpg",
     link: "/products/363-series",
   },
   {

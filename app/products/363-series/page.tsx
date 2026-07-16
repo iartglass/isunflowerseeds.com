@@ -211,7 +211,21 @@ export default function Series363Page() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12 max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold mb-4">How Does 363 Series Compare to 361 and TQ6?</h2>
-            <p className="text-gray-700">A quick reference against our other two series.</p>
+            <p className="text-gray-700">
+              A quick reference against our{" "}
+              <Link href="/products/361-series" className="underline decoration-dotted hover:text-amber-600">
+                361 Series
+              </Link>{" "}
+              and{" "}
+              <Link href="/products/tq6-series" className="underline decoration-dotted hover:text-amber-600">
+                Tongqing No.6
+              </Link>{" "}
+              — or see the{" "}
+              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
+                full series comparison page
+              </Link>
+              .
+            </p>
           </div>
           <div className="max-w-5xl mx-auto">
             <SeriesComparisonTable />

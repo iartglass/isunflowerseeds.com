@@ -21,7 +21,7 @@ const series361Faqs = [
   {
     question: "How is 361 different from 363 or TQ6?",
     answer:
-      "361 is our general-purpose, volume-friendly grade. 363 is a premium raw grade for branded/health-focused lines, and Tongqing No.6 is a distinct large-kernel cultivar. See the comparison table above for a quick side-by-side.",
+      "361 is our general-purpose, volume-friendly grade. 363 is a premium raw grade for branded/health-focused lines, and Tongqing No.6 is a distinct large-kernel cultivar. See the comparison table above, or our full series comparison page, for a quick side-by-side.",
   },
   {
     question: "Is 361 Series suitable for private-label packaging?",
@@ -213,7 +213,21 @@ export default function Series361Page() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12 max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold mb-4">How Does 361 Series Compare to 363 and TQ6?</h2>
-            <p className="text-gray-700">A quick reference against our other two series.</p>
+            <p className="text-gray-700">
+              A quick reference against our{" "}
+              <Link href="/products/363-series" className="underline decoration-dotted hover:text-amber-600">
+                363 Series
+              </Link>{" "}
+              and{" "}
+              <Link href="/products/tq6-series" className="underline decoration-dotted hover:text-amber-600">
+                Tongqing No.6
+              </Link>{" "}
+              — or see the{" "}
+              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
+                full series comparison page
+              </Link>
+              .
+            </p>
           </div>
           <div className="max-w-5xl mx-auto">
             <SeriesComparisonTable />

@@ -41,7 +41,7 @@ export function SchemaOrganization() {
     contactPoint: [
       {
         "@type": "ContactPoint",
-        telephone: "+86-18653369950",
+        telephone: "+8618653369950",
         contactType: "sales",
         availableLanguage: ["English", "Chinese"],
         email: "james@isunflowerseeds.com",
