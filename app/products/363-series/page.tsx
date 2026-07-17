@@ -219,10 +219,6 @@ export default function Series363Page() {
               and{" "}
               <Link href="/products/tq6-series" className="underline decoration-dotted hover:text-amber-600">
                 Tongqing No.6
-              </Link>{" "}
-              — or see the{" "}
-              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
-                full series comparison page
               </Link>
               .
             </p>

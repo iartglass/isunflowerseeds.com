@@ -121,7 +121,11 @@ export default function ProductsPage() {
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3 md:mb-6">What Makes XingYi Different?</h2>
               <p className="text-base md:text-lg text-gray-700 mb-5 md:mb-8">
                 When you source from XingYi Trading, you're sourcing from a supplier that inspects, grades, and
-                packs to your specification.
+                packs to your specification. See how{" "}
+                <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
+                  buying direct compares to going through a trading company or marketplace
+                </Link>
+                .
               </p>
               <div className="space-y-4 md:space-y-6">
                 {benefits.map((benefit, index) => (
@@ -160,11 +164,7 @@ export default function ProductsPage() {
               <Link href="/products/tq6-series" className="underline decoration-dotted hover:text-amber-600">
                 TQ6
               </Link>{" "}
-              series page — or see the{" "}
-              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
-                full comparison page
-              </Link>
-              .
+              series page.
             </p>
           </div>
           <div className="max-w-5xl mx-auto">

@@ -222,10 +222,6 @@ export default function SeriesTQ6Page() {
               and{" "}
               <Link href="/products/363-series" className="underline decoration-dotted hover:text-amber-600">
                 363 Series
-              </Link>{" "}
-              — or see the{" "}
-              <Link href="/compare" className="underline decoration-dotted hover:text-amber-600">
-                full series comparison page
               </Link>
               .
             </p>
