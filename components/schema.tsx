@@ -63,6 +63,11 @@ export function SchemaOrganization() {
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Sunflower Seed Product Range",
+      // Wholesale is quote-based (no public unit price), so each Offer omits
+      // `price`/`priceCurrency` rather than carrying a fabricated or empty
+      // value. The value is instead expressed on the nested Product via
+      // brand / category / description so the entries are substantive product
+      // records rather than bare name+url stubs.
       itemListElement: [
         {
           "@type": "Offer",
@@ -70,6 +75,10 @@ export function SchemaOrganization() {
             "@type": "Product",
             name: "361 Series Sunflower Seeds",
             url: `${BASE_URL}/products/361-series`,
+            brand: { "@type": "Brand", name: COMPANY_NAME },
+            category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
+            description:
+              "General-purpose, volume-friendly confectionery grade — plump, aromatic kernels for snacking, baking, garnishing, and cost-optimized private-label packaging.",
           },
         },
         {
@@ -78,6 +87,10 @@ export function SchemaOrganization() {
             "@type": "Product",
             name: "363 Series Sunflower Seeds",
             url: `${BASE_URL}/products/363-series`,
+            brand: { "@type": "Brand", name: COMPANY_NAME },
+            category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
+            description:
+              "Premium raw grade — organically grown, pesticide-free, with a consistently rich flavor, suited to branded and health-focused retail lines.",
           },
         },
         {
@@ -86,6 +99,10 @@ export function SchemaOrganization() {
             "@type": "Product",
             name: "Tongqing No.6 (TQ6) Series Sunflower Seeds",
             url: `${BASE_URL}/products/tq6-series`,
+            brand: { "@type": "Brand", name: COMPANY_NAME },
+            category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
+            description:
+              "A distinct, named cultivar with a larger kernel and richer flavor than the general 361/363 grade codes, sourced from Inner Mongolia.",
           },
         },
       ],

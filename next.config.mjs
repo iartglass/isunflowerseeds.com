@@ -19,6 +19,17 @@ const nextConfig = {
   // (see BLOG-CALENDAR-Q3-2026.md).
   async redirects() {
     return [
+      // 0. Canonical host — force www → non-www (301) across every path.
+      // The www subdomain resolves to this same app and returned 200 directly;
+      // a server-side 301 (not just the canonical tag) consolidates signals and
+      // eliminates the duplicate-host risk. Placed first so it wins for any path.
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.isunflowerseeds.com" }],
+        destination: "https://isunflowerseeds.com/:path*",
+        permanent: true,
+      },
+
       // 1. Structural pages
       // Note: /about and /contact need no entry — old and new URLs are identical paths
       { source: "/blogs", destination: "/blog", permanent: true },
