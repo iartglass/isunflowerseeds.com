@@ -139,6 +139,16 @@ export function SchemaOrganization() {
 }
 
 // ── FAQPage (pages with FAQ sections) ─────────────────────────────────────
+// Kept intentionally, NOT removed and NOT converted to QAPage:
+//   • Google retired the FAQ rich result for all sites on 2026-05-07, so this
+//     no longer earns a SERP feature — but it is valid, matches the visible
+//     Accordion content 1:1, and still aids LLM/answer-engine parsing. Removal
+//     would only lose that, so we leave it in place.
+//   • It stays FAQPage (not QAPage) because the entries are company-authored
+//     Q&A. QAPage is for a single question with multiple user-submitted
+//     answers (forum/community), which does not describe this content.
+// Do not re-add FAQPage elsewhere purely for Google SERP benefit, and do not
+// claim a confirmed AI-citation benefit from it.
 export function SchemaFAQ({ items }: { items: { q: string; a: string }[] }) {
   const schema = {
     "@context": "https://schema.org",
