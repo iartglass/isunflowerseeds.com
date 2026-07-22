@@ -5232,6 +5232,15 @@ export function getPublishedBlogPosts(): BlogPost[] {
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 }
 
+// True only if a post with this slug exists AND its scheduled date has arrived.
+// Mirrors the gate in app/blog/[slug]/page.tsx (`new Date(post.date) > new Date()
+// -> notFound()`), so callers can tell whether linking to a slug would 404.
+// Used by RichText to avoid rendering in-body links to not-yet-published posts.
+export function isPublishedSlug(slug: string): boolean {
+  const post = blogPosts.find((p) => p.slug === slug)
+  return !!post && new Date(post.date) <= new Date()
+}
+
 export function estimateReadTime(sections: { body?: string[]; list?: string[] }[]) {
   const words = sections.reduce((total, section) => {
     const bodyWords = section.body?.join(" ").split(/\s+/).length ?? 0
