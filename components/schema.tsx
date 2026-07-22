@@ -12,6 +12,25 @@ const orgRef = {
   url: BASE_URL,
 }
 
+// Shared terms applied to every catalog Offer. Wholesale is quote-based, so
+// there is no public unit price to state. Rather than leave the Offer empty
+// (bare `itemOffered`) or fabricate a `price`, each Offer carries the terms
+// that ARE true: it is in stock, sold by XingYi, and priced on request. The
+// PriceSpecification states the currency + quote model without inventing a
+// number, so the Offer is a complete, non-misleading node.
+const wholesaleOfferTerms = {
+  availability: "https://schema.org/InStock",
+  businessFunction: "http://purl.org/goodrelations/v1#Sell",
+  seller: { "@id": `${BASE_URL}/#organization` },
+  priceSpecification: {
+    "@type": "PriceSpecification",
+    priceCurrency: "USD",
+    valueAddedTaxIncluded: false,
+    description:
+      "Wholesale, quote-based — contact for pricing (minimum order: full container load).",
+  },
+}
+
 // ── Organization (homepage / about) ───────────────────────────────────────
 export function SchemaOrganization() {
   const schema = {
@@ -63,14 +82,14 @@ export function SchemaOrganization() {
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Sunflower Seed Product Range",
-      // Wholesale is quote-based (no public unit price), so each Offer omits
-      // `price`/`priceCurrency` rather than carrying a fabricated or empty
-      // value. The value is instead expressed on the nested Product via
-      // brand / category / description so the entries are substantive product
-      // records rather than bare name+url stubs.
+      // Each Offer carries the shared quote-based wholesale terms (in stock,
+      // sold by XingYi, priced on request — see wholesaleOfferTerms) and a
+      // substantive nested Product (brand / category / description) instead of
+      // a bare name+url stub. No price is fabricated.
       itemListElement: [
         {
           "@type": "Offer",
+          ...wholesaleOfferTerms,
           itemOffered: {
             "@type": "Product",
             name: "361 Series Sunflower Seeds",
@@ -83,6 +102,7 @@ export function SchemaOrganization() {
         },
         {
           "@type": "Offer",
+          ...wholesaleOfferTerms,
           itemOffered: {
             "@type": "Product",
             name: "363 Series Sunflower Seeds",
@@ -95,6 +115,7 @@ export function SchemaOrganization() {
         },
         {
           "@type": "Offer",
+          ...wholesaleOfferTerms,
           itemOffered: {
             "@type": "Product",
             name: "Tongqing No.6 (TQ6) Series Sunflower Seeds",
