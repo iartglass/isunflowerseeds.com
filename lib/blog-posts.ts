@@ -1026,7 +1026,10 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "361-vs-363-vs-tongqing-no6-comparison",
     title: "361 vs. 363 vs. Tongqing No.6: Choosing the Right Series for Your Product Line",
-    seoTitle: "361 vs 363 vs Tongqing No.6 Compared",
+    // Brand suffix kept here (unlike other posts) because this title is short
+    // enough to stay within Google's ~60-char SERP limit with it (53 chars),
+    // and the head-to-head comparison benefits from explicit brand attribution.
+    seoTitle: "361 vs 363 vs Tongqing No.6 Compared | XingYi Trading",
     seoDescription:
       "Which XingYi sunflower seed series fits your product — volume snacking, premium retail, or large-kernel appeal.",
     excerpt:
