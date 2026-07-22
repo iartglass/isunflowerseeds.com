@@ -85,7 +85,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why Do Sunflower Seeds Work So Well in These Recipes?",
         body: [
-          "Sunflower kernels bring a naturally nutty flavor and a genuinely dense nutrient profile, including a very high concentration of vitamin E according to [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/170562/nutrients). That means a coating, sauce, or topping built on them adds real nutritional value to the dish, not just texture. For the fuller nutritional picture, see our companion guide on [sunflower seed nutrition](/blog/sunflower-seed-nutrition-benefits).",
+          "Sunflower kernels bring a naturally nutty flavor and a genuinely dense nutrient profile, including a very high concentration of vitamin E according to [USDA FoodData Central](https://fdc.nal.usda.gov/). That means a coating, sauce, or topping built on them adds real nutritional value to the dish, not just texture. For the fuller nutritional picture, see our companion guide on [sunflower seed nutrition](/blog/sunflower-seed-nutrition-benefits).",
         ],
       },
       {
@@ -207,7 +207,7 @@ export const blogPosts: BlogPost[] = [
       {
         body: [
           "Blend all ingredients until smooth, adjusting oil for consistency. The 363 Series' rich, nutty flavor gives the sauce depth without overpowering the basil.",
-          "Sunflower seed pesto compares favorably to traditional pine-nut versions on nutrition — higher in vitamin E and magnesium per [USDA nutrient data](https://fdc.nal.usda.gov/food-details/170562/nutrients), with comparable healthy fats and protein. It also has a lighter environmental footprint: an annual crop versus pine trees that take 15-25 years to mature.",
+          "Sunflower seed pesto compares favorably to traditional pine-nut versions on nutrition — higher in vitamin E and magnesium per [USDA nutrient data](https://fdc.nal.usda.gov/), with comparable healthy fats and protein. It also has a lighter environmental footprint: an annual crop versus pine trees that take 15-25 years to mature.",
         ],
       },
       {
@@ -304,7 +304,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Is Sunflower Seed Oil Used in Skincare and Exfoliation?",
         body: [
-          "Linoleic acid supports hydration, vitamin E offers anti-aging properties, oleic acid supports the skin barrier, and B-complex vitamins provide soothing effects. A controlled study cited in [cosmetic ingredient safety documentation](https://www.cosmeticsinfo.org/ingredient/helianthus-annuus-sunflower-seed-oil-and-related-ingredients) found that sunflower seed oil helped preserve skin barrier integrity and reduce water loss, and the ingredient (listed as Helianthus Annuus Seed Oil under INCI naming) has been reviewed and confirmed safe for cosmetic use by the Cosmetic Ingredient Review Expert Panel.",
+          "Linoleic acid supports hydration, vitamin E offers anti-aging properties, oleic acid supports the skin barrier, and B-complex vitamins provide soothing effects. A controlled study cited in [cosmetic ingredient safety documentation](https://www.cir-safety.org/ingredient/helianthus-annuus-sunflower-seed-oil) found that sunflower seed oil helped preserve skin barrier integrity and reduce water loss, and the ingredient (listed as Helianthus Annuus Seed Oil under INCI naming) has been reviewed and confirmed safe for cosmetic use by the Cosmetic Ingredient Review Expert Panel.",
           "Ground sunflower seeds are also used as a biodegradable alternative to plastic microbeads, offering gentle exfoliation without the environmental cost. That distinction matters more than it used to: the [FDA's Microbead-Free Waters Act](https://www.fda.gov/cosmetics/cosmetics-laws-regulations/microbead-free-waters-act-faqs) has prohibited plastic microbeads in rinse-off cosmetics in the United States since 2017, which has pushed formulators toward natural exfoliants like ground seed hulls as a direct replacement.",
         ],
       },
@@ -693,7 +693,7 @@ export const blogPosts: BlogPost[] = [
           caption: "Raw sunflower seed kernels retain their nutrient profile before roasting.",
         },
         list: [
-          "Vitamin E — a powerful antioxidant that helps protect cells from free-radical damage. Sunflower seed kernels are one of the richest natural sources of vitamin E, providing about 234% of the Daily Value per 100g according to [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/170562/nutrients)",
+          "Vitamin E — a powerful antioxidant that helps protect cells from free-radical damage. Sunflower seed kernels are one of the richest natural sources of vitamin E, providing about 234% of the Daily Value per 100g according to [USDA FoodData Central](https://fdc.nal.usda.gov/)",
           "Zinc — supports the development of immune cells, including T-cells",
           "Selenium — helps reduce inflammation and supports cytokine production",
           "Healthy fats — omega-6 fatty acids support the body's inflammatory immune response",
@@ -717,7 +717,7 @@ export const blogPosts: BlogPost[] = [
           caption: "A 100g portion is roughly this much — the reference amount used in standard nutrition data.",
         },
         body: [
-          "Sunflower seeds are calorie-dense, which can sound like the opposite of what a weight-conscious diet needs — but the combination of protein, fiber, and healthy fats they provide plays a real role in appetite regulation when portioned sensibly. Figures below are for raw, dried kernels, per [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/170562/nutrients):",
+          "Sunflower seeds are calorie-dense, which can sound like the opposite of what a weight-conscious diet needs — but the combination of protein, fiber, and healthy fats they provide plays a real role in appetite regulation when portioned sensibly. Figures below are for raw, dried kernels, per [USDA FoodData Central](https://fdc.nal.usda.gov/):",
         ],
         list: [
           "Protein: 20.78g",
@@ -1190,7 +1190,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Do You Verify a Supplier Is Credible Before Committing?",
         body: [
-          "Check business licenses, request client references you can actually contact, and ask for documentation of past third-party audits (through firms like [SGS](https://www.sgs.com/en/agriculture-food) or [Intertek](https://www.intertek.com/food/)) or regulatory inspections — including how any past non-compliance was corrected. A supplier confident in its own process should have no issue sharing this. Independently tested samples, not just a supplier-provided spec sheet, are standard practice before committing to volume — see our guide on [what happens after you request samples](/contact#quote-form) for how that process works with us specifically.",
+          "Check business licenses, request client references you can actually contact, and ask for documentation of past third-party audits (through firms like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) or [Intertek](https://www.intertek.com/food/)) or regulatory inspections — including how any past non-compliance was corrected. A supplier confident in its own process should have no issue sharing this. Independently tested samples, not just a supplier-provided spec sheet, are standard practice before committing to volume — see our guide on [what happens after you request samples](/contact#quote-form) for how that process works with us specifically.",
         ],
       },
       {
@@ -2420,7 +2420,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Should You Arrange Independent Testing on Arrival?",
         body: [
-          "For a first order or a particularly large shipment, arranging [independent lab testing](https://www.sgs.com/en/agriculture-food) on arrival — rather than relying solely on the supplier's own pre-shipment inspection — adds a genuine layer of verification, particularly for aflatoxin risk. This is a reasonable step even with a trusted supplier, since it protects both parties by catching any issue that may have developed during transit rather than assuming pre-shipment condition holds all the way to your warehouse. See our [third-party inspection guide](/blog/third-party-inspection-sunflower-seeds) for how this typically works in practice.",
+          "For a first order or a particularly large shipment, arranging [independent lab testing](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) on arrival — rather than relying solely on the supplier's own pre-shipment inspection — adds a genuine layer of verification, particularly for aflatoxin risk. This is a reasonable step even with a trusted supplier, since it protects both parties by catching any issue that may have developed during transit rather than assuming pre-shipment condition holds all the way to your warehouse. See our [third-party inspection guide](/blog/third-party-inspection-sunflower-seeds) for how this typically works in practice.",
         ],
       },
       {
@@ -3505,7 +3505,7 @@ export const blogPosts: BlogPost[] = [
           caption: "DNA-based and isotopic testing methods can confirm species and origin authenticity when a buyer has specific concerns.",
         },
         body: [
-          "For agricultural commodities generally, [DNA-based testing and isotopic analysis](https://www.rssl.com/food-consumer-goods/food-authenticity-testing/) are the established methods for confirming species/variety identity and detecting adulteration, and [independent testing labs like SGS](https://www.sgs.com/en/agriculture-food) offer this alongside standard food-safety testing. These are more commonly applied to higher-fraud-risk commodities, but the same independent lab testing infrastructure (covered in our [non-GMO and pesticide residue testing guide](/blog/non-gmo-pesticide-residue-testing)) can be used to verify a sunflower seed shipment if a buyer has specific concerns.",
+          "For agricultural commodities generally, [DNA-based testing and isotopic analysis](https://www.rssl.com/food-consumer-goods/food-authenticity-testing/) are the established methods for confirming species/variety identity and detecting adulteration, and [independent testing labs like SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) offer this alongside standard food-safety testing. These are more commonly applied to higher-fraud-risk commodities, but the same independent lab testing infrastructure (covered in our [non-GMO and pesticide residue testing guide](/blog/non-gmo-pesticide-residue-testing)) can be used to verify a sunflower seed shipment if a buyer has specific concerns.",
         ],
       },
       {
@@ -3728,7 +3728,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does a Self-Audit Differ From a Paid Third-Party Audit?",
         body: [
-          "A self-audit is something you do yourself, based on documentation and conversation — it's free but relies on the supplier's willingness to share information honestly. A [paid third-party inspection](/blog/third-party-inspection-sunflower-seeds) — typically through firms like [SGS](https://www.sgs.com/en/agriculture-food) or [Intertek](https://www.intertek.com/food/) — involves an independent party physically checking the actual product and, in some cases, the facility itself, which catches things a documentation-only self-audit can't. Many buyers do both: a self-audit before committing to a supplier relationship, then periodic third-party inspections on actual shipments.",
+          "A self-audit is something you do yourself, based on documentation and conversation — it's free but relies on the supplier's willingness to share information honestly. A [paid third-party inspection](/blog/third-party-inspection-sunflower-seeds) — typically through firms like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) or [Intertek](https://www.intertek.com/food/) — involves an independent party physically checking the actual product and, in some cases, the facility itself, which catches things a documentation-only self-audit can't. Many buyers do both: a self-audit before committing to a supplier relationship, then periodic third-party inspections on actual shipments.",
         ],
       },
       {
@@ -4258,7 +4258,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Where Does This Data Come From, and Can You Verify It?",
         body: [
-          "These figures come from [USDA FoodData Central](https://fdc.nal.usda.gov/food-details/170562/nutrients), the same public database referenced in our [general nutrition benefits guide](/blog/sunflower-seed-nutrition-benefits) — search food ID 170562 directly to pull the full nutrient breakdown yourself rather than relying solely on a secondary source when you're finalizing a label.",
+          "These figures come from [USDA FoodData Central](https://fdc.nal.usda.gov/), the same public database referenced in our [general nutrition benefits guide](/blog/sunflower-seed-nutrition-benefits) — search food ID 170562 directly to pull the full nutrient breakdown yourself rather than relying solely on a secondary source when you're finalizing a label.",
         ],
       },
       {
@@ -4492,7 +4492,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Should You Still Request Samples for Every Reorder?",
         body: [
-          "Not necessarily for every single reorder, but it's reasonable to periodically re-confirm quality — especially around harvest season transitions, when [seasonal timing can affect availability and, occasionally, quality consistency](/blog/seasonal-harvest-timing-sunflower-seed-availability). Many repeat buyers scale back from full sample-checking to periodic [third-party inspections](https://www.sgs.com/en/agriculture-food) once trust is well established, rather than dropping verification altogether.",
+          "Not necessarily for every single reorder, but it's reasonable to periodically re-confirm quality — especially around harvest season transitions, when [seasonal timing can affect availability and, occasionally, quality consistency](/blog/seasonal-harvest-timing-sunflower-seed-availability). Many repeat buyers scale back from full sample-checking to periodic [third-party inspections](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) once trust is well established, rather than dropping verification altogether.",
         ],
       },
       {
@@ -4742,7 +4742,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Does Every Supplier's Processing Line Look Like This?",
         body: [
-          "No — processing line sophistication varies significantly between suppliers, which is part of why [asking specifically about a supplier's inspection stages and equipment](/blog/what-to-ask-sunflower-seed-supplier) — not just accepting a general \"quality controlled\" claim, or a certification name dropped without documentation — is worth doing before committing to an order. [GFSI-benchmarked schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) exist precisely because \"quality controlled\" means very different things across different facilities, and independent inspectors like [SGS](https://www.sgs.com/en/agriculture-food) are one way to verify a specific facility's actual process against the claim.",
+          "No — processing line sophistication varies significantly between suppliers, which is part of why [asking specifically about a supplier's inspection stages and equipment](/blog/what-to-ask-sunflower-seed-supplier) — not just accepting a general \"quality controlled\" claim, or a certification name dropped without documentation — is worth doing before committing to an order. [GFSI-benchmarked schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) exist precisely because \"quality controlled\" means very different things across different facilities, and independent inspectors like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) are one way to verify a specific facility's actual process against the claim.",
         ],
       },
       {
