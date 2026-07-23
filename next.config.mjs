@@ -4,12 +4,21 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    // Temporarily disabled: on-demand sharp resizing under concurrent load
+    // Deliberately left off. On-demand sharp resizing under concurrent load
     // was exceeding the host's memory limit and crash-looping the Node
     // process (visible as repeated "Ready on 0.0.0.0:3000" restarts in
     // runtime logs), which caused images to intermittently fail to load.
-    // Re-enable once hosting has more memory headroom or images are
-    // pre-optimized at build time instead of resized on request.
+    //
+    // The byte cost that optimization would have solved is now handled ahead
+    // of time instead: `npm run optimize:images` (scripts/optimize-images.mjs)
+    // re-encodes the source assets in place with mozjpeg, which cut
+    // public/images from ~8.7MB to ~1.3MB (-85%) with no visible quality loss
+    // and no change to dimensions or filenames.
+    //
+    // Keep this true. The crash came from resizing *per request*, not from
+    // source file size, so re-enabling would reintroduce that risk for no
+    // gain: the sources are already ~1200px wide, which matches the largest
+    // slot the layout renders, so there is nothing meaningful left to resize.
     unoptimized: true,
   },
   // 301 redirects from the old isunflowerseeds.com WordPress/WooCommerce site.
