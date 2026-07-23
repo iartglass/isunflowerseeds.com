@@ -59,11 +59,22 @@ export default function RootLayout({
 }) {
   return (
     <>
+      {/* GA4 is deferred to `lazyOnload` (fires after window load) rather than
+          `afterInteractive`. gtag.js is 159KB — 21% of the homepage's 755KB
+          total and the single largest resource on the page, larger than our own
+          main bundle. Under Lighthouse's throttled mobile profile that weight
+          lands inside the LCP window for a script that contributes nothing to
+          rendering. Deferring it takes that transfer out of the critical path.
+
+          Trade-off: pageviews are recorded after window load instead of after
+          hydration, so visitors who leave within the first second or two may go
+          uncounted. If analytics completeness matters more than LCP here, move
+          both tags back to "afterInteractive". */}
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-        strategy="afterInteractive"
+        strategy="lazyOnload"
       />
-      <Script id="ga4-init" strategy="afterInteractive">
+      <Script id="ga4-init" strategy="lazyOnload">
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
