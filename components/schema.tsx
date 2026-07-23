@@ -12,6 +12,25 @@ const orgRef = {
   url: BASE_URL,
 }
 
+// Shared terms applied to every catalog Offer. Wholesale is quote-based, so
+// there is no public unit price to state. Rather than leave the Offer empty
+// (bare `itemOffered`) or fabricate a `price`, each Offer carries the terms
+// that ARE true: it is in stock, sold by XingYi, and priced on request. The
+// PriceSpecification states the currency + quote model without inventing a
+// number, so the Offer is a complete, non-misleading node.
+const wholesaleOfferTerms = {
+  availability: "https://schema.org/InStock",
+  businessFunction: "http://purl.org/goodrelations/v1#Sell",
+  seller: { "@id": `${BASE_URL}/#organization` },
+  priceSpecification: {
+    "@type": "PriceSpecification",
+    priceCurrency: "USD",
+    valueAddedTaxIncluded: false,
+    description:
+      "Wholesale, quote-based — contact for pricing (minimum order: full container load).",
+  },
+}
+
 // ── Organization (homepage / about) ───────────────────────────────────────
 export function SchemaOrganization() {
   const schema = {
@@ -63,29 +82,48 @@ export function SchemaOrganization() {
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Sunflower Seed Product Range",
+      // Each Offer carries the shared quote-based wholesale terms (in stock,
+      // sold by XingYi, priced on request — see wholesaleOfferTerms) and a
+      // substantive nested Product (brand / category / description) instead of
+      // a bare name+url stub. No price is fabricated.
       itemListElement: [
         {
           "@type": "Offer",
+          ...wholesaleOfferTerms,
           itemOffered: {
             "@type": "Product",
             name: "361 Series Sunflower Seeds",
             url: `${BASE_URL}/products/361-series`,
+            brand: { "@type": "Brand", name: COMPANY_NAME },
+            category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
+            description:
+              "General-purpose, volume-friendly confectionery grade — plump, aromatic kernels for snacking, baking, garnishing, and cost-optimized private-label packaging.",
           },
         },
         {
           "@type": "Offer",
+          ...wholesaleOfferTerms,
           itemOffered: {
             "@type": "Product",
             name: "363 Series Sunflower Seeds",
             url: `${BASE_URL}/products/363-series`,
+            brand: { "@type": "Brand", name: COMPANY_NAME },
+            category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
+            description:
+              "Premium raw grade — organically grown, pesticide-free, with a consistently rich flavor, suited to branded and health-focused retail lines.",
           },
         },
         {
           "@type": "Offer",
+          ...wholesaleOfferTerms,
           itemOffered: {
             "@type": "Product",
             name: "Tongqing No.6 (TQ6) Series Sunflower Seeds",
             url: `${BASE_URL}/products/tq6-series`,
+            brand: { "@type": "Brand", name: COMPANY_NAME },
+            category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
+            description:
+              "A distinct, named cultivar with a larger kernel and richer flavor than the general 361/363 grade codes, sourced from Inner Mongolia.",
           },
         },
       ],
@@ -101,6 +139,16 @@ export function SchemaOrganization() {
 }
 
 // ── FAQPage (pages with FAQ sections) ─────────────────────────────────────
+// Kept intentionally, NOT removed and NOT converted to QAPage:
+//   • Google retired the FAQ rich result for all sites on 2026-05-07, so this
+//     no longer earns a SERP feature — but it is valid, matches the visible
+//     Accordion content 1:1, and still aids LLM/answer-engine parsing. Removal
+//     would only lose that, so we leave it in place.
+//   • It stays FAQPage (not QAPage) because the entries are company-authored
+//     Q&A. QAPage is for a single question with multiple user-submitted
+//     answers (forum/community), which does not describe this content.
+// Do not re-add FAQPage elsewhere purely for Google SERP benefit, and do not
+// claim a confirmed AI-citation benefit from it.
 export function SchemaFAQ({ items }: { items: { q: string; a: string }[] }) {
   const schema = {
     "@context": "https://schema.org",

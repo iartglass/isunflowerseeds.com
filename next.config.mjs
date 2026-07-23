@@ -19,6 +19,17 @@ const nextConfig = {
   // (see BLOG-CALENDAR-Q3-2026.md).
   async redirects() {
     return [
+      // 0. Canonical host — force www → non-www (301) across every path.
+      // The www subdomain resolves to this same app and returned 200 directly;
+      // a server-side 301 (not just the canonical tag) consolidates signals and
+      // eliminates the duplicate-host risk. Placed first so it wins for any path.
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.isunflowerseeds.com" }],
+        destination: "https://isunflowerseeds.com/:path*",
+        permanent: true,
+      },
+
       // 1. Structural pages
       // Note: /about and /contact need no entry — old and new URLs are identical paths
       { source: "/blogs", destination: "/blog", permanent: true },
@@ -163,6 +174,15 @@ const nextConfig = {
       { source: "/sunflower-seed-packaging", destination: "/contact", permanent: true },
       { source: "/sunflower-seed-market-trends", destination: "/contact", permanent: true },
       { source: "/sunflower-seed-biotechnology", destination: "/", permanent: true },
+
+      // 5. Blog pagination (see URL-REDIRECT-MAP.md §5)
+      // WordPress generated these from the blog index, so they never appeared in
+      // a sitemap and were missed by the original migration pass. Search Console
+      // showed /blog/page/9 and /blog/page/11 still drawing impressions while
+      // 404ing here. One wildcard covers every depth the old site exposed; the
+      // new blog index is a single page, so they all resolve to /blog.
+      // Safe against /blog/[slug]: post URLs are one segment, this needs two.
+      { source: "/blog/page/:n", destination: "/blog", permanent: true },
     ]
   },
   async headers() {
