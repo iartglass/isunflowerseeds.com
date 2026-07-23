@@ -256,6 +256,18 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                   ))}
                 </div>
 
+                {["Health & Nutrition", "Beauty & Wellness"].includes(post.category) && (
+                  <aside className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 px-5 py-4 text-sm leading-relaxed text-gray-600 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400">
+                    <strong className="font-semibold text-gray-700 dark:text-gray-300">
+                      Note:
+                    </strong>{" "}
+                    This article is for general information only and is not medical advice.
+                    XingYi Trading is a sunflower seed supplier, not a medical provider — consult
+                    a qualified professional for health decisions. Nutritional figures are drawn
+                    from public sources such as USDA FoodData Central and the NIH.
+                  </aside>
+                )}
+
                 {post.relatedSeries && post.relatedSeries.length > 0 && (
                   <div className="mt-16">
                     <h3 className="text-lg font-bold mb-4 text-gray-900">Featured in This Article</h3>
