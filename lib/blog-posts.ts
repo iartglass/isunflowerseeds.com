@@ -719,15 +719,23 @@ export const blogPosts: BlogPost[] = [
           caption: "A 100g portion is roughly this much — the reference amount used in standard nutrition data.",
         },
         body: [
-          "Sunflower seeds are calorie-dense, which can sound like the opposite of what a weight-conscious diet needs — but the combination of protein, fiber, and healthy fats they provide plays a real role in appetite regulation when portioned sensibly. Figures below are for raw, dried kernels, per [USDA FoodData Central](https://fdc.nal.usda.gov/):",
+          "Sunflower seeds are calorie-dense, which can sound like the opposite of what a weight-conscious diet needs — but the combination of protein, fiber, and healthy fats they provide plays a real role in appetite regulation when portioned sensibly. Figures below are for raw, dried kernels per [USDA FoodData Central](https://fdc.nal.usda.gov/); the 30g column is roughly a 1-2 tablespoon serving, and %DV uses the FDA adult Daily Value:",
         ],
-        list: [
-          "Protein: 20.78g",
-          "Fiber: 8.6g",
-          "Healthy fats: 51.46g",
-          "Vitamin E: 35.17mg",
-          "Magnesium: 325mg",
-        ],
+        table: {
+          headers: ["Nutrient", "Per 100g", "Per 30g serving", "% DV (per 100g)"],
+          rows: [
+            ["Energy", "584 kcal", "175 kcal", "—"],
+            ["Protein", "20.78g", "6.2g", "42%"],
+            ["Fiber", "8.6g", "2.6g", "31%"],
+            ["Total fat", "51.46g", "15.4g", "66%"],
+            ["Vitamin E", "35.17mg", "10.6mg", "234%"],
+            ["Magnesium", "325mg", "98mg", "77%"],
+            ["Selenium", "53µg", "16µg", "96%"],
+            ["Copper", "1.8mg", "0.54mg", "200%"],
+            ["Zinc", "5.0mg", "1.5mg", "45%"],
+            ["Phosphorus", "660mg", "198mg", "53%"],
+          ],
+        },
       },
       {
         heading: "How Do These Nutrients Support Weight Management?",
@@ -934,6 +942,17 @@ export const blogPosts: BlogPost[] = [
           "Within Heading 1206, the exact subheading depends on the product's processing state. In the EU's Combined Nomenclature, for example, code 1206 00 10 covers sunflower seed \"for sowing\" (planting seed, not relevant to food-grade product), 1206 00 91 covers shelled (dehulled kernel), and 1206 00 99 is the residual \"other\" category that typically covers in-shell seed not intended for sowing. In the US, HTS code 1206.00.0069 specifically covers \"sunflower seeds for human use, shelled.\"",
           "Because the exact subheading can depend on processing state (in-shell vs. shelled) and destination-country ruling precedent, always confirm the precise classification with a licensed customs broker for your specific destination market and product form before relying on it for a customs filing.",
         ],
+        table: {
+          headers: ["Product form", "Code", "System"],
+          rows: [
+            ["Sunflower seeds, whether or not broken (root heading)", "1206.00", "Global HS (6-digit)"],
+            ["Seed for sowing (planting)", "1206 00 10", "EU Combined Nomenclature"],
+            ["Shelled (dehulled kernel)", "1206 00 91", "EU Combined Nomenclature"],
+            ["In-shell, not for sowing", "1206 00 99", "EU Combined Nomenclature"],
+            ["In-shell, not for sowing (full import code)", "1206009900", "EU TARIC (10-digit)"],
+            ["Shelled, for human use", "1206.00.0069", "US HTS (10-digit)"],
+          ],
+        },
       },
       {
         heading: "How Do You Actually Look Up the Correct Tariff Code?",
@@ -1284,6 +1303,15 @@ export const blogPosts: BlogPost[] = [
           "Smaller variants (10-20kg) with BOPP lamination for added moisture resistance and print quality, used in some markets",
           "FIBC / jumbo bags — bulk bags for larger-volume shipments, generally used where handling equipment supports bigger unit loads",
         ],
+        table: {
+          headers: ["Format", "Size", "Material", "Best for"],
+          rows: [
+            ["PP woven bag (standard)", "25kg / 50kg", "Polypropylene woven", "Standard bulk export"],
+            ["Small woven / laminated bag", "10-20kg", "BOPP-laminated (moisture + print)", "Markets needing retail-ready print"],
+            ["FIBC / jumbo bag", "Large unit loads", "Flexible intermediate bulk container", "High-volume loads with handling equipment"],
+            ["Vacuum-sealed pack", "Retail unit", "Vacuum film", "Higher-value retail packs (not raw bulk)"],
+          ],
+        },
       },
       {
         heading: "What Makes a Good Export Bag for Sunflower Seeds?",
