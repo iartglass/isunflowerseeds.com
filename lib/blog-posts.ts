@@ -316,15 +316,14 @@ export const blogPosts: BlogPost[] = [
           caption: "A light application of sunflower seed oil for deep conditioning.",
         },
         body: [
-          "Sunflower seed oil has a growing following as a natural hair care ingredient — light enough for daily use, but rich in the fatty acids and antioxidants that support scalp and strand health.",
+          "Sunflower seed oil has a growing following as a natural hair care ingredient — light enough for daily use, but rich in the fatty acids and antioxidants that support scalp and strand health. It works as a lightweight emollient that coats and smooths the hair shaft rather than changing the hair's biology.",
+          "We don't present it as a hair-growth or color-protection treatment: there's no reliable clinical evidence that topical sunflower oil regrows hair or prevents color fade, so we've left those popular DIY claims out.",
         ],
         list: [
           "Deep conditioning — mix with honey and lavender essential oil, apply for 30 minutes before shampooing",
-          "Scalp health — gentle massage 2-3 times weekly to address dryness and flaking",
-          "Frizz control — a few drops on damp hair before styling smooths the cuticle",
-          "Growth support — nightly scalp massage combined with rosemary and peppermint essential oils",
-          "Split-end care — 2-7 drops depending on hair length temporarily seals split ends",
-          "Color protection — a mask of oil, egg yolk, and honey applied for 20 minutes helps guard against fade",
+          "Scalp comfort — a gentle massage 2-3 times weekly can ease the feeling of a dry, flaky scalp",
+          "Frizz control — a few drops on damp hair before styling coats and smooths the cuticle",
+          "Split-end appearance — 2-7 drops (by hair length) temporarily smooth how split ends look; the oil coats rather than repairs them, and the effect washes out at the next shampoo",
         ],
       },
       {
@@ -406,14 +405,14 @@ export const blogPosts: BlogPost[] = [
           caption: "The Hetao Irrigation Area's farmland around Wuyuan County, the heart of Bayannur's sunflower region.",
         },
         body: [
-          "Wuyuan County, part of Bayannur, is known locally as the \"hometown of sunflowers\" and is home to the largest sunflower-themed park and scenic area in China, set within the Hetao Irrigation Area's farmland. From July through October each year, the blooming fields draw a steady stream of visitors and photographers — the same window that runs from early flowering through to harvest.",
+          "Wuyuan County, part of Bayannur, is known locally as the \"hometown of sunflowers\" — and it earns the name: it is China's single largest sunflower-planting county, accounting for roughly one-seventh of the national sunflower acreage (about 1.2 million mu), [as regional reporting notes](http://www.goinnermongolia.com.cn/2024-03/19/c_972386.htm). From July through October each year, the blooming fields across the Hetao Irrigation Area draw a steady stream of visitors and photographers — the same window that runs from early flowering through to harvest.",
           "The scenic area exists because the crop does: a working farm landscape that also happens to be worth visiting, rather than a tourist attraction built around agriculture as a backdrop.",
         ],
       },
       {
         heading: "What Other Cultural Traditions Surround the Sunflower Harvest in Bayannur?",
         body: [
-          "Beyond the scenic area and the international conference, harvest season in Bayannur carries a set of smaller, more local traditions that don't make international news coverage but shape daily life during the season. Family-run roadside stalls selling freshly roasted seeds appear throughout rural townships as harvest wraps up, often the first indication that a new crop year's seeds have reached market. Local cooking competitions, judged informally by community members rather than professional chefs, showcase regional variations on roasted and seasoned seeds passed down within families rather than published recipes.",
+          "We're based in Bayannur, so this part is what we see locally rather than anything you'll find in an export report. Beyond the scenic area and the international conference, harvest season carries a set of smaller, more local traditions that don't make international news coverage but shape daily life during the season. Family-run roadside stalls selling freshly roasted seeds appear throughout rural townships as harvest wraps up, often the first indication that a new crop year's seeds have reached market. Local cooking competitions, judged informally by community members rather than professional chefs, showcase regional variations on roasted and seasoned seeds passed down within families rather than published recipes.",
           "Photography has also become its own minor seasonal industry around the blooming fields — professional and amateur photographers travel specifically for the bloom window, and several local businesses have grown up around renting traditional clothing for photos against the sunflower backdrop. None of this is centrally organized the way the Wuyuan Scenic Area or the International Sunflower Conference are; it's closer to how harvest festivals function in any agricultural region deeply tied to a single crop; small, distributed, and genuinely part of daily life rather than staged for visitors.",
         ],
       },
@@ -426,6 +425,9 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: "How Long Should You Roast Each Sunflower Seed Series?",
+        body: [
+          "These are the roast times we recommend for our own three series, based on our processing experience — treat them as starting points and adjust to your equipment:",
+        ],
         list: [
           "Light Roast (361 Series): 10-12 minutes",
           "Medium Roast (363 Series): 13-15 minutes",
@@ -954,7 +956,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "How Does HS Classification Connect to US FDA Requirements?",
         body: [
-          "For US-bound shipments specifically, HS/HTS classification and FDA compliance are two separate but connected steps — correct classification determines the duty and entry process at US Customs and Border Protection (CBP), while FDA's Prior Notice system requires advance notice of the shipment before it arrives, and CBP will not release a food shipment without proof that Prior Notice was filed. As of a 2025 policy update, CBP requires that all FDA-regulated products, regardless of quantity or value, be submitted to FDA for review. See our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for how this fits into the broader US import process.",
+          "For US-bound shipments specifically, HS/HTS classification and FDA compliance are two separate but connected steps — correct classification determines the duty and entry process at US Customs and Border Protection (CBP), while FDA's Prior Notice system requires advance notice of the shipment before it arrives, and CBP will not release a food shipment without proof that Prior Notice was filed. Prior Notice is an FDA requirement under the 2002 Bioterrorism Act — filed electronically through CBP's ACE/ABI or FDA's own Prior Notice System Interface and confirmed before arrival (no less than 8 hours for ocean freight, 4 hours for air, 2 hours for road); a [September 2025 amendment](https://www.fda.gov/industry/fda-import-process/prior-notice-imported-foods) added a mail-tracking-number requirement specifically for food arriving by international mail, and does not change the filing rules for ocean containers. See our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for how this fits into the broader US import process.",
         ],
       },
       {
