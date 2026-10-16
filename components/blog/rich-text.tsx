@@ -3,14 +3,14 @@ import { ExternalLink } from "lucide-react"
 
 import { isPublishedSlug } from "@/lib/blog-posts"
 
-// Parses inline markdown-style links "[anchor text](url)" out of a plain string.
+// Parses inline markdown-style links "[anchor text](url)" and **bold** spans out of a plain string.
 // Internal links (href starts with "/") render as Next.js <Link>; external links
 // (href starts with "http") open in a new tab with an external-link icon and rel=noopener.
 // A /blog/<slug> link whose target post is not yet published (scheduled in the
 // future, so the page would 404) is rendered as plain text instead of a dead
 // link — it self-heals into a real link once that post's date arrives.
 export function RichText({ text }: { text: string }) {
-  const pattern = /\[([^\]]+)\]\(([^)]+)\)/g
+  const pattern = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g
   const nodes: React.ReactNode[] = []
   let lastIndex = 0
   let match: RegExpExecArray | null
@@ -19,6 +19,11 @@ export function RichText({ text }: { text: string }) {
   while ((match = pattern.exec(text)) !== null) {
     if (match.index > lastIndex) {
       nodes.push(text.slice(lastIndex, match.index))
+    }
+    if (match[3] !== undefined) {
+      nodes.push(<strong key={key++}>{match[3]}</strong>)
+      lastIndex = pattern.lastIndex
+      continue
     }
     const [, label, href] = match
     if (href.startsWith("http")) {

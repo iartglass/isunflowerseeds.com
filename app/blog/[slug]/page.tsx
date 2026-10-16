@@ -68,7 +68,7 @@ function initials(name: string) {
 }
 
 function stripLinks(text: string) {
-  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").replace(/\*\*([^*]+)\*\*/g, "$1")
 }
 
 // FAQPage schema for sections genuinely phrased as a question with a direct

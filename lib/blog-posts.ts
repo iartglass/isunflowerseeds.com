@@ -64,7 +64,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Quick Answer",
         "body": [
-          "To buy bulk sunflower seeds from China, specify the series (361, 363 or Tongqing No.6), the bag format (25 kg and 50 kg PP woven bags are the standard export sacks), and your destination port. Then choose full or partial container shipping and an Incoterm such as FOB. Confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026)."
+          "To buy sunflower seeds in bulk from China, specify the series (361, 363 or Tongqing No.6) and the bag format. The standard export sacks are 25 kg and 50 kg PP woven bags. Next, name your destination port, then choose full or partial container shipping and an Incoterm such as FOB. Finally, confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026)."
         ]
       },
       {
@@ -74,15 +74,15 @@ export const blogPosts: BlogPost[] = [
           "Incoterms are 11 rules issued by the International Chamber of Commerce that set who bears cost and risk in an international sale ([trade.gov](https://www.trade.gov/know-your-incoterms)).",
           "There is no universal volume at which a full container beats a shared one, so quote both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
           "XingYi Trading runs 9 production lines with up to 300 tons of daily output (XingYi Trading company data, 2026).",
-          "The phytosanitary certificate and certificate of origin are the two documents most likely to hold up clearance, because government bodies issue them on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
+          "Two documents most often hold up clearance: the phytosanitary certificate and the certificate of origin. Government bodies issue both on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
         ]
       },
       {
         "heading": "Key Terms",
         "body": [
-          "Bulk sunflower seeds are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags for repacking, private label or distribution, rather than in retail packs.",
-          "MOQ (minimum order quantity) is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
-          "An Incoterm is a standard trade term that splits cost and risk between seller and buyer. FOB (Free on Board) puts the handover at the port of loading, while CIF (Cost, Insurance and Freight) has the seller arrange freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
+          "**Bulk sunflower seeds** are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags. Buyers use them for repacking, private label or distribution rather than retail packs.",
+          "**Minimum order quantity (MOQ)** is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
+          "An **Incoterm** is a standard trade term that splits cost and risk between seller and buyer. **FOB (Free on Board)** is an Incoterm that puts the handover at the port of loading. **CIF (Cost, Insurance and Freight)** is an Incoterm under which the seller arranges freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
         ]
       },
       {
@@ -98,7 +98,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Size grading with calipers: confirm the kernel and shell size you need before quoting. Photo: XingYi Trading facility."
         },
         "body": [
-          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed and pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
+          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed. They pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
           "Then write down the grade details you will hold the supplier to: moisture, purity and size. Our guides to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards) and [common seed defects](/blog/sunflower-seed-defects-quality-inspection) list what to ask for."
         ],
         "table": {
@@ -134,21 +134,21 @@ export const blogPosts: BlogPost[] = [
           "caption": "Automated bagging into PP woven sacks. Photo: XingYi Trading facility."
         },
         "body": [
-          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment, and laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
+          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment. Laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
           "Private-label printing is generally possible, but minimums, artwork lead times and cost vary by order, so confirm them in writing. See [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) and [vacuum-sealed vs standard bags](/blog/vacuum-sealed-vs-standard-export-bags)."
         ]
       },
       {
         "heading": "Should You Ship a Full Container or a Shared One?",
         "body": [
-          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. The two are not separated by a fixed volume: one freight source states there is no universal threshold at which FCL becomes cheaper, and advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
-          "This is why supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
+          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. No fixed volume separates the two. One freight source states there is no universal threshold at which FCL becomes cheaper, so it advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "For this reason, supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
         ]
       },
       {
         "heading": "Which Incoterm Should You Choose for a First Order?",
         "body": [
-          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
+          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. In contrast, CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
           "Whichever you pick, compare quotes on the same term. Our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) explains what moves the price."
         ]
       },
@@ -190,7 +190,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Do You Verify a Supplier Before Paying?",
         "body": [
-          "Ask for the certifications the supplier holds, request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion ([third-party inspection guide](/blog/third-party-inspection-sunflower-seeds)).",
+          "First, ask for the certifications the supplier holds. Then request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion ([third-party inspection guide](/blog/third-party-inspection-sunflower-seeds)).",
           "Our checklist of [questions to ask a supplier](/blog/what-to-ask-sunflower-seed-supplier) and the comparison of [buying direct versus through a trading company](/compare) cover the rest."
         ]
       },
@@ -202,7 +202,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "The four-step order process as run by XingYi Trading (XingYi Trading company data, 2026)."
         },
         "body": [
-          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. Put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
+          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. In practice, put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
         ]
       },
       {
@@ -1120,7 +1120,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Ready to Start Sourcing Sunflower Seeds From China?",
         body: [
-          "XingYi Trading exports confectionery-type 361, 363, and Tongqing No.6 sunflower seeds from our own facility in Bayannur, Inner Mongolia. [Request samples and a specification sheet](/contact#quote-form) to start the process, or browse our [product series](/products) to see grade specifications for each.",
+          "XingYi Trading exports confectionery-type 361, 363, and Tongqing No.6 sunflower seeds from our own facility in Bayannur, Inner Mongolia. [Request samples and a specification sheet](/contact#quote-form) to start the process, or browse our [product series](/products) to see grade specifications for each. For a shorter decision checklist, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide).",
         ],
       },
     ],
@@ -1594,7 +1594,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Ready to Discuss Packaging for Your Order?",
         body: [
-          "[Request a quote](/contact#quote-form) with your target bag size, branding needs, and order volume, and we'll confirm packaging options for your specific shipment.",
+          "[Request a quote](/contact#quote-form) with your target bag size, branding needs, and order volume, and we'll confirm packaging options for your specific shipment. To see how packaging fits the rest of an order, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide).",
         ],
       },
     ],
@@ -1906,7 +1906,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Confirm MOQ for Your Order",
         body: [
-          "[Request a quote](/contact#quote-form) with your target volume and destination, and our team will confirm what we can supply.",
+          "[Request a quote](/contact#quote-form) with your target volume and destination, and our team will confirm what we can supply. For the full buying process, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide).",
         ],
       },
     ],
@@ -2006,7 +2006,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Get a Quote With Your Preferred Incoterm",
         body: [
-          "[Request a quote](/contact#quote-form) and let us know whether you'd prefer FOB, CIF, or another arrangement, and we'll confirm terms for your order.",
+          "[Request a quote](/contact#quote-form) and let us know whether you'd prefer FOB, CIF, or another arrangement, and we'll confirm terms for your order. For the wider buying checklist, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide).",
         ],
       },
     ],
@@ -2790,7 +2790,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Plan Your Container Loading",
         body: [
-          "[Request a quote](/contact#quote-form) with your target volume, and we'll help confirm whether FCL or LCL fits your order best.",
+          "[Request a quote](/contact#quote-form) with your target volume, and we'll help confirm whether FCL or LCL fits your order best. For the other decisions on a first order, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide).",
         ],
       },
     ],
