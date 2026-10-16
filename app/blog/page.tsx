@@ -47,7 +47,7 @@ export default function BlogPage() {
       <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="/images/ai-blog-hero-seeds-flatlay.jpg"
+          src="/images/ai-blog-hero-seeds-flatlay.webp"
           alt="A bowl of sunflower seeds, seed butter toast, and scattered petals on a rustic table"
           fill
           className="object-cover"

@@ -56,7 +56,7 @@ export const blogPosts: BlogPost[] = [
     category: "Recipes & Cooking",
     date: "2024-08-25",
     author: "James Feng",
-    image: "/images/ai-salad-sunflower-seeds.jpg",
+    image: "/images/ai-salad-sunflower-seeds.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -176,7 +176,7 @@ export const blogPosts: BlogPost[] = [
     category: "Recipes & Cooking",
     date: "2024-08-15",
     author: "James Feng",
-    image: "/images/ai-pesto-sunflower-seed.jpg",
+    image: "/images/ai-pesto-sunflower-seed.webp",
     relatedSeries: ["363-series", "tq6-series"],
     sections: [
       {
@@ -377,7 +377,7 @@ export const blogPosts: BlogPost[] = [
     category: "Culture",
     date: "2024-08-23",
     author: "James Feng",
-    image: "/images/ai-sunflower-field-thriving.jpg",
+    image: "/images/ai-sunflower-field-thriving.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -577,7 +577,7 @@ export const blogPosts: BlogPost[] = [
     category: "Harvesting & Storage",
     date: "2024-08-20",
     author: "James Feng",
-    image: "/images/ai-sunflower-heads-hanging-dry.jpg",
+    image: "/images/ai-sunflower-heads-hanging-dry.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -679,7 +679,7 @@ export const blogPosts: BlogPost[] = [
     category: "Health & Nutrition",
     date: "2024-08-13",
     author: "James Feng",
-    image: "/images/ai-seeds-bowl-portion.jpg",
+    image: "/images/ai-seeds-bowl-portion.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -806,7 +806,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-08",
     author: "James Feng",
-    image: "/images/facility-exterior-1.jpg",
+    image: "/images/facility-exterior-1.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -927,7 +927,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-09",
     author: "James Feng",
-    image: "/images/ai-customs-documents-desk.jpg",
+    image: "/images/ai-customs-documents-desk.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1166,7 +1166,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-07-16",
     author: "James Feng",
-    image: "/images/quality-inspection-founder.jpg",
+    image: "/images/quality-inspection-founder.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1401,7 +1401,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-23",
     author: "James Feng",
-    image: "/images/facility-gate.jpg",
+    image: "/images/facility-gate.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1506,7 +1506,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-29",
     author: "James Feng",
-    image: "/images/ai-port-cargo-weighing.jpg",
+    image: "/images/ai-port-cargo-weighing.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1613,7 +1613,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-07-30",
     author: "James Feng",
-    image: "/images/warehouse-storage.jpg",
+    image: "/images/warehouse-storage.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1713,7 +1713,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-08-05",
     author: "James Feng",
-    image: "/images/ai-incoterms-port-handoff.jpg",
+    image: "/images/ai-incoterms-port-handoff.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1813,7 +1813,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-08-06",
     author: "James Feng",
-    image: "/images/ai-middle-east-market.jpg",
+    image: "/images/ai-middle-east-market.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -1911,7 +1911,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-08-12",
     author: "James Feng",
-    image: "/images/ai-southeast-asia-market.jpg",
+    image: "/images/ai-southeast-asia-market.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2003,7 +2003,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-08-13",
     author: "James Feng",
-    image: "/images/ai-north-america-warehouse.jpg",
+    image: "/images/ai-north-america-warehouse.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2491,7 +2491,7 @@ export const blogPosts: BlogPost[] = [
     category: "Logistics & Packaging",
     date: "2026-09-02",
     author: "James Feng",
-    image: "/images/ai-cargo-port-containers.jpg",
+    image: "/images/ai-cargo-port-containers.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2698,7 +2698,7 @@ export const blogPosts: BlogPost[] = [
     category: "Logistics & Packaging",
     date: "2026-09-09",
     author: "James Feng",
-    image: "/images/ai-vacuum-sealed-bag-macro.jpg",
+    image: "/images/ai-vacuum-sealed-bag-macro.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2797,7 +2797,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-09-10",
     author: "James Feng",
-    image: "/images/ai-lab-testing-seeds.jpg",
+    image: "/images/ai-lab-testing-seeds.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2895,7 +2895,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-09-16",
     author: "James Feng",
-    image: "/images/ai-sunflower-harvest-combine.jpg",
+    image: "/images/ai-sunflower-harvest-combine.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -2993,7 +2993,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-09-17",
     author: "James Feng",
-    image: "/images/ai-inner-mongolia-farmland-landscape.jpg",
+    image: "/images/ai-inner-mongolia-farmland-landscape.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3091,7 +3091,7 @@ export const blogPosts: BlogPost[] = [
     category: "Regional Markets",
     date: "2026-09-23",
     author: "James Feng",
-    image: "/images/ai-processing-facility-aerial.jpg",
+    image: "/images/ai-processing-facility-aerial.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3189,7 +3189,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-10-01",
     author: "James Feng",
-    image: "/images/ai-export-documents-desk-stamp.jpg",
+    image: "/images/ai-export-documents-desk-stamp.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3292,7 +3292,7 @@ export const blogPosts: BlogPost[] = [
     category: "Logistics & Packaging",
     date: "2026-10-07",
     author: "James Feng",
-    image: "/images/ai-freight-coordination-desk.jpg",
+    image: "/images/ai-freight-coordination-desk.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3399,7 +3399,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-10-08",
     author: "James Feng",
-    image: "/images/ai-bank-wire-transfer-desk.jpg",
+    image: "/images/ai-bank-wire-transfer-desk.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3502,7 +3502,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-10-14",
     author: "James Feng",
-    image: "/images/ai-seed-comparison-magnifier.jpg",
+    image: "/images/ai-seed-comparison-magnifier.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3608,7 +3608,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-10-15",
     author: "James Feng",
-    image: "/images/ai-third-party-inspector-warehouse.jpg",
+    image: "/images/ai-third-party-inspector-warehouse.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3714,7 +3714,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-10-21",
     author: "James Feng",
-    image: "/images/ai-quality-audit-clipboard.jpg",
+    image: "/images/ai-quality-audit-clipboard.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3821,7 +3821,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-10-22",
     author: "James Feng",
-    image: "/images/ai-certification-binder-facility.jpg",
+    image: "/images/ai-certification-binder-facility.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -3924,7 +3924,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-10-28",
     author: "James Feng",
-    image: "/images/ai-cargo-ship-departing-port.jpg",
+    image: "/images/ai-cargo-ship-departing-port.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4038,7 +4038,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-10-29",
     author: "James Feng",
-    image: "/images/global-export-map.jpg",
+    image: "/images/global-export-map.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4148,7 +4148,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-11-04",
     author: "James Feng",
-    image: "/images/packaging-worker.jpg",
+    image: "/images/packaging-worker.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4262,7 +4262,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-11-05",
     author: "James Feng",
-    image: "/images/ai-seeds-bowl-portion.jpg",
+    image: "/images/ai-seeds-bowl-portion.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4374,7 +4374,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-11-11",
     author: "James Feng",
-    image: "/images/20210810160124s.jpg",
+    image: "/images/20210810160124s.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4479,7 +4479,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-11-12",
     author: "James Feng",
-    image: "/images/facility-gate.jpg",
+    image: "/images/facility-gate.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4585,7 +4585,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-11-19",
     author: "James Feng",
-    image: "/images/ai-contract-signing-desk.jpg",
+    image: "/images/ai-contract-signing-desk.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4700,7 +4700,7 @@ export const blogPosts: BlogPost[] = [
     category: "Quality & Sourcing",
     date: "2026-11-25",
     author: "James Feng",
-    image: "/images/processing-line.jpg",
+    image: "/images/processing-line.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4812,7 +4812,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-12-02",
     author: "James Feng",
-    image: "/images/ai-cny-quiet-container-yard.jpg",
+    image: "/images/ai-cny-quiet-container-yard.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -4918,7 +4918,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-12-03",
     author: "James Feng",
-    image: "/images/ai-customs-duty-calculator-desk.jpg",
+    image: "/images/ai-customs-duty-calculator-desk.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {
@@ -5141,7 +5141,7 @@ export const blogPosts: BlogPost[] = [
     category: "Importing & Trade",
     date: "2026-12-10",
     author: "James Feng",
-    image: "/images/ai-q1-planning-calendar-desk.jpg",
+    image: "/images/ai-q1-planning-calendar-desk.webp",
     relatedSeries: ["361-series", "363-series", "tq6-series"],
     sections: [
       {

@@ -75,12 +75,15 @@ export default function Series361Page() {
       {/* Hero Section */}
       <section className="relative h-[450px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
-        <Image
-          src="/images/361-1.jpg"
+        {/* Plain <img> with a manual srcset: images.unoptimized is set (see next.config.mjs), so
+            next/image would serve the 2000px file to mobile visitors too. */}
+        <img
+          src="/images/361-1.webp"
+          srcSet="/images/361-1-mobile.webp 800w, /images/361-1.webp 2000w"
+          sizes="100vw"
           alt="361 Series sunflower seeds"
-          fill
-          className="object-cover"
-          priority
+          fetchPriority="high"
+          className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="relative z-20 container mx-auto px-4 h-full flex flex-col justify-center items-center text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">361 Series Sunflower Seeds</h1>

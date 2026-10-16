@@ -306,7 +306,7 @@ const products = [
     title: "361 Series Sunflower Seeds",
     description:
       "Packed with nutrients and perfect for snacking, baking, or garnishing — a versatile, high-quality kernel.",
-    image: "/images/361-1.jpg",
+    image: "/images/361-1-mobile.webp",
     link: "/products/361-series",
   },
   {
