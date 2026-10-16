@@ -3706,7 +3706,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "supplier-self-audit-checklist-sunflower-seeds",
     title: "Supplier Self-Audit Checklist: What to Confirm Before You Commit to an Order",
-    seoTitle: "Supplier Self-Audit Checklist for Sunflower Seed Buyers",
+    seoTitle: "Supplier Self-Audit Checklist for Seed Buyers",
     seoDescription:
       "A structured checklist for evaluating a sunflower seed supplier on your own, so you know what to confirm before a paid third-party audit or a bulk order.",
     excerpt:
@@ -3813,7 +3813,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "brc-vs-ifs-certification-sunflower-seeds",
     title: "BRC vs. IFS: Food Safety Certifications Sunflower Seed Buyers Should Ask About",
-    seoTitle: "BRC vs IFS: Food Safety Certifications for Sunflower Seeds",
+    seoTitle: "BRC vs IFS Certifications for Sunflower Seeds",
     seoDescription:
       "How BRC and IFS, two common GFSI-recognized food safety certifications, differ, and which one your destination market's retailers are likely to expect.",
     excerpt:
@@ -3916,7 +3916,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "fsvp-sunflower-seed-importers",
     title: "FSVP Explained: What FDA's Foreign Supplier Verification Program Means for Sunflower Seed Importers",
-    seoTitle: "FSVP for Sunflower Seed Importers: What FDA Requires",
+    seoTitle: "FSVP for Sunflower Seed Importers",
     seoDescription:
       "What the FDA's Foreign Supplier Verification Program requires of US importers bringing in sunflower seeds, who is responsible, and how it fits your paperwork.",
     excerpt:
@@ -4030,7 +4030,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "fda-prior-notice-imported-food",
     title: "FDA Prior Notice: What It Is and How to File It Before Your Shipment Arrives",
-    seoTitle: "FDA Prior Notice for Imported Food: How and When to File",
+    seoTitle: "FDA Prior Notice for Imported Food",
     seoDescription:
       "FDA Prior Notice filing windows and deadlines for a sunflower seed shipment arriving by ocean freight, and what happens if it is not filed correctly.",
     excerpt:
@@ -4140,7 +4140,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "private-label-sunflower-seeds",
     title: "Private-Label Sunflower Seeds: What Snack Brands and Distributors Should Know",
-    seoTitle: "Private-Label Sunflower Seeds for Snack Brands & Distributors",
+    seoTitle: "Private-Label Sunflower Seeds Guide",
     seoDescription:
       "How private-label sunflower seed manufacturing works for snack brands and distributors, from formulation through packaging and the supplier relationship.",
     excerpt:
@@ -4254,7 +4254,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-nutrition-facts-private-label",
     title: "Sunflower Seed Nutrition Facts for Your Private-Label Packaging",
-    seoTitle: "Sunflower Seed Nutrition Facts for Private-Label Packaging",
+    seoTitle: "Sunflower Seed Nutrition Facts for Labels",
     seoDescription:
       "USDA nutrition data for sunflower seeds, framed for buyers who need numbers for their own retail nutrition label rather than a general health overview.",
     excerpt:
@@ -4366,7 +4366,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "verify-supplier-trade-show-marketplace-direct",
     title: "Trade Shows, Marketplaces, or Direct From the Factory: How to Verify a Sunflower Seed Supplier No Matter Where You Found Them",
-    seoTitle: "How to Verify a Sunflower Seed Supplier: Any Sourcing Channel",
+    seoTitle: "How to Verify a Sunflower Seed Supplier",
     seoDescription:
       "Trade shows, B2B marketplaces, and direct outreach are different ways to find a supplier, but the verification steps that protect you are the same for each.",
     excerpt:
@@ -4471,9 +4471,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "repeat-orders-long-term-sunflower-seed-partner",
     title: "From First Container to Long-Term Partner: What Changes When You Become a Repeat Sunflower Seed Buyer",
-    seoTitle: "Repeat Sunflower Seed Orders: Building a Long-Term Partnership",
+    seoTitle: "Repeat Sunflower Seed Orders: Long-Term Partners",
     seoDescription:
-      "What changes operationally and commercially after a first order, and what is worth renegotiating once a real track record exists with a sunflower seed supplier.",
+      "What changes operationally and commercially after a first order, and what is worth renegotiating once a real track record exists with your supplier.",
     excerpt:
       "The first order is mostly about verification. What changes once you're on your second, third, or tenth — and what's worth renegotiating once a real track record exists.",
     category: "Quality & Sourcing",
@@ -4577,9 +4577,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-supply-contract-terms",
     title: "What to Put in a Sunflower Seed Supply Contract: Terms Experienced Buyers Insist On",
-    seoTitle: "Sunflower Seed Supply Contract: Terms Buyers Should Insist On",
+    seoTitle: "Sunflower Seed Supply Contract Terms",
     seoDescription:
-      "Price and quantity are the easy part. The specific terms experienced buyers put in writing to protect a sunflower seed supply relationship over multiple orders.",
+      "Price and quantity are the easy part. The terms experienced buyers put in writing to protect a sunflower seed supply relationship over multiple orders.",
     excerpt:
       "Price and quantity are the easy part. Here's what experienced buyers actually put in writing to protect a sunflower seed supply relationship over multiple orders.",
     category: "Importing & Trade",
@@ -4692,7 +4692,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "inside-sunflower-seed-processing-line",
     title: "Inside a Modern Sunflower Seed Processing Line: From Raw Seed to Export-Ready Bag",
-    seoTitle: "Inside a Sunflower Seed Processing Line: Raw Seed to Export",
+    seoTitle: "Inside a Sunflower Seed Processing Line",
     seoDescription:
       "A stage-by-stage walkthrough of what happens to raw sunflower seed between arriving at a processing facility and leaving as an export-ready, inspected bag.",
     excerpt:
@@ -4804,7 +4804,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "chinese-new-year-sunflower-seed-shipping",
     title: "How Chinese New Year Affects Sunflower Seed Shipping Timelines (And How to Plan Around It)",
-    seoTitle: "Chinese New Year & Sunflower Seed Shipping: Planning Guide",
+    seoTitle: "Chinese New Year & Sunflower Seed Shipping",
     seoDescription:
       "The Chinese New Year factory shutdown disrupts sunflower seed shipping for six to eight weeks, not one. How to plan a Q1 order around the closure window.",
     excerpt:
@@ -4910,9 +4910,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "us-china-tariffs-duty-drawback-sunflower-seeds",
     title: "How U.S.–China Tariffs Affect the Cost of Importing Sunflower Seeds (Including Duty Drawback)",
-    seoTitle: "US-China Tariffs & Sunflower Seed Import Costs: Duty Drawback",
+    seoTitle: "US-China Tariffs & Sunflower Seed Import Costs",
     seoDescription:
-      "A framework for how US-China tariffs affect sunflower seed import costs, why your HS subheading matters, and how duty drawback can recover duties on re-exports.",
+      "How US-China tariffs affect sunflower seed import costs, why your HS subheading matters, and how duty drawback can recover duties on re-exports.",
     excerpt:
       "Tariff status changes over time and depends on your exact HS subheading — here's the general framework for understanding the cost impact, plus how duty drawback can recover duties on re-exported product.",
     category: "Importing & Trade",
@@ -5019,9 +5019,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sample-approval-to-bulk-order-sunflower-seeds",
     title: "From Sample Approval to Bulk Order: What Happens Next When Sourcing Sunflower Seeds",
-    seoTitle: "From Sample Approval to Bulk Order: Sunflower Seed Sourcing",
+    seoTitle: "From Sample Approval to Bulk Order",
     seoDescription:
-      "Sample approval is the starting point, not the finish line: the steps between approving a sunflower seed sample and a container reaching your destination port.",
+      "Sample approval is a starting point, not the finish line: the steps between approving a sunflower seed sample and a container reaching your port.",
     excerpt:
       "Sample approval isn't the finish line — it's the starting point for a specific sequence of steps between \"we like this\" and a container arriving at your destination port.",
     category: "Importing & Trade",
@@ -5133,7 +5133,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "q1-sunflower-seed-import-planning-checklist",
     title: "Planning Your Q1 Sunflower Seed Import Schedule: A Buyer's Year-End Checklist",
-    seoTitle: "Q1 Sunflower Seed Import Planning Checklist for Buyers",
+    seoTitle: "Q1 Sunflower Seed Import Planning Checklist",
     seoDescription:
       "A year-end checklist for planning Q1 sunflower seed imports around harvest-season pricing, the Chinese New Year shutdown, and documentation lead time.",
     excerpt:
