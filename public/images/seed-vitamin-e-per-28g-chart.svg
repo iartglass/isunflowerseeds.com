@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 506" role="img" aria-labelledby="t d">
+<title id="t">Vitamin E per 28 g of seeds and nuts</title><desc id="d">Bar chart of vitamin E in 28 g of sunflower seed kernels, almonds, peanuts and five other seeds and nuts, from USDA data.</desc>
+<rect width="960" height="506" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Vitamin E per 28 g of seeds and nuts</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Sunflower seed kernels</text>
+<rect x="230" y="70" width="443" height="30" rx="4" fill="#b8860b"/>
+<text x="683" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">9.8 mg</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Almonds</text>
+<rect x="230" y="122" width="323" height="30" rx="4" fill="#1e3a5f"/>
+<text x="563" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">7.2 mg</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Peanuts</text>
+<rect x="230" y="174" width="105" height="30" rx="4" fill="#1e3a5f"/>
+<text x="345" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">2.3 mg</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Hemp seeds, hulled</text>
+<rect x="230" y="226" width="10" height="30" rx="4" fill="#1e3a5f"/>
+<text x="250" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">0.2 mg</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Walnuts</text>
+<rect x="230" y="278" width="9" height="30" rx="4" fill="#1e3a5f"/>
+<text x="249" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">0.2 mg</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Chia seeds</text>
+<rect x="230" y="330" width="6" height="30" rx="4" fill="#1e3a5f"/>
+<text x="246" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">0.1 mg</text>
+<text x="30" y="403" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Flaxseed</text>
+<rect x="230" y="382" width="4" height="30" rx="4" fill="#1e3a5f"/>
+<text x="244" y="403" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">0.1 mg</text>
+<text x="30" y="455" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Sesame seeds</text>
+<rect x="230" y="434" width="3" height="30" rx="4" fill="#1e3a5f"/>
+<text x="243" y="455" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">0.1 mg</text>
+<text x="30" y="492" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: USDA FoodData Central SR Legacy records scaled to 28 g. Calculated by XingYi Trading.</text></svg>

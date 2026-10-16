@@ -46,6 +46,1102 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "which-countries-import-the-most-sunflower-seeds",
+    title: "Which Countries Import the Most Sunflower Seeds? UN Comtrade Data for 2023 and 2024",
+    seoTitle: "Top Sunflower Seed Importing Countries 2024",
+    seoDescription: "Among 55 countries we checked, Bulgaria reported the largest 2024 imports of sunflower seeds (HS 1206) at 732 kt. See the top 15 with 2023 comparison.",
+    excerpt: "A ranking of reported sunflower seed (HS 1206) imports in 2023 and 2024 for a selection of countries, with year-on-year changes, average unit values and the limits of customs data.",
+    category: "Market Insights",
+    date: "2026-12-24",
+    author: "James Feng",
+    image: "/images/ai-cargo-port-containers.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Among the 55 countries we checked, Bulgaria reported the largest 2024 imports under HS 1206 (sunflower seeds), at 732 thousand tonnes, followed by Netherlands at 510 and Germany at 327 ([UN Comtrade](https://comtradeplus.un.org/), calculated). The ten largest together account for 79% of the volume of the countries we selected. The ranking is not a ranking of every country, and HS 1206 covers all sunflower seed, not only the in-shell confection type we export."
+        ]
+      },
+      {
+        "heading": "What Are the Key Terms?",
+        "list": [
+          "**HS 1206** is the customs heading for sunflower seeds, whether or not broken; it does not separate confection seed from oilseed or in-shell from shelled.",
+          "**Reporter** is the country that submits the customs data; an import figure is what that country reports receiving.",
+          "**Net weight (estimated)** means UN Comtrade has estimated the weight when the reporter did not supply it; those values are marked (e) in the tables."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Largest 2024 importer among the 55 countries with data for both years: Bulgaria, 732 kt (449 million USD).",
+          "Top ten share of the selected countries' 2024 volume: 79% (calculated).",
+          "Selected countries combined: 3,796 kt in 2024 against 4,783 kt in 2023, -20.6% (calculated).",
+          "Net weight was estimated by UN Comtrade, not reported, for 7 of the top ten in 2024."
+        ]
+      },
+      {
+        "heading": "How Did We Choose the Countries?",
+        "body": [
+          "We chose 71 reporting countries by hand: the European Union members, the major markets of North and South America, Asia, the Middle East, North Africa, Central Asia and Eastern Europe. No data came back for 16 of them in at least one year (Algeria, Bangladesh, Belarus, China, India, Iran, Romania, Russia, South Korea, Spain, Thailand, Ukraine, United Arab Emirates, United Kingdom, United States, Viet Nam), so they are excluded. Countries that are not on our list, and any whose data UN Comtrade has not published, cannot appear, so the ranking is a ranking of this selection, not of the world."
+        ]
+      },
+      {
+        "heading": "Which Are the Top 15 Importers in 2024?",
+        "image": {
+          "src": "/images/top-sunflower-seed-importers-2024-chart.svg",
+          "alt": "Bar chart of 2024 sunflower seed imports in thousand tonnes for the ten largest of the selected countries",
+          "caption": "2024 HS 1206 imports, top ten of the selected countries. Source: UN Comtrade, calculated."
+        },
+        "body": [
+          "The table lists the 15 largest importers among the selected countries, in thousand tonnes of net weight, with 2023 for comparison and each country's share of the selected total. The figures are total imports from all partners under HS 1206 ([UN Comtrade](https://comtradeplus.un.org/), partner: world, calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Rank",
+            "Country",
+            "2024 (kt)",
+            "2023 (kt)",
+            "Change",
+            "Share of selection"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bulgaria",
+              "732 (e)",
+              "658 (e)",
+              "+11%",
+              "19.3%"
+            ],
+            [
+              "2",
+              "Netherlands",
+              "510 (e)",
+              "647 (e)",
+              "-21%",
+              "13.4%"
+            ],
+            [
+              "3",
+              "Germany",
+              "327 (e)",
+              "291 (e)",
+              "+12%",
+              "8.6%"
+            ],
+            [
+              "4",
+              "Türkiye",
+              "288",
+              "746",
+              "-61%",
+              "7.6%"
+            ],
+            [
+              "5",
+              "Czechia",
+              "219 (e)",
+              "196 (e)",
+              "+12%",
+              "5.8%"
+            ],
+            [
+              "6",
+              "Hungary",
+              "194 (e)",
+              "339 (e)",
+              "-43%",
+              "5.1%"
+            ],
+            [
+              "7",
+              "Italy",
+              "188",
+              "223",
+              "-16%",
+              "4.9%"
+            ],
+            [
+              "8",
+              "Kazakhstan",
+              "187",
+              "260",
+              "-28%",
+              "4.9%"
+            ],
+            [
+              "9",
+              "Portugal",
+              "181 (e)",
+              "196 (e)",
+              "-8%",
+              "4.8%"
+            ],
+            [
+              "10",
+              "France",
+              "169 (e)",
+              "342 (e)",
+              "-51%",
+              "4.4%"
+            ],
+            [
+              "11",
+              "Austria",
+              "163 (e)",
+              "146 (e)",
+              "+11%",
+              "4.3%"
+            ],
+            [
+              "12",
+              "Belgium",
+              "115 (e)",
+              "123 (e)",
+              "-7%",
+              "3.0%"
+            ],
+            [
+              "13",
+              "Pakistan",
+              "59",
+              "46",
+              "+28%",
+              "1.5%"
+            ],
+            [
+              "14",
+              "Poland",
+              "53 (e)",
+              "55 (e)",
+              "-5%",
+              "1.4%"
+            ],
+            [
+              "15",
+              "Uzbekistan",
+              "41 (e)",
+              "74",
+              "-44%",
+              "1.1%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Is This Not the Confection Seed Market?",
+        "body": [
+          "HS 1206 includes sunflower seed crushed for oil. Large importers such as processors in Türkiye and in the European Union may be buying for oil crushing, bird food or snack products, and the customs figure does not say which. Our product, in-shell confection seed, is a part of this total that the data cannot isolate. For China's side of the trade, see our guide to [China's sunflower seed exports from 2019 to 2024](/blog/china-sunflower-seed-exports-2019-2024)."
+        ]
+      },
+      {
+        "heading": "Do the European Figures Include Trade Between EU Countries?",
+        "body": [
+          "Yes. We used each country's imports from the world, which for an EU member includes shipments received from other EU members. A large EU figure may therefore be partly re-exported or moved between neighbours, and adding the EU countries together would count some seed twice. The data cannot tell you how much of a country's imports came from outside the bloc."
+        ]
+      },
+      {
+        "heading": "Which Countries Changed Most Between 2023 and 2024?",
+        "body": [
+          "The table shows the five largest increases and five largest decreases in volume, in thousand tonnes ([UN Comtrade](https://comtradeplus.un.org/), calculated). Year-to-year swings reflect harvest size and prices in the producing regions as well as demand, and the data do not separate these causes."
+        ],
+        "table": {
+          "headers": [
+            "Country",
+            "2023 (kt)",
+            "2024 (kt)",
+            "Change (kt)"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "658",
+              "732",
+              "+75"
+            ],
+            [
+              "Germany",
+              "291",
+              "327",
+              "+36"
+            ],
+            [
+              "Czechia",
+              "196",
+              "219",
+              "+23"
+            ],
+            [
+              "Croatia",
+              "9",
+              "26",
+              "+18"
+            ],
+            [
+              "Austria",
+              "146",
+              "163",
+              "+17"
+            ],
+            [
+              "Türkiye",
+              "746",
+              "288",
+              "-458"
+            ],
+            [
+              "France",
+              "342",
+              "169",
+              "-173"
+            ],
+            [
+              "Hungary",
+              "339",
+              "194",
+              "-145"
+            ],
+            [
+              "Netherlands",
+              "647",
+              "510",
+              "-137"
+            ],
+            [
+              "Kazakhstan",
+              "260",
+              "187",
+              "-72"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Do the Average Unit Values Show?",
+        "image": {
+          "src": "/images/ai-port-cargo-weighing.jpg",
+          "alt": "Cargo being weighed at a port terminal",
+          "caption": "Cargo weighing at a port. Illustrative AI-generated image."
+        },
+        "body": [
+          "Dividing customs value by net weight gives an average unit value. Among the top ten it ranged from about 0.48 USD per kg for Portugal to 1.40 USD per kg for France (calculated). Customs values are declared at import and may include freight and insurance, and they mix oilseed with confection seed, so they are not a price for any one product."
+        ],
+        "table": {
+          "headers": [
+            "Country",
+            "2024 value (million USD)",
+            "USD per kg",
+            "Weight"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "449",
+              "0.61",
+              "estimated"
+            ],
+            [
+              "Netherlands",
+              "323",
+              "0.63",
+              "estimated"
+            ],
+            [
+              "Germany",
+              "253",
+              "0.77",
+              "estimated"
+            ],
+            [
+              "Türkiye",
+              "208",
+              "0.72",
+              "reported"
+            ],
+            [
+              "Czechia",
+              "110",
+              "0.50",
+              "estimated"
+            ],
+            [
+              "Hungary",
+              "155",
+              "0.80",
+              "estimated"
+            ],
+            [
+              "Italy",
+              "100",
+              "0.53",
+              "reported"
+            ],
+            [
+              "Kazakhstan",
+              "121",
+              "0.65",
+              "reported"
+            ],
+            [
+              "Portugal",
+              "87",
+              "0.48",
+              "estimated"
+            ],
+            [
+              "France",
+              "237",
+              "1.40",
+              "estimated"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Should a Buyer or Exporter Do With This?",
+        "body": [
+          "Use the table to see where large flows exist, not to size a market for one product. Before targeting a country, look at its import tariff for HS 1206, its food safety and labeling rules, and what share of its imports is edible seed. Our [guide to US import duties and prior notice](/blog/fda-prior-notice-imported-food) shows what that work looks like for one market."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Data?",
+        "body": [
+          "The data are annual totals as reported by each country, and UN Comtrade marks some net weights as estimated. Reporting countries can revise their figures later, and we retrieved these in October 2026, so numbers may differ from later releases. 7 of the top ten rest on estimated weights, so the order of neighbouring countries, such as Bulgaria and the Netherlands, is less certain than the table suggests. We checked 71 countries and the data for 55 of them support the ranking."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/) public preview API - HS 1206 imports, reporter-level annual totals, partner: world, 2023 and 2024, retrieved October 2026.",
+          "Ranking, shares, changes and unit values are our own calculations; the selection of reporting countries is ours."
+        ]
+      },
+      {
+        "heading": "Selling Sunflower Seeds Into One of These Markets?",
+        "body": [
+          "XingYi Trading exports in-shell confection sunflower seeds from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) and tell us your destination country, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-search-demand-seasonality",
+    title: "When Do People Search for Sunflower Seeds? A Year of US Google Data by Month",
+    seoTitle: "Sunflower Seed Search Demand by Month (US Data)",
+    seoDescription: "US searches for 'bulk sunflower seeds' peaked at 3,600 in May 2026 and fell to 1,300 in Nov 2025. See twelve months of data for three phrases.",
+    excerpt: "Twelve months of US Google search volume for 'sunflower seeds', 'bulk sunflower seeds' and 'roasted sunflower seeds', what the seasonal pattern shows, and what one year of data cannot show.",
+    category: "Market Insights",
+    date: "2026-12-31",
+    author: "James Feng",
+    image: "/images/ai-north-america-warehouse.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "US searches for \"bulk sunflower seeds\" peaked at 3,600 a month in May 2026 and fell to 1,300 in Nov 2025, a gap of 2.8 times, while searches for \"sunflower seeds\" ranged from 90,500 to 165,000 ([DataForSEO](https://docs.dataforseo.com/v3/keywords_data/google_ads/search_volume/live/), Google Ads data, October 2025 to September 2026). These are search counts, not sales, and they cover the United States only. They are still a useful signal for a buyer deciding when to plan stock."
+        ]
+      },
+      {
+        "heading": "What Are the Key Terms?",
+        "list": [
+          "**Search volume** is the estimated number of times a phrase is searched on Google in a month; the figures here come from Google Ads data supplied by DataForSEO, which describes them as approximate ([DataForSEO documentation](https://docs.dataforseo.com/v3/keywords_data/google_ads/search_volume/live/)).",
+          "**Seasonality** is a pattern that repeats at the same time each year; one year of data can suggest it but cannot prove it.",
+          "**Head term** is a broad, high-volume phrase such as \"sunflower seeds\"; a **long-tail phrase** is a narrower one such as \"bulk sunflower seeds\"."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "\"Sunflower seeds\": 165,000 searches in Mar 2026 against 90,500 in Nov 2025, a 1.8x range (calculated).",
+          "\"Bulk sunflower seeds\": 3,600 in May 2026 against 1,300 in Nov 2025, a 2.8x range.",
+          "\"Roasted sunflower seeds\": 22,200 in Oct 2025 against 2,400 in Jun 2026, a 9.2x range.",
+          "Window: October 2025 to September 2026, United States, English."
+        ]
+      },
+      {
+        "heading": "What Does the Monthly Data Look Like?",
+        "body": [
+          "The table lists all twelve months for three phrases. The figures are approximate, and some months repeat the same value, so small differences between months are not meaningful."
+        ],
+        "table": {
+          "headers": [
+            "Month",
+            "sunflower seeds",
+            "bulk sunflower seeds",
+            "roasted sunflower seeds"
+          ],
+          "rows": [
+            [
+              "Oct 2025",
+              "110,000",
+              "1,600",
+              "22,200"
+            ],
+            [
+              "Nov 2025",
+              "90,500",
+              "1,300",
+              "14,800"
+            ],
+            [
+              "Dec 2025",
+              "90,500",
+              "1,300",
+              "5,400"
+            ],
+            [
+              "Jan 2026",
+              "110,000",
+              "1,600",
+              "6,600"
+            ],
+            [
+              "Feb 2026",
+              "110,000",
+              "1,900",
+              "5,400"
+            ],
+            [
+              "Mar 2026",
+              "165,000",
+              "2,900",
+              "4,400"
+            ],
+            [
+              "Apr 2026",
+              "165,000",
+              "2,900",
+              "3,600"
+            ],
+            [
+              "May 2026",
+              "165,000",
+              "3,600",
+              "5,400"
+            ],
+            [
+              "Jun 2026",
+              "110,000",
+              "2,400",
+              "2,400"
+            ],
+            [
+              "Jul 2026",
+              "90,500",
+              "1,900",
+              "2,400"
+            ],
+            [
+              "Aug 2026",
+              "90,500",
+              "1,900",
+              "2,900"
+            ],
+            [
+              "Sep 2026",
+              "90,500",
+              "1,600",
+              "3,600"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "When Does Demand for Bulk Seeds Peak?",
+        "image": {
+          "src": "/images/us-bulk-sunflower-seed-search-chart.svg",
+          "alt": "Bar chart of US monthly searches for bulk sunflower seeds: low in November and December 2025, highest in May 2026, lower again by September",
+          "caption": "Monthly US searches for \"bulk sunflower seeds\". Source: DataForSEO (Google Ads), approximate values."
+        },
+        "body": [
+          "Spring. Searches for \"bulk sunflower seeds\" rose from 1,600 in January 2026 to 2,900 in March and 3,600 in May, then fell back to 1,600 by September. The lowest months were November and December 2025 at 1,300 (DataForSEO, calculated). The broad phrase \"sunflower seeds\" shows the same spring shape, at 165,000 in March, April and May against 90,500 in September."
+        ]
+      },
+      {
+        "heading": "How Large Is the Bulk Phrase Against the Broad One?",
+        "body": [
+          "Small. Averaged over the twelve months, \"sunflower seeds\" drew about 115,625 searches a month and \"bulk sunflower seeds\" about 2,075, which is 1.8% of the broad phrase (calculated). \"Roasted sunflower seeds\" averaged 6,592. A buyer-intent phrase is a small part of total interest, so a rise in the broad phrase does not mean a rise in business demand by the same amount."
+        ]
+      },
+      {
+        "heading": "Which Months Were Above Average for Bulk Searches?",
+        "body": [
+          "The twelve-month average for \"bulk sunflower seeds\" was 2,075 searches. Months above it were Mar 2026, Apr 2026, May 2026, Jun 2026 (calculated from the table above). That is a window of about four months, so a seasonal plan built on this signal would concentrate on late winter to early summer."
+        ]
+      },
+      {
+        "heading": "Do the Broad and Bulk Phrases Move Together?",
+        "body": [
+          "Closely. The correlation between the twelve monthly values of \"sunflower seeds\" and \"bulk sunflower seeds\" is 0.89, where 1.00 would mean identical movement (calculated). With only twelve points and approximate inputs, that is a description of this year, not a statistical test, and the roasted phrase correlates much less, at -0.14 against the broad one."
+        ]
+      },
+      {
+        "heading": "How Can You Repeat This Check?",
+        "body": [
+          "Pull monthly search volume for your own list of phrases from the Google Ads Keyword Planner or a data provider, for your own target countries, and compare at least two full years before calling a pattern seasonal. Then set the pattern beside your own order history and your supplier's lead time. Public search data answers when interest rises, and only your records answer when your customers buy."
+        ]
+      },
+      {
+        "heading": "Why Might Spring Be the Peak?",
+        "body": [
+          "The data do not say why, and we have not found a source that does. Possible explanations, such as baseball season, planting or outdoor eating, are guesses and we have not tested them. What the data support is only the timing: more people search in March to May than in November and December."
+        ]
+      },
+      {
+        "heading": "What About Roasted Sunflower Seeds?",
+        "image": {
+          "src": "/images/ai-q1-planning-calendar-desk.jpg",
+          "alt": "Desk with a wall calendar and notebook used for planning the year's purchasing",
+          "caption": "Planning purchases around the calendar. Illustrative AI-generated image."
+        },
+        "body": [
+          "The roasted phrase behaves differently. It reached 22,200 searches in Oct 2025 and 14,800 in November 2025, then fell to between 3,600 and 5,400 from February to May and to 2,400 in June and July. The October and November 2025 peak is much larger than any other month, and one year of data cannot show whether it repeats or was a one-time event, so we do not treat it as a seasonal rule."
+        ]
+      },
+      {
+        "heading": "What Does This Mean for a Buyer?",
+        "body": [
+          "Treat it as one input, not a forecast. If your end customers are US consumers who buy more in spring, stock would need to be in your warehouse before March, which means ordering earlier. The route from China adds production, inland transport, an ocean voyage and customs, and the holiday calendar can add to it; see our [Chinese New Year shipping guide](/blog/chinese-new-year-sunflower-seed-shipping) and [Q1 import planning checklist](/blog/q1-sunflower-seed-import-planning-checklist). Your own sales history is a better guide than public search data."
+        ]
+      },
+      {
+        "heading": "What Can This Data Not Tell You?",
+        "body": [
+          "Search is not purchasing: someone searching for \"bulk sunflower seeds\" may be a household, a bird-feed buyer or a competitor, and we cannot separate them. The figures cover the United States only, one 12-month window, and approximate estimates; Google describes Keyword Planner volumes as estimates ([Google Ads Help](https://support.google.com/google-ads/answer/7337243)). They say nothing about Europe, the Middle East or Southeast Asia, where seasons and holidays differ."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[DataForSEO documentation](https://docs.dataforseo.com/v3/keywords_data/google_ads/search_volume/live/) - Google Ads search volume, location United States, language English, monthly searches for October 2025 to September 2026, retrieved on October 16, 2026.",
+          "Peak, low and ratio figures are our calculations from those monthly values."
+        ]
+      },
+      {
+        "heading": "Planning Stock Around a Seasonal Peak?",
+        "body": [
+          "XingYi Trading exports sunflower seeds in bulk from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) with your target arrival month, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "how-to-roast-sunflower-seeds-at-home-temperature-time",
+    title: "How to Roast Sunflower Seeds at Home: Temperature, Time and What Roasting Changes",
+    seoTitle: "Roast Sunflower Seeds at Home: 300°F Guide",
+    seoDescription: "The National Center for Home Food Preservation says roast seeds at 300°F (149°C) for 10-15 minutes. See what roasting and salt change.",
+    excerpt: "A home roasting guide based on University of Georgia guidance (300°F for 10-15 minutes), with USDA nutrient data comparing dried, dry roasted, oil roasted and salted sunflower seed kernels.",
+    category: "Consumer Guides",
+    date: "2026-12-29",
+    author: "James Feng",
+    image: "/images/ai-raw-vs-roasted-comparison.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "The National Center for Home Food Preservation at the University of Georgia gives one clear instruction for roasting sunflower seeds: spread them in a shallow pan and roast at 300°F (149°C) for 10 to 15 minutes, stirring occasionally ([National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/)). The same page says seeds can instead be dried in the sun or a dehydrator at 100°F (38°C). It does not give a separate time for seeds in the shell, so treat any in-shell timing you read elsewhere as unverified."
+        ]
+      },
+      {
+        "heading": "What Are the Key Terms?",
+        "list": [
+          "**Drying** removes water at a low temperature, here 100°F, and leaves the seed raw; **roasting** uses a higher temperature, here 300°F, to cook the seed and change its flavor.",
+          "**Dry roasted** seeds are cooked without added oil, while **oil roasted** seeds are cooked in oil, which USDA records separately.",
+          "**Kernel** means the shelled seed; **in-shell** means the seed still inside the hull, and the two behave differently in an oven."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Roasting: 300°F (149°C) for 10 to 15 minutes in a shallow pan ([National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/)).",
+          "Drying: 100°F (38°C) in a dehydrator or in the sun (same source).",
+          "Sodium per 100 g of kernels: 9 mg dried, 3 mg dry roasted without salt, 655 mg dry roasted with salt added ([USDA FoodData Central](https://fdc.nal.usda.gov/)).",
+          "Energy: 584 kcal per 100 g dried and 582 kcal dry roasted without salt, a difference of 2 kcal (calculated)."
+        ]
+      },
+      {
+        "heading": "How Do You Roast Sunflower Seeds in the Oven?",
+        "body": [
+          "Following the guidance above: heat the oven to 300°F (149°C), spread the seeds in a single shallow layer on a pan, and roast for 10 to 15 minutes, stirring occasionally ([National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/)). Check early rather than late. The source gives a range rather than a doneness test, so use color and aroma, and remember that ovens vary. Small seeds cook faster than large ones, and seeds that are still hot continue to cook after they leave the oven. The last two sentences are general cooking practice, not part of the source."
+        ]
+      },
+      {
+        "heading": "Can You Dry Seeds Instead of Roasting Them?",
+        "image": {
+          "src": "/images/ai-raw-vs-roasted-comparison.jpg",
+          "alt": "Two small bowls side by side, one with pale raw sunflower kernels and one with golden roasted kernels",
+          "caption": "Raw and roasted kernels. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Yes. The same source describes drying seeds in the sun or in a dehydrator at 100°F (38°C) as an alternative to oven roasting ([National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/)). Drying leaves the seed raw, so its nutrient values stay close to the USDA record for dried kernels. The page does not give a drying time, and we have not added one."
+        ]
+      },
+      {
+        "heading": "What Does Roasting Change in the Nutrients?",
+        "image": {
+          "src": "/images/sunflower-roasting-sodium-chart.svg",
+          "alt": "Bar chart of sodium per 28 grams: dried seeds near zero, oil roasted salted about 85 mg, dry roasted salted about 183 mg",
+          "caption": "Sodium per 28 g by preparation. Source: USDA FoodData Central, calculated by XingYi Trading."
+        },
+        "body": [
+          "Less than most people expect. Dry roasting without salt takes dried kernels from 584 to 582 kcal per 100 g, protein from 20.8 to 19.3 g, and vitamin E from 35.2 to 26.1 mg ([USDA FoodData Central](https://fdc.nal.usda.gov/)). The vitamin E drop is 26% (calculated). Oil roasting, by contrast, is listed at 592 kcal and 36.3 mg of vitamin E. These are USDA reference records, so a home oven will not reproduce them exactly."
+        ],
+        "table": {
+          "headers": [
+            "Per 28 g",
+            "kcal",
+            "Protein (g)",
+            "Fat (g)",
+            "Vitamin E (mg)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried (not roasted)",
+              "164",
+              "5.8",
+              "14.4",
+              "9.8",
+              "3"
+            ],
+            [
+              "Dry roasted, no salt",
+              "163",
+              "5.4",
+              "13.9",
+              "7.3",
+              "1"
+            ],
+            [
+              "Dry roasted, salted",
+              "163",
+              "5.4",
+              "13.9",
+              "7.3",
+              "183"
+            ],
+            [
+              "Oil roasted, no salt",
+              "166",
+              "5.6",
+              "14.4",
+              "10.2",
+              "1"
+            ],
+            [
+              "Oil roasted, salted",
+              "166",
+              "5.6",
+              "14.4",
+              "10.2",
+              "85"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Much Sodium Does Salt Add?",
+        "body": [
+          "A lot, compared with the unsalted seed. A 28 g serving of dry roasted kernels with salt added has 183 mg of sodium, or 8% of the 2,300 mg Daily Value, against 1 mg without salt ([USDA FoodData Central](https://fdc.nal.usda.gov/); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels), calculated). The oil roasted salted record is lower, at 85 mg per 28 g. The difference between the two salted records shows that sodium depends on how much salt a product carries, so roasting at home with your own salt gives you control that a bag does not."
+        ]
+      },
+      {
+        "heading": "Does Oil Roasting Add Calories?",
+        "body": [
+          "Slightly. USDA lists oil roasted kernels without salt at 592 kcal per 100 g against 582 kcal for dry roasted, a difference of about 2.8 kcal in a 28 g serving ([USDA FoodData Central](https://fdc.nal.usda.gov/), calculated). Roasting in the oven without oil, as the source describes, matches the dry roasted record more closely than the oil roasted one."
+        ]
+      },
+      {
+        "heading": "Should You Salt Before or After Roasting?",
+        "body": [
+          "The National Center for Home Food Preservation page does not give salting instructions, so we cannot tell you what it recommends, and we have not found a source that settles the question. What the USDA data does show is how much sodium a salted product can carry. Whichever method you choose, measure the salt and compare the result with the table above."
+        ]
+      },
+      {
+        "heading": "How Should You Store Roasted Seeds?",
+        "body": [
+          "The source page does not give storage advice for roasted seeds, so we have not added a shelf-life figure. For a commercial view of seed moisture, the [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports average moisture of 8.9% to 10.7% for US non-oil sunflower at receipt between 2020 and 2024. That figure describes raw crop, not a home roasting target, and it does not tell you how long roasted seeds keep."
+        ]
+      },
+      {
+        "heading": "What Do Commercial Roasters Do Differently?",
+        "body": [
+          "Commercial roasting runs at scale with controlled temperature, time and salting, and the finished product is tested before packing. Our guide to [raw versus roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds) explains the difference in more detail, and the [nutrition guide](/blog/sunflower-seed-calories-protein-macros) lists the values per 100 g."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) - 100°F drying; 300°F for 10-15 minutes roasting; source: \"So Easy to Preserve\", 6th edition, Bulletin 989, University of Georgia.",
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (dried), 170563 and 169418 (dry roasted, without and with salt), 170564 and 168593 (oil roasted, without and with salt).",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium 2,300 mg.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture at receipt.",
+          "Celsius conversions and per-serving values are our calculations."
+        ]
+      },
+      {
+        "heading": "Looking for Sunflower Seeds to Roast?",
+        "body": [
+          "XingYi Trading exports in-shell confection sunflower seeds in bulk to food businesses, not to home cooks. If you roast at commercial scale, [request a quote](/contact#quote-form) and read our [bulk buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seeds-vs-almonds-chia-flax-sesame",
+    title: "Sunflower Seeds vs Almonds, Chia, Flax and Sesame: A USDA Nutrient Comparison",
+    seoTitle: "Sunflower Seeds vs Almonds, Chia, Flax, Sesame",
+    seoDescription: "Per 28 g, sunflower kernels have 9.8 mg vitamin E, more than any of seven other seeds and nuts in USDA data. Compare protein, fiber and minerals.",
+    excerpt: "A USDA comparison of sunflower seed kernels with almonds, chia, flaxseed, sesame, hemp, peanuts and walnuts per 28 g and per 100 kcal, with Daily Value shares and allergen status.",
+    category: "Health & Nutrition",
+    date: "2026-12-22",
+    author: "James Feng",
+    image: "/images/ai-seed-comparison-magnifier.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Sunflower seed kernels stand out on vitamin E: 9.8 mg per 28 g, or 66% of the Daily Value, against 7.2 mg for almonds, the next highest, and under 3 mg for each of the other six foods ([USDA FoodData Central](https://fdc.nal.usda.gov/), scaled to 28 g; [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). They do not lead on everything. Chia and flaxseed carry far more fiber, sesame far more calcium, and hemp seeds more protein, so the better choice depends on the nutrient you care about."
+        ]
+      },
+      {
+        "heading": "What Are the Key Terms?",
+        "list": [
+          "**Per 28 g** means one ounce, the serving used throughout this article; all values are USDA per-100 g figures multiplied by 0.28.",
+          "**Daily Value (DV)** is the FDA reference amount used on US Nutrition Facts labels, for example 28 g of fiber, 50 g of protein and 15 mg of vitamin E.",
+          "**Per 100 kcal** compares foods by energy rather than weight, which matters because all of these foods are energy-dense."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Vitamin E: sunflower kernels 35.2 mg per 100 g, almonds 25.6 mg, peanuts 8.3 mg; the other five foods are below 1 mg ([USDA FoodData Central](https://fdc.nal.usda.gov/)).",
+          "Protein per 100 kcal: highest for hemp seeds, hulled at 5.7 g; sunflower kernels give 3.6 g (calculated).",
+          "Fiber per 28 g: 9.6 g for chia and 7.6 g for flaxseed, against 2.4 g for sunflower kernels.",
+          "Calcium per 28 g: 273 mg for whole sesame seeds, against 22 mg for sunflower kernels; the calcium DV is 1,300 mg ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "Allergen status: almonds and walnuts (tree nuts), peanuts and sesame are on the US and EU allergen lists; sunflower, chia, flax and hemp are not (FDA; FSAI)."
+        ]
+      },
+      {
+        "heading": "How Do Calories, Protein and Fiber Compare?",
+        "body": [
+          "The first table scales each USDA record to a 28 g serving. Sunflower kernels are second highest on energy at 164 kcal, behind walnuts at 183 kcal, and chia is lowest at 136 kcal. Hemp seeds lead on protein at 8.8 g per serving, against 5.8 g for sunflower kernels ([USDA FoodData Central](https://fdc.nal.usda.gov/), calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Per 28 g",
+            "kcal",
+            "Protein (g)",
+            "Fiber (g)",
+            "Fat (g)",
+            "Carbohydrate (g)"
+          ],
+          "rows": [
+            [
+              "Sunflower seed kernels",
+              "164",
+              "5.8",
+              "2.4",
+              "14.4",
+              "5.6"
+            ],
+            [
+              "Almonds",
+              "162",
+              "5.9",
+              "3.5",
+              "14.0",
+              "6.0"
+            ],
+            [
+              "Chia seeds",
+              "136",
+              "4.6",
+              "9.6",
+              "8.6",
+              "11.8"
+            ],
+            [
+              "Flaxseed",
+              "150",
+              "5.1",
+              "7.6",
+              "11.8",
+              "8.1"
+            ],
+            [
+              "Sesame seeds",
+              "160",
+              "5.0",
+              "3.3",
+              "13.9",
+              "6.6"
+            ],
+            [
+              "Hemp seeds, hulled",
+              "155",
+              "8.8",
+              "1.1",
+              "13.7",
+              "2.4"
+            ],
+            [
+              "Peanuts",
+              "159",
+              "7.2",
+              "2.4",
+              "13.8",
+              "4.5"
+            ],
+            [
+              "Walnuts",
+              "183",
+              "4.3",
+              "1.9",
+              "18.3",
+              "3.8"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do the Minerals and Vitamin E Compare?",
+        "image": {
+          "src": "/images/seed-vitamin-e-per-28g-chart.svg",
+          "alt": "Bar chart of vitamin E per 28 grams: sunflower kernels highest, almonds second, then peanuts and the other seeds near zero",
+          "caption": "Vitamin E per 28 g. Source: USDA FoodData Central, calculated by XingYi Trading."
+        },
+        "body": [
+          "The second table shows the micronutrients where the foods differ most. Sesame has 273 mg of calcium and 4.1 mg of iron per serving, the highest of the group, while hemp is highest in magnesium and zinc. Sunflower kernels are not first in any mineral here, but they supply 22% of the magnesium DV and 27% of the selenium DV per serving ([USDA FoodData Central](https://fdc.nal.usda.gov/); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels), calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Per 28 g",
+            "Calcium",
+            "Magnesium",
+            "Zinc",
+            "Iron",
+            "Vitamin E",
+            "Selenium"
+          ],
+          "rows": [
+            [
+              "Sunflower seed kernels",
+              "22 mg",
+              "91 mg",
+              "1.4 mg",
+              "1.5 mg",
+              "9.8 mg",
+              "15 mcg"
+            ],
+            [
+              "Almonds",
+              "75 mg",
+              "76 mg",
+              "0.9 mg",
+              "1.0 mg",
+              "7.2 mg",
+              "1 mcg"
+            ],
+            [
+              "Chia seeds",
+              "177 mg",
+              "94 mg",
+              "1.3 mg",
+              "2.2 mg",
+              "0.1 mg",
+              "15 mcg"
+            ],
+            [
+              "Flaxseed",
+              "71 mg",
+              "110 mg",
+              "1.2 mg",
+              "1.6 mg",
+              "0.1 mg",
+              "7 mcg"
+            ],
+            [
+              "Sesame seeds",
+              "273 mg",
+              "98 mg",
+              "2.2 mg",
+              "4.1 mg",
+              "0.1 mg",
+              "10 mcg"
+            ],
+            [
+              "Hemp seeds, hulled",
+              "20 mg",
+              "196 mg",
+              "2.8 mg",
+              "2.2 mg",
+              "0.2 mg",
+              "not listed"
+            ],
+            [
+              "Peanuts",
+              "26 mg",
+              "47 mg",
+              "0.9 mg",
+              "1.3 mg",
+              "2.3 mg",
+              "2 mcg"
+            ],
+            [
+              "Walnuts",
+              "27 mg",
+              "44 mg",
+              "0.9 mg",
+              "0.8 mg",
+              "0.2 mg",
+              "1 mcg"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Food Has the Most Vitamin E?",
+        "body": [
+          "Sunflower seed kernels. A 28 g serving supplies 9.8 mg against 7.2 mg for almonds, the next highest, and 2.3 mg for peanuts. That is 1.4 times the almond figure (calculated). Chia, flax, sesame, hemp and walnuts are each below 1 mg per 100 g in these records, so they are not meaningful vitamin E sources ([USDA FoodData Central](https://fdc.nal.usda.gov/))."
+        ]
+      },
+      {
+        "heading": "Which Food Has the Most Fiber?",
+        "body": [
+          "Chia, by a wide margin. USDA lists 34.4 g per 100 g for chia and 27.3 g for flaxseed, against 8.6 g for sunflower kernels. In Daily Value terms, 28 g of chia supplies 34% of the 28 g fiber DV and sunflower kernels 9% ([USDA FoodData Central](https://fdc.nal.usda.gov/); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Chia and flax are usually eaten in smaller amounts than a snack serving of sunflower seeds, so serving size matters when reading this table."
+        ]
+      },
+      {
+        "heading": "How Do They Compare per 100 Calories?",
+        "image": {
+          "src": "/images/ai-seeds-bowl-portion.jpg",
+          "alt": "Small bowl of shelled seeds measured as a single serving next to a spoon",
+          "caption": "A single 28 g serving. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Per 100 kcal, the order changes. Chia seeds give 7.1 g of fiber per 100 kcal, and hemp seeds, hulled give 5.7 g of protein. Sunflower kernels give 3.6 g of protein and 6.0 mg of vitamin E per 100 kcal, the highest vitamin E figure in the group (calculated from [USDA FoodData Central](https://fdc.nal.usda.gov/))."
+        ],
+        "table": {
+          "headers": [
+            "Per 100 kcal",
+            "Protein (g)",
+            "Fiber (g)",
+            "Magnesium (mg)",
+            "Vitamin E (mg)"
+          ],
+          "rows": [
+            [
+              "Sunflower seed kernels",
+              "3.6",
+              "1.5",
+              "56",
+              "6.0"
+            ],
+            [
+              "Almonds",
+              "3.7",
+              "2.2",
+              "47",
+              "4.4"
+            ],
+            [
+              "Chia seeds",
+              "3.4",
+              "7.1",
+              "69",
+              "0.1"
+            ],
+            [
+              "Flaxseed",
+              "3.4",
+              "5.1",
+              "73",
+              "0.1"
+            ],
+            [
+              "Sesame seeds",
+              "3.1",
+              "2.1",
+              "61",
+              "0.0"
+            ],
+            [
+              "Hemp seeds, hulled",
+              "5.7",
+              "0.7",
+              "127",
+              "0.1"
+            ],
+            [
+              "Peanuts",
+              "4.6",
+              "1.5",
+              "30",
+              "1.5"
+            ],
+            [
+              "Walnuts",
+              "2.3",
+              "1.0",
+              "24",
+              "0.1"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Foods Are Allergens?",
+        "body": [
+          "US and EU rules treat these foods differently. Almonds and walnuts are tree nuts, which are on both lists, and peanuts and sesame are separately listed (sesame joined the US list on January 1, 2023). Sunflower seeds, chia, flaxseed and hemp are not on the US list of nine major allergens or the EU list of 14 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). That is a labeling status, not a statement that nobody reacts to a food. A mixed product that includes any listed ingredient still needs the declaration; see our guide to [allergen labeling for sunflower seed products](/blog/sunflower-seed-allergen-labeling-us-eu)."
+        ]
+      },
+      {
+        "heading": "Which Food Should You Choose?",
+        "body": [
+          "There is no single winner. Sunflower kernels suit a vitamin E or selenium positioning, chia and flax a fiber positioning, sesame a calcium positioning and hemp a protein positioning. Almonds and peanuts add allergen obligations that sunflower seeds do not. The numbers describe food composition from USDA reference records, not health claims, and a nutrient content claim on a pack must follow the rules of the market you sell in."
+        ]
+      },
+      {
+        "heading": "What Do These Records Not Tell You?",
+        "body": [
+          "These are USDA reference records for generic foods, not for a specific supplier's seed. Composition varies with variety, growing conditions and processing, and the records here are raw or dried forms; roasting and salting change sodium and some nutrients, as our [calories, protein and sodium guide](/blog/sunflower-seed-calories-protein-macros) shows. Where a nutrient is not listed in a record, such as selenium for hemp, we show it as not listed rather than as zero."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (sunflower seed kernels, dried), 170567 (almonds), 170554 (chia seeds, dried), 169414 (flaxseed), 170150 (sesame seeds, whole, dried), 170148 (hemp seed, hulled), 172430 (peanuts, raw) and 170187 (walnuts, English), read from the official CSV download.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - fiber 28 g, protein 50 g, vitamin E 15 mg, magnesium 420 mg, zinc 11 mg, iron 18 mg, selenium 55 mcg and calcium 1,300 mg.",
+          "[FDA food allergies page](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) and [FSAI food information labelling](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - allergen lists.",
+          "Per-serving and per-100 kcal values are our own calculations from those records."
+        ]
+      },
+      {
+        "heading": "Looking for Sunflower Seeds for a Seed Mix or Snack Line?",
+        "body": [
+          "XingYi Trading supplies sunflower seeds only, not the other seeds and nuts compared here. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
     slug: "supplier-self-audit-checklist-sunflower-seeds",
     title: "Supplier Self-Audit Checklist: What to Confirm Before You Commit to an Order",
     seoTitle: "Supplier Self-Audit Checklist for Sunflower Seed Buyers",

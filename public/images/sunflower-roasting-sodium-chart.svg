@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" role="img" aria-labelledby="t d">
+<title id="t">Sodium per 28 g by preparation</title><desc id="d">Bar chart of sodium in 28 g of sunflower seed kernels: dried 3 mg, dry roasted salted 183 mg and oil roasted salted 85 mg, from USDA data.</desc>
+<rect width="960" height="350" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Sodium per 28 g by preparation</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dried (not roasted)</text>
+<rect x="210" y="70" width="6" height="30" rx="4" fill="#1e3a5f"/>
+<text x="226" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">3 mg</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dry roasted, no salt</text>
+<rect x="210" y="122" width="2" height="30" rx="4" fill="#1e3a5f"/>
+<text x="222" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1 mg</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dry roasted, salted</text>
+<rect x="210" y="174" width="467" height="30" rx="4" fill="#c53030"/>
+<text x="687" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">183 mg</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Oil roasted, no salt</text>
+<rect x="210" y="226" width="2" height="30" rx="4" fill="#1e3a5f"/>
+<text x="222" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1 mg</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Oil roasted, salted</text>
+<rect x="210" y="278" width="216" height="30" rx="4" fill="#c53030"/>
+<text x="436" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">85 mg</text>
+<text x="30" y="336" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: USDA FoodData Central SR Legacy records scaled to 28 g. Calculated by XingYi Trading.</text></svg>
