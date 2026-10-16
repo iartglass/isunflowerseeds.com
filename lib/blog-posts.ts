@@ -46,15 +46,15 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
-    slug: "sunflower-seed-allergen-labeling-us-eu",
-    title: "Sunflower Seed Allergen Labeling: What US and EU Rules Require From Food Brands",
-    seoTitle: "Sunflower Seed Allergen Labeling: US vs EU",
-    seoDescription: "Sunflower is not on the US list of 9 major allergens or the EU list of 14. See how each region requires allergens to be declared and what brands must check.",
-    excerpt: "Sunflower seed is on neither the US nor the EU allergen list, but the products it goes into often contain listed allergens. What the rules require and what to ask your supplier.",
-    category: "Importing & Trade",
-    date: "2027-03-02",
+    slug: "tons-per-container-sunflower-seeds-20ft-40ft",
+    title: "How Many Tons of Sunflower Seeds Fit in a 20ft or 40ft Container?",
+    seoTitle: "Sunflower Seeds per Container: 20ft vs 40ft",
+    seoDescription: "A 20ft container holds 33.2 m³. At confection seed test weights of 21-24 lb/bu that is about 9-10 tonnes by volume. See the math and its limits.",
+    excerpt: "A worked estimate of how many tonnes of in-shell confection sunflower seed fit in 20ft and 40ft containers, from test weight and container volume, and why a real loading plan will show less.",
+    category: "Logistics & Packaging",
+    date: "2027-03-11",
     author: "James Feng",
-    image: "/images/ai-certification-binder-facility.jpg",
+    image: "/images/ai-cargo-port-containers.jpg",
     relatedSeries: [
       "361-series",
       "363-series",
@@ -62,164 +62,3050 @@ export const blogPosts: BlogPost[] = [
     ],
     sections: [
       {
-        "heading": "Quick Answer",
         "body": [
-          "Sunflower seed is not one of the 9 major food allergens recognised in the United States or one of the 14 allergens listed in the European Union, so the seed itself does not trigger a mandatory allergen declaration in either market (FDA; FSAI). The risk for food brands comes from the other ingredients in the product and from cross-contact. Check every ingredient against both lists, including sesame, which became the ninth US major allergen on January 1, 2023."
+          "By volume, a 20ft container of loose in-shell confection sunflower seed holds roughly 9 to 10 tonnes, and a 40ft container roughly 18 to 21 tonnes. That follows from container volumes of 33.2 m³ and 67.7 m³ ([DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container)) and a seed test weight of 21.1 to 24.0 lb/bu ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Volume, not weight, is what fills the box, and a real bagged load will come in below these figures."
         ]
       },
       {
-        "heading": "Key Takeaways",
+        "heading": "What Are the Key Numbers?",
         "list": [
-          "The US recognises 9 major food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "The EU lists 14 allergens in Annex II, including celery, mustard, lupin, molluscs and sulphites above 10 mg/kg ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
-          "Sesame became the 9th US major allergen under the FASTER Act, signed April 23, 2021 and effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "In the US, an allergen's food source must be declared at least once, in parentheses after the ingredient name or in a 'Contains' statement next to the ingredient list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "In the EU, allergens must be emphasised in the ingredients list, for example by font, style or background colour ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
+          "Confection (nonoil) seed test weight was 22.7 lb/bu in 2024, within a 2020-2024 range of 21.1 to 24.0 lb/bu ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "That equals about 292 kg per cubic metre, calculated with the bushel and pound definitions in [NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c).",
+          "A 20ft container has 33.2 m³ and a 25,000 kg payload, a 40ft has 67.7 m³ and 27,600 kg ([DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container)).",
+          "Volume runs out first: 10 t fills a 20ft by volume, well under the 25 t payload (calculated).",
+          "These are theoretical upper bounds for loose seed, not a loading promise."
         ]
       },
       {
-        "heading": "Key Terms",
+        "heading": "What Do the Key Terms Mean?",
         "body": [
-          "A **major food allergen** is, under US law, one of nine foods for which labels must name the food source. The EU uses a longer list of 14 allergen groups.",
-          "A **Contains statement** is a line such as 'Contains: wheat' placed immediately after or next to the ingredient list, one of two accepted ways to declare US major allergens ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "**Cross-contact** is the unintended transfer of an allergen from one food or surface to another, for example on shared equipment."
+          "**Test weight** is the weight of a standard volume of grain, quoted in pounds per bushel, and the NSA reports it for each crop ([NSA](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "**Payload** is the maximum weight of cargo a container may carry, and a **volume-limited** load is one where the container fills up before the payload limit is reached.",
+          "**FCL** (full container load) is a shipment that fills a dedicated container, as opposed to **LCL**, which shares space with other cargo."
         ]
       },
       {
+        "heading": "How Much Does a Cubic Metre of Sunflower Seed Weigh?",
         "body": [
-          "A buyer who reads 'sunflower seeds are not a major allergen' and stops there can still ship a mislabelled product. The seed is rarely sold alone: snack mixes, bakery products and spreads combine it with nuts, sesame, wheat or milk. This guide covers what the two rule sets say and what to ask your supplier. It is general information, not legal advice."
+          "Grain trade measures this as test weight, the weight of a standard bushel. The NSA reports confection (nonoil) seed at 22.7 lb/bu for the 2024 crop, 21.5 in 2023, 24.0 in 2022, 21.4 in 2021 and 21.1 in 2020 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "We converted those figures with NIST's definitions: 1 lb = 453.59237 g exactly and 1 bushel = 2,150.42 cubic inches ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)). The result is 272 to 309 kg per cubic metre, with 292 kg/m³ for 2024. Our own calculation, using US crop data: seed from a different origin or season will differ, so treat this as a planning range."
         ]
       },
       {
-        "heading": "Is Sunflower Seed a Major Allergen in the US?",
+        "heading": "How Big Are 20ft and 40ft Containers?",
+        "body": [
+          "A 20ft dry container has an internal volume of 33.2 m³ and a 40ft has 67.7 m³, with payloads of 25,000 kg and 27,600 kg in one carrier's table ([DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container)). Other sources list a higher 40ft payload, for example 28.8 t ([BWS 40-foot dry specification](https://www.bws.net/toolbox/container-specifications/40-foot-dry)), and the DSV page itself warns that capacities vary by manufacturer, age and owner. Check the figures on your booked unit."
+        ]
+      },
+      {
+        "heading": "How Many Tonnes Fit by Volume?",
         "image": {
-          "src": "/images/ai-certification-binder-facility.jpg",
-          "alt": "Open compliance binder and pen on a steel table in a food factory",
-          "caption": "Allergen documentation belongs in the supplier file. Illustrative AI-generated image, not a product photo."
+          "src": "/images/container-tonnage-chart.svg",
+          "alt": "Bar chart: theoretical tonnes of in-shell sunflower seed in 20ft and 40ft containers at test weights of 21.1, 22.7 and 24.0 pounds per bushel",
+          "caption": "Theoretical loose-fill tonnage. Calculated by XingYi Trading from NSA, DSV and NIST data."
         },
         "body": [
-          "No. FDA's list of nine major allergens does not include sunflower ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)). The law requires labels to identify the food source of every major allergen used to make the food, so a product made only from sunflower seeds needs no allergen statement for the seed itself."
-        ]
-      },
-      {
-        "heading": "What Does the EU Require?",
-        "body": [
-          "The EU's Annex II lists 14 allergen groups, among them cereals containing gluten, peanuts, soybeans, milk, nuts, celery, mustard, sesame seeds, sulphites, lupin and molluscs. Sunflower is not one of them ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Where a listed allergen is an ingredient, it must be named in the ingredients list and set apart from the other words."
-        ]
-      },
-      {
-        "heading": "How Do the US and EU Rules Differ?",
-        "image": {
-          "src": "/images/allergen-list-counts.svg",
-          "alt": "Bar chart: the United States recognises 9 major food allergens and the European Union lists 14, with sunflower on neither list",
-          "caption": "Number of listed allergens. Sources: FDA and FSAI."
-        },
+          "Multiply container volume by seed density and you get the theoretical fill. The table shows loose seed at the lowest, 2024 and highest test weights of the last five crop years."
+        ],
         "table": {
           "headers": [
-            "Item",
-            "United States",
-            "European Union"
+            "Container",
+            "Volume (m³)",
+            "At 21.1 lb/bu",
+            "At 22.7 lb/bu",
+            "At 24.0 lb/bu"
           ],
           "rows": [
             [
-              "Number of listed allergens",
-              "9 major allergens",
-              "14 allergen groups (Annex II)"
+              "20ft dry",
+              "33.2",
+              "9.0 t",
+              "9.7 t",
+              "10.3 t"
             ],
             [
-              "Is sunflower listed?",
-              "No",
-              "No"
-            ],
-            [
-              "How declared",
-              "Source named once: in parentheses after the ingredient or in a Contains statement",
-              "Allergen emphasised in the ingredients list (font, style or background)"
-            ],
-            [
-              "Recent change",
-              "Sesame added, effective January 1, 2023",
-              "List set by Annex II of Regulation 1169/2011"
+              "40ft dry",
+              "67.7",
+              "18.4 t",
+              "19.8 t",
+              "20.9 t"
             ]
           ]
         }
       },
       {
-        "heading": "Which Allergens Appear Only on the EU List?",
+        "heading": "Does Weight Limit the Load?",
         "body": [
-          "Comparing the two lists shows that all nine US major allergens have an EU counterpart, with wheat covered by the EU's cereals containing gluten and the US tree nuts matched by the EU's nuts ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). The EU list is longer by five groups: Celery, mustard, lupin, molluscs and sulphur dioxide and sulphites (above 10 mg/kg). This comparison is our own reading of the two lists.",
-          "The practical effect is easy to miss. A seasoned seed snack that contains mustard or celery in its seasoning would need allergen emphasis in the EU, while neither is a US major allergen under the list above. Brands that sell in both markets should therefore check against the longer list first."
+          "Not for confection seed. Even the highest case, 10.3 t in a 20ft box, uses well under half of a 25,000 kg payload, and 20.9 t in a 40ft box stays under the 27,600 kg limit ([DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container)). That is why seed shipments are described as volume-limited: the container fills before the weight limit is reached, which makes bag shape and stacking matter more than bag weight."
         ]
       },
       {
-        "heading": "What Is a Practical Allergen Check for a Sunflower Seed Product?",
+        "heading": "Why Will a Real Loading Plan Show Less?",
+        "image": {
+          "src": "/images/ai-port-cargo-weighing.jpg",
+          "alt": "Dock worker with a clipboard checking the weight of a large white bag of seed on a scale",
+          "caption": "Weigh-in at the port. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Bagged cargo does not fill a box like grain poured into it. Bags leave gaps between them and the container walls, pallets use height, and some space is kept for ventilation and door clearance. These losses vary by load, so the table below is a sensitivity illustration, not an industry norm."
+        ],
+        "table": {
+          "headers": [
+            "Usable volume",
+            "20ft at 22.7 lb/bu",
+            "40ft at 22.7 lb/bu"
+          ],
+          "rows": [
+            [
+              "80%",
+              "7.8 t",
+              "15.8 t"
+            ],
+            [
+              "90%",
+              "8.7 t",
+              "17.8 t"
+            ],
+            [
+              "100%",
+              "9.7 t",
+              "19.8 t"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Do Bag Type and Pallets Change the Answer?",
+        "body": [
+          "Yes. PP woven sacks of 25 kg or 50 kg stack differently from FIBC jumbo bags, and palletised loads trade some volume for easier handling. Our guide to [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) covers the formats, and the [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers FCL versus LCL."
+        ]
+      },
+      {
+        "heading": "How Do You Convert Test Weight Into Tonnes, Step by Step?",
+        "body": [
+          "You can reproduce the estimate yourself with four steps and a calculator. The example uses the 2024 test weight."
+        ],
         "list": [
-          "List every ingredient in the finished product, including seasonings and coatings.",
-          "Check each ingredient against the US list of 9 and the EU list of 14, using the sources below.",
-          "Ask the supplier which allergens are handled in the same facility and on shared equipment.",
-          "Decide who writes the allergen statement for each destination market, and who approves it.",
-          "Keep the supplier's allergen documentation with the specification and the label artwork."
+          "Start with the test weight: 22.7 lb/bu ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Convert pounds to kilograms: 22.7 × 0.45359237 = 10.30 kg per bushel ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)).",
+          "Divide by the bushel volume: 2,150.42 in³ × 0.000016387064 = 0.03524 m³, which gives 292 kg/m³.",
+          "Multiply by the container volume: 292 kg/m³ × 33.2 m³ = 9.7 t for a 20ft (calculated)."
         ]
       },
       {
-        "heading": "Which Listed Allergens Can Share a Product With Sunflower Seeds?",
+        "heading": "How Do Confection and Oil-Type Seed Differ in Density?",
         "body": [
-          "Check each ingredient in the finished product against both lists. Seed and nut snack mixes may contain tree nuts, peanuts or sesame, and bakery or bar products may add wheat, milk or soybeans. Sesame deserves a second look for US-bound products because it joined the list only on January 1, 2023, so older labels and specifications may predate it."
+          "Oil-type sunflower seed is far denser than confection seed. The NSA's 2024 oil-type samples averaged 30.2 lb/bu, against 22.7 lb/bu for nonoil ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). That is about 389 kg/m³ against 292 kg/m³, so a 20ft box would hold roughly 12.9 t of oil-type seed against 9.7 t of confection seed (calculated). Rates quoted for oilseed shipments therefore do not transfer to in-shell snacking seed. Our guide to [confectionery versus oil-type seed](/blog/confectionery-vs-oil-type-sunflower-seeds) explains the difference."
         ]
       },
       {
-        "heading": "What Should You Ask a Supplier About Cross-Contact?",
+        "heading": "Is a 40ft Container Always the Better Choice?",
+        "body": [
+          "A 40ft box has 2.04 times the volume of a 20ft but only 1.10 times the payload ([DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container)), so it stays volume-limited and holds about twice the seed. That halves the number of bookings but doubles the minimum commitment, which matters on a first order. If the freight price is the same whether the box is full or not, loading 9.0 t instead of 10.3 t raises freight per tonne by about 14% (calculated), so the load plan affects cost as much as the rate."
+        ]
+      },
+      {
+        "heading": "How Does This Connect to MOQ and Freight Quotes?",
+        "body": [
+          "A minimum order quantity is often built around filling one container efficiently, which is why [MOQ is tied to container size](/blog/sunflower-seed-moq-explained). If a supplier quotes per container, ask how many tonnes and how many bags that quote assumes, so you can compare one quote with another on a per-tonne basis."
+        ]
+      },
+      {
+        "heading": "What Should You Ask a Supplier Before Booking?",
         "list": [
-          "Which allergens are handled in the same facility, and on which lines?",
-          "Is sesame, peanut or tree nut processed on shared equipment?",
-          "How are lines cleaned between products, and is cleaning verified?",
-          "What allergen documentation can the supplier provide for your specific order?",
-          "Who confirms the final label wording for your destination market?"
+          "Which container size and type is quoted, and what is its internal volume?",
+          "How many bags, of what net weight, go in each container?",
+          "Are the bags palletised, and is the quoted weight net or gross?",
+          "Is there a loading plan or photo record from a previous shipment?",
+          "What happens to the quote if the final loading weight comes in lower?"
         ]
       },
       {
-        "heading": "Who Is Responsible for the Label?",
-        "body": [
-          "Labeling requirements vary by destination, and the importer is generally the one who finalizes them, even when a supplier prints the packaging. Agree early who writes and checks the allergen statement. Our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) explains the labeling decision, and the [documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin) covers the paperwork that travels with the shipment."
-        ]
-      },
-      {
-        "heading": "Sources and Further Reading",
+        "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods.",
-          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised."
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - test weights, crop years 2020-2024 (United States crop).",
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - pound and bushel definitions used for the conversion.",
+          "[DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container) and [BWS 40-foot dry specification](https://www.bws.net/toolbox/container-specifications/40-foot-dry) - container volumes and payloads, which vary by unit."
         ]
       },
       {
-        "heading": "Frequently Asked Questions",
+        "heading": "Plan Your Container Loading With Real Numbers",
         "body": [
-          "Short answers on the points buyers ask about most."
+          "[Request a quote](/contact#quote-form) with your target volume and destination, and we will confirm how many bags and tonnes fit in the container size you prefer. For the full buying process, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-size-grading-20-64-screen",
+    title: "Sunflower Seed Size Grading: What 20/64 Means and What Crop Data Show",
+    seoTitle: "Sunflower Seed Size Grading and the 20/64 Screen",
+    seoDescription: "In 2024, 85.3% of US confection seed samples were over the 20/64 size, up from 80.9%. Learn how screen sizes work and how to write size into a spec.",
+    excerpt: "How confection sunflower seed is sized, what the 20/64 figure means, and what five years of US crop data show about the share of larger seed.",
+    category: "Quality & Sourcing",
+    date: "2027-03-09",
+    author: "James Feng",
+    image: "/images/product-grading-caliper.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Confection sunflower seed is graded by size, and the National Sunflower Association tracks it as the share of seed over a 20/64 size. In the 2024 US crop that share averaged 85.3%, against 80.9% in 2023 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). For a buyer, the practical question is how to turn that kind of figure into a clear size line in a purchase specification."
         ]
       },
       {
-        "heading": "Is Sesame Covered by US Allergen Labeling?",
-        "body": [
-          "Yes. The FASTER Act, signed April 23, 2021, made sesame the ninth major allergen, effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies))."
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "85.3% of 2024 confection seed samples were over 20/64 in size, 4.4 points above 2023 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Over 2020-2024 the share ranged from 80.2% to 85.4% ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "20/64 of an inch is 7.94 mm (calculated).",
+          "In the NSA's kernel specification, size is defined as kernel count per ounce, not by screen.",
+          "Foreign material in 2024 nonoil samples averaged 11.6%, down from 12.4% in 2023 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf))."
         ]
       },
       {
-        "heading": "Is a Contains Statement Mandatory in the US?",
+        "heading": "What Do the Key Terms Mean?",
         "body": [
-          "Not by itself. FDA accepts two methods: naming the source in parentheses within the ingredient list, or a Contains statement next to the list. One of them must appear at least once on the label."
+          "**Screen size** is the opening of the sieve used to grade seed, and the NSA states it as a fraction such as 20/64.",
+          "**Nonoil seed** is the NSA's term for confection sunflower seed, as opposed to oil-type seed ([NSA](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "**Foreign material** is anything in a lot that is not the seed being graded, such as stalk, leaf and head debris."
         ]
       },
       {
-        "heading": "Request Allergen Documentation With Your Quote",
+        "heading": "What Does 20/64 Mean?",
+        "image": {
+          "src": "/images/product-grading-caliper.jpg",
+          "alt": "Calipers measuring the width of a striped in-shell sunflower seed among many others",
+          "caption": "Measuring seed width with calipers. Photo: XingYi Trading facility."
+        },
         "body": [
-          "[Request a quote](/contact#quote-form), state your destination market and ask what allergen documentation is available for your order. For the full buying process, see the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "Screen sizes in the US seed trade are quoted in sixty-fourths of an inch, so 20/64 refers to a screen opening of 20/64 inch, or 7.94 mm. That unit reading is ours, since the NSA report states only the fraction, so confirm it with your supplier when you write a spec.",
+          "Seed 'over 20/64' stays on top of that screen, while smaller seed falls through. The statistic is therefore a share by weight or count that is larger than the screen, depending on the lab's method, which is another detail to confirm."
+        ]
+      },
+      {
+        "heading": "How Is In-Shell Seed Sized, and How Are Kernels Sized?",
+        "body": [
+          "In-shell seed is sized by screen, as above. Hulled kernels are different: the NSA's kernel product specification defines size as kernel count per ounce. A buyer ordering in-shell seed should therefore ask for a screen size, while a buyer ordering kernels should ask for a count per ounce."
+        ]
+      },
+      {
+        "heading": "What Share of the US Crop Cleared the 20/64 Screen?",
+        "image": {
+          "src": "/images/seed-size-over-20-64-chart.svg",
+          "alt": "Bar chart of the share of US confection sunflower seed over 20/64 by crop year: 80.2 percent in 2020, 85.4 in 2021, 82.6 in 2022, 80.9 in 2023 and 85.3 in 2024",
+          "caption": "Share of seed over 20/64 by crop year. Source: NSA 2024 Crop Quality Report, United States."
+        },
+        "body": [
+          "The share has stayed in a fairly narrow band for five crop years, with 2024 near the top."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Seeds over 20/64 (%)",
+            "Foreign material (%)",
+            "Test weight (lb/bu)"
+          ],
+          "rows": [
+            [
+              "2024",
+              "85.3",
+              "11.6",
+              "22.7"
+            ],
+            [
+              "2023",
+              "80.9",
+              "12.4",
+              "21.5"
+            ],
+            [
+              "2022",
+              "82.6",
+              "11.7",
+              "24.0"
+            ],
+            [
+              "2021",
+              "85.4",
+              "12.8",
+              "21.4"
+            ],
+            [
+              "2020",
+              "80.2",
+              "12.2",
+              "21.1"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Does Foreign Material Matter Next to Size?",
+        "body": [
+          "A seed lot can look well sized and still carry debris. The NSA reports foreign material alongside size: 11.6% for 2024 nonoil samples, and between 11.6% and 12.8% across 2020-2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Put a foreign-material limit and a size line in the same specification, because cleaning and grading are separate steps."
+        ]
+      },
+      {
+        "heading": "How Much Does the Share Change From Year to Year?",
+        "body": [
+          "Between 2020 and 2024 the share over 20/64 moved by as much as 5.2 points, and by 1.7 to 4.4 points between neighbouring years (calculated from the NSA table). A single year's average is a benchmark for the crop, not a promise for your lot."
+        ]
+      },
+      {
+        "heading": "Which Minimum Share Over 20/64 Is Realistic?",
+        "body": [
+          "The five-year record gives a rough guide to how tight a limit can be. An 80% minimum would have been met by the average US sample in all five crop years (the lowest was 80.2%). An 85% minimum would have been met in only 2 of the five years ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf); counted by us). A limit set above what a typical year delivers forces the supplier to grade harder, which raises cost, so set the minimum from the size your product needs rather than from the best year on record."
+        ]
+      },
+      {
+        "heading": "How Is Size Checked in Practice?",
+        "body": [
+          "A screen test passes a weighed sample over a sieve with openings of the stated size and reports the share that stays on top. Calipers or a counter give individual or per-ounce measurements instead. The two answer different questions: the screen gives a distribution for the lot, while a few caliper readings only describe the seeds you happened to pick. Specify the screen method for lot acceptance and use calipers for spot checks (general laboratory practice, not an NSA figure)."
+        ]
+      },
+      {
+        "heading": "How Should You Write Size Into a Specification?",
+        "list": [
+          "State the screen size (for in-shell) or kernel count per ounce (for kernels).",
+          "State the minimum percentage that must be over that screen, and the test method.",
+          "Name the sampling plan: how many samples, from which part of the lot.",
+          "Set a foreign-material limit and a moisture limit next to the size line.",
+          "Agree who pays for a second test if results are disputed."
+        ]
+      },
+      {
+        "heading": "How Does Confection Seed Compare With Oil-Type Seed in the Same Report?",
+        "body": [
+          "The report measures both types, and the gap is large. In 2024, nonoil seed averaged 22.7 lb/bu, against 30.2 for oil-type, which is 25% lighter per bushel. Its foreign material was 11.6%, against 4.7% for oil-type, about 2.5 times as much ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf); ratios calculated). The samples come from loads delivered to processors, so these are figures before further cleaning."
+        ],
+        "table": {
+          "headers": [
+            "2024 samples",
+            "Test weight (lb/bu)",
+            "Moisture (%)",
+            "Foreign material (%)"
+          ],
+          "rows": [
+            [
+              "Nonoil (confection)",
+              "22.7",
+              "10.7",
+              "11.6"
+            ],
+            [
+              "Oil-type",
+              "30.2",
+              "8.2",
+              "4.7"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does a Share Over the Screen Not Tell You?",
+        "body": [
+          "A single threshold hides the distribution above it. Two lots can both have 85% of seed over 20/64 while one is mostly just over the line and the other is mostly much larger. If your product depends on a visibly large seed, specify a second, larger screen as well, and a limit for the seed that falls through the smaller one."
+        ]
+      },
+      {
+        "heading": "What Should You Ask When a Supplier Says 'Large Size'?",
+        "list": [
+          "Which screen or count defines 'large', and what share must meet it?",
+          "Is the figure measured on the finished lot or on the raw delivery?",
+          "Which laboratory or method produced the figure, and on what date?",
+          "How much seed falls below the screen, and is there a limit on it?",
+          "What is the foreign-material level after cleaning, not before?"
+        ]
+      },
+      {
+        "heading": "Does Size Differ Between Our Series?",
+        "image": {
+          "src": "/images/ai-seed-comparison-magnifier.jpg",
+          "alt": "Two glass dishes of shelled sunflower kernels next to a magnifying glass and notebook",
+          "caption": "Comparing grades side by side. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Size depends on variety, season and grading, so ask for a size line on each series you are considering rather than assuming one number fits all. See the [comparison of the 361, 363 and Tongqing No.6 series](/blog/361-vs-363-vs-tongqing-no6-comparison), or look at the product pages for [361](/products/361-series), [363](/products/363-series) and [Tongqing No.6](/products/tq6-series)."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - share over 20/64, foreign material and test weight, crop years 2020-2024 (United States crop).",
+          "Our calculation of 20/64 inch in millimetres uses 1 inch = 25.4 mm."
+        ]
+      },
+      {
+        "heading": "Ask for a Size Line on Your Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us the size you need, in-shell or kernel. We will confirm what we can supply for your order."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "confection-sunflower-crop-quality-2020-2024",
+    title: "Confection Sunflower Crop Quality 2020-2024: What Buyers Should Read in the Data",
+    seoTitle: "Confection Sunflower Crop Quality, 2020-2024",
+    seoDescription: "US confection seed moisture rose from 8.9% to 10.7% between 2020 and 2024 while the crop fell 33%. What the NSA numbers mean for buyers.",
+    excerpt: "Five years of National Sunflower Association crop quality data for confection seed: test weight, moisture, foreign material, size and production, and how a buyer should read them.",
+    category: "Quality & Sourcing",
+    date: "2027-04-08",
+    author: "James Feng",
+    image: "/images/ai-sunflower-field-thriving.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "The National Sunflower Association publishes a yearly crop quality report, and its 2024 edition covers five crop years of confection (nonoil) seed. Between 2020 and 2024, average moisture rose from 8.9% to 10.7%, while test weight and foreign material moved much less ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). These are US crop figures, but they show which quality measures swing from year to year, and therefore which ones a buyer should write into a contract."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Moisture averaged 10.7% in 2024, up 1.8 points from 8.9% in 2020 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Test weight stayed between 21.1 and 24.0 lb/bu over the five years ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Foreign material stayed between 11.6% and 12.8% ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "The share of seed over 20/64 ranged from 80.2% to 85.4% ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "US confection production fell from 295 to 199 million pounds in 2024, a drop of 33% (calculated; the NSA says almost 33%)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Nonoil seed** is the NSA's term for confection sunflower seed, which it reports separately from oil-type seed ([NSA](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "**Test weight** is the weight of a bushel of seed, so a lower figure means a lighter, bulkier seed.",
+          "**Moisture content** is the share of a seed's weight that is water, and it is the main driver of storage risk."
+        ]
+      },
+      {
+        "heading": "What Does the NSA Crop Quality Report Cover?",
+        "body": [
+          "The report estimates seed quality from samples drawn from loads delivered to processors, or from samples taken at local grain buying facilities, with the help of state grain inspection services and several confection processing plants, and analyses them under USDA grain inspection directives ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). It separates oil-type seed from nonoil (confection) seed, and this article uses only the nonoil figures."
+        ]
+      },
+      {
+        "heading": "How Did Moisture, Test Weight and Foreign Material Move?",
+        "image": {
+          "src": "/images/nonoil-moisture-chart.svg",
+          "alt": "Bar chart of average moisture in US confection sunflower seed samples: 8.9 percent in 2020, 9.0 in 2021, 9.4 in 2022, 9.7 in 2023 and 10.7 in 2024",
+          "caption": "Average moisture by crop year. Source: NSA 2024 Crop Quality Report, United States."
+        },
+        "body": [
+          "The table shows the nonoil averages for each crop year. Moisture is the measure with a clear direction."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Moisture (%)",
+            "Test weight (lb/bu)",
+            "Foreign material (%)",
+            "Seeds over 20/64 (%)"
+          ],
+          "rows": [
+            [
+              "2024",
+              "10.7",
+              "22.7",
+              "11.6",
+              "85.3"
+            ],
+            [
+              "2023",
+              "9.7",
+              "21.5",
+              "12.4",
+              "80.9"
+            ],
+            [
+              "2022",
+              "9.4",
+              "24.0",
+              "11.7",
+              "82.6"
+            ],
+            [
+              "2021",
+              "9.0",
+              "21.4",
+              "12.8",
+              "85.4"
+            ],
+            [
+              "2020",
+              "8.9",
+              "21.1",
+              "12.2",
+              "80.2"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Does a Rising Moisture Average Matter?",
+        "body": [
+          "Moisture drives storage risk. The NSA's guidance for growers is to dry sunflower to under 10% moisture, and it warns that hulls dry faster than kernels so a reading can rebound after a rest ([NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/)). A 2024 average of 10.7% sits above that 10% mark, so a buyer should not assume that arriving seed is at a safe storage level. See our guide to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards)."
+        ]
+      },
+      {
+        "heading": "How Much Did Production Change?",
+        "image": {
+          "src": "/images/ai-sunflower-harvest-combine.jpg",
+          "alt": "Combine harvester working through a field of ripe sunflowers",
+          "caption": "Harvest. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "US confection production was 167 million pounds in 2021, 242 in 2022, 295 in 2023 and 199 in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Year-on-year that is +45%, +22% and -33% ([NSA](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf); calculated). The NSA links the 2024 decline to drought in several states and to damage from the red sunflower seed weevil in South Dakota."
+        ]
+      },
+      {
+        "heading": "How Does 2024 Compare With the Five-Year Average?",
+        "body": [
+          "Averages across the five crop years give each 2024 figure some context. The differences are small for test weight and foreign material and clearer for moisture and size."
+        ],
+        "table": {
+          "headers": [
+            "Measure",
+            "5-year average",
+            "2024",
+            "Difference"
+          ],
+          "rows": [
+            [
+              "Moisture (%)",
+              "9.5",
+              "10.7",
+              "+1.2"
+            ],
+            [
+              "Test weight (lb/bu)",
+              "22.1",
+              "22.7",
+              "+0.6"
+            ],
+            [
+              "Foreign material (%)",
+              "12.1",
+              "11.6",
+              "-0.5"
+            ],
+            [
+              "Seeds over 20/64 (%)",
+              "82.9",
+              "85.3",
+              "+2.4"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does One Point of Moisture Cost You?",
+        "body": [
+          "Moisture is water you pay for by the tonne. At 10.7% moisture, one tonne of seed holds 893 kg of dry matter, and at 8.9% it holds 911 kg. The difference is -2.0% dry matter per tonne (calculated), so a price per tonne should always be tied to a moisture limit. Our guide to [FOB pricing](/blog/fob-pricing-sunflower-seeds) shows what else moves a quote."
+        ]
+      },
+      {
+        "heading": "How Do Confection and Oil-Type Seed Compare in 2024?",
+        "body": [
+          "The same report measures oil-type seed, and the contrast shows what is specific to confection. Oil-type seed averaged 30.2 lb/bu, 8.2% moisture and 4.7% foreign material, against 22.7 lb/bu, 10.7% and 11.6% for confection ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Confection seed is lighter per bushel, wetter on delivery and carries more foreign material, so benchmarks for oilseed should not be applied to it."
+        ],
+        "table": {
+          "headers": [
+            "2024 samples",
+            "Test weight (lb/bu)",
+            "Moisture (%)",
+            "Foreign material (%)"
+          ],
+          "rows": [
+            [
+              "Confection (nonoil)",
+              "22.7",
+              "10.7",
+              "11.6"
+            ],
+            [
+              "Oil-type",
+              "30.2",
+              "8.2",
+              "4.7"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Is Confection Becoming a Bigger Share of the US Crop?",
+        "body": [
+          "By weight, confection was 8.8% of US sunflower production in 2021 and 17.3% in 2024 (calculated from [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). The share rose because oil-type production fell much faster in 2024, not because confection grew. Share figures can mislead when one component collapses."
+        ]
+      },
+      {
+        "heading": "Does US Data Apply to Chinese Seed?",
+        "body": [
+          "Not directly. Climate, varieties and grading practices differ, and the NSA samples are US loads. We use the report because it is a rare public, multi-year record of confection quality, and it shows which measures vary. For origin-specific figures, ask your supplier for batch test results rather than relying on any national average. Our guide to [Bayannur, Inner Mongolia](/blog/bayannur-inner-mongolia-sunflower-capital) describes the growing region we source from."
+        ]
+      },
+      {
+        "heading": "Which Quality Measures Belong in a Contract?",
+        "list": [
+          "A moisture maximum, because the average can drift upward in a wet year.",
+          "A size line, such as a minimum share over a named screen.",
+          "A foreign-material limit, since it was never below 11.6% in these five years.",
+          "A test-weight check, which flags light or poorly filled seed.",
+          "The test method and sampling plan for each of the above."
+        ]
+      },
+      {
+        "heading": "What If Your Supplier's Numbers Differ From the Benchmark?",
+        "body": [
+          "A gap is a question, not an accusation. Origin, variety and the stage of processing all change the figures, and the NSA samples are taken before further cleaning. Ask the supplier which stage its test certificate describes, and compare like with like: a cleaned, graded lot should look better than a raw delivery on foreign material and size."
+        ]
+      },
+      {
+        "heading": "How Should You Use a Crop Report?",
+        "body": [
+          "Use it as a benchmark and a prompt for questions, not as a specification. A five-year table tells you how much a measure can move, and therefore how tight a limit is realistic. Ask your supplier how its own batches compare with the benchmark, and for the lot's actual test certificate."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture, test weight, foreign material, size and production, crop years 2020-2024.",
+          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% drying guidance."
+        ]
+      },
+      {
+        "heading": "Ask for Batch Test Results",
+        "body": [
+          "[Request a quote](/contact#quote-form) and ask for moisture, size and foreign-material results for the batch you will receive."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-supply-risks-weather-yield-freight",
+    title: "Sunflower Seed Supply Risks: Weather, Yield Swings and Shipping Contingencies",
+    seoTitle: "Sunflower Seed Supply Risks and Contingencies",
+    seoDescription: "US confection output rose 45%, then 22%, then fell 33% in three years. See what yield swings mean for buyers and how to plan.",
+    excerpt: "What recent crop swings show about sunflower seed supply risk, and a practical contingency plan for buyers covering sourcing, stock, contracts and shipping.",
+    category: "Importing & Trade",
+    date: "2027-04-06",
+    author: "James Feng",
+    image: "/images/ai-cargo-ship-departing-port.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Sunflower seed supply moves with the weather. The best public evidence is the US record: confection production rose 45% in 2022 and 22% in 2023, then fell 33% in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). A buyer who plans on a flat supply curve will be caught out in a short year, so the useful question is which protections you can build into an order."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "US confection production: 167, 242, 295 and 199 million pounds in 2021 to 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "The 2024 fall was about 33% for confection and nearly 52% for oil-type seed ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "The NSA names drought and the red sunflower seed weevil as factors in 2024.",
+          "The 2022 rise of 45% shows that swings run in both directions (calculated)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Safety stock** is inventory held to cover a short crop or a late shipment.",
+          "**Allocation** is a supplier's decision to ration limited supply between its customers in a short year.",
+          "**Forward order** is an order placed now for delivery on a later date, often at an agreed price."
+        ]
+      },
+      {
+        "heading": "What Happened to the US Confection Crop?",
+        "image": {
+          "src": "/images/ai-sunflower-heads-hanging-dry.jpg",
+          "alt": "Sunflower heads hanging to dry in the sun",
+          "caption": "Weather decides the crop long before shipping starts. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The NSA reports US confection production of 167 million pounds in 2021, 242 in 2022, 295 in 2023 and 199 in 2024. It attributes the 2024 decline to drought in several states and to damage from the red sunflower seed weevil in South Dakota."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Confection production (million lb)",
+            "Change on prior year"
+          ],
+          "rows": [
+            [
+              "2021",
+              "167",
+              "-"
+            ],
+            [
+              "2022",
+              "242",
+              "+45%"
+            ],
+            [
+              "2023",
+              "295",
+              "+22%"
+            ],
+            [
+              "2024",
+              "199",
+              "-33%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Did Oil-Type and Confection Seed Move Together?",
+        "body": [
+          "They moved in the same direction but not by the same amount. Oil-type production changed +48%, -24% and -52% in 2022, 2023 and 2024, against +45%, +22% and -33% for confection (calculated from [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Confection output was steadier, which suggests a different mix of growing areas and contracts, but the report does not explain the gap, so we treat it as an observation only."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Oil-type change",
+            "Confection change"
+          ],
+          "rows": [
+            [
+              "2022",
+              "+48%",
+              "+45%"
+            ],
+            [
+              "2023",
+              "-24%",
+              "+22%"
+            ],
+            [
+              "2024",
+              "-52%",
+              "-33%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Do Yields Swing So Much?",
+        "body": [
+          "Sunflower is an annual field crop, so rainfall, heat and pests in a single season set the harvest. The 2024 US example combined drought with a pest problem, and both hit planted area that was already smaller. Origin matters here: Inner Mongolia has its own climate and cropping pattern, so US figures illustrate the risk but do not predict it."
+        ]
+      },
+      {
+        "heading": "What Does a Short Crop Mean for a Buyer?",
+        "body": [
+          "In a short year, prices tend to firm, allocation tightens and lead times can lengthen, as a supplier decides which customers to fill first. Buyers with a standing relationship, a forecast and a signed schedule are better placed than first-time spot buyers. Our guide to [harvest timing and pricing](/blog/seasonal-harvest-timing-sunflower-seed-availability) explains how the calendar affects availability."
+        ]
+      },
+      {
+        "heading": "Where Do Shipping Risks Fit In?",
+        "image": {
+          "src": "/images/ai-cargo-ship-departing-port.jpg",
+          "alt": "Container ship leaving a busy port at dusk beside rows of stacked containers",
+          "caption": "Shipping adds its own timing risk. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Even when the crop is large, shipping can delay it. Port congestion, container availability and holiday shutdowns all move delivery dates, and our guide to [Chinese New Year shipping](/blog/chinese-new-year-sunflower-seed-shipping) covers the best-known calendar gap. Freight rates change often, so ask for the validity period on every quote rather than treating the number as fixed."
+        ]
+      },
+      {
+        "heading": "What Would a 33% Shortfall Mean for Your Order Book?",
+        "body": [
+          "Take an illustrative buyer who needs 100 tonnes a year from a single supplier. If that supplier's crop falls by about a third, as US confection output did in 2024, the supplier may be able to deliver roughly 67 tonnes, leaving 33 tonnes to find elsewhere. The numbers are hypothetical, but the arithmetic shows why a second source is cheaper to qualify before the shortfall than during it, when every other buyer is looking too."
+        ]
+      },
+      {
+        "heading": "What Does a Simple Supply Risk Register Look Like?",
+        "body": [
+          "A short register keeps the risks visible. Each row pairs a risk with the signal that would warn you and the action you have already agreed. The entries are our practical guidance, not data."
+        ],
+        "table": {
+          "headers": [
+            "Risk",
+            "Early signal",
+            "Pre-agreed action"
+          ],
+          "rows": [
+            [
+              "Short crop",
+              "Supplier reports lower harvest or tighter allocation",
+              "Shift volume to a second source; confirm reserved quantity"
+            ],
+            [
+              "Quality drift",
+              "Moisture or foreign material above limit on test certificates",
+              "Reject or discount per contract; retest at a named laboratory"
+            ],
+            [
+              "Shipping delay",
+              "Port congestion, booking rollovers",
+              "Alternative port and forwarder; buffer stock covers one extra month"
+            ],
+            [
+              "Price spike",
+              "Quote validity shortens",
+              "Fix price for the next shipments through a forward order"
+            ],
+            [
+              "Payment friction",
+              "Bank delays on a first transfer",
+              "Agree terms in advance; consider a letter of credit"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Should You Hold Safety Stock?",
+        "body": [
+          "Safety stock buffers a short crop or a late ship, but seed does not keep forever, and stock held too long loses quality. Our [shelf life guide](/blog/sunflower-seed-shelf-life) and [warehouse storage guide](/blog/warehouse-storage-sunflower-seeds-moisture-temperature) explain the limits. Size the buffer to the supplier's lead time plus a margin, rather than to an arbitrary number of months."
+        ]
+      },
+      {
+        "heading": "How Can You Spread Supply Risk?",
+        "list": [
+          "Qualify a second source or a second series before you need one.",
+          "Agree a forecast with your main supplier so volume is reserved for you.",
+          "Split orders across harvest and non-harvest months where storage allows.",
+          "Keep the destination port and forwarder flexible, with a back-up route.",
+          "Write delivery windows and remedies for late shipment into the contract."
+        ]
+      },
+      {
+        "heading": "How Do You Read a Supplier's Crop Update?",
+        "body": [
+          "Ask for facts you can check, not reassurance. Useful items are the planted area compared with the previous year, the weather events that affected the crop, the expected tonnage, how much is already sold forward, and how much carried over from the last season. A supplier that can answer these in numbers is easier to plan with than one that says supply is 'normal'. Treat any answer without a number as unconfirmed."
+        ]
+      },
+      {
+        "heading": "What Should a Contract Say About Shortfalls?",
+        "body": [
+          "Define what counts as a shortfall, how much notice the supplier must give, and whether you may buy elsewhere without penalty. Quality should be defined through test results rather than adjectives. See our [guide to supply contract terms](/blog/sunflower-seed-supply-contract-terms) and the [T/T versus letter of credit comparison](/blog/tt-vs-letter-of-credit-sunflower-seeds) for payment protection."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - confection and oil-type production for 2021-2024, and the drought and weevil explanation (United States crop).",
+          "Year-on-year changes are our calculation from those figures."
+        ]
+      },
+      {
+        "heading": "Plan Your Supply Before the Next Season",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your annual volume and delivery windows, and we will discuss how to schedule your orders."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-kernel-specification-sheet-quality-factors",
+    title: "Sunflower Kernel Specification Sheet: 14 Quality Factors to Specify",
+    seoTitle: "Sunflower Kernel Spec Sheet: 14 Quality Factors",
+    seoDescription: "The NSA lists 14 quality factors for sunflower kernels, from moisture at or below 8% to a negative aflatoxin test. Use them to build your specification.",
+    excerpt: "A buyer's checklist of the 14 quality factors in the National Sunflower Association's US kernel product specification, with advice on turning each into a measurable purchase specification.",
+    category: "Quality & Sourcing",
+    date: "2027-02-09",
+    author: "James Feng",
+    image: "/images/ai-quality-audit-clipboard.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "If you buy sunflower kernels for baking or snacks, a specification should name each quality factor and a limit for it. The National Sunflower Association publishes a US kernel product specification with 14 such factors, from flavor to sticktites ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Note that XingYi Trading supplies in-shell confection seed, so this guide is a reference for kernel buyers and for brands that dehull in-shell seed themselves."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "14 quality factors in the NSA kernel specification, covering sensory, safety and physical measures.",
+          "Moisture is defined as a percentage at or below 8%.",
+          "Microbiological results are listed as aflatoxin negative and pathogens negative.",
+          "Size is defined as kernel count per ounce, not by screen.",
+          "The specification is an industry reference, not a legal standard, so your own contract must state limits."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Sticktites** are kernels with a piece of shell still attached, which the NSA counts per unit of weight ([NSA](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "**Kernel count per ounce** is the NSA's measure of kernel size, so a higher count means smaller kernels.",
+          "A **specification** is the written list of quality factors, limits and test methods that a lot must meet."
+        ]
+      },
+      {
+        "heading": "What Are the 14 Quality Factors?",
+        "image": {
+          "src": "/images/ai-quality-audit-clipboard.jpg",
+          "alt": "Quality inspector with a clipboard overlooking a food production line",
+          "caption": "A specification is only useful if each factor can be checked. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table reproduces the factors in the order the NSA lists them, with the NSA's description of each."
+        ],
+        "table": {
+          "headers": [
+            "Factor",
+            "NSA description"
+          ],
+          "rows": [
+            [
+              "Flavor",
+              "Good, typical, mild, distinctive"
+            ],
+            [
+              "Odor",
+              "Good, clean, fresh aroma"
+            ],
+            [
+              "Texture",
+              "Firm, not brittle or soggy"
+            ],
+            [
+              "Color",
+              "Off-white, gray"
+            ],
+            [
+              "Microbiological",
+              "Aflatoxin: negative; pathogens: negative"
+            ],
+            [
+              "Chemical additives",
+              "No preservatives or chemical additives may be used"
+            ],
+            [
+              "Pesticide residues",
+              "Meets all state and federal regulatory requirements"
+            ],
+            [
+              "Fumigants",
+              "Only FDA-approved fumigants may be used as considered necessary; residues may not exceed FDA-approved tolerances"
+            ],
+            [
+              "Size",
+              "Defined as kernel count per oz"
+            ],
+            [
+              "Foreign material",
+              "Includes shells and unshelled seed; defined as percentage or count per unit of weight"
+            ],
+            [
+              "Moisture",
+              "Defined as a percentage at or below 8%"
+            ],
+            [
+              "Damage",
+              "Distinctly discolored kernel or insect damage; each defined as a percentage"
+            ],
+            [
+              "Broken or chip",
+              "Any portion less than 1/2 kernel; defined as a percentage"
+            ],
+            [
+              "Sticktites",
+              "Kernel with a piece of shell adhering; defined as count per unit of weight"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do You Specify Flavor, Odor, Texture and Color?",
+        "body": [
+          "These four are sensory factors, so the NSA wording is descriptive rather than numeric. Turn them into something checkable by agreeing a reference sample and a tasting or visual check, and by stating that the lot must match the reference. Without a reference, 'good' and 'clean' are an argument waiting to happen."
+        ]
+      },
+      {
+        "heading": "What Does Size Mean for Kernels?",
+        "body": [
+          "The NSA defines kernel size as count per ounce, which is a measure you can verify with a scale and a counter. In-shell seed is different, as it is sized by screen, which our guide to [20/64 size grading](/blog/sunflower-seed-size-grading-20-64-screen) explains. Write the count range you can accept and the sample weight used to measure it."
+        ]
+      },
+      {
+        "heading": "What Counts as Foreign Material and Sticktites?",
+        "image": {
+          "src": "/images/process-11-xray-inspection.webp",
+          "alt": "X-ray inspection equipment on the sunflower seed production line",
+          "caption": "X-ray inspection on the line. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "The NSA includes shells and unshelled seed in foreign material, expressed as a percentage or count per unit of weight. Sticktites are kernels with a piece of shell still attached, counted per unit of weight. Both matter for baking and snack lines, where a hull fragment is a consumer complaint, so set separate limits rather than a single catch-all."
+        ]
+      },
+      {
+        "heading": "What Moisture Limit Applies to Kernels?",
+        "body": [
+          "The NSA specification defines moisture as a percentage at or below 8%. That is stricter than the roughly 10% figure growers use for in-shell seed in the field, because kernels are more exposed to spoilage once hulled. State the limit and the test method on the purchase order, and compare it with our [shelf life guide](/blog/sunflower-seed-shelf-life)."
+        ]
+      },
+      {
+        "heading": "Should Microbiological Tests Be Part of the Spec?",
+        "body": [
+          "Yes. The NSA lists aflatoxin and pathogens as negative, which means a test result is part of the specification, not an assumption. Ask which laboratory runs the test, how often, and whether results are supplied per lot. Our [food-safety testing context](/blog/non-gmo-pesticide-residue-testing) covers related checks."
+        ]
+      },
+      {
+        "heading": "How Do Additives, Pesticides and Fumigants Fit In?",
+        "body": [
+          "The NSA states that no preservatives or chemical additives may be used, that pesticide residues must meet state and federal requirements, and that only FDA-approved fumigants may be used, with residues within FDA tolerances. For an export order, replace 'state and federal' with the regulations of your own destination market."
+        ]
+      },
+      {
+        "heading": "How Do You Turn This Into Your Own Specification?",
+        "list": [
+          "Copy the 14 factors into a table, and add a numeric limit wherever the NSA wording is descriptive.",
+          "Name the test method and the laboratory for each measurable factor.",
+          "Define the sampling plan: number of samples and where they are drawn.",
+          "Agree a reference sample for sensory factors.",
+          "State what happens when a lot is out of specification: reject, discount or retest."
+        ]
+      },
+      {
+        "heading": "What Does a Fill-In Specification Template Look Like?",
+        "body": [
+          "The template below turns the NSA factors into a purchase specification. The blanks are yours to complete with your own limits, methods and test frequency; the NSA numbers are shown only where it gives one."
+        ],
+        "table": {
+          "headers": [
+            "Factor",
+            "Your limit",
+            "Test method",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "Flavor",
+              "match reference sample",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Odor",
+              "match reference sample",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Texture",
+              "match reference sample",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Color",
+              "match reference sample",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Microbiological",
+              "aflatoxin and pathogens negative",
+              "to be agreed",
+              "each lot"
+            ],
+            [
+              "Chemical additives",
+              "none permitted",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Pesticide residues",
+              "destination-market limits",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Fumigants",
+              "approved fumigants only",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Size",
+              "kernel count per oz: to be agreed",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Foreign material",
+              "to be agreed",
+              "to be agreed",
+              "each lot"
+            ],
+            [
+              "Moisture",
+              "8% or lower",
+              "to be agreed",
+              "each lot"
+            ],
+            [
+              "Damage",
+              "to be agreed",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Broken or chip",
+              "to be agreed",
+              "to be agreed",
+              "to be agreed"
+            ],
+            [
+              "Sticktites",
+              "to be agreed",
+              "to be agreed",
+              "to be agreed"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Factors Should You Test on Every Lot?",
+        "body": [
+          "Safety and stability factors are the first candidates: microbiological results, moisture and foreign material. Sensory checks against a reference sample also belong on every lot, because they are quick and catch problems early. Size, damage, broken kernels and sticktites can follow a sampling plan if your supplier's record is good, then be tightened if results drift."
+        ]
+      },
+      {
+        "heading": "How Does the Kernel Moisture Limit Compare With In-Shell Data?",
+        "body": [
+          "The NSA's kernel limit is 8% or lower, while its in-shell nonoil samples averaged 10.7% in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). That 2.7-point gap is not a flaw: the figures describe different products at different stages. It does mean a kernel specification should not be copied from an in-shell contract, or the reverse."
+        ]
+      },
+      {
+        "heading": "Where Do These Specifications Come From?",
+        "list": [
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 'U.S. Sunflower Kernel Product Specifications' table (page 4).",
+          "Our advice on limits and methods is practical guidance, not part of the NSA document."
+        ]
+      },
+      {
+        "heading": "Need In-Shell Seed Instead of Kernels?",
+        "body": [
+          "XingYi Trading exports in-shell confection seed. [Request a quote](/contact#quote-form) if you need in-shell seed for your own dehulling, and read our guide to [in-shell versus kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "warehouse-storage-sunflower-seeds-moisture-temperature",
+    title: "Warehouse Storage for Sunflower Seeds: Moisture, Heat and Safe Handling",
+    seoTitle: "Storing Sunflower Seeds in a Warehouse",
+    seoDescription: "Sunflower seed stored above 10% moisture risks hot spots. Learn the NSA storage guidance, why moisture readings rebound, and what to check when seed arrives.",
+    excerpt: "How to store confection sunflower seed in a warehouse: moisture targets, why readings rebound, aeration rates converted to metric, hot spots and fire risk, and an arrival checklist.",
+    category: "Harvesting & Storage",
+    date: "2027-03-16",
+    author: "James Feng",
+    image: "/images/process-02-storage-silos.webp",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Seed that arrives dry can still spoil in a warehouse if moisture, heat and airflow are not managed. The National Sunflower Association advises drying sunflower to under 10% moisture, warns that hulls dry faster than kernels so a meter reading can rebound, and flags hot spots and fine-fibre fire risk ([NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/)). This guide turns that advice into a storage routine for a buyer."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Dry sunflower to under 10% moisture, from a combining moisture of 14-15% (NSA).",
+          "A meter can read 10% one day and 12% the next, because hulls dry faster than kernels (NSA).",
+          "NSA aeration guidance of 1/10 to 1 cfm per cwt equals about 0.06 to 0.62 cubic metres per minute per tonne (our conversion).",
+          "US confection seed averaged 10.7% moisture in 2024, above the 10% mark ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Without aeration, seed should be rotated between bins to avoid hot spots (NSA)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Moisture content** is the share of a seed's weight that is water, and the NSA advises drying sunflower to under 10%.",
+          "A **hot spot** is a pocket of stored seed that heats up, usually because moisture is high and air cannot move through the stack.",
+          "**Aeration** is moving air through stored seed to cool it and equalise moisture."
+        ]
+      },
+      {
+        "heading": "What Moisture Level Is Safe for Storage?",
+        "image": {
+          "src": "/images/process-02-storage-silos.webp",
+          "alt": "Storage silos at the XingYi Trading facility",
+          "caption": "Storage silos at the XingYi Trading facility. Photo: XingYi Trading."
+        },
+        "body": [
+          "The NSA's drying guidance is to take sunflower down to under 10% moisture, and to monitor it so it is not overdried. That matters because the confection seed in its 2024 crop report averaged 10.7%, so seed from a wet year can arrive above the safe mark ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Always set a moisture limit in the purchase specification, as our [moisture and purity guide](/blog/sunflower-seed-moisture-content-purity-standards) explains."
+        ]
+      },
+      {
+        "heading": "Why Can a Moisture Reading Rebound?",
+        "body": [
+          "The NSA notes that hulls dry faster than kernels, so a meter may show 10% and then climb to 12% the next day as moisture moves from kernel to hull. Its suggested check is to seal some seed in a jar overnight and read it the next day. A single reading on arrival is therefore not enough, and a second reading after rest is a cheap safeguard."
+        ]
+      },
+      {
+        "heading": "How Does Aeration Work, in Metric Units?",
+        "body": [
+          "The NSA gives aeration rates of 1/10 to 1 cfm per cwt, which means cubic feet of air per minute for each hundredweight of seed. Using NIST's definition of the pound ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)) and 1 cubic foot = 0.0283168 m³, that is about 0.06 to 0.62 cubic metres of air per minute for each tonne. This is our own conversion of a US grower guideline, so treat it as an order of magnitude and follow the advice of your warehouse engineer."
+        ]
+      },
+      {
+        "heading": "What Does Moisture Cost You per Tonne?",
+        "body": [
+          "Water weighs the same as seed when it is on the scale. A tonne at 12% moisture holds 880 kg of dry matter, and a tonne at 10% holds 900 kg, so the wetter lot has 2.3% less seed in it (calculated). The NSA's own rebound example, a reading that moves from 10% to 12%, therefore changes what you are paying for as well as how safely the seed stores."
+        ]
+      },
+      {
+        "heading": "What Does Aeration Mean for a Real Stack?",
+        "body": [
+          "Take a 20 tonne stack as an example. The NSA range of 0.06 to 0.62 cubic metres per minute per tonne becomes 1.2 to 12.5 cubic metres per minute for the whole stack, or about 44 to 441 cfm (calculated). The range is wide because the right rate depends on moisture and temperature, which is why the NSA treats it as a guideline rather than a fixed figure."
+        ]
+      },
+      {
+        "heading": "What Are Hot Spots, and How Do You Prevent Them?",
+        "body": [
+          "A hot spot is a pocket of seed that heats up, usually because moisture is high and air cannot move through the stack. The NSA says that without aeration, sunflower should be rotated between bins so hot spots do not develop. For bagged seed, the equivalent is to keep stacks away from walls, leave air gaps and turn old stock first, which are practical steps rather than NSA figures."
+        ]
+      },
+      {
+        "heading": "Is There a Fire Risk?",
+        "image": {
+          "src": "/images/warehouse-storage.jpg",
+          "alt": "Pallets of bagged sunflower seeds stacked in a warehouse",
+          "caption": "Stacked bagged seed. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "Yes. The NSA flags fine seed fibres as a fire hazard, especially in dry conditions. Keep dust under control, avoid ignition sources near stacks, and follow your local fire rules for agricultural storage. This is another reason to clean seed before storage and to specify a foreign-material limit."
+        ]
+      },
+      {
+        "heading": "What Changes for Kernels and Roasted Products?",
+        "body": [
+          "Hulled kernels are more exposed than in-shell seed, which is why the NSA's kernel specification sets moisture at 8% or lower, against the under-10% drying target for seed in the shell. For roasted kernel, the NSA hosts a study in which low-oxygen packaging prolonged shelf stability for a full year. The practical point is that a storage plan written for in-shell seed should not be applied to kernels or roasted products without a separate check."
+        ]
+      },
+      {
+        "heading": "How Often Should Stored Seed Be Re-Checked?",
+        "body": [
+          "There is no single interval in the NSA guidance, so set one from your own risk. Check more often in the first weeks after arrival, when moisture is still equalising, after any weather change that affects the warehouse, and whenever you notice an odour or warm spot. Record each reading, so a trend shows before a problem does."
+        ]
+      },
+      {
+        "heading": "What Should You Check When Seed Arrives?",
+        "list": [
+          "Moisture on arrival and again after a rest period.",
+          "Visible mould, off-odour or heating in the bags.",
+          "Bag condition: seams intact, no wet patches.",
+          "Lot number, packing date and test certificate against the order.",
+          "Where in the warehouse the lot goes, and which stock it sits next to."
+        ]
+      },
+      {
+        "heading": "How Long Can You Store Seed?",
+        "body": [
+          "That depends on moisture, temperature and packaging, and the NSA hosts a 1997 study finding that low-oxygen packaging can prolong the shelf stability of roasted sunflower kernel for a full year ([NSA shelf stability studies](https://www.sunflowernsa.com/seed/seedshelf-stability-study/)). That finding concerns roasted kernels, not in-shell raw seed, so see our [shelf life guide](/blog/sunflower-seed-shelf-life) for in-shell storage."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% target, rebound example, aeration rate, hot spots and fibre fire risk.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 2024 nonoil moisture average.",
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - the pound definition used in the aeration conversion."
+        ]
+      },
+      {
+        "heading": "Plan Storage Before the Shipment Arrives",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your destination and storage conditions, and we will discuss packaging and moisture limits that suit them."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seeds-vs-pumpkin-seeds",
+    title: "Sunflower Seeds vs Pumpkin Seeds: Which Has More Protein, Minerals and Vitamin E?",
+    seoTitle: "Sunflower Seeds vs Pumpkin Seeds: USDA Data",
+    seoDescription: "Per 28 g, pumpkin seed kernels have 8.5 g protein to sunflower's 5.8 g, while sunflower has 9.8 mg vitamin E to 0.6 mg.",
+    excerpt: "A side-by-side USDA comparison of dried sunflower and pumpkin seed kernels per 28 g: protein, minerals, vitamin E, selenium, calories and carbohydrate, with the Daily Value shares.",
+    category: "Health & Nutrition",
+    date: "2027-01-14",
+    author: "James Feng",
+    image: "/images/ai-seed-comparison-magnifier.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Neither seed wins on every nutrient. Per 28 g of dried kernels, pumpkin seeds provide 8.5 g of protein against 5.8 g for sunflower seeds, and more magnesium, zinc and iron. Sunflower seeds provide 9.8 mg of vitamin E against 0.6 mg, and 15 mcg of selenium against 3 mcg ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled to 28 g)."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Protein: 30.2 g per 100 g in pumpkin seed kernels against 20.8 g in sunflower kernels, 45% more ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Magnesium: 592 mg per 100 g against 325 mg, so pumpkin has about 1.8 times as much (calculated).",
+          "Vitamin E: 35.2 mg per 100 g in sunflower against 2.2 mg in pumpkin, about 16 times as much (calculated).",
+          "Energy: 584 kcal per 100 g for sunflower and 559 for pumpkin; carbohydrate 20.0 g against 10.7 g.",
+          "Neither seed appears on the US list of 9 major allergens or the EU list of 14 (FDA; FSAI)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Daily Value (DV)** is the reference amount FDA uses on nutrition labels, such as 15 mg for vitamin E and 420 mg for magnesium ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "**Pumpkin seed kernels** are the shelled seeds of pumpkin and squash, the product USDA lists as 'pumpkin and squash seed kernels' ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "**Per 100 kcal** is a way of comparing foods by the energy they carry, so that a denser food is not flattered by a smaller portion."
+        ]
+      },
+      {
+        "heading": "What Does the Full Comparison Look Like?",
+        "image": {
+          "src": "/images/sunflower-vs-pumpkin-dv-chart.svg",
+          "alt": "Paired bar chart of percent Daily Value per 28 grams: sunflower is higher in vitamin E and selenium, pumpkin is higher in magnesium, zinc, iron and protein",
+          "caption": "Percent Daily Value per 28 g. Source: USDA FoodData Central and FDA, calculated by XingYi Trading."
+        },
+        "body": [
+          "The table scales both USDA records (dried kernels) to a 28 g serving. Percentages are shares of the [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels), and the last column names the seed with the higher amount."
+        ],
+        "table": {
+          "headers": [
+            "Per 28 g",
+            "Sunflower seed kernels",
+            "Pumpkin seed kernels",
+            "Higher",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Energy (kcal)",
+              "164",
+              "157",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Protein (g)",
+              "5.8 (12% DV)",
+              "8.5 (17% DV)",
+              "Pumpkin",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Dietary fiber (g)",
+              "2.4 (9% DV)",
+              "1.7 (6% DV)",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Total fat (g)",
+              "14.4",
+              "13.7",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Carbohydrate (g)",
+              "5.6",
+              "3.0",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Vitamin E (mg)",
+              "9.8 (66% DV)",
+              "0.6 (4% DV)",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Selenium (mcg)",
+              "15 (27% DV)",
+              "3 (5% DV)",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Folate (mcg)",
+              "64 (16% DV)",
+              "16 (4% DV)",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Magnesium (mg)",
+              "91 (22% DV)",
+              "166 (39% DV)",
+              "Pumpkin",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Zinc (mg)",
+              "1.4 (13% DV)",
+              "2.2 (20% DV)",
+              "Pumpkin",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Iron (mg)",
+              "1.5 (8% DV)",
+              "2.5 (14% DV)",
+              "Pumpkin",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Phosphorus (mg)",
+              "185 (15% DV)",
+              "345 (28% DV)",
+              "Pumpkin",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Potassium (mg)",
+              "181 (4% DV)",
+              "227 (5% DV)",
+              "Pumpkin",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Sodium (mg)",
+              "2.5",
+              "2.0",
+              "Sunflower",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Seed Has More Protein?",
+        "body": [
+          "Pumpkin seed kernels. USDA lists 30.2 g per 100 g against 20.8 g for sunflower, a difference of 9.4 g, or about 2.6 g in a 28 g serving. In Daily Value terms that is 17% against 12% of the 50 g reference amount ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Protein per calorie favours pumpkin even more clearly, as it has fewer calories as well."
+        ]
+      },
+      {
+        "heading": "Which Seed Is Higher in Minerals?",
+        "body": [
+          "Pumpkin leads on the minerals in the table. Per 28 g it has 166 mg of magnesium against 91 mg, 2.2 mg of zinc against 1.4 mg, and 2.5 mg of iron against 1.5 mg. Phosphorus (345 mg against 185 mg) and potassium (227 mg against 181 mg) follow the same pattern ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients))."
+        ]
+      },
+      {
+        "heading": "Which Seed Is Higher in Vitamin E and Selenium?",
+        "body": [
+          "Sunflower. A 28 g serving supplies 66% of the vitamin E Daily Value against 4% for pumpkin, and 27% of the selenium Daily Value against 5%. Sunflower also has more folate (64 mcg against 16 mcg) and more fiber (2.4 g against 1.7 g) ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels))."
+        ]
+      },
+      {
+        "heading": "Which Seed Has Fewer Calories and Carbohydrate?",
+        "image": {
+          "src": "/images/ai-salad-sunflower-seeds.jpg",
+          "alt": "Bowl of mixed green salad topped with carrot and shelled sunflower seeds",
+          "caption": "Sunflower seeds as a salad topper. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Pumpkin does, though the calorie gap is small. A 28 g serving of pumpkin kernels has about 157 kcal against 164 kcal for sunflower, a 4.3% difference. The carbohydrate gap is wider: 3.0 g against 5.6 g, roughly half as much (calculated from [USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients))."
+        ]
+      },
+      {
+        "heading": "How Do the Seeds Compare per 100 Calories?",
+        "body": [
+          "Seeds are energy-dense, so comparing per calorie shows which delivers more nutrient for each 100 kcal eaten. The values below divide each USDA nutrient by the record's energy and are calculated by us."
+        ],
+        "table": {
+          "headers": [
+            "Per 100 kcal",
+            "Sunflower",
+            "Pumpkin"
+          ],
+          "rows": [
+            [
+              "Protein (g)",
+              "3.6",
+              "5.4"
+            ],
+            [
+              "Magnesium (mg)",
+              "56",
+              "106"
+            ],
+            [
+              "Vitamin E (mg)",
+              "6.0",
+              "0.4"
+            ],
+            [
+              "Selenium (mcg)",
+              "9.1",
+              "1.7"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Much of Each Seed Would Meet a Daily Value?",
+        "body": [
+          "A different test is the weight of seed that would supply 100% of a Daily Value on its own. For vitamin E that is about 43 g of sunflower kernels, against 688 g of pumpkin kernels, which shows that pumpkin seeds are not a meaningful vitamin E source. For magnesium it is about 129 g of sunflower against 71 g of pumpkin ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels), calculated). Nobody eats seeds in those amounts, but the ratios show where each seed is strong."
+        ]
+      },
+      {
+        "heading": "Does Roasting Change the Comparison?",
+        "body": [
+          "Only slightly. Pumpkin kernels roasted without salt are listed at 574 kcal per 100 g and 550 mg of magnesium, and their vitamin E falls to 0.6 mg. Dry roasted sunflower kernels without salt are listed at 582 kcal per 100 g and 19.3 g of protein ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). The ranking in the table does not change, but salt does: see our guide to [sunflower seed calories, protein and sodium](/blog/sunflower-seed-calories-protein-macros)."
+        ]
+      },
+      {
+        "heading": "Which Seed Should You Choose?",
+        "body": [
+          "It depends on which nutrient matters to you or to your product. Pumpkin suits a high-protein or high-magnesium positioning, while sunflower suits a vitamin E or selenium positioning. Many food brands use both, for example in a seed mix. The figures describe food composition and are not health claims, so check the rules on nutrient content claims in your market before putting a number on a pack."
+        ]
+      },
+      {
+        "heading": "How Do the Two Seeds Differ in Fat and Carbohydrate?",
+        "body": [
+          "Total fat is close: 51.5 g per 100 g for sunflower against 49.0 g for pumpkin. Sunflower is higher in polyunsaturated fat, at 23.1 g against 21.0 g, while pumpkin has more monounsaturated fat, at 16.2 g against 18.5 g ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). A product claim about fat type should therefore name the seed."
+        ]
+      },
+      {
+        "heading": "What Do Allergen Rules Say About Each Seed?",
+        "body": [
+          "Neither seed is on the US list of nine major allergens or the EU list of 14 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Sesame is on both lists, so a seed mix that includes sesame still needs an allergen declaration. Our guide to [allergen labeling for sunflower seed products](/blog/sunflower-seed-allergen-labeling-us-eu) explains how each region requires it."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562 (sunflower seed kernels, dried), 170556 (pumpkin and squash seed kernels, dried) and 170557 (roasted without salt), read from the official SR Legacy download.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts behind each percentage.",
+          "Calculations (28 g serving, ratios) are ours."
+        ]
+      },
+      {
+        "heading": "Looking for Sunflower Seeds for a Seed Mix?",
+        "body": [
+          "XingYi Trading supplies sunflower seeds only, not pumpkin seeds. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-price-per-ton-units-kg-lb-guide",
+    title: "25 kg vs 50 lb Bags and Metric vs Short Tons: Avoiding Price Mistakes When Buying Sunflower Seeds",
+    seoTitle: "Metric Ton vs Short Ton: Sunflower Seed Pricing",
+    seoDescription: "A metric ton is 1,000 kg, a short ton 907 kg and a long ton 1,016 kg. See how ton and bag units can distort a sunflower seed price comparison.",
+    excerpt: "How metric, short and long tons and 25 kg and 50 lb bags differ, how to convert a price between them, and how to write units into an RFQ so two quotes can be compared.",
+    category: "Importing & Trade",
+    date: "2027-01-19",
+    author: "James Feng",
+    image: "/images/ai-customs-duty-calculator-desk.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "A quote 'per ton' can mean three different weights. A metric ton is 1,000 kg, a short ton (2,000 lb) is 907.2 kg, and a long ton (2,240 lb) is 1016.0 kg ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)). A price per short ton is therefore 9.3% lower per kilogram than the same number per metric ton ([NIST](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c), calculated), which is enough to change which quote looks cheaper."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "1 pound = 453.59237 g exactly, so 50 lb = 22.68 kg and 25 kg = 55.12 lb ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)).",
+          "1 metric ton = 1,000 kg; 1 short ton = 907.18 kg; 1 long ton = 1016.05 kg ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)).",
+          "To convert a price per short ton to a price per metric ton, multiply by 1.1023 (calculated).",
+          "A metric ton is 40 bags of 25 kg, or about 44.1 bags of 50 lb (calculated).",
+          "Always state the unit, the currency and the Incoterm in a quote."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "A **metric ton** (tonne) is 1,000 kilograms, a **short ton** is 2,000 pounds and a **long ton** is 2,240 pounds ([NIST](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)).",
+          "**Net weight** is the weight of the seed alone, while **gross weight** includes the bag and packing.",
+          "An **Incoterm** is a standard trade term that states who bears cost and risk, so a price is only comparable when the Incoterm matches."
+        ]
+      },
+      {
+        "heading": "What Are the Three Kinds of Ton?",
+        "image": {
+          "src": "/images/ton-units-chart.svg",
+          "alt": "Bar chart of three tons: short ton 907.2 kilograms, metric ton 1,000 kilograms, long ton 1,016.0 kilograms",
+          "caption": "Three tons compared. Source: NIST Handbook 44-2026, calculated by XingYi Trading."
+        },
+        "body": [
+          "The metric ton, also called the tonne, is 1,000 kilograms. The short ton is 2,000 pounds and is the 'ton' in everyday US usage. The long ton is 2,240 pounds and is the old British ton. NIST notes that when 'ton' is used unmodified in US trade it is commonly understood as the 2,000-pound ton ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)).",
+          "Most Chinese and international export quotes use the metric ton. A buyer accustomed to US short tons should confirm which one a quote means before comparing it with a domestic price."
+        ]
+      },
+      {
+        "heading": "How Do 25 kg and 50 lb Bags Compare?",
+        "body": [
+          "A 50 lb bag weighs 22.68 kg, which is 9.3% less than a 25 kg bag. The two sizes are often described as 'about the same', but they are not interchangeable in a contract. Our guide to [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) explains which formats suppliers use and why the bag size is worth fixing in writing."
+        ],
+        "table": {
+          "headers": [
+            "Unit",
+            "Kilograms",
+            "Pounds",
+            "Bags per metric ton"
+          ],
+          "rows": [
+            [
+              "25 kg bag",
+              "25.00",
+              "55.12",
+              "40.0"
+            ],
+            [
+              "50 lb bag",
+              "22.68",
+              "50.00",
+              "44.1"
+            ],
+            [
+              "50 kg bag",
+              "50.00",
+              "110.23",
+              "20.0"
+            ],
+            [
+              "Short ton of 50 lb bags",
+              "907.2",
+              "2,000",
+              "40.0 bags"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do You Convert a Price Between Units?",
+        "body": [
+          "Divide the price by the weight in the unit you want. A price per short ton becomes a price per metric ton when you divide by 0.90718, which is the same as multiplying by 1.1023. As an illustration with an invented number, 1,000 per short ton equals 1,102.31 per metric ton (calculated). Going the other way, 1,000 per metric ton equals 907.18 per short ton. Convert currency separately, and say which exchange rate and date you used."
+        ]
+      },
+      {
+        "heading": "What Happens If Two Quotes Use Different Units?",
+        "image": {
+          "src": "/images/ai-customs-duty-calculator-desk.jpg",
+          "alt": "Desk with a calculator, rubber stamp and customs paperwork",
+          "caption": "Convert every quote to one unit before comparing. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table compares two invented quotes to show the effect. The numbers are illustrative only."
+        ],
+        "table": {
+          "headers": [
+            "Quote",
+            "Stated price",
+            "Unit",
+            "Price per metric ton"
+          ],
+          "rows": [
+            [
+              "Supplier A",
+              "1,000",
+              "per metric ton",
+              "1,000.00"
+            ],
+            [
+              "Supplier B",
+              "950",
+              "per short ton",
+              "1,047.20"
+            ],
+            [
+              "Supplier C",
+              "1,050",
+              "per long ton",
+              "1,033.42"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Mistakes Do Mixed Units Cause?",
+        "body": [
+          "The table shows the size of three common slips. In each case the number you read understates or overstates the weight you actually get."
+        ],
+        "table": {
+          "headers": [
+            "Slip",
+            "What you assume",
+            "What you get",
+            "Error"
+          ],
+          "rows": [
+            [
+              "Short ton read as metric ton",
+              "1,000 kg",
+              "907.2 kg",
+              "9.3% less seed"
+            ],
+            [
+              "50 lb bag read as 25 kg",
+              "25 kg",
+              "22.68 kg",
+              "9.3% less per bag"
+            ],
+            [
+              "Long ton read as metric ton",
+              "1,000 kg",
+              "1016.0 kg",
+              "1.6% more seed"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do You Move Between Price Per Tonne, Per Kilogram and Per Pound?",
+        "body": [
+          "Divide a price per metric ton by 1,000 for a price per kilogram, then multiply by 0.45359237 for a price per pound, because one pound is 0.45359237 kg. As an invented example, 1,200 per metric ton is 1.20 per kilogram and 0.544 per pound, so a 50 lb bag costs 27.22 and a 25 kg bag costs 30.00. Retail buyers think in pounds and wholesale buyers in tonnes, which is how quotes drift apart."
+        ]
+      },
+      {
+        "heading": "Why Do US Crop Reports Use Pounds?",
+        "body": [
+          "US sources such as the National Sunflower Association report production in thousands of pounds. Its 2024 confection (nonoil) figure of 198,545 thousand pounds equals about 90,058 metric tons ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf); calculated). Convert before you compare US crop figures with a supplier's tonnage."
+        ]
+      },
+      {
+        "heading": "What About Hundredweight and Bushels?",
+        "body": [
+          "Two more US units appear in crop data. A short hundredweight is 100 lb, or 45.36 kg, and a bushel is 2,150.42 cubic inches, or 35.24 litres ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)). Grain reports quote test weight in pounds per bushel, which we convert to kilograms per cubic metre in our guide to [how many tons fit in a container](/blog/tons-per-container-sunflower-seeds-20ft-40ft)."
+        ]
+      },
+      {
+        "heading": "How Does the Unit Affect Container Planning?",
+        "body": [
+          "A 20ft container that holds about 9.7 metric tons of loose in-shell seed by volume holds about 10.7 short tons (calculated; see the container guide for the assumptions). If a freight forwarder quotes in one unit and the supplier in another, the weights do not match, and a mismatch of this size changes the cost per kilogram."
+        ]
+      },
+      {
+        "heading": "Which Unit Should You Use Inside Your Own Business?",
+        "body": [
+          "Pick one unit for internal use and convert every quote at the door. Metric tonnes and kilograms are the simplest because they scale by powers of ten and match most export documents, packing lists and freight bills. Keep the original unit beside the converted number in your records, so an audit can trace how a price was derived."
+        ]
+      },
+      {
+        "heading": "How Should You Write Units Into an RFQ?",
+        "list": [
+          "State the quantity in metric tonnes and, if you also think in pounds, in brackets.",
+          "State the bag weight in kilograms and the number of bags per container.",
+          "State whether weights are net or gross.",
+          "Give the price per metric tonne, in a named currency, with the Incoterm and port.",
+          "Ask the supplier to repeat the units back in the quote."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - exact definitions of the pound, short ton, long ton, metric ton and bushel.",
+          "All conversions and the invented price examples are our own arithmetic."
+        ]
+      },
+      {
+        "heading": "Get a Quote With Clear Units",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us the unit you prefer. We will quote in metric tonnes with the bag weight and bags per container written out. See our guide on [writing an RFQ](/blog/how-to-write-rfq-bulk-sunflower-seeds)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-side-effects-safe-serving-sizes",
+    title: "Sunflower Seed Side Effects: Calories, Sodium, Cadmium and How to Judge a Safe Serving",
+    seoTitle: "Sunflower Seed Side Effects and Safe Servings",
+    seoDescription: "Salted sunflower seeds carry 183 mg of sodium per 28 g, and the EU caps cadmium in sunflower seed at 0.50 mg/kg. See what to watch and how to judge a serving.",
+    excerpt: "The measurable downsides of sunflower seeds: energy density, sodium in salted seeds, cadmium limits and allergen status, with serving-size tables built from USDA and FDA data.",
+    category: "Health & Nutrition",
+    date: "2027-01-21",
+    author: "James Feng",
+    image: "/images/ai-salad-sunflower-seeds.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "The documented downsides of sunflower seeds are mostly about quantity and processing. A 28 g serving carries about 164 kcal, and a salted dry roasted serving carries about 183 mg of sodium, 8% of the 2,300 mg Daily Value ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Cadmium is regulated separately, with an EU maximum level of 0.50 mg/kg for sunflower seed, so quality control matters as much as portion size. This is general information, not medical advice."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Energy: 584 kcal per 100 g, or about 164 kcal in 28 g ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Sodium: 3 mg per 100 g for dry roasted kernels without salt against 655 mg with salt added ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "It would take about 13 servings of 28 g of salted dry roasted kernels to reach the sodium Daily Value (calculated).",
+          "The EU maximum cadmium level for sunflower seed is 0.50 mg/kg (EFSA-hosted table citing Regulation (EC) No 1881/2006).",
+          "Sunflower is not on the US list of 9 major allergens or the EU list of 14."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Daily Value (DV)** is the reference amount FDA uses on nutrition labels, such as 2,300 mg for sodium ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "**Cadmium** is a heavy metal that plants absorb from soil, which is why regulators set maximum levels for it in foods such as sunflower seed.",
+          "A **maximum level** is the highest concentration of a contaminant that a regulation allows in a food placed on the market."
+        ]
+      },
+      {
+        "heading": "Which Downsides Can Be Measured, and Which Cannot?",
+        "body": [
+          "This guide covers what public data can support: energy density, sodium, contaminant limits and allergen labeling. It does not claim that sunflower seeds cause any specific illness, because we found no authoritative source for such claims in the data used here. If you have a medical condition, a clinician is the right source for advice on seeds."
+        ]
+      },
+      {
+        "heading": "How Quickly Do the Calories Add Up?",
+        "image": {
+          "src": "/images/ai-seeds-bowl-portion.jpg",
+          "alt": "Small white bowl of shelled sunflower seed kernels on a wooden table",
+          "caption": "A small bowl is easy to refill. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Seeds are small, so portions are easy to underestimate. The table scales USDA's dried kernel record to four portion sizes."
+        ],
+        "table": {
+          "headers": [
+            "Portion",
+            "Energy (kcal)",
+            "Protein (g)",
+            "Fat (g)"
+          ],
+          "rows": [
+            [
+              "14 g (about half an ounce)",
+              "82",
+              "2.9",
+              "7.2"
+            ],
+            [
+              "28 g (about 1 oz)",
+              "164",
+              "5.8",
+              "14.4"
+            ],
+            [
+              "56 g (about 2 oz)",
+              "327",
+              "11.6",
+              "28.8"
+            ],
+            [
+              "85 g (about 3 oz)",
+              "496",
+              "17.7",
+              "43.7"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Much Sodium Do Salted Seeds Add?",
+        "body": [
+          "Salt is the largest difference between products. Dry roasted kernels with salt added contain 655 mg of sodium per 100 g, against 3 mg without ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). The table shows what each portion size delivers and its share of the 2,300 mg Daily Value ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels))."
+        ],
+        "table": {
+          "headers": [
+            "Portion",
+            "Sodium, no salt (mg)",
+            "Sodium, salted (mg)",
+            "Salted, % of DV"
+          ],
+          "rows": [
+            [
+              "14 g (about half an ounce)",
+              "0.4",
+              "92",
+              "4%"
+            ],
+            [
+              "28 g (about 1 oz)",
+              "0.8",
+              "183",
+              "8%"
+            ],
+            [
+              "56 g (about 2 oz)",
+              "1.7",
+              "367",
+              "16%"
+            ],
+            [
+              "85 g (about 3 oz)",
+              "2.5",
+              "557",
+              "24%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Does Fiber Matter?",
+        "body": [
+          "Sunflower kernels contain 8.6 g of dietary fiber per 100 g, or 2.4 g in a 28 g serving, which is 9% of the 28 g Daily Value ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). That is a useful contribution, and a reminder that a sudden large increase in any high-fiber food is a change to your diet that is worth making gradually."
+        ]
+      },
+      {
+        "heading": "What About Cadmium?",
+        "image": {
+          "src": "/images/cadmium-limit-chart.svg",
+          "alt": "Bar chart: sample mean of 0.46 milligrams per kilogram against an EU maximum of 0.50 milligrams per kilogram",
+          "caption": "Cadmium in sunflower seed against the EU limit. Source: EFSA-hosted table (Regulation (EC) No 1881/2006); older data, check current rules."
+        },
+        "body": [
+          "Sunflower plants take up cadmium from soil, which is why regulators set a limit. An EFSA-hosted table lists a maximum level of 0.50 mg/kg for 'linseed and sunflower seed' under Commission Regulation (EC) No 1881/2006, and a Finnish compilation in the same document gives a mean of 0.46 mg/kg for sunflower seed samples ([EFSA table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf)). That mean is close to the limit, so soil, variety and sourcing matter. The regulation has been updated since, so check the current EU text for your market."
+        ]
+      },
+      {
+        "heading": "Are Sunflower Seeds a Common Allergen?",
+        "body": [
+          "They are not on the lists that trigger mandatory allergen declarations: FDA names nine major allergens and the EU lists 14, and sunflower is on neither ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). That is a labeling rule, not a guarantee, so anyone who has reacted to seeds should see an allergist. Food brands can read our guide to [allergen labeling for sunflower seed products](/blog/sunflower-seed-allergen-labeling-us-eu)."
+        ]
+      },
+      {
+        "heading": "How Much Is a Cup?",
+        "body": [
+          "Volume measures mislead because seeds pack densely. USDA lists one cup of dried kernels as 140 g, which is about 818 kcal and 29 g of protein ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); calculated). For comparison, 17 g of kernels, a little over half of a 28 g serving, already supplies 100 kcal. Weighing is the only reliable way to portion seeds."
+        ]
+      },
+      {
+        "heading": "What Does a Serving Carry in Cadmium at the Sample Mean?",
+        "body": [
+          "At the Finnish sample mean of 0.46 mg/kg, a 28 g serving of seed would contain about 13 micrograms of cadmium (calculated). Whether that matters depends on your body weight, what else you eat and the intake guidance set by your health authority, so we do not draw a conclusion. The practical point for a buyer is to ask for test results rather than assume the average applies to your lot."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "list": [
+          "USDA values are averages for a product type and not for a particular brand.",
+          "The cadmium figures come from an EFSA-hosted table that cites older regulation and a 2006 study; limits and data change.",
+          "We did not find authoritative data on other effects, so we make no claim about them.",
+          "None of this is medical advice."
+        ]
+      },
+      {
+        "heading": "Who Should Be More Careful?",
+        "body": [
+          "People who have been told to limit sodium, calories or certain minerals should read the label of the exact product and ask their clinician how much fits their plan. The USDA figures here are averages for a product type, so a particular brand can differ, especially in salt."
+        ]
+      },
+      {
+        "heading": "How Can a Food Brand Reduce the Risks?",
+        "list": [
+          "Specify sodium for the finished product, and state whether the seed is salted.",
+          "Ask the supplier for contaminant test results, including cadmium, for the lot you buy.",
+          "Request allergen documentation and cross-contact controls for the facility.",
+          "Check the limits in each destination market, which differ and change.",
+          "Write test methods and acceptance limits into the purchase specification."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - sunflower kernel records 170562, 170563 and 169418 (SR Legacy download).",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium (2,300 mg) and fiber (28 g) reference amounts.",
+          "[EFSA-hosted cadmium table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the 0.50 mg/kg limit and the Finnish mean; older data.",
+          "Serving-size arithmetic is ours."
+        ]
+      },
+      {
+        "heading": "Ask for Test Results With Your Order",
+        "body": [
+          "[Request a quote](/contact#quote-form) and ask what contaminant and allergen documentation is available for your order."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-butter-nutrition-ingredient-guide",
+    title: "Sunflower Seed Butter Nutrition and Ingredient Guide for Food Brands",
+    seoTitle: "Sunflower Seed Butter Nutrition and Ingredients",
+    seoDescription: "Sunflower seed butter has 617 kcal and 17.3 g protein per 100 g, USDA data show, and salt adds 328 mg sodium. Compare it with kernels and tahini.",
+    excerpt: "USDA nutrition data for sunflower seed butter against the kernels it is made from and tahini, with the effect of added salt, serving-size maths and what a seed butter maker should specify in the kernels.",
+    category: "Health & Nutrition",
+    date: "2027-02-02",
+    author: "James Feng",
+    image: "/images/ai-seed-butter-toast.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Sunflower seed butter is more energy-dense than the kernels it comes from: USDA lists 617 kcal per 100 g against 584 kcal for dried kernels, with 17.3 g of protein against 20.8 g ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Salt is the biggest swing: the salted record carries 331 mg of sodium per 100 g against 3 mg without. This guide compares the records and sets out what a seed butter brand should specify in its raw material."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Sunflower seed butter, without salt: 617 kcal, 17.3 g protein, 55.2 g fat, 5.7 g fiber per 100 g ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Salted sunflower seed butter: 331 mg sodium per 100 g, against 3 mg without salt ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "One tablespoon is 16 g in the USDA record, so it provides about 99 kcal and 2.8 g of protein (calculated).",
+          "Tahini (sesame butter) is listed at 592 kcal and 95 mg of magnesium per 100 g, against 311 mg for sunflower butter.",
+          "Sesame is a US major allergen and an EU listed allergen; sunflower is on neither list."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Sunflower seed butter** is a paste of ground sunflower kernels, with or without added salt or oil ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "**Tahini** is a paste of ground sesame seeds, listed by USDA as sesame butter.",
+          "**Cross-contact** is the unintended transfer of an allergen from one food or surface to another, for example on shared equipment."
+        ]
+      },
+      {
+        "heading": "How Does Seed Butter Compare With the Kernels It Is Made From?",
+        "image": {
+          "src": "/images/ai-seed-butter-toast.jpg",
+          "alt": "Slice of seeded bread spread with sunflower seed butter and topped with sunflower seeds",
+          "caption": "Seed butter on toast. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table scales the USDA records to a 28 g serving. The records come from different samples, so small differences should not be read as the effect of processing."
+        ],
+        "table": {
+          "headers": [
+            "Per 28 g",
+            "Dried kernels",
+            "Seed butter, no salt",
+            "Tahini"
+          ],
+          "rows": [
+            [
+              "Energy (kcal)",
+              "164",
+              "173",
+              "166"
+            ],
+            [
+              "Protein (g)",
+              "5.8",
+              "4.8",
+              "4.9"
+            ],
+            [
+              "Total fat (g)",
+              "14.4",
+              "15.5",
+              "14.8"
+            ],
+            [
+              "Fiber (g)",
+              "2.4",
+              "1.6",
+              "1.3"
+            ],
+            [
+              "Magnesium (mg)",
+              "91",
+              "87",
+              "27"
+            ],
+            [
+              "Vitamin E (mg)",
+              "9.8",
+              "6.4",
+              "n/a in record"
+            ],
+            [
+              "Sodium (mg)",
+              "2.5",
+              "0.8",
+              "9.8"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Is Seed Butter More Energy-Dense Than the Kernels?",
+        "body": [
+          "The USDA records show 617 kcal against 584 kcal per 100 g, which is 5.7% more. Fat is 55.2 g against 51.5 g and carbohydrate 23.3 g against 20.0 g. USDA does not explain the gap, which could come from roasting, formulation or the sample itself, so treat it as an observation. Protein is lower in the butter, at 17.3 g against 20.8 g per 100 g."
+        ]
+      },
+      {
+        "heading": "How Much Does Salt Change the Numbers?",
+        "body": [
+          "Salt barely changes the energy, as both USDA butter records show 617 kcal per 100 g, but it moves sodium sharply. Per tablespoon (16 g), unsalted butter has about 0.5 mg of sodium and the salted record about 53 mg. Per 28 g that is 93 mg, or 4% of the 2,300 mg Daily Value ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Specify the salt level in a recipe, as it changes the label."
+        ]
+      },
+      {
+        "heading": "How Does It Compare With Tahini?",
+        "body": [
+          "Per 100 g, sunflower seed butter has 311 mg of magnesium against 95 mg for tahini, about 3.3 times as much, and slightly less fat (55.2 g against 53.0 g). Tahini has a little more sodium in its record (35 mg against 3 mg). The allergen position is also different: sesame is a US major allergen and an EU listed allergen, and sunflower is on neither list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
+        ]
+      },
+      {
+        "heading": "What Does a Two-Tablespoon Serving Carry?",
+        "image": {
+          "src": "/images/seed-butter-magnesium-chart.svg",
+          "alt": "Bar chart of magnesium per 28 grams: sunflower kernels 91 milligrams, sunflower seed butter 87, tahini 27",
+          "caption": "Magnesium per 28 g. Source: USDA FoodData Central, calculated by XingYi Trading."
+        },
+        "body": [
+          "Label serving sizes for spreads are often two tablespoons. USDA lists a tablespoon of seed butter as 16 g, so two tablespoons are 32 g, and the table below scales the records to that serving."
+        ],
+        "table": {
+          "headers": [
+            "Per 32 g",
+            "No salt",
+            "Salt added"
+          ],
+          "rows": [
+            [
+              "Energy (kcal)",
+              "197",
+              "197"
+            ],
+            [
+              "Protein (g)",
+              "5.5",
+              "5.5"
+            ],
+            [
+              "Total fat (g)",
+              "17.7",
+              "17.7"
+            ],
+            [
+              "Sodium (mg)",
+              "1",
+              "106"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Kind of Fat Is in Seed Butter?",
+        "body": [
+          "Per 100 g, USDA lists 39.0 g of monounsaturated, 9.8 g of polyunsaturated and 4.7 g of saturated fat, out of 55.2 g in total. That is about 88% unsaturated and 8% saturated (calculated from [USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). The kernels show a similar pattern, at 81% and 9%."
+        ]
+      },
+      {
+        "heading": "Is Sunflower Seed Butter Allergen-Free?",
+        "body": [
+          "No allergen list covers sunflower, but that does not make a product allergen-free. Cross-contact with nuts or sesame on shared equipment is the real risk, and claims on a label must reflect your own facility. Our older guide on whether [sunflower seed butter is a genuine nut-free alternative](/blog/sunflower-seed-pesto-and-seed-butter) covers the household side, and our [allergen labeling guide](/blog/sunflower-seed-allergen-labeling-us-eu) covers the brand side."
+        ]
+      },
+      {
+        "heading": "What Does Roasting Do to the Starting Material?",
+        "body": [
+          "USDA lists dried kernels at 584 kcal per 100 g, dry roasted kernels without salt at 582 and oil roasted kernels without salt at 592 ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Roasting style therefore changes energy very little, but it changes flavour and shelf life, which matter more to a butter maker. See our guide on [raw versus roasted seed](/blog/raw-vs-roasted-sunflower-seeds)."
+        ]
+      },
+      {
+        "heading": "What Should a Seed Butter Maker Specify in the Kernels?",
+        "list": [
+          "Moisture at or below 8%, the figure in the NSA kernel specification.",
+          "Sticktite and foreign-material limits, so shell fragments do not reach the mill.",
+          "Aflatoxin and pathogen results negative, per lot.",
+          "A roast level agreed against a reference sample.",
+          "Documented allergen controls and cross-contact policy."
+        ]
+      },
+      {
+        "heading": "How Should You Compare Two Seed Butter Recipes?",
+        "body": [
+          "Compare them per 100 g and per serving, and list the salt and added oil separately. USDA's unsalted record is 617 kcal with 3 mg of sodium per 100 g, and the salted record has 331 mg. A recipe with added oil, sugar or stabiliser will sit outside both records, so the USDA figures are a baseline, not a prediction. Test your own formulation and base the label on that result."
+        ]
+      },
+      {
+        "heading": "What Packaging and Shelf Life Questions Come Up?",
+        "body": [
+          "Seed butter is an oil-rich paste, so oxygen and heat matter. Ask your ingredient supplier for the peroxide or rancidity indicators it can support, and agree a packaging format that limits air exposure. Our guide to [vacuum-sealed versus standard bags](/blog/vacuum-sealed-vs-standard-export-bags) discusses oxygen control for seeds."
+        ]
+      },
+      {
+        "heading": "Where Does XingYi Trading Fit?",
+        "body": [
+          "XingYi Trading supplies in-shell confection seed, not hulled kernels. A seed butter brand either buys kernels from a processor or dehulls in-shell seed itself, a choice we compare in our guide to [in-shell versus kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk). The kernel checklist is in our [kernel specification guide](/blog/sunflower-kernel-specification-sheet-quality-factors)."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - SR Legacy records 170562, 170563, 170564, 170155, 168595 and 168604, read from the official download.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the sodium reference amount.",
+          "Serving-size arithmetic is ours."
+        ]
+      },
+      {
+        "heading": "Discuss Raw Material for Your Seed Butter",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your volume and requirements, and tell us whether you plan to dehull in-shell seed."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "private-label-store-brand-growth-plma-2025-seed-brands",
+    title: "Private-Label Growth in 2025: What PLMA's Numbers Mean for Sunflower Seed Brands",
+    seoTitle: "Private Label Growth and Sunflower Seed Brands",
+    seoDescription: "US store brands reached $282.8 billion in 2025 with a 21.3% dollar share, PLMA reports. See what that means for snack seed brands and their suppliers.",
+    excerpt: "PLMA's 2025 store brand figures, what they do and do not say about snack seeds, and what a retailer or brand should require from a sunflower seed supplier for a private-label programme.",
+    category: "Importing & Trade",
+    date: "2027-03-18",
+    author: "James Feng",
+    image: "/images/ai-north-america-warehouse.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "US store brand sales reached a record $282.8 billion in 2025, up 3.3% against 1.2% for national brands, and store brands held 21.3% of dollar sales, up from 19.1% in 2021 ([PLMA, Circana Unify+ data, 52 weeks ending December 28, 2025](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)). The release does not report seeds or snacks separately, so these numbers describe demand for store brands generally, not for sunflower seeds."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Store brand dollar sales: $282.8 billion in 2025, up 3.3%; national brands up 1.2% ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)).",
+          "Dollar share 21.3% against 19.1% in 2021, a gain of 2.2 points ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)).",
+          "Unit share 23.5% against 21.6% in 2021; unit volume 68.7 billion, up 0.6%, while national brand units fell 0.6% ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)).",
+          "General food: dollar sales up 1.6%, units up 0.2%; refrigerated up 6.1% in dollars ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)).",
+          "Figures cover all US outlets, not supermarkets alone."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "A **store brand**, or private label, is a product sold under a retailer's own name or brand rather than a manufacturer's ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)).",
+          "**Dollar share** is the share of total sales value that store brands hold, while **unit share** is the share of units sold.",
+          "A **specification** is the written list of quality factors, limits and test methods that a supplier's lot must meet."
+        ]
+      },
+      {
+        "heading": "What Did PLMA Report for 2025?",
+        "image": {
+          "src": "/images/ai-north-america-warehouse.jpg",
+          "alt": "Warehouse aisles with pallets of packaged grocery products and a forklift",
+          "caption": "Packaged goods in distribution. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "PLMA's release, based on Circana Unify+ data for the 52 weeks ending December 28, 2025, reports record store brand dollar sales and unit volume. Dollar sales rose a little over $9 billion, almost three times the growth rate of national brands, and unit volume rose by 434.3 million to 68.7 billion ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025))."
+        ]
+      },
+      {
+        "heading": "How Has Store Brand Share Moved Since 2021?",
+        "body": [
+          "Share is the cleaner signal than growth in any one year. Dollar share rose from 19.1% to 21.3% and unit share from 21.6% to 23.5% over the period, and annual store brand dollar sales grew by $64.8 billion, or 30% ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)). In relative terms the dollar share is 11.5% higher than in 2021 (calculated). Unit share is higher than dollar share, which fits the idea that store brands sell at lower prices per unit."
+        ]
+      },
+      {
+        "heading": "Which Categories Grew Fastest?",
+        "image": {
+          "src": "/images/plma-category-dollar-growth.svg",
+          "alt": "Bar chart of 2025 store brand dollar sales growth by category, with refrigerated highest at 6.1 percent and general food at 1.6 percent",
+          "caption": "Store brand dollar growth by category. Source: PLMA / Circana Unify+."
+        },
+        "body": [
+          "Refrigerated products led dollar growth, followed by beverages, while general food, the closest PLMA category to packaged snacks, grew more slowly. The chart shows dollar growth by category against the national brand rate."
+        ],
+        "table": {
+          "headers": [
+            "Category",
+            "Dollar growth",
+            "Unit growth",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Refrigerated",
+              "+6.1%",
+              "+0.7%",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ],
+            [
+              "Beverages",
+              "+4.8%",
+              "+2.3%",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ],
+            [
+              "Pet care",
+              "+3.7%",
+              "+5.4%",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ],
+            [
+              "Beauty",
+              "+2.8%",
+              "n/a",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ],
+            [
+              "Frozen",
+              "+2.4%",
+              "+0.9%",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ],
+            [
+              "General food",
+              "+1.6%",
+              "+0.2%",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ],
+            [
+              "General merchandise",
+              "+0.9%",
+              "n/a",
+              "[PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does This Not Tell You About Seeds?",
+        "body": [
+          "It does not break out seeds, nuts or snacks, so we cannot say whether store brand sunflower seeds grew faster or slower than the 1.6% general food rate. Treat the PLMA numbers as context for a decision, such as whether to build a private-label programme, and check category data from your retailer before sizing a market."
+        ]
+      },
+      {
+        "heading": "How Should You Read Share and Growth Together?",
+        "body": [
+          "Share changes slowly, and growth shows the current pace. Dollar share rose 2.2 points over four years, about 0.55 points a year on average, and in 2025 store brands grew 2.1 points faster than national brands (calculated from [PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)). A retailer with this trend has a reason to widen its store brand range, but the range it widens depends on its own sales data."
+        ]
+      },
+      {
+        "heading": "What Do Store Brand Buyers Ask From a Seed Supplier?",
+        "body": [
+          "Retail buyers differ, but a private-label seed programme usually turns on the same few points: a specification the supplier can meet every time, packaging that suits the shelf, documents that satisfy the destination market, and a price that survives the retailer's margin. Our guides to [private-label seeds](/blog/private-label-sunflower-seeds), [packaging options](/blog/sunflower-seed-packaging-options-bulk-export) and [supply contract terms](/blog/sunflower-seed-supply-contract-terms) cover each point."
+        ]
+      },
+      {
+        "heading": "How Should You Choose In-Shell or Kernel for Private Label?",
+        "body": [
+          "In-shell seed suits snack lines that sell the cracking experience, while kernels suit baking, toppings and mixes. XingYi Trading supplies in-shell confection seed in the 361, 363 and Tongqing No.6 series. Our comparison of [in-shell and kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk) sets out the trade-offs."
+        ]
+      },
+      {
+        "heading": "How Do You Build a Private-Label Cost Stack?",
+        "list": [
+          "Seed price per metric tonne at the agreed Incoterm and moisture.",
+          "Packaging per unit, including printing and any minimums.",
+          "Freight, insurance, duty and port charges per tonne.",
+          "Warehousing and handling at destination.",
+          "Retailer margin and promotion allowances, which sit above all of these."
+        ]
+      },
+      {
+        "heading": "What Does a Private-Label Programme Look Like Step by Step?",
+        "body": [
+          "The steps below are our practical outline, not a PLMA framework. Each step has a document or decision attached, which keeps the programme from stalling at the last stage."
+        ],
+        "table": {
+          "headers": [
+            "Step",
+            "What happens",
+            "What you need"
+          ],
+          "rows": [
+            [
+              "1. Specification",
+              "Define the seed, size, moisture and limits",
+              "Agreed specification and test methods"
+            ],
+            [
+              "2. Samples",
+              "Review samples against the specification",
+              "Reference sample kept by both sides"
+            ],
+            [
+              "3. Packaging",
+              "Confirm pack size, material and artwork",
+              "Artwork, label text, allergen statement"
+            ],
+            [
+              "4. Pilot order",
+              "Produce a first lot and test it",
+              "Lot test certificate, retailer sign-off"
+            ],
+            [
+              "5. Scale",
+              "Move to scheduled orders",
+              "Forecast, delivery windows, contract terms"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do Packaging Minimums Affect a Store Brand Launch?",
+        "body": [
+          "Custom printing usually has its own minimum quantities and lead times, which vary by supplier and order size, as our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) explains. A first store brand order is often limited by the printing minimum, not by the seed minimum, so ask for both in the quote."
+        ]
+      },
+      {
+        "heading": "How Would You Size a Store Brand Seed Opportunity?",
+        "list": [
+          "Ask the retailer for category sales and the share of seeds and nuts held by store brands.",
+          "List the national brands on shelf, with pack sizes and shelf prices.",
+          "Work back from a target shelf price to the seed price you can afford.",
+          "Estimate volume per store and per year, then convert it to containers.",
+          "Check that the container volume meets the supplier's minimum order."
+        ]
+      },
+      {
+        "heading": "What Are the Risks of Entering Store Brands?",
+        "body": [
+          "Retailers can change suppliers, and margins are tight, so a supplier relationship built on one account is exposed. Quality problems become the retailer's problem too, which is why a documented specification and a plan for supply shortfalls matter. Our [supply risk guide](/blog/sunflower-seed-supply-risks-weather-yield-freight) covers the second point."
+        ]
+      },
+      {
+        "heading": "What Should a Store Brand Contract Fix in Writing?",
+        "body": [
+          "Write down the specification and the test methods, the pack format and the labeling responsibility, the order schedule and the delivery window, and what happens if a lot fails or a shipment is late. A store brand supply line works for years if these are clear, and fails fast if they are not. Our guide to [supply contract terms](/blog/sunflower-seed-supply-contract-terms) lists the clauses experienced buyers insist on."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[PLMA release, 'US Private Label Industry Reached $282.8 Billion in Sales in 2025'](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025) - all store brand figures and category growth, from Circana Unify+ data.",
+          "The relative-share calculation is ours."
+        ]
+      },
+      {
+        "heading": "Discuss a Private-Label Programme",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your target pack size, destination and branding needs, and we will confirm what we can supply."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "in-shell-vs-kernel-sunflower-seeds-bulk",
+    title: "In-Shell vs Hulled Kernels: Which Form of Sunflower Seed Should You Buy in Bulk?",
+    seoTitle: "In-Shell vs Kernel Sunflower Seeds in Bulk",
+    seoDescription: "One cup of kernels weighs 140 g but one cup of in-shell seed yields 46 g of kernel, USDA data show. Compare yield, moisture, shelf life and use.",
+    excerpt: "How in-shell and hulled kernel sunflower seeds differ for a bulk buyer: yield, moisture limits, specifications, shelf life, handling and use, with USDA and NSA data.",
+    category: "Quality & Sourcing",
+    date: "2027-01-07",
+    author: "James Feng",
+    image: "/images/product-361-detail.webp",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "In-shell seed and kernels are different products, not different packs of the same one. USDA lists one cup of dried kernels as 140 g and one cup of seed with hulls as an edible yield of 46 g, so a cup of in-shell seed gives about 33% of the kernel weight of a cup of kernels ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). That yield gap, plus the different moisture limits and specifications, decides which form suits a product. XingYi Trading supplies in-shell confection seed only."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "USDA portion weights: one cup of kernels is 140 g, one cup with hulls has an edible yield of 46 g ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Kernel energy is 584 kcal per 100 g, so one cup of in-shell seed yields about 269 kcal of kernel (calculated).",
+          "NSA kernel specification: moisture at or below 8%; in-shell nonoil samples averaged 10.7% in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Kernels are sized by count per ounce; in-shell seed by screen size (NSA).",
+          "Both forms fall under the same HS heading, 1206, 'sunflower seeds, whether or not broken' (Flexport HS reference)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**In-shell seed** is the whole sunflower seed with its striped hull, while a **kernel** is the edible part left after the hull is removed.",
+          "**Edible yield** is the weight of kernel obtained from a volume or weight of in-shell seed, which USDA gives as 46 g for one cup with hulls ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "**Dehulling** is the process of removing the hull from the seed to produce kernels."
+        ]
+      },
+      {
+        "heading": "What Is the Difference Between In-Shell Seed and Kernels?",
+        "image": {
+          "src": "/images/product-361-detail.webp",
+          "alt": "Close-up of striped black in-shell sunflower seeds",
+          "caption": "In-shell confection seed, 361 series. Photo: XingYi Trading."
+        },
+        "body": [
+          "In-shell seed is the whole seed with its striped hull, sold for snacking and cracking at home or for dehulling by a processor. Kernels are the edible part after the hull is removed, sold for baking, toppings, bars, mixes and seed butter. Confection seed is grown for this use, as opposed to oil-type seed, which our guide to [confectionery versus oil-type seed](/blog/confectionery-vs-oil-type-sunflower-seeds) describes."
+        ]
+      },
+      {
+        "heading": "How Much Kernel Do You Get From a Cup of In-Shell Seed?",
+        "body": [
+          "USDA gives the edible yield of one cup of seed with hulls as 46 g, against 140 g for a cup of kernels, so by volume the in-shell cup contains 33% of the kernel. This is a volume comparison, and it does not give the hull share of seed weight, which varies by variety and is not stated in the USDA record. Ask a supplier for the kernel yield of the specific series if you plan to dehull."
+        ]
+      },
+      {
+        "heading": "How Do Moisture Limits Differ?",
+        "body": [
+          "The NSA's kernel specification sets moisture at or below 8%, while its in-shell nonoil samples averaged 10.7% in 2024 and its storage guidance for growers is to dry seed in the shell to under 10% ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf); [NSA storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/)). Kernels have more exposed surface, so they tolerate less moisture. See our [warehouse storage guide](/blog/warehouse-storage-sunflower-seeds-moisture-temperature)."
+        ]
+      },
+      {
+        "heading": "How Are Size and Quality Specified for Each Form?",
+        "body": [
+          "In-shell seed is specified by screen size, foreign material and moisture. Kernels are specified by count per ounce, broken and chipped kernels, sticktites, damage, flavor, odor, texture and color. Our guides to [20/64 size grading](/blog/sunflower-seed-size-grading-20-64-screen) and the [kernel specification sheet](/blog/sunflower-kernel-specification-sheet-quality-factors) set out each list."
+        ],
+        "table": {
+          "headers": [
+            "Factor",
+            "In-shell seed",
+            "Kernels"
+          ],
+          "rows": [
+            [
+              "Size",
+              "Screen size, e.g. share over 20/64",
+              "Count per ounce"
+            ],
+            [
+              "Moisture",
+              "Under about 10% (NSA grower guidance)",
+              "At or below 8% (NSA kernel specification)"
+            ],
+            [
+              "Foreign material",
+              "Percentage by weight",
+              "Includes shells and unshelled seed"
+            ],
+            [
+              "Specific to form",
+              "Test weight, size share",
+              "Sticktites, broken or chip, sensory factors"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Form Lasts Longer in Storage?",
+        "body": [
+          "The hull is a barrier, so in-shell seed generally holds better than hulled kernels, and kernels need tighter moisture and packaging control. The NSA hosts a 1997 study in which low-oxygen packaging prolonged shelf stability of roasted kernel for a full year ([NSA shelf stability studies](https://www.sunflowernsa.com/seed/seedshelf-stability-study/)). Our [shelf life guide](/blog/sunflower-seed-shelf-life) compares the two forms."
+        ]
+      },
+      {
+        "heading": "What Does Each Form Cost to Handle?",
+        "body": [
+          "In-shell seed is bulkier per unit of kernel, so it takes more container space and freight per tonne of eating product. Kernels are denser in food value but need a dehulling and sorting step, with equipment and labour. A fair comparison converts each price to the cost per kilogram of kernel: divide the in-shell price per kilogram by the kernel yield you can achieve, then add the cost of processing. Ask the supplier for yield, not just price."
+        ]
+      },
+      {
+        "heading": "How Does Yield Change Freight per Kilogram of Kernel?",
+        "image": {
+          "src": "/images/ai-seed-comparison-magnifier.jpg",
+          "alt": "Two glass dishes of shelled sunflower kernels beside a magnifying glass",
+          "caption": "Hulled kernels. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Freight is paid on the weight or volume you ship, so in-shell seed carries its hull to the destination. The table shows the effect with three illustrative kernel yields. The yields are invented for the arithmetic, and your own series and equipment will differ."
+        ],
+        "table": {
+          "headers": [
+            "Illustrative kernel yield",
+            "In-shell freight cost multiplied by",
+            "Meaning"
+          ],
+          "rows": [
+            [
+              "45%",
+              "2.22",
+              "Freight per kg of kernel is 2.22 times the freight per kg of in-shell seed"
+            ],
+            [
+              "50%",
+              "2.00",
+              "Freight per kg of kernel is 2.00 times the freight per kg of in-shell seed"
+            ],
+            [
+              "55%",
+              "1.82",
+              "Freight per kg of kernel is 1.82 times the freight per kg of in-shell seed"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Should You Ask About Dehulling?",
+        "list": [
+          "What kernel yield does the series give, and how was it measured?",
+          "What share of kernels is broken or chipped after dehulling?",
+          "How many sticktites and shell fragments remain after sorting?",
+          "What moisture should the in-shell seed have before dehulling?",
+          "Is the equipment suited to the size grade you are buying?"
+        ]
+      },
+      {
+        "heading": "Which Products Suit Each Form?",
+        "body": [
+          "In-shell seed suits snack lines, flavoured seeds and retail packs where the shell is part of the product. Kernels suit baking, cereal, bars, toppings and seed butter, where a clean kernel is the ingredient. A brand that makes both may dehull in-shell seed itself to control quality and flavour, which makes the choice about your own capacity, not only about price."
+        ]
+      },
+      {
+        "heading": "Does the Choice Affect Food Safety Checks?",
+        "body": [
+          "Both forms need the same safety basics, such as aflatoxin and contaminant results, but kernels add checks that in-shell seed does not need. The NSA kernel specification lists pathogens, fumigant residues and additives as separate items, because the hull no longer protects the food. Plan the testing budget for the form you choose."
+        ]
+      },
+      {
+        "heading": "What Does the HS Code Say?",
+        "body": [
+          "Both forms are classified under HS 1206, 'sunflower seeds, whether or not broken' ([Flexport HS reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)). National tariff lines below the six-digit heading differ, so confirm the subheading with your customs broker. Our [HS code guide](/blog/sunflower-seed-hs-codes-export-documentation) lists the export documents."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - portion weights and kernel energy (FDC ID 170562).",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture averages and the kernel specification.",
+          "[Flexport HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the HS heading wording."
+        ]
+      },
+      {
+        "heading": "Ask Which Series Suits Your Product",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us whether you will sell the seed in the shell or dehull it. See the product pages for [361](/products/361-series), [363](/products/363-series) and [Tongqing No.6](/products/tq6-series)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "bulk-sunflower-seeds-buyers-guide",
+    title: "Bulk Sunflower Seeds: The Complete Buyer's Guide to Series, Packaging, Shipping and Documents",
+    seoTitle: "Bulk Sunflower Seeds: A Complete Buyer's Guide",
+    seoDescription: "Buy bulk sunflower seeds from China: compare 3 series, 25 kg and 50 kg bags, FCL vs LCL, FOB vs CIF, and the documents to confirm before you pay.",
+    excerpt: "How to buy bulk confectionery sunflower seeds from China: which series to specify, how seeds are packed and shipped, which Incoterm fits, and which documents to confirm before you pay.",
+    category: "Importing & Trade",
+    date: "2026-12-15",
+    author: "James Feng",
+    image: "/images/facility-exterior-1.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "To buy sunflower seeds in bulk from China, specify the series (361, 363 or Tongqing No.6) and the bag format. The standard export sacks are 25 kg and 50 kg PP woven bags. Next, name your destination port, then choose full or partial container shipping and an Incoterm such as FOB. Finally, confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026).",
+          "A first bulk order goes wrong when the buyer treats it as a price comparison. The decisions that change your landed cost and your clearance risk are the series, the packaging, the shipping mode, the Incoterm and the paperwork. This guide walks through each one in the order you will face them, and links to the detailed guides where a topic needs more depth."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Bulk sunflower seeds are classified under HS code 1206, \"Sunflower seeds, whether or not broken\" ([Flexport HS reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
+          "Incoterms are 11 rules issued by the International Chamber of Commerce that set who bears cost and risk in an international sale ([trade.gov](https://www.trade.gov/know-your-incoterms)).",
+          "There is no universal volume at which a full container beats a shared one, so quote both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "XingYi Trading runs 9 production lines with up to 300 tons of daily output (XingYi Trading company data, 2026).",
+          "Two documents most often hold up clearance: the phytosanitary certificate and the certificate of origin. Government bodies issue both on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Bulk sunflower seeds** are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags. Buyers use them for repacking, private label or distribution rather than retail packs.",
+          "**Minimum order quantity (MOQ)** is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
+          "An **Incoterm** is a standard trade term that splits cost and risk between seller and buyer. **FOB (Free on Board)** is an Incoterm that puts the handover at the port of loading. **CIF (Cost, Insurance and Freight)** is an Incoterm under which the seller arranges freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
+        ]
+      },
+      {
+        "heading": "What Should You Specify When Ordering Bulk Sunflower Seeds?",
+        "image": {
+          "src": "/images/product-grading-caliper.jpg",
+          "alt": "Calipers measuring the width of in-shell sunflower seeds during size grading",
+          "caption": "Size grading with calipers: confirm the kernel and shell size you need before quoting. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed. They pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
+          "Then write down the grade details you will hold the supplier to: moisture, purity and size. Our guides to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards) and [common seed defects](/blog/sunflower-seed-defects-quality-inspection) list what to ask for."
+        ],
+        "table": {
+          "headers": [
+            "Series",
+            "Positioning",
+            "Typical use"
+          ],
+          "rows": [
+            [
+              "[361 Series](/products/361-series)",
+              "General-purpose, volume-friendly grade with plump, aromatic kernels",
+              "Snacking, baking, garnishing, cost-optimized private label"
+            ],
+            [
+              "[363 Series](/products/363-series)",
+              "Premium raw grade, organically grown and pesticide-free",
+              "Branded and health-focused retail lines"
+            ],
+            [
+              "[Tongqing No.6](/products/tq6-series)",
+              "Named cultivar with a larger kernel and richer flavor",
+              "Premium and large-kernel product lines"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Are Bulk Sunflower Seeds Packed?",
+        "image": {
+          "src": "/images/packaging-worker.jpg",
+          "alt": "Worker filling a PP woven sack with sunflower seeds at an automated bagging station",
+          "caption": "Automated bagging into PP woven sacks. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment. Laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
+          "Private-label printing is generally possible, but minimums, artwork lead times and cost vary by order, so confirm them in writing. See [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) and [vacuum-sealed vs standard bags](/blog/vacuum-sealed-vs-standard-export-bags)."
+        ]
+      },
+      {
+        "heading": "Should You Ship a Full Container or a Shared One?",
+        "body": [
+          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. No fixed volume separates the two. One freight source states there is no universal threshold at which FCL becomes cheaper, so it advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "For this reason, supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
+        ]
+      },
+      {
+        "heading": "Which Incoterm Should You Choose for a First Order?",
+        "body": [
+          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. In contrast, CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
+          "Whichever you pick, compare quotes on the same term. Our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) explains what moves the price."
+        ]
+      },
+      {
+        "heading": "What Documents Does a Bulk Shipment Need?",
+        "body": [
+          "Confirm the document list before production, not after the container is loaded. The table covers the documents that most often decide whether cargo clears on time."
+        ],
+        "table": {
+          "headers": [
+            "Document",
+            "What it does",
+            "Where to read more"
+          ],
+          "rows": [
+            [
+              "Phytosanitary certificate",
+              "Attests that plant products are inspected and meet the importing country's pest requirements ([USDA APHIS](https://www.aphis.usda.gov/plant-exports/certification))",
+              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
+            ],
+            [
+              "Certificate of origin",
+              "States the country where the goods were produced",
+              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
+            ],
+            [
+              "HS code on customs paperwork",
+              "Classifies the goods as HS 1206 for duty and declaration",
+              "[HS codes and export documents](/blog/sunflower-seed-hs-codes-export-documentation)"
+            ],
+            [
+              "FDA Prior Notice (US-bound food)",
+              "Must be filed with FDA before the shipment arrives ([FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods))",
+              "[FDA filing guide](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do You Verify a Supplier Before Paying?",
+        "body": [
+          "First, ask for the certifications the supplier holds. Then request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion ([third-party inspection guide](/blog/third-party-inspection-sunflower-seeds)).",
+          "Our checklist of [questions to ask a supplier](/blog/what-to-ask-sunflower-seed-supplier) and the comparison of [buying direct versus through a trading company](/compare) cover the rest."
+        ]
+      },
+      {
+        "heading": "What Does the Ordering Process Look Like?",
+        "image": {
+          "src": "/images/bulk-order-process.svg",
+          "alt": "Four-step bulk order process: request a quote, review samples, confirm order terms, production and shipment",
+          "caption": "The four-step order process as run by XingYi Trading (XingYi Trading company data, 2026)."
+        },
+        "body": [
+          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. In practice, put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[Flexport: HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the tariff heading and statistical subheadings for sunflower seeds.",
+          "[trade.gov: Know your Incoterms](https://www.trade.gov/know-your-incoterms) - what Incoterms are and who issues them.",
+          "[iContainers: LCL vs FCL](https://www.icontainers.com/help/lcl-vs-fcl/) - how to compare shared and full-container shipping.",
+          "[USDA APHIS: phytosanitary certification](https://www.aphis.usda.gov/plant-exports/certification) - what a phytosanitary certificate attests."
+        ]
+      },
+      {
+        "heading": "What Is the Minimum Order for Bulk Sunflower Seeds?",
+        "body": [
+          "It depends on the series, packaging and container choice, and some suppliers treat MOQ as a starting point for negotiation. State your target volume and destination in the quote request and the supplier will confirm what is possible. See [MOQ explained](/blog/sunflower-seed-moq-explained)."
+        ]
+      },
+      {
+        "heading": "Can You Get Private-Label Packaging on a Bulk Order?",
+        "body": [
+          "Private-label printing and custom bag specifications are generally available, with minimums and lead times that vary by order. Send your bag size, branding and volume with the quote request so they can be confirmed together."
+        ]
+      },
+      {
+        "heading": "Which Series Suits a First Order?",
+        "body": [
+          "Pick by end use: 361 for volume and cost-optimized lines, 363 for premium raw and health-focused retail, and Tongqing No.6 for larger-kernel appeal. Request samples of two series if you are undecided. See the [three-series comparison](/blog/361-vs-363-vs-tongqing-no6-comparison)."
+        ]
+      },
+      {
+        "heading": "Request a Bulk Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your series, target volume, bag format and destination port, and we will confirm specifications and shipping options for your order."
         ]
       },
       {
         "heading": "Related Reading",
         "list": [
-          "[What to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier)",
-          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
-          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)"
+          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)",
+          "[How to write an RFQ for bulk sunflower seeds](/blog/how-to-write-rfq-bulk-sunflower-seeds)",
+          "[T/T vs letter of credit for sunflower seeds](/blog/tt-vs-letter-of-credit-sunflower-seeds)"
+        ]
+      }
+    ],
+  },
+  {
+    slug: "are-sunflower-seeds-good-for-you",
+    title: "Are Sunflower Seeds Good for You? What a 28 g Serving Provides, and Where to Be Careful",
+    seoTitle: "Are Sunflower Seeds Good for You? USDA Data",
+    seoDescription: "A 28 g serving of sunflower seed kernels has about 164 kcal and 66% of the vitamin E Daily Value. See the benefits and the salt trade-off.",
+    excerpt: "What a 28 g serving of sunflower seed kernels provides according to USDA data, how salted seeds change the picture, and what the numbers do and do not tell you.",
+    category: "Health & Nutrition",
+    date: "2026-12-17",
+    author: "James Feng",
+    image: "/images/ai-seeds-bowl-portion.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Yes, in sensible portions. A 28 g (about 1 oz) serving of dried sunflower seed kernels provides about 164 kcal and 5.8 g of protein. It also supplies 9.8 mg of vitamin E, which is 66% of the 15 mg Daily Value ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled to 28 g; [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). The trade-offs are calories and, in salted seeds, sodium. Dry roasted kernels with salt added carry about 183 mg of sodium per 28 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Most advice about sunflower seeds mixes raw, roasted and salted products as if they were one food. They are not, so this guide starts from one USDA record for dried kernels, scales it to a 28 g serving, and then shows where salted and roasted versions differ. It is general nutrition information, not medical advice."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "A 28 g serving of dried kernels has about 164 kcal and 5.8 g of protein ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled from per-100 g values).",
+          "The same serving supplies 66% of the vitamin E Daily Value, 27% for selenium and 22% for magnesium ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "About 81% of the fat is monounsaturated or polyunsaturated, and about 9% is saturated ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated).",
+          "Salt changes the picture: dry roasted kernels with salt added have 655 mg of sodium per 100 g, against 3 mg without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Sunflower is not on the US list of 9 major food allergens or the EU list of 14 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Sunflower seed kernels** are the shelled, edible part of the seed. The USDA values in this guide describe kernels, not seeds in the shell.",
+          "**Daily Value (DV)** is the reference amount FDA uses on nutrition labels. For the nutrients covered here it is 15 mg for vitamin E, 420 mg for magnesium, 55 mcg for selenium and 2,300 mg for sodium ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "**Alpha-tocopherol** is the form of vitamin E for which FDA sets the 15 mg Daily Value."
+        ]
+      },
+      {
+        "heading": "What Nutrients Are in a Serving of Sunflower Seeds?",
+        "image": {
+          "src": "/images/ai-seeds-bowl-portion.jpg",
+          "alt": "Small white bowl of shelled sunflower seed kernels on a wooden table",
+          "caption": "A small bowl of kernels. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table scales the USDA record for dried sunflower seed kernels (FDC ID 170562) to a 28 g serving. Percent Daily Value is shown only where this guide has the FDA reference amount, and each row names its source."
+        ],
+        "table": {
+          "headers": [
+            "Nutrient",
+            "Per 28 g",
+            "% Daily Value",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Energy",
+              "164 kcal",
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Protein",
+              "5.8 g",
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Total fat",
+              "14.4 g",
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Carbohydrate",
+              "5.6 g",
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Dietary fiber",
+              "2.4 g",
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
+            ],
+            [
+              "Vitamin E",
+              "9.8 mg",
+              "66%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Selenium",
+              "15 mcg",
+              "27%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Magnesium",
+              "91 mg",
+              "22%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ],
+            [
+              "Sodium",
+              "2.5 mg",
+              "0.1%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Do Sunflower Seeds Provide Useful Vitamin E, Magnesium and Selenium?",
+        "image": {
+          "src": "/images/sunflower-seed-dv-chart.svg",
+          "alt": "Bar chart: a 28 g serving of sunflower seed kernels supplies about 66 percent of the vitamin E Daily Value, 27 percent for selenium and 22 percent for magnesium",
+          "caption": "Share of FDA Daily Value per 28 g serving. Source: USDA FoodData Central and FDA, calculated by XingYi Trading."
+        },
+        "body": [
+          "Vitamin E is the standout nutrient. One serving supplies 9.8 mg, about 66% of the 15 mg Daily Value ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Selenium follows at 15 mcg, or 27% of the 55 mcg reference amount, and magnesium at 91 mg, or 22% of 420 mg ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "These figures describe what is in the food and do not prove a health outcome. How much you absorb and need depends on the rest of your diet, so the percentages are best used to compare one food with another."
+        ]
+      },
+      {
+        "heading": "What Kind of Fat Do Sunflower Seeds Contain?",
+        "body": [
+          "Sunflower seed kernels are energy-dense, with 51 g of fat per 100 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). That is why a small serving carries 164 kcal. USDA reports 18.5 g monounsaturated, 23.1 g polyunsaturated and 4.5 g saturated fat per 100 g, which works out to about 81% unsaturated and 9% saturated ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated)."
+        ]
+      },
+      {
+        "heading": "How Nutrient-Dense Are Sunflower Seeds per 100 Calories?",
+        "body": [
+          "A per-serving view hides one useful comparison. Because kernels are rich in fat, it helps to ask how much of each nutrient arrives with every 100 kcal. We calculated this from the USDA records for dried kernels and for dry roasted kernels with salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "Our analysis of these two records shows that, per 100 kcal, dried kernels supply 6.0 mg of vitamin E (40% of the Daily Value), 56 mg of magnesium and 9.1 mcg of selenium. The salted dry roasted record has nearly the same energy but carries 113 mg of sodium per 100 kcal, about 73 times the 1.5 mg in dried kernels.",
+          "Put another way, reaching the full 15 mg vitamin E Daily Value from kernels alone would take about 43 g of dried kernels, or roughly 249 kcal. The first number says the seeds are a concentrated source; the second says the energy cost is real."
+        ],
+        "table": {
+          "headers": [
+            "Per 100 kcal",
+            "Vitamin E (mg)",
+            "Magnesium (mg)",
+            "Selenium (mcg)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried kernels",
+              "6.0",
+              "56",
+              "9.1",
+              "1.5"
+            ],
+            [
+              "Dry roasted, salt added",
+              "4.5",
+              "22",
+              "13.6",
+              "113"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Are Salted Sunflower Seeds a Problem?",
+        "body": [
+          "Salt is the biggest difference between products. Per 100 g, dry roasted kernels without salt contain 3 mg of sodium and dry roasted kernels with salt added contain 655 mg ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). In a 28 g serving that is 1 mg against 183 mg, or 8% of the 2,300 mg sodium Daily Value ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "Check the label of the exact product you buy, because brands vary. For a full comparison see our guide to [sunflower seed calories, protein and sodium by type](/blog/sunflower-seed-calories-protein-macros)."
+        ]
+      },
+      {
+        "heading": "How Much Should You Eat?",
+        "body": [
+          "This guide uses 28 g as a reference portion, not as a recommendation. The right amount depends on your calorie and sodium targets and on any medical condition, so ask a registered dietitian or clinician if you have specific needs."
+        ]
+      },
+      {
+        "heading": "Is Sunflower Seed a Major Allergen?",
+        "body": [
+          "No label law singles it out. FDA recognises nine major allergens (milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame), and the EU lists 14 in Annex II; sunflower is on neither list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). That is a labelling rule, not a guarantee that nobody reacts, so anyone with a known seed allergy should speak to an allergist. Food brands can read our guide to [sunflower seed allergen labeling](/blog/sunflower-seed-allergen-labeling-us-eu)."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - nutrient values for dried sunflower seed kernels (FDC ID 170562).",
+          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts used for percent Daily Value.",
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens under US law.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens and how they are emphasised."
+        ]
+      },
+      {
+        "heading": "Are Roasted Sunflower Seeds Less Healthy Than Raw?",
+        "body": [
+          "The energy is almost the same ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Dried kernels have 584 kcal per 100 g, dry roasted kernels without salt have 582, and oil roasted kernels without salt have 592. The meaningful difference comes from added salt or oil, so read the label."
+        ]
+      },
+      {
+        "heading": "Do Seeds in the Shell Have the Same Nutrition?",
+        "body": [
+          "The USDA values describe kernels. Seeds in the shell weigh more because of the hull: USDA gives one cup of kernels as 140 g, while one cup of seeds with hulls has an edible yield of 46 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Compare nutrition on a kernel-weight basis."
+        ]
+      },
+      {
+        "heading": "Where Do the Numbers Come From?",
+        "body": [
+          "Every nutrient value is the USDA FoodData Central record 'Seeds, sunflower seed kernels, dried' ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)), multiplied by 0.28 to give 28 g. Percent Daily Value uses the FDA reference amounts ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Your product's label is the final authority."
+        ]
+      },
+      {
+        "heading": "Buying Sunflower Seeds for a Food Business",
+        "body": [
+          "If you source seeds for a snack brand, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)",
+          "[How long do sunflower seeds last?](/blog/sunflower-seed-shelf-life)",
+          "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)"
         ]
       }
     ],
@@ -241,13 +3127,13 @@ export const blogPosts: BlogPost[] = [
     ],
     sections: [
       {
-        "heading": "Quick Answer",
         "body": [
-          "A 28 g (about 1 oz) serving of sunflower seed kernels contains 163 to 173 kcal and about 5.4 to 5.8 g of protein, depending on how the seeds were processed (USDA FoodData Central, scaled to 28 g). Roasting barely changes calories. Added salt changes sodium a great deal: from about 1 mg to 183 mg per serving."
+          "A 28 g (about 1 oz) serving of sunflower seed kernels contains 163 to 173 kcal and about 5.4 to 5.8 g of protein, depending on how the seeds were processed (USDA FoodData Central, scaled to 28 g). Roasting barely changes calories. Added salt changes sodium a great deal: from about 1 mg to 183 mg per serving.",
+          "Search results for 'sunflower seed calories' often quote one number for every type of seed. USDA records show that is mostly fine for calories, and very wrong for sodium. This guide scales six USDA kernel records to one serving so you can compare them."
         ]
       },
       {
-        "heading": "Key Takeaways",
+        "heading": "What Are the Key Numbers?",
         "list": [
           "Energy per 100 g ranges only from 582 to 619 kcal across six USDA kernel records, a spread of about 6% ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
           "Protein is 20.8 g per 100 g in dried kernels and 19.3 g in dry roasted kernels without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
@@ -257,16 +3143,11 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
-        "heading": "Key Terms",
+        "heading": "What Do the Key Terms Mean?",
         "body": [
           "**USDA FoodData Central** is the US Department of Agriculture's public nutrient database, and the source of every value in this guide.",
           "**Dry roasted kernels** are roasted without added oil, while **oil roasted kernels** are roasted in oil; USDA lists them as separate records.",
           "**Macros** is short for macronutrients: protein, fat and carbohydrate, the three nutrients that provide energy in food."
-        ]
-      },
-      {
-        "body": [
-          "Search results for 'sunflower seed calories' often quote one number for every type of seed. USDA records show that is mostly fine for calories, and very wrong for sodium. This guide scales six USDA kernel records to one serving so you can compare them."
         ]
       },
       {
@@ -423,16 +3304,10 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
-        "heading": "Sources and Further Reading",
+        "heading": "Where Do These Numbers Come From?",
         "list": [
           "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562, 170563, 170564, 169418, 168593 and 168594 for sunflower seed kernels.",
           "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the 2,300 mg sodium reference amount."
-        ]
-      },
-      {
-        "heading": "Frequently Asked Questions",
-        "body": [
-          "Quick answers based on the USDA records above."
         ]
       },
       {
@@ -470,254 +3345,15 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
-    slug: "are-sunflower-seeds-good-for-you",
-    title: "Are Sunflower Seeds Good for You? What a 28 g Serving Provides, and Where to Be Careful",
-    seoTitle: "Are Sunflower Seeds Good for You? USDA Data",
-    seoDescription: "A 28 g serving of sunflower seed kernels has about 164 kcal and 66% of the vitamin E Daily Value. See the benefits and the salt trade-off.",
-    excerpt: "What a 28 g serving of sunflower seed kernels provides according to USDA data, how salted seeds change the picture, and what the numbers do and do not tell you.",
-    category: "Health & Nutrition",
-    date: "2026-12-17",
-    author: "James Feng",
-    image: "/images/ai-seeds-bowl-portion.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "heading": "Quick Answer",
-        "body": [
-          "Yes, in sensible portions. A 28 g (about 1 oz) serving of dried sunflower seed kernels provides about 164 kcal and 5.8 g of protein. It also supplies 9.8 mg of vitamin E, which is 66% of the 15 mg Daily Value ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled to 28 g; [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). The trade-offs are calories and, in salted seeds, sodium. Dry roasted kernels with salt added carry about 183 mg of sodium per 28 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients))."
-        ]
-      },
-      {
-        "heading": "Key Takeaways",
-        "list": [
-          "A 28 g serving of dried kernels has about 164 kcal and 5.8 g of protein ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled from per-100 g values).",
-          "The same serving supplies 66% of the vitamin E Daily Value, 27% for selenium and 22% for magnesium ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
-          "About 81% of the fat is monounsaturated or polyunsaturated, and about 9% is saturated ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated).",
-          "Salt changes the picture: dry roasted kernels with salt added have 655 mg of sodium per 100 g, against 3 mg without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
-          "Sunflower is not on the US list of 9 major food allergens or the EU list of 14 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
-        ]
-      },
-      {
-        "heading": "Key Terms",
-        "body": [
-          "**Sunflower seed kernels** are the shelled, edible part of the seed. The USDA values in this guide describe kernels, not seeds in the shell.",
-          "**Daily Value (DV)** is the reference amount FDA uses on nutrition labels. For the nutrients covered here it is 15 mg for vitamin E, 420 mg for magnesium, 55 mcg for selenium and 2,300 mg for sodium ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
-          "**Alpha-tocopherol** is the form of vitamin E for which FDA sets the 15 mg Daily Value."
-        ]
-      },
-      {
-        "body": [
-          "Most advice about sunflower seeds mixes raw, roasted and salted products as if they were one food. They are not, so this guide starts from one USDA record for dried kernels, scales it to a 28 g serving, and then shows where salted and roasted versions differ. It is general nutrition information, not medical advice."
-        ]
-      },
-      {
-        "heading": "What Nutrients Are in a Serving of Sunflower Seeds?",
-        "image": {
-          "src": "/images/ai-seeds-bowl-portion.jpg",
-          "alt": "Small white bowl of shelled sunflower seed kernels on a wooden table",
-          "caption": "A small bowl of kernels. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "The table scales the USDA record for dried sunflower seed kernels (FDC ID 170562) to a 28 g serving. Percent Daily Value is shown only where this guide has the FDA reference amount, and each row names its source."
-        ],
-        "table": {
-          "headers": [
-            "Nutrient",
-            "Per 28 g",
-            "% Daily Value",
-            "Source"
-          ],
-          "rows": [
-            [
-              "Energy",
-              "164 kcal",
-              "-",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
-            ],
-            [
-              "Protein",
-              "5.8 g",
-              "-",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
-            ],
-            [
-              "Total fat",
-              "14.4 g",
-              "-",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
-            ],
-            [
-              "Carbohydrate",
-              "5.6 g",
-              "-",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
-            ],
-            [
-              "Dietary fiber",
-              "2.4 g",
-              "-",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
-            ],
-            [
-              "Vitamin E",
-              "9.8 mg",
-              "66%",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
-            ],
-            [
-              "Selenium",
-              "15 mcg",
-              "27%",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
-            ],
-            [
-              "Magnesium",
-              "91 mg",
-              "22%",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
-            ],
-            [
-              "Sodium",
-              "2.5 mg",
-              "0.1%",
-              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Do Sunflower Seeds Provide Useful Vitamin E, Magnesium and Selenium?",
-        "image": {
-          "src": "/images/sunflower-seed-dv-chart.svg",
-          "alt": "Bar chart: a 28 g serving of sunflower seed kernels supplies about 66 percent of the vitamin E Daily Value, 27 percent for selenium and 22 percent for magnesium",
-          "caption": "Share of FDA Daily Value per 28 g serving. Source: USDA FoodData Central and FDA, calculated by XingYi Trading."
-        },
-        "body": [
-          "Vitamin E is the standout nutrient. One serving supplies 9.8 mg, about 66% of the 15 mg Daily Value ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Selenium follows at 15 mcg, or 27% of the 55 mcg reference amount, and magnesium at 91 mg, or 22% of 420 mg ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
-          "These figures describe what is in the food and do not prove a health outcome. How much you absorb and need depends on the rest of your diet, so the percentages are best used to compare one food with another."
-        ]
-      },
-      {
-        "heading": "What Kind of Fat Do Sunflower Seeds Contain?",
-        "body": [
-          "Sunflower seed kernels are energy-dense, with 51 g of fat per 100 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). That is why a small serving carries 164 kcal. USDA reports 18.5 g monounsaturated, 23.1 g polyunsaturated and 4.5 g saturated fat per 100 g, which works out to about 81% unsaturated and 9% saturated ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated)."
-        ]
-      },
-      {
-        "heading": "How Nutrient-Dense Are Sunflower Seeds per 100 Calories?",
-        "body": [
-          "A per-serving view hides one useful comparison. Because kernels are rich in fat, it helps to ask how much of each nutrient arrives with every 100 kcal. We calculated this from the USDA records for dried kernels and for dry roasted kernels with salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
-          "Our analysis of these two records shows that, per 100 kcal, dried kernels supply 6.0 mg of vitamin E (40% of the Daily Value), 56 mg of magnesium and 9.1 mcg of selenium. The salted dry roasted record has nearly the same energy but carries 113 mg of sodium per 100 kcal, about 73 times the 1.5 mg in dried kernels.",
-          "Put another way, reaching the full 15 mg vitamin E Daily Value from kernels alone would take about 43 g of dried kernels, or roughly 249 kcal. The first number says the seeds are a concentrated source; the second says the energy cost is real."
-        ],
-        "table": {
-          "headers": [
-            "Per 100 kcal",
-            "Vitamin E (mg)",
-            "Magnesium (mg)",
-            "Selenium (mcg)",
-            "Sodium (mg)"
-          ],
-          "rows": [
-            [
-              "Dried kernels",
-              "6.0",
-              "56",
-              "9.1",
-              "1.5"
-            ],
-            [
-              "Dry roasted, salt added",
-              "4.5",
-              "22",
-              "13.6",
-              "113"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Are Salted Sunflower Seeds a Problem?",
-        "body": [
-          "Salt is the biggest difference between products. Per 100 g, dry roasted kernels without salt contain 3 mg of sodium and dry roasted kernels with salt added contain 655 mg ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). In a 28 g serving that is 1 mg against 183 mg, or 8% of the 2,300 mg sodium Daily Value ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
-          "Check the label of the exact product you buy, because brands vary. For a full comparison see our guide to [sunflower seed calories, protein and sodium by type](/blog/sunflower-seed-calories-protein-macros)."
-        ]
-      },
-      {
-        "heading": "How Much Should You Eat?",
-        "body": [
-          "This guide uses 28 g as a reference portion, not as a recommendation. The right amount depends on your calorie and sodium targets and on any medical condition, so ask a registered dietitian or clinician if you have specific needs."
-        ]
-      },
-      {
-        "heading": "Is Sunflower Seed a Major Allergen?",
-        "body": [
-          "No label law singles it out. FDA recognises nine major allergens (milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame), and the EU lists 14 in Annex II; sunflower is on neither list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). That is a labelling rule, not a guarantee that nobody reacts, so anyone with a known seed allergy should speak to an allergist. Food brands can read our guide to [sunflower seed allergen labeling](/blog/sunflower-seed-allergen-labeling-us-eu)."
-        ]
-      },
-      {
-        "heading": "Sources and Further Reading",
-        "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - nutrient values for dried sunflower seed kernels (FDC ID 170562).",
-          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts used for percent Daily Value.",
-          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens under US law.",
-          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens and how they are emphasised."
-        ]
-      },
-      {
-        "heading": "Frequently Asked Questions",
-        "body": [
-          "Short answers to the questions that come up most often."
-        ]
-      },
-      {
-        "heading": "Are Roasted Sunflower Seeds Less Healthy Than Raw?",
-        "body": [
-          "The energy is almost the same ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Dried kernels have 584 kcal per 100 g, dry roasted kernels without salt have 582, and oil roasted kernels without salt have 592. The meaningful difference comes from added salt or oil, so read the label."
-        ]
-      },
-      {
-        "heading": "Do Seeds in the Shell Have the Same Nutrition?",
-        "body": [
-          "The USDA values describe kernels. Seeds in the shell weigh more because of the hull: USDA gives one cup of kernels as 140 g, while one cup of seeds with hulls has an edible yield of 46 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Compare nutrition on a kernel-weight basis."
-        ]
-      },
-      {
-        "heading": "Where Do the Numbers Come From?",
-        "body": [
-          "Every nutrient value is the USDA FoodData Central record 'Seeds, sunflower seed kernels, dried' ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)), multiplied by 0.28 to give 28 g. Percent Daily Value uses the FDA reference amounts ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Your product's label is the final authority."
-        ]
-      },
-      {
-        "heading": "Buying Sunflower Seeds for a Food Business",
-        "body": [
-          "If you source seeds for a snack brand, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
-        ]
-      },
-      {
-        "heading": "Related Reading",
-        "list": [
-          "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)",
-          "[How long do sunflower seeds last?](/blog/sunflower-seed-shelf-life)",
-          "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)"
-        ]
-      }
-    ],
-  },
-  {
-    slug: "bulk-sunflower-seeds-buyers-guide",
-    title: "Bulk Sunflower Seeds: The Complete Buyer's Guide to Series, Packaging, Shipping and Documents",
-    seoTitle: "Bulk Sunflower Seeds: A Complete Buyer's Guide",
-    seoDescription: "Buy bulk sunflower seeds from China: compare 3 series, 25 kg and 50 kg bags, FCL vs LCL, FOB vs CIF, and the documents to confirm before you pay.",
-    excerpt: "How to buy bulk confectionery sunflower seeds from China: which series to specify, how seeds are packed and shipped, which Incoterm fits, and which documents to confirm before you pay.",
+    slug: "sunflower-seed-allergen-labeling-us-eu",
+    title: "Sunflower Seed Allergen Labeling: What US and EU Rules Require From Food Brands",
+    seoTitle: "Sunflower Seed Allergen Labeling: US vs EU",
+    seoDescription: "Sunflower is not on the US list of 9 major allergens or the EU list of 14. See how each region requires allergens to be declared and what brands must check.",
+    excerpt: "Sunflower seed is on neither the US nor the EU allergen list, but the products it goes into often contain listed allergens. What the rules require and what to ask your supplier.",
     category: "Importing & Trade",
-    date: "2026-12-15",
+    date: "2027-03-02",
     author: "James Feng",
-    image: "/images/facility-exterior-1.jpg",
+    image: "/images/ai-certification-binder-facility.jpg",
     relatedSeries: [
       "361-series",
       "363-series",
@@ -725,194 +3361,153 @@ export const blogPosts: BlogPost[] = [
     ],
     sections: [
       {
-        "heading": "Quick Answer",
         "body": [
-          "To buy sunflower seeds in bulk from China, specify the series (361, 363 or Tongqing No.6) and the bag format. The standard export sacks are 25 kg and 50 kg PP woven bags. Next, name your destination port, then choose full or partial container shipping and an Incoterm such as FOB. Finally, confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026)."
+          "Sunflower seed is not one of the 9 major food allergens recognised in the United States or one of the 14 allergens listed in the European Union, so the seed itself does not trigger a mandatory allergen declaration in either market (FDA; FSAI). The risk for food brands comes from the other ingredients in the product and from cross-contact. Check every ingredient against both lists, including sesame, which became the ninth US major allergen on January 1, 2023.",
+          "A buyer who reads 'sunflower seeds are not a major allergen' and stops there can still ship a mislabelled product. The seed is rarely sold alone: snack mixes, bakery products and spreads combine it with nuts, sesame, wheat or milk. This guide covers what the two rule sets say and what to ask your supplier. It is general information, not legal advice."
         ]
       },
       {
-        "heading": "Key Takeaways",
+        "heading": "What Are the Key Numbers?",
         "list": [
-          "Bulk sunflower seeds are classified under HS code 1206, \"Sunflower seeds, whether or not broken\" ([Flexport HS reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
-          "Incoterms are 11 rules issued by the International Chamber of Commerce that set who bears cost and risk in an international sale ([trade.gov](https://www.trade.gov/know-your-incoterms)).",
-          "There is no universal volume at which a full container beats a shared one, so quote both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
-          "XingYi Trading runs 9 production lines with up to 300 tons of daily output (XingYi Trading company data, 2026).",
-          "Two documents most often hold up clearance: the phytosanitary certificate and the certificate of origin. Government bodies issue both on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
+          "The US recognises 9 major food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "The EU lists 14 allergens in Annex II, including celery, mustard, lupin, molluscs and sulphites above 10 mg/kg ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
+          "Sesame became the 9th US major allergen under the FASTER Act, signed April 23, 2021 and effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "In the US, an allergen's food source must be declared at least once, in parentheses after the ingredient name or in a 'Contains' statement next to the ingredient list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "In the EU, allergens must be emphasised in the ingredients list, for example by font, style or background colour ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
         ]
       },
       {
-        "heading": "Key Terms",
+        "heading": "What Do the Key Terms Mean?",
         "body": [
-          "**Bulk sunflower seeds** are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags. Buyers use them for repacking, private label or distribution rather than retail packs.",
-          "**Minimum order quantity (MOQ)** is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
-          "An **Incoterm** is a standard trade term that splits cost and risk between seller and buyer. **FOB (Free on Board)** is an Incoterm that puts the handover at the port of loading. **CIF (Cost, Insurance and Freight)** is an Incoterm under which the seller arranges freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
+          "A **major food allergen** is, under US law, one of nine foods for which labels must name the food source. The EU uses a longer list of 14 allergen groups.",
+          "A **Contains statement** is a line such as 'Contains: wheat' placed immediately after or next to the ingredient list, one of two accepted ways to declare US major allergens ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "**Cross-contact** is the unintended transfer of an allergen from one food or surface to another, for example on shared equipment."
         ]
       },
       {
-        "body": [
-          "A first bulk order goes wrong when the buyer treats it as a price comparison. The decisions that change your landed cost and your clearance risk are the series, the packaging, the shipping mode, the Incoterm and the paperwork. This guide walks through each one in the order you will face them, and links to the detailed guides where a topic needs more depth."
-        ]
-      },
-      {
-        "heading": "What Should You Specify When Ordering Bulk Sunflower Seeds?",
+        "heading": "Is Sunflower Seed a Major Allergen in the US?",
         "image": {
-          "src": "/images/product-grading-caliper.jpg",
-          "alt": "Calipers measuring the width of in-shell sunflower seeds during size grading",
-          "caption": "Size grading with calipers: confirm the kernel and shell size you need before quoting. Photo: XingYi Trading facility."
+          "src": "/images/ai-certification-binder-facility.jpg",
+          "alt": "Open compliance binder and pen on a steel table in a food factory",
+          "caption": "Allergen documentation belongs in the supplier file. Illustrative AI-generated image, not a product photo."
         },
         "body": [
-          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed. They pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
-          "Then write down the grade details you will hold the supplier to: moisture, purity and size. Our guides to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards) and [common seed defects](/blog/sunflower-seed-defects-quality-inspection) list what to ask for."
-        ],
+          "No. FDA's list of nine major allergens does not include sunflower ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)). The law requires labels to identify the food source of every major allergen used to make the food, so a product made only from sunflower seeds needs no allergen statement for the seed itself."
+        ]
+      },
+      {
+        "heading": "What Does the EU Require?",
+        "body": [
+          "The EU's Annex II lists 14 allergen groups, among them cereals containing gluten, peanuts, soybeans, milk, nuts, celery, mustard, sesame seeds, sulphites, lupin and molluscs. Sunflower is not one of them ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Where a listed allergen is an ingredient, it must be named in the ingredients list and set apart from the other words."
+        ]
+      },
+      {
+        "heading": "How Do the US and EU Rules Differ?",
+        "image": {
+          "src": "/images/allergen-list-counts.svg",
+          "alt": "Bar chart: the United States recognises 9 major food allergens and the European Union lists 14, with sunflower on neither list",
+          "caption": "Number of listed allergens. Sources: FDA and FSAI."
+        },
         "table": {
           "headers": [
-            "Series",
-            "Positioning",
-            "Typical use"
+            "Item",
+            "United States",
+            "European Union"
           ],
           "rows": [
             [
-              "[361 Series](/products/361-series)",
-              "General-purpose, volume-friendly grade with plump, aromatic kernels",
-              "Snacking, baking, garnishing, cost-optimized private label"
+              "Number of listed allergens",
+              "9 major allergens",
+              "14 allergen groups (Annex II)"
             ],
             [
-              "[363 Series](/products/363-series)",
-              "Premium raw grade, organically grown and pesticide-free",
-              "Branded and health-focused retail lines"
+              "Is sunflower listed?",
+              "No",
+              "No"
             ],
             [
-              "[Tongqing No.6](/products/tq6-series)",
-              "Named cultivar with a larger kernel and richer flavor",
-              "Premium and large-kernel product lines"
+              "How declared",
+              "Source named once: in parentheses after the ingredient or in a Contains statement",
+              "Allergen emphasised in the ingredients list (font, style or background)"
+            ],
+            [
+              "Recent change",
+              "Sesame added, effective January 1, 2023",
+              "List set by Annex II of Regulation 1169/2011"
             ]
           ]
         }
       },
       {
-        "heading": "How Are Bulk Sunflower Seeds Packed?",
-        "image": {
-          "src": "/images/packaging-worker.jpg",
-          "alt": "Worker filling a PP woven sack with sunflower seeds at an automated bagging station",
-          "caption": "Automated bagging into PP woven sacks. Photo: XingYi Trading facility."
-        },
+        "heading": "Which Allergens Appear Only on the EU List?",
         "body": [
-          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment. Laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
-          "Private-label printing is generally possible, but minimums, artwork lead times and cost vary by order, so confirm them in writing. See [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) and [vacuum-sealed vs standard bags](/blog/vacuum-sealed-vs-standard-export-bags)."
+          "Comparing the two lists shows that all nine US major allergens have an EU counterpart, with wheat covered by the EU's cereals containing gluten and the US tree nuts matched by the EU's nuts ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). The EU list is longer by five groups: Celery, mustard, lupin, molluscs and sulphur dioxide and sulphites (above 10 mg/kg). This comparison is our own reading of the two lists.",
+          "The practical effect is easy to miss. A seasoned seed snack that contains mustard or celery in its seasoning would need allergen emphasis in the EU, while neither is a US major allergen under the list above. Brands that sell in both markets should therefore check against the longer list first."
         ]
       },
       {
-        "heading": "Should You Ship a Full Container or a Shared One?",
-        "body": [
-          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. No fixed volume separates the two. One freight source states there is no universal threshold at which FCL becomes cheaper, so it advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
-          "For this reason, supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
-        ]
-      },
-      {
-        "heading": "Which Incoterm Should You Choose for a First Order?",
-        "body": [
-          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. In contrast, CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
-          "Whichever you pick, compare quotes on the same term. Our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) explains what moves the price."
-        ]
-      },
-      {
-        "heading": "What Documents Does a Bulk Shipment Need?",
-        "body": [
-          "Confirm the document list before production, not after the container is loaded. The table covers the documents that most often decide whether cargo clears on time."
-        ],
-        "table": {
-          "headers": [
-            "Document",
-            "What it does",
-            "Where to read more"
-          ],
-          "rows": [
-            [
-              "Phytosanitary certificate",
-              "Attests that plant products are inspected and meet the importing country's pest requirements ([USDA APHIS](https://www.aphis.usda.gov/plant-exports/certification))",
-              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
-            ],
-            [
-              "Certificate of origin",
-              "States the country where the goods were produced",
-              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
-            ],
-            [
-              "HS code on customs paperwork",
-              "Classifies the goods as HS 1206 for duty and declaration",
-              "[HS codes and export documents](/blog/sunflower-seed-hs-codes-export-documentation)"
-            ],
-            [
-              "FDA Prior Notice (US-bound food)",
-              "Must be filed with FDA before the shipment arrives ([FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods))",
-              "[FDA filing guide](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods)"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "How Do You Verify a Supplier Before Paying?",
-        "body": [
-          "First, ask for the certifications the supplier holds. Then request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion ([third-party inspection guide](/blog/third-party-inspection-sunflower-seeds)).",
-          "Our checklist of [questions to ask a supplier](/blog/what-to-ask-sunflower-seed-supplier) and the comparison of [buying direct versus through a trading company](/compare) cover the rest."
-        ]
-      },
-      {
-        "heading": "What Does the Ordering Process Look Like?",
-        "image": {
-          "src": "/images/bulk-order-process.svg",
-          "alt": "Four-step bulk order process: request a quote, review samples, confirm order terms, production and shipment",
-          "caption": "The four-step order process as run by XingYi Trading (XingYi Trading company data, 2026)."
-        },
-        "body": [
-          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. In practice, put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
-        ]
-      },
-      {
-        "heading": "Sources and Further Reading",
+        "heading": "What Is a Practical Allergen Check for a Sunflower Seed Product?",
         "list": [
-          "[Flexport: HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the tariff heading and statistical subheadings for sunflower seeds.",
-          "[trade.gov: Know your Incoterms](https://www.trade.gov/know-your-incoterms) - what Incoterms are and who issues them.",
-          "[iContainers: LCL vs FCL](https://www.icontainers.com/help/lcl-vs-fcl/) - how to compare shared and full-container shipping.",
-          "[USDA APHIS: phytosanitary certification](https://www.aphis.usda.gov/plant-exports/certification) - what a phytosanitary certificate attests."
+          "List every ingredient in the finished product, including seasonings and coatings.",
+          "Check each ingredient against the US list of 9 and the EU list of 14, using the sources below.",
+          "Ask the supplier which allergens are handled in the same facility and on shared equipment.",
+          "Decide who writes the allergen statement for each destination market, and who approves it.",
+          "Keep the supplier's allergen documentation with the specification and the label artwork."
         ]
       },
       {
-        "heading": "Frequently Asked Questions",
+        "heading": "Which Listed Allergens Can Share a Product With Sunflower Seeds?",
         "body": [
-          "Short answers to the questions buyers ask most often before a first bulk order."
+          "Check each ingredient in the finished product against both lists. Seed and nut snack mixes may contain tree nuts, peanuts or sesame, and bakery or bar products may add wheat, milk or soybeans. Sesame deserves a second look for US-bound products because it joined the list only on January 1, 2023, so older labels and specifications may predate it."
         ]
       },
       {
-        "heading": "What Is the Minimum Order for Bulk Sunflower Seeds?",
-        "body": [
-          "It depends on the series, packaging and container choice, and some suppliers treat MOQ as a starting point for negotiation. State your target volume and destination in the quote request and the supplier will confirm what is possible. See [MOQ explained](/blog/sunflower-seed-moq-explained)."
+        "heading": "What Should You Ask a Supplier About Cross-Contact?",
+        "list": [
+          "Which allergens are handled in the same facility, and on which lines?",
+          "Is sesame, peanut or tree nut processed on shared equipment?",
+          "How are lines cleaned between products, and is cleaning verified?",
+          "What allergen documentation can the supplier provide for your specific order?",
+          "Who confirms the final label wording for your destination market?"
         ]
       },
       {
-        "heading": "Can You Get Private-Label Packaging on a Bulk Order?",
+        "heading": "Who Is Responsible for the Label?",
         "body": [
-          "Private-label printing and custom bag specifications are generally available, with minimums and lead times that vary by order. Send your bag size, branding and volume with the quote request so they can be confirmed together."
+          "Labeling requirements vary by destination, and the importer is generally the one who finalizes them, even when a supplier prints the packaging. Agree early who writes and checks the allergen statement. Our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) explains the labeling decision, and the [documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin) covers the paperwork that travels with the shipment."
         ]
       },
       {
-        "heading": "Which Series Suits a First Order?",
-        "body": [
-          "Pick by end use: 361 for volume and cost-optimized lines, 363 for premium raw and health-focused retail, and Tongqing No.6 for larger-kernel appeal. Request samples of two series if you are undecided. See the [three-series comparison](/blog/361-vs-363-vs-tongqing-no6-comparison)."
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised."
         ]
       },
       {
-        "heading": "Request a Bulk Quote",
+        "heading": "Is Sesame Covered by US Allergen Labeling?",
         "body": [
-          "[Request a quote](/contact#quote-form) with your series, target volume, bag format and destination port, and we will confirm specifications and shipping options for your order."
+          "Yes. The FASTER Act, signed April 23, 2021, made sesame the ninth major allergen, effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies))."
+        ]
+      },
+      {
+        "heading": "Is a Contains Statement Mandatory in the US?",
+        "body": [
+          "Not by itself. FDA accepts two methods: naming the source in parentheses within the ingredient list, or a Contains statement next to the list. One of them must appear at least once on the label."
+        ]
+      },
+      {
+        "heading": "Request Allergen Documentation With Your Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form), state your destination market and ask what allergen documentation is available for your order. For the full buying process, see the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       },
       {
         "heading": "Related Reading",
         "list": [
-          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)",
-          "[How to write an RFQ for bulk sunflower seeds](/blog/how-to-write-rfq-bulk-sunflower-seeds)",
-          "[T/T vs letter of credit for sunflower seeds](/blog/tt-vs-letter-of-credit-sunflower-seeds)"
+          "[What to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier)",
+          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
+          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)"
         ]
       }
     ],

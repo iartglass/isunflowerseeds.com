@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 402" role="img" aria-labelledby="t d">
+<title id="t">Theoretical tonnes of in-shell seed by container volume</title><desc id="d">Bar chart of how many tonnes of loose in-shell confection sunflower seed fill 20ft and 40ft containers at three test weights.</desc>
+<rect width="960" height="402" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Theoretical tonnes of in-shell seed by container volume</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">20ft, 21.1 lb/bu</text>
+<rect x="300" y="70" width="195" height="30" rx="4" fill="#b8860b"/>
+<text x="505" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">9.0 t</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">20ft, 22.7 lb/bu</text>
+<rect x="300" y="122" width="210" height="30" rx="4" fill="#b8860b"/>
+<text x="520" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">9.7 t</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">20ft, 24.0 lb/bu</text>
+<rect x="300" y="174" width="222" height="30" rx="4" fill="#b8860b"/>
+<text x="532" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">10.3 t</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">40ft, 21.1 lb/bu</text>
+<rect x="300" y="226" width="398" height="30" rx="4" fill="#1e3a5f"/>
+<text x="708" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">18.4 t</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">40ft, 22.7 lb/bu</text>
+<rect x="300" y="278" width="429" height="30" rx="4" fill="#1e3a5f"/>
+<text x="739" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">19.8 t</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">40ft, 24.0 lb/bu</text>
+<rect x="300" y="330" width="453" height="30" rx="4" fill="#1e3a5f"/>
+<text x="763" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">20.9 t</text>
+<text x="30" y="388" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: NSA 2024 crop report test weights; DSV container volumes; NIST Handbook 44 conversions. Calculated by XingYi Trading. Loose-fill upper bound.</text></svg>
