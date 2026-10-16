@@ -270,7 +270,8 @@ export function SchemaWebPage({
     "@type": "WebPage",
     name,
     description,
-    url: `${BASE_URL}${url}`,
+    // Root canonical is rendered without a trailing slash; keep schema url identical.
+    url: url === "/" ? BASE_URL : `${BASE_URL}${url}`,
     publisher: orgRef,
     inLanguage: "en",
   }
