@@ -516,7 +516,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Should You Store Roasted Seeds?",
         "body": [
-          "The source page does not give storage advice for roasted seeds, so we have not added a shelf-life figure. For a commercial view of seed moisture, the [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports average moisture of 8.9% to 10.7% for US non-oil sunflower at receipt between 2020 and 2024. That figure describes raw crop, not a home roasting target, and it does not tell you how long roasted seeds keep."
+          "The source page does not give storage advice for roasted seeds, so we have not added a shelf-life figure. For a commercial view of seed moisture, the [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports average moisture of 8.9% to 10.7% for US non-oil sunflower samples between 2020 and 2024. That figure describes sampled raw crop, not a home roasting target, and it does not tell you how long roasted seeds keep."
         ]
       },
       {
@@ -531,7 +531,7 @@ export const blogPosts: BlogPost[] = [
           "[National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) - 100°F drying; 300°F for 10-15 minutes roasting; source: \"So Easy to Preserve\", 6th edition, Bulletin 989, University of Georgia.",
           "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (dried), 170563 and 169418 (dry roasted, without and with salt), 170564 and 168593 (oil roasted, without and with salt).",
           "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium 2,300 mg.",
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture at receipt.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture of sampled crop.",
           "Celsius conversions and per-serving values are our calculations."
         ]
       },
@@ -881,6 +881,2289 @@ export const blogPosts: BlogPost[] = [
         "heading": "Looking for Sunflower Seeds for a Seed Mix or Snack Line?",
         "body": [
           "XingYi Trading supplies sunflower seeds only, not the other seeds and nuts compared here. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-allergen-labeling-us-eu",
+    title: "Sunflower Seed Allergen Labeling: What US and EU Rules Require From Food Brands",
+    seoTitle: "Sunflower Seed Allergen Labeling: US vs EU",
+    seoDescription: "Sunflower is not on the US list of 9 major allergens or the EU list of 14. See how each region requires allergens to be declared and what brands must check.",
+    excerpt: "Sunflower seed is on neither the US nor the EU allergen list, but the products it goes into often contain listed allergens. What the rules require and what to ask your supplier.",
+    category: "Importing & Trade",
+    date: "2027-03-02",
+    author: "James Feng",
+    image: "/images/ai-certification-binder-facility.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Sunflower seed is not one of the 9 major food allergens recognised in the United States or one of the 14 allergens listed in the European Union, so the seed itself does not trigger a mandatory allergen declaration in either market (FDA; FSAI). The risk for food brands comes from the other ingredients in the product and from cross-contact. Check every ingredient against both lists, including sesame, which became the ninth US major allergen on January 1, 2023.",
+          "A buyer who reads 'sunflower seeds are not a major allergen' and stops there can still ship a mislabelled product. The seed is rarely sold alone: snack mixes, bakery products and spreads combine it with nuts, sesame, wheat or milk. This guide covers what the two rule sets say and what to ask your supplier. It is general information, not legal advice."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "The US recognises 9 major food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "The EU lists 14 allergens in Annex II, including celery, mustard, lupin, molluscs and sulphites above 10 mg/kg ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
+          "Sesame became the 9th US major allergen under the FASTER Act, signed April 23, 2021 and effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "In the US, an allergen's food source must be declared at least once, in parentheses after the ingredient name or in a 'Contains' statement next to the ingredient list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "In the EU, allergens must be emphasised in the ingredients list, for example by font, style or background colour ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "A **major food allergen** is, under US law, one of nine foods for which labels must name the food source. The EU uses a longer list of 14 allergen groups.",
+          "A **Contains statement** is a line such as 'Contains: wheat' placed immediately after or next to the ingredient list, one of two accepted ways to declare US major allergens ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "**Cross-contact** is the unintended transfer of an allergen from one food or surface to another, for example on shared equipment."
+        ]
+      },
+      {
+        "heading": "Is Sunflower Seed a Major Allergen in the US?",
+        "image": {
+          "src": "/images/ai-certification-binder-facility.jpg",
+          "alt": "Open compliance binder and pen on a steel table in a food factory",
+          "caption": "Allergen documentation belongs in the supplier file. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "No. FDA's list of nine major allergens does not include sunflower ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)). The law requires labels to identify the food source of every major allergen used to make the food, so a product made only from sunflower seeds needs no allergen statement for the seed itself."
+        ]
+      },
+      {
+        "heading": "What Does the EU Require?",
+        "body": [
+          "The EU's Annex II lists 14 allergen groups, among them cereals containing gluten, peanuts, soybeans, milk, nuts, celery, mustard, sesame seeds, sulphites, lupin and molluscs. Sunflower is not one of them ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Where a listed allergen is an ingredient, it must be named in the ingredients list and set apart from the other words."
+        ]
+      },
+      {
+        "heading": "How Do the US and EU Rules Differ?",
+        "image": {
+          "src": "/images/allergen-list-counts.svg",
+          "alt": "Bar chart: the United States recognises 9 major food allergens and the European Union lists 14, with sunflower on neither list",
+          "caption": "Number of listed allergens. Sources: FDA and FSAI."
+        },
+        "table": {
+          "headers": [
+            "Item",
+            "United States",
+            "European Union"
+          ],
+          "rows": [
+            [
+              "Number of listed allergens",
+              "9 major allergens",
+              "14 allergen groups (Annex II)"
+            ],
+            [
+              "Is sunflower listed?",
+              "No",
+              "No"
+            ],
+            [
+              "How declared",
+              "Source named once: in parentheses after the ingredient or in a Contains statement",
+              "Allergen emphasised in the ingredients list (font, style or background)"
+            ],
+            [
+              "Recent change",
+              "Sesame added, effective January 1, 2023",
+              "List set by Annex II of Regulation 1169/2011"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Allergens Appear Only on the EU List?",
+        "body": [
+          "Comparing the two lists shows that all nine US major allergens have an EU counterpart, with wheat covered by the EU's cereals containing gluten and the US tree nuts matched by the EU's nuts ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). The EU list is longer by five groups: Celery, mustard, lupin, molluscs and sulphur dioxide and sulphites (above 10 mg/kg). This comparison is our own reading of the two lists.",
+          "The practical effect is easy to miss. A seasoned seed snack that contains mustard or celery in its seasoning would need allergen emphasis in the EU, while neither is a US major allergen under the list above. Brands that sell in both markets should therefore check against the longer list first."
+        ]
+      },
+      {
+        "heading": "What Is a Practical Allergen Check for a Sunflower Seed Product?",
+        "list": [
+          "List every ingredient in the finished product, including seasonings and coatings.",
+          "Check each ingredient against the US list of 9 and the EU list of 14, using the sources below.",
+          "Ask the supplier which allergens are handled in the same facility and on shared equipment.",
+          "Decide who writes the allergen statement for each destination market, and who approves it.",
+          "Keep the supplier's allergen documentation with the specification and the label artwork."
+        ]
+      },
+      {
+        "heading": "Which Listed Allergens Can Share a Product With Sunflower Seeds?",
+        "body": [
+          "Check each ingredient in the finished product against both lists. Seed and nut snack mixes may contain tree nuts, peanuts or sesame, and bakery or bar products may add wheat, milk or soybeans. Sesame deserves a second look for US-bound products because it joined the list only on January 1, 2023, so older labels and specifications may predate it."
+        ]
+      },
+      {
+        "heading": "What Should You Ask a Supplier About Cross-Contact?",
+        "list": [
+          "Which allergens are handled in the same facility, and on which lines?",
+          "Is sesame, peanut or tree nut processed on shared equipment?",
+          "How are lines cleaned between products, and is cleaning verified?",
+          "What allergen documentation can the supplier provide for your specific order?",
+          "Who confirms the final label wording for your destination market?"
+        ]
+      },
+      {
+        "heading": "Who Is Responsible for the Label?",
+        "body": [
+          "Labeling requirements vary by destination, and the importer is generally the one who finalizes them, even when a supplier prints the packaging. Agree early who writes and checks the allergen statement. Our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) explains the labeling decision, and the [documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin) covers the paperwork that travels with the shipment."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised."
+        ]
+      },
+      {
+        "heading": "Is Sesame Covered by US Allergen Labeling?",
+        "body": [
+          "Yes. The FASTER Act, signed April 23, 2021, made sesame the ninth major allergen, effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies))."
+        ]
+      },
+      {
+        "heading": "Is a Contains Statement Mandatory in the US?",
+        "body": [
+          "Not by itself. FDA accepts two methods: naming the source in parentheses within the ingredient list, or a Contains statement next to the list. One of them must appear at least once on the label."
+        ]
+      },
+      {
+        "heading": "Request Allergen Documentation With Your Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form), state your destination market and ask what allergen documentation is available for your order. For the full buying process, see the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      },
+      {
+        "heading": "Which Allergens Appear on Each List?",
+        "body": [
+          "The table sets the two lists side by side using the wording of the sources, with the closest EU group for each US allergen. Eight US allergens map directly, wheat maps to the EU's wider cereals containing gluten, and five groups appear only on the EU list (FDA; FSAI). Sunflower is on neither."
+        ],
+        "table": {
+          "headers": [
+            "Allergen group",
+            "United States (9)",
+            "European Union (14)"
+          ],
+          "rows": [
+            [
+              "Milk",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Eggs",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Fish",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Crustacean shellfish",
+              "Yes",
+              "Yes (crustaceans)"
+            ],
+            [
+              "Tree nuts",
+              "Yes",
+              "Yes (nuts)"
+            ],
+            [
+              "Peanuts",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Soybeans",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Sesame",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Wheat",
+              "Yes",
+              "Yes (cereals containing gluten)"
+            ],
+            [
+              "Celery",
+              "No",
+              "Yes"
+            ],
+            [
+              "Mustard",
+              "No",
+              "Yes"
+            ],
+            [
+              "Lupin",
+              "No",
+              "Yes"
+            ],
+            [
+              "Molluscs",
+              "No",
+              "Yes"
+            ],
+            [
+              "Sulphites above 10 mg/kg",
+              "No",
+              "Yes"
+            ],
+            [
+              "Sunflower",
+              "No",
+              "No"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Many Listed Allergens Could a Seed Mix Contain?",
+        "body": [
+          "A mix of sunflower seeds with nuts, peanuts, sesame, wheat-based coating and milk chocolate could contain up to five US major allergens from the table above, with the seed itself contributing none. The count depends on the recipe, not on the seed, so the allergen statement has to be written from the finished product's ingredient list for each market."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[What to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier)",
+          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
+          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)"
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-calories-protein-macros",
+    title: "Sunflower Seed Calories, Protein and Macros: Raw, Roasted and Salted Compared",
+    seoTitle: "Sunflower Seed Calories and Macros per Serving",
+    seoDescription: "Sunflower seed kernels have 164 kcal and 5.8 g protein per 28 g. Compare raw, roasted and salted types, from 1 to 183 mg sodium.",
+    excerpt: "USDA values for six types of sunflower seed kernels scaled to a 28 g serving: calories, protein, fat and sodium, with a chart of how much salt changes the result.",
+    category: "Health & Nutrition",
+    date: "2027-01-05",
+    author: "James Feng",
+    image: "/images/ai-raw-vs-roasted-comparison.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "A 28 g (about 1 oz) serving of sunflower seed kernels contains 163 to 173 kcal and about 5.4 to 5.8 g of protein, depending on how the seeds were processed (USDA FoodData Central, scaled to 28 g). Roasting barely changes calories. Added salt changes sodium a great deal: from about 1 mg to 183 mg per serving.",
+          "Search results for 'sunflower seed calories' often quote one number for every type of seed. USDA records show that is mostly fine for calories, and very wrong for sodium. This guide scales six USDA kernel records to one serving so you can compare them."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Energy per 100 g ranges only from 582 to 619 kcal across six USDA kernel records, a spread of about 6% ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Protein is 20.8 g per 100 g in dried kernels and 19.3 g in dry roasted kernels without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Sodium is the real difference: 3 mg per 100 g without salt and 655 mg with salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "At 28 g, dry roasted kernels with salt supply about 8% of the 2,300 mg sodium Daily Value ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "One cup of kernels weighs 140 g, about 818 kcal for dried kernels (USDA portion weight, calculated)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**USDA FoodData Central** is the US Department of Agriculture's public nutrient database, and the source of every value in this guide.",
+          "**Dry roasted kernels** are roasted without added oil, while **oil roasted kernels** are roasted in oil; USDA lists them as separate records.",
+          "**Macros** is short for macronutrients: protein, fat and carbohydrate, the three nutrients that provide energy in food."
+        ]
+      },
+      {
+        "heading": "How Many Calories Are in a Serving of Sunflower Seeds?",
+        "image": {
+          "src": "/images/ai-raw-vs-roasted-comparison.jpg",
+          "alt": "Two small piles of sunflower seed kernels on a white surface, pale raw kernels on the left and golden roasted kernels on the right",
+          "caption": "Raw and roasted kernels. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table scales each USDA record to 28 g. Values are for kernels, not seeds in the shell."
+        ],
+        "table": {
+          "headers": [
+            "Type (USDA record)",
+            "kcal",
+            "Protein (g)",
+            "Fat (g)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried kernels (raw)",
+              "164",
+              "5.8",
+              "14.4",
+              "3"
+            ],
+            [
+              "Dry roasted, no salt",
+              "163",
+              "5.4",
+              "13.9",
+              "1"
+            ],
+            [
+              "Oil roasted, no salt",
+              "166",
+              "5.6",
+              "14.4",
+              "1"
+            ],
+            [
+              "Dry roasted, salt added",
+              "163",
+              "5.4",
+              "13.9",
+              "183"
+            ],
+            [
+              "Oil roasted, salt added",
+              "166",
+              "5.6",
+              "14.4",
+              "85"
+            ],
+            [
+              "Toasted, salt added",
+              "173",
+              "4.8",
+              "15.9",
+              "172"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Does Roasting Change the Calories?",
+        "body": [
+          "Very little. Dried kernels have 584 kcal per 100 g, dry roasted kernels without salt 582 and oil roasted kernels without salt 592. The widest gap across all six records is about 6%, and the highest value belongs to toasted kernels with salt added (619 kcal). Added oil explains part of the difference, so the label on your pack matters more than the word 'roasted'."
+        ]
+      },
+      {
+        "heading": "How Do the Six Types Compare per 100 Calories?",
+        "body": [
+          "Comparing servings by weight can mislead, because added oil and salt change what a gram contains. A fairer test is to divide each nutrient by the energy it arrives with. The table below does that for the six USDA records, and every value is calculated from the per-100 g figures ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Our analysis of the six records shows that, by this measure, dried kernels (raw) gives the most protein at 3.6 g per 100 kcal, and toasted, salt added gives the least at 2.8 g. Sodium spans a far wider range: 0.5 mg per 100 kcal for oil roasted, no salt against 113 mg for dry roasted, salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Per 100 kcal",
+            "Protein (g)",
+            "Fat (g)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried kernels (raw)",
+              "3.6",
+              "8.8",
+              "1.5"
+            ],
+            [
+              "Dry roasted, no salt",
+              "3.3",
+              "8.6",
+              "0.5"
+            ],
+            [
+              "Oil roasted, no salt",
+              "3.4",
+              "8.7",
+              "0.5"
+            ],
+            [
+              "Dry roasted, salt added",
+              "3.3",
+              "8.6",
+              "113"
+            ],
+            [
+              "Oil roasted, salt added",
+              "3.4",
+              "8.7",
+              "51"
+            ],
+            [
+              "Toasted, salt added",
+              "2.8",
+              "9.2",
+              "99"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does This Mean When You Compare Labels?",
+        "body": [
+          "Two bags of sunflower seeds can look almost identical on the front and still differ by a factor of 222 in sodium per calorie. The nutrition panel on the back is where that shows up, so compare sodium per serving first and calories second.",
+          "For a food brand, the same logic applies to specification sheets. Ask the supplier whether the quoted values describe raw kernels, roasted kernels or salted kernels, and which serving weight they use. A mismatch there is a common reason for numbers that do not reconcile."
+        ]
+      },
+      {
+        "heading": "How Much Protein Do Sunflower Seeds Have?",
+        "body": [
+          "Dried kernels have 20.8 g of protein per 100 g, or 5.8 g in 28 g. Dry roasted kernels without salt have 19.3 g per 100 g (5.4 g per serving), and oil roasted kernels 20.1 g (5.6 g). Fat is the larger macronutrient at 51 g per 100 g for dried kernels, against 20 g of carbohydrate."
+        ]
+      },
+      {
+        "heading": "How Much Sodium Do Salted Sunflower Seeds Add?",
+        "image": {
+          "src": "/images/sunflower-seed-sodium-chart.svg",
+          "alt": "Bar chart of sodium per 28 gram serving of sunflower seed kernels: about 3 milligrams for unsalted types and 85 to 183 milligrams for salted types",
+          "caption": "Sodium per 28 g serving. Source: USDA FoodData Central, calculated by XingYi Trading."
+        },
+        "body": [
+          "Unsalted kernels contain only 1 to 3 mg of sodium per serving. Salted types range from 85 mg (oil roasted, salt added) to 183 mg (dry roasted, salt added). Against the FDA Daily Value of 2,300 mg ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)), the highest of these is 8% in a single 28 g serving."
+        ]
+      },
+      {
+        "heading": "How Many Calories Are in a Cup of Sunflower Seeds?",
+        "body": [
+          "USDA lists one cup of dried kernels as 140 g, which is about 818 kcal at 584 kcal per 100 g. Seeds in the shell are different: one cup with hulls has an edible yield of 46 g, or about 269 kcal of kernel ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated). Measure by weight when you can."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562, 170563, 170564, 169418, 168593 and 168594 for sunflower seed kernels.",
+          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the 2,300 mg sodium reference amount."
+        ]
+      },
+      {
+        "heading": "Which Type of Sunflower Seed Has the Most Calories?",
+        "body": [
+          "Of the six records here, toasted kernels with salt added have the most energy at 619 kcal per 100 g, or 173 kcal in 28 g. Dry roasted kernels with or without salt are lowest at 582 kcal per 100 g."
+        ]
+      },
+      {
+        "heading": "Do These Values Apply to Seeds in the Shell?",
+        "body": [
+          "No. They describe shelled kernels. Weigh only the kernels, or use the edible-yield figure in the cup answer above."
+        ]
+      },
+      {
+        "heading": "Can I Use These Numbers on a Product Label?",
+        "body": [
+          "Treat them as reference data, not label data. A label must reflect your own product, so confirm requirements with your regulatory adviser and your supplier. See [nutrition facts for private-label packaging](/blog/sunflower-seed-nutrition-facts-private-label)."
+        ]
+      },
+      {
+        "heading": "Buying Sunflower Seeds for a Food Business",
+        "body": [
+          "Sourcing seeds for a snack brand? Read the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
+        ]
+      },
+      {
+        "heading": "How Much of the Daily Value Does One Serving Supply?",
+        "body": [
+          "Against the FDA reference amounts of 50 g of protein and 2,300 mg of sodium, a 28 g serving of dried kernels supplies 12% of the protein Daily Value and 0.1% of the sodium Daily Value ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels), calculated). The salted dry roasted record supplies 11% of the protein value and 8% of the sodium value."
+        ],
+        "table": {
+          "headers": [
+            "Per 28 g",
+            "Protein, % DV",
+            "Sodium, % DV"
+          ],
+          "rows": [
+            [
+              "Dried kernels (raw)",
+              "12%",
+              "0.1%"
+            ],
+            [
+              "Dry roasted, no salt",
+              "11%",
+              "0.0%"
+            ],
+            [
+              "Oil roasted, no salt",
+              "11%",
+              "0.0%"
+            ],
+            [
+              "Dry roasted, salt added",
+              "11%",
+              "8.0%"
+            ],
+            [
+              "Oil roasted, salt added",
+              "11%",
+              "3.7%"
+            ],
+            [
+              "Toasted, salt added",
+              "10%",
+              "7.5%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Many Servings Would Reach the Sodium Daily Value?",
+        "body": [
+          "Dividing 2,300 mg by the sodium in one serving gives the number of servings that would supply the full reference amount: about 13 servings of dry roasted salted kernels, 27 of oil roasted salted kernels and 13 of toasted salted kernels (calculated from [USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). That is 351 g of kernels in the first case, so the Daily Value is not a practical limit for one snack, but sodium adds up across a day's foods."
+        ]
+      },
+      {
+        "heading": "How Many Servings Fit in a 1 kg Bag?",
+        "body": [
+          "A 1 kg bag holds about 36 servings of 28 g. At the USDA energy value of 584 kcal per 100 g, a kilogram of dried kernels carries about 5,840 kcal and 208 g of protein (calculated). The figures are for kernels, so the same calculation for seed in the shell would give fewer kernel calories per kilogram."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
+          "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)",
+          "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)"
+        ]
+      }
+    ],
+  },
+  {
+    slug: "warehouse-storage-sunflower-seeds-moisture-temperature",
+    title: "Warehouse Storage for Sunflower Seeds: Moisture, Heat and Safe Handling",
+    seoTitle: "Storing Sunflower Seeds in a Warehouse",
+    seoDescription: "Sunflower seed stored above 10% moisture risks hot spots. Learn the NSA storage guidance, why moisture readings rebound, and what to check when seed arrives.",
+    excerpt: "How to store confection sunflower seed in a warehouse: moisture targets, why readings rebound, aeration rates converted to metric, hot spots and fire risk, and an arrival checklist.",
+    category: "Harvesting & Storage",
+    date: "2027-03-16",
+    author: "James Feng",
+    image: "/images/process-02-storage-silos.webp",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Seed that arrives dry can still spoil in a warehouse if moisture, heat and airflow are not managed. The National Sunflower Association advises drying sunflower to under 10% moisture, warns that hulls dry faster than kernels so a meter reading can rebound, and flags hot spots and fine-fibre fire risk ([NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/)). This guide turns that advice into a storage routine for a buyer."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Dry sunflower to under 10% moisture, from a combining moisture of 14-15% (NSA).",
+          "A meter can read 10% one day and 12% the next, because hulls dry faster than kernels (NSA).",
+          "NSA aeration guidance of 1/10 to 1 cfm per cwt equals about 0.06 to 0.62 cubic metres per minute per tonne (our conversion).",
+          "US confection seed averaged 10.7% moisture in 2024, above the 10% mark ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "Without aeration, seed should be rotated between bins to avoid hot spots (NSA)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Moisture content** is the share of a seed's weight that is water, and the NSA advises drying sunflower to under 10%.",
+          "A **hot spot** is a pocket of stored seed that heats up, usually because moisture is high and air cannot move through the stack.",
+          "**Aeration** is moving air through stored seed to cool it and equalise moisture."
+        ]
+      },
+      {
+        "heading": "What Moisture Level Is Safe for Storage?",
+        "image": {
+          "src": "/images/process-02-storage-silos.webp",
+          "alt": "Storage silos at the XingYi Trading facility",
+          "caption": "Storage silos at the XingYi Trading facility. Photo: XingYi Trading."
+        },
+        "body": [
+          "The NSA's drying guidance is to take sunflower down to under 10% moisture, and to monitor it so it is not overdried. That matters because the confection seed in its 2024 crop report averaged 10.7%, so seed from a wet year can arrive above the safe mark ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Always set a moisture limit in the purchase specification, as our [moisture and purity guide](/blog/sunflower-seed-moisture-content-purity-standards) explains."
+        ]
+      },
+      {
+        "heading": "Why Can a Moisture Reading Rebound?",
+        "body": [
+          "The NSA notes that hulls dry faster than kernels, so a meter may show 10% and then climb to 12% the next day as moisture moves from kernel to hull. Its suggested check is to seal some seed in a jar overnight and read it the next day. A single reading on arrival is therefore not enough, and a second reading after rest is a cheap safeguard."
+        ]
+      },
+      {
+        "heading": "How Does Aeration Work, in Metric Units?",
+        "body": [
+          "The NSA gives aeration rates of 1/10 to 1 cfm per cwt, which means cubic feet of air per minute for each hundredweight of seed. Using NIST's definition of the pound ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)) and 1 cubic foot = 0.0283168 m³, that is about 0.06 to 0.62 cubic metres of air per minute for each tonne. This is our own conversion of a US grower guideline, so treat it as an order of magnitude and follow the advice of your warehouse engineer."
+        ]
+      },
+      {
+        "heading": "What Does Moisture Cost You per Tonne?",
+        "body": [
+          "Water weighs the same as seed when it is on the scale. A tonne at 12% moisture holds 880 kg of dry matter, and a tonne at 10% holds 900 kg, so the wetter lot has 2.3% less seed in it (calculated). The NSA's own rebound example, a reading that moves from 10% to 12%, therefore changes what you are paying for as well as how safely the seed stores."
+        ]
+      },
+      {
+        "heading": "What Does Aeration Mean for a Real Stack?",
+        "body": [
+          "Take a 20 tonne stack as an example. The NSA range of 0.06 to 0.62 cubic metres per minute per tonne becomes 1.2 to 12.5 cubic metres per minute for the whole stack, or about 44 to 441 cfm (calculated). The range is wide because the right rate depends on moisture and temperature, which is why the NSA treats it as a guideline rather than a fixed figure."
+        ]
+      },
+      {
+        "heading": "What Are Hot Spots, and How Do You Prevent Them?",
+        "body": [
+          "A hot spot is a pocket of seed that heats up, usually because moisture is high and air cannot move through the stack. The NSA says that without aeration, sunflower should be rotated between bins so hot spots do not develop. For bagged seed, the equivalent is to keep stacks away from walls, leave air gaps and turn old stock first, which are practical steps rather than NSA figures."
+        ]
+      },
+      {
+        "heading": "Is There a Fire Risk?",
+        "image": {
+          "src": "/images/warehouse-storage.jpg",
+          "alt": "Pallets of bagged sunflower seeds stacked in a warehouse",
+          "caption": "Stacked bagged seed. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "Yes. The NSA flags fine seed fibres as a fire hazard, especially in dry conditions. Keep dust under control, avoid ignition sources near stacks, and follow your local fire rules for agricultural storage. This is another reason to clean seed before storage and to specify a foreign-material limit."
+        ]
+      },
+      {
+        "heading": "What Changes for Kernels and Roasted Products?",
+        "body": [
+          "Hulled kernels are more exposed than in-shell seed, which is why the NSA's kernel specification sets moisture at 8% or lower, against the under-10% drying target for seed in the shell. For roasted kernel, the NSA hosts a study in which low-oxygen packaging prolonged shelf stability for a full year. The practical point is that a storage plan written for in-shell seed should not be applied to kernels or roasted products without a separate check."
+        ]
+      },
+      {
+        "heading": "How Often Should Stored Seed Be Re-Checked?",
+        "body": [
+          "There is no single interval in the NSA guidance, so set one from your own risk. Check more often in the first weeks after arrival, when moisture is still equalising, after any weather change that affects the warehouse, and whenever you notice an odour or warm spot. Record each reading, so a trend shows before a problem does."
+        ]
+      },
+      {
+        "heading": "What Should You Check When Seed Arrives?",
+        "list": [
+          "Moisture on arrival and again after a rest period.",
+          "Visible mould, off-odour or heating in the bags.",
+          "Bag condition: seams intact, no wet patches.",
+          "Lot number, packing date and test certificate against the order.",
+          "Where in the warehouse the lot goes, and which stock it sits next to."
+        ]
+      },
+      {
+        "heading": "How Long Can You Store Seed?",
+        "body": [
+          "That depends on moisture, temperature and packaging, and the NSA hosts a 1997 study finding that low-oxygen packaging can prolong the shelf stability of roasted sunflower kernel for a full year ([NSA shelf stability studies](https://www.sunflowernsa.com/seed/seedshelf-stability-study/)). That finding concerns roasted kernels, not in-shell raw seed, so see our [shelf life guide](/blog/sunflower-seed-shelf-life) for in-shell storage."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% target, rebound example, aeration rate, hot spots and fibre fire risk.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 2024 nonoil moisture average.",
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - the pound definition used in the aeration conversion."
+        ]
+      },
+      {
+        "heading": "How Much Space Does a Tonne of Seed Need?",
+        "body": [
+          "Test weight, the weight of a measured volume of seed, converts to bulk density. The NSA reported average test weights of 21.1 to 24.0 lb per bushel for US confection seed over five crop years, which equals about 272 to 309 kg per cubic metre (NSA Crop Quality Report; conversion using NIST bushel and pound values, calculated). A tonne of seed in bulk therefore fills about 3.2 to 3.7 cubic metres. Seed in bags needs more room once pallets and aisles are included, so treat this as the minimum."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Test weight (lb/bu)",
+            "Bulk density (kg/m³)",
+            "Volume per tonne (m³)",
+            "Average moisture (%)"
+          ],
+          "rows": [
+            [
+              "2024",
+              "22.7",
+              "292",
+              "3.42",
+              "10.7"
+            ],
+            [
+              "2023",
+              "21.5",
+              "277",
+              "3.61",
+              "9.7"
+            ],
+            [
+              "2022",
+              "24.0",
+              "309",
+              "3.24",
+              "9.4"
+            ],
+            [
+              "2021",
+              "21.4",
+              "275",
+              "3.63",
+              "9.0"
+            ],
+            [
+              "2020",
+              "21.1",
+              "272",
+              "3.68",
+              "8.9"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does the NSA Moisture Record Suggest for Receiving Checks?",
+        "body": [
+          "Average moisture of US confection samples ranged from 8.9% to 10.7% across the five crop years, with the highest in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). An average hides the range inside a year, so a receiving check should test each lot and not rely on the origin's average, as the arrival checklist above describes."
+        ]
+      },
+      {
+        "heading": "Plan Storage Before the Shipment Arrives",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your destination and storage conditions, and we will discuss packaging and moisture limits that suit them."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-supply-risks-weather-yield-freight",
+    title: "Sunflower Seed Supply Risks: Weather, Yield Swings and Shipping Contingencies",
+    seoTitle: "Sunflower Seed Supply Risks and Contingencies",
+    seoDescription: "US confection output rose 45%, then 22%, then fell 33% in three years. See what yield swings mean for buyers and how to plan.",
+    excerpt: "What recent crop swings show about sunflower seed supply risk, and a practical contingency plan for buyers covering sourcing, stock, contracts and shipping.",
+    category: "Importing & Trade",
+    date: "2027-04-06",
+    author: "James Feng",
+    image: "/images/ai-cargo-ship-departing-port.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Sunflower seed supply moves with the weather. The best public evidence is the US record: confection production rose 45% in 2022 and 22% in 2023, then fell 33% in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). A buyer who plans on a flat supply curve will be caught out in a short year, so the useful question is which protections you can build into an order."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "US confection production: 167, 242, 295 and 199 million pounds in 2021 to 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "The 2024 fall was about 33% for confection and nearly 52% for oil-type seed ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
+          "The NSA names drought and the red sunflower seed weevil as factors in 2024.",
+          "The 2022 rise of 45% shows that swings run in both directions (calculated)."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Safety stock** is inventory held to cover a short crop or a late shipment.",
+          "**Allocation** is a supplier's decision to ration limited supply between its customers in a short year.",
+          "**Forward order** is an order placed now for delivery on a later date, often at an agreed price."
+        ]
+      },
+      {
+        "heading": "What Happened to the US Confection Crop?",
+        "image": {
+          "src": "/images/ai-sunflower-heads-hanging-dry.jpg",
+          "alt": "Sunflower heads hanging to dry in the sun",
+          "caption": "Weather decides the crop long before shipping starts. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The NSA reports US confection production of 167 million pounds in 2021, 242 in 2022, 295 in 2023 and 199 in 2024. It attributes the 2024 decline to drought in several states and to damage from the red sunflower seed weevil in South Dakota."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Confection production (million lb)",
+            "Change on prior year"
+          ],
+          "rows": [
+            [
+              "2021",
+              "167",
+              "-"
+            ],
+            [
+              "2022",
+              "242",
+              "+45%"
+            ],
+            [
+              "2023",
+              "295",
+              "+22%"
+            ],
+            [
+              "2024",
+              "199",
+              "-33%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Did Oil-Type and Confection Seed Move Together?",
+        "body": [
+          "They moved in the same direction but not by the same amount. Oil-type production changed +48%, -24% and -52% in 2022, 2023 and 2024, against +45%, +22% and -33% for confection (calculated from [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Confection output was steadier, which suggests a different mix of growing areas and contracts, but the report does not explain the gap, so we treat it as an observation only."
+        ],
+        "table": {
+          "headers": [
+            "Crop year",
+            "Oil-type change",
+            "Confection change"
+          ],
+          "rows": [
+            [
+              "2022",
+              "+48%",
+              "+45%"
+            ],
+            [
+              "2023",
+              "-24%",
+              "+22%"
+            ],
+            [
+              "2024",
+              "-52%",
+              "-33%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Do Yields Swing So Much?",
+        "body": [
+          "Sunflower is an annual field crop, so rainfall, heat and pests in a single season set the harvest. The 2024 US example combined drought with a pest problem, and both hit planted area that was already smaller. Origin matters here: Inner Mongolia has its own climate and cropping pattern, so US figures illustrate the risk but do not predict it."
+        ]
+      },
+      {
+        "heading": "What Does a Short Crop Mean for a Buyer?",
+        "body": [
+          "In a short year, prices tend to firm, allocation tightens and lead times can lengthen, as a supplier decides which customers to fill first. Buyers with a standing relationship, a forecast and a signed schedule are better placed than first-time spot buyers. Our guide to [harvest timing and pricing](/blog/seasonal-harvest-timing-sunflower-seed-availability) explains how the calendar affects availability."
+        ]
+      },
+      {
+        "heading": "Where Do Shipping Risks Fit In?",
+        "image": {
+          "src": "/images/ai-cargo-ship-departing-port.jpg",
+          "alt": "Container ship leaving a busy port at dusk beside rows of stacked containers",
+          "caption": "Shipping adds its own timing risk. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Even when the crop is large, shipping can delay it. Port congestion, container availability and holiday shutdowns all move delivery dates, and our guide to [Chinese New Year shipping](/blog/chinese-new-year-sunflower-seed-shipping) covers the best-known calendar gap. Freight rates change often, so ask for the validity period on every quote rather than treating the number as fixed."
+        ]
+      },
+      {
+        "heading": "What Would a 33% Shortfall Mean for Your Order Book?",
+        "body": [
+          "Take an illustrative buyer who needs 100 tonnes a year from a single supplier. If that supplier's crop falls by about a third, as US confection output did in 2024, the supplier may be able to deliver roughly 67 tonnes, leaving 33 tonnes to find elsewhere. The numbers are hypothetical, but the arithmetic shows why a second source is cheaper to qualify before the shortfall than during it, when every other buyer is looking too."
+        ]
+      },
+      {
+        "heading": "What Does a Simple Supply Risk Register Look Like?",
+        "body": [
+          "A short register keeps the risks visible. Each row pairs a risk with the signal that would warn you and the action you have already agreed. The entries are our practical guidance, not data."
+        ],
+        "table": {
+          "headers": [
+            "Risk",
+            "Early signal",
+            "Pre-agreed action"
+          ],
+          "rows": [
+            [
+              "Short crop",
+              "Supplier reports lower harvest or tighter allocation",
+              "Shift volume to a second source; confirm reserved quantity"
+            ],
+            [
+              "Quality drift",
+              "Moisture or foreign material above limit on test certificates",
+              "Reject or discount per contract; retest at a named laboratory"
+            ],
+            [
+              "Shipping delay",
+              "Port congestion, booking rollovers",
+              "Alternative port and forwarder; buffer stock covers one extra month"
+            ],
+            [
+              "Price spike",
+              "Quote validity shortens",
+              "Fix price for the next shipments through a forward order"
+            ],
+            [
+              "Payment friction",
+              "Bank delays on a first transfer",
+              "Agree terms in advance; consider a letter of credit"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Should You Hold Safety Stock?",
+        "body": [
+          "Safety stock buffers a short crop or a late ship, but seed does not keep forever, and stock held too long loses quality. Our [shelf life guide](/blog/sunflower-seed-shelf-life) and [warehouse storage guide](/blog/warehouse-storage-sunflower-seeds-moisture-temperature) explain the limits. Size the buffer to the supplier's lead time plus a margin, rather than to an arbitrary number of months."
+        ]
+      },
+      {
+        "heading": "How Can You Spread Supply Risk?",
+        "list": [
+          "Qualify a second source or a second series before you need one.",
+          "Agree a forecast with your main supplier so volume is reserved for you.",
+          "Split orders across harvest and non-harvest months where storage allows.",
+          "Keep the destination port and forwarder flexible, with a back-up route.",
+          "Write delivery windows and remedies for late shipment into the contract."
+        ]
+      },
+      {
+        "heading": "How Do You Read a Supplier's Crop Update?",
+        "body": [
+          "Ask for facts you can check, not reassurance. Useful items are the planted area compared with the previous year, the weather events that affected the crop, the expected tonnage, how much is already sold forward, and how much carried over from the last season. A supplier that can answer these in numbers is easier to plan with than one that says supply is 'normal'. Treat any answer without a number as unconfirmed."
+        ]
+      },
+      {
+        "heading": "What Should a Contract Say About Shortfalls?",
+        "body": [
+          "Define what counts as a shortfall, how much notice the supplier must give, and whether you may buy elsewhere without penalty. Quality should be defined through test results rather than adjectives. See our [guide to supply contract terms](/blog/sunflower-seed-supply-contract-terms) and the [T/T versus letter of credit comparison](/blog/tt-vs-letter-of-credit-sunflower-seeds) for payment protection."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - confection and oil-type production for 2021-2024, and the drought and weevil explanation (United States crop).",
+          "Year-on-year changes are our calculation from those figures."
+        ]
+      },
+      {
+        "heading": "How Variable Was US Production Over Four Years?",
+        "body": [
+          "US confection (non-oil) production over the four crop years averaged 226 million lb, with a high of 295 million lb in 2023 and a low of 167 million lb in 2021, a ratio of 1.76 to 1 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf), calculated). The 2024 crop was -12% against that four-year average. Oil-type production moved more widely, from 2,566 million lb at its highest to 947 million lb at its lowest, a ratio of 2.7 to 1."
+        ],
+        "table": {
+          "headers": [
+            "Measure",
+            "Confection (non-oil)",
+            "Oil-type"
+          ],
+          "rows": [
+            [
+              "Four-year average (million lb)",
+              "226",
+              "1,804"
+            ],
+            [
+              "Highest year (million lb)",
+              "295",
+              "2,566"
+            ],
+            [
+              "Lowest year (million lb)",
+              "167",
+              "947"
+            ],
+            [
+              "High to low ratio",
+              "1.76",
+              "2.71"
+            ],
+            [
+              "Variation around the mean (coefficient of variation)",
+              "21%",
+              "32%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does the Variation Mean for Planning?",
+        "body": [
+          "A four-year record is short, and these are US crops only, so the figures describe how much a single origin can swing and not the Chinese crop that supplies our customers. They still make the planning point: a buyer who sized an order to a good year would have faced a shortfall of about 43% in the worst year of this record (calculated), and the risk register above is the practical response."
+        ]
+      },
+      {
+        "heading": "Plan Your Supply Before the Next Season",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your annual volume and delivery windows, and we will discuss how to schedule your orders."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "china-sunflower-seed-exports-2019-2024",
+    title: "China's Sunflower Seed Exports 2019-2024: Volume, Value and Price Per Tonne",
+    seoTitle: "China's Sunflower Seed Exports 2019-2024",
+    seoDescription: "China exported 480 kt of sunflower seed worth $819 million in 2024, an average $1,706 per tonne. See six years of customs data.",
+    excerpt: "Six years of UN Comtrade data on China's HS 1206 sunflower seed exports: volume, value and average customs value per tonne, with a guide to what the averages do and do not tell a buyer.",
+    category: "Importing & Trade",
+    date: "2027-01-12",
+    author: "James Feng",
+    image: "/images/ai-cargo-port-containers.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "China exported about 480 thousand tonnes of sunflower seed in 2024, worth $819 million, an average customs value of $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Volume was almost the same as in 2019, but value rose by 32%, so almost all of the growth came from price. This guide sets out the six-year record and how to use it."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "2024 exports: 480.2 kt, $819.3 million, $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Volume ranged from 427 kt (2021) to 508 kt (2020) over the six years.",
+          "Average customs value rose from $1,293 per tonne in 2019 to $1,789 in 2023, then eased to $1,706 in 2024.",
+          "The three largest destinations by volume in 2024 (Iran, Iraq and Russia) took 40% of the total.",
+          "The figures cover every kind of sunflower seed under HS 1206, not only confection seed."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**HS 1206** is the six-digit Harmonized System heading for sunflower seeds, whether or not broken, which covers oil-type, confection and sowing seed alike ([Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
+          "**Customs value** is the value declared at the border; for exports it is generally the free-on-board (FOB) value, which is why it is comparable with an FOB quotation only roughly.",
+          "**Unit value** is the customs value divided by the net weight, so it is an average over everything shipped in the year and not the price of any single lot."
+        ]
+      },
+      {
+        "heading": "How Much Sunflower Seed Does China Export?",
+        "image": {
+          "src": "/images/china-exports-volume-chart.svg",
+          "alt": "Bar chart of China's sunflower seed export volume in kilotonnes: 480 in 2019, 508 in 2020, 427 in 2021, 445 in 2022, 463 in 2023 and 480 in 2024",
+          "caption": "China's HS 1206 export volume. Source: UN Comtrade."
+        },
+        "body": [
+          "The table lists China's reported exports to the world for each year. Volumes are net weight converted from kilograms to kilotonnes ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)",
+            "Volume change"
+          ],
+          "rows": [
+            [
+              "2019",
+              "480.3",
+              "621.2",
+              "1,293",
+              "-"
+            ],
+            [
+              "2020",
+              "508.0",
+              "647.9",
+              "1,275",
+              "+5.8%"
+            ],
+            [
+              "2021",
+              "427.0",
+              "586.1",
+              "1,373",
+              "-16.0%"
+            ],
+            [
+              "2022",
+              "444.8",
+              "679.2",
+              "1,527",
+              "+4.2%"
+            ],
+            [
+              "2023",
+              "462.7",
+              "827.7",
+              "1,789",
+              "+4.0%"
+            ],
+            [
+              "2024",
+              "480.2",
+              "819.3",
+              "1,706",
+              "+3.8%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Did Export Volume Change Year to Year?",
+        "body": [
+          "Volume peaked at 508 kt in 2020, dropped 16.0% to 427 kt in 2021, and has recovered each year since, by 4.2%, 4.0% and 3.8% (calculated from [UN Comtrade](https://comtradeplus.un.org/)). Six years is a short record, so we avoid calling any of these a trend. The 2021 dip and the rebound are the visible pattern."
+        ]
+      },
+      {
+        "heading": "How Did Export Value Change?",
+        "body": [
+          "Value rose from $621 million in 2019 to $828 million in 2023 and $819 million in 2024, with a low of $586 million in 2021 ([UN Comtrade](https://comtradeplus.un.org/)). Because 2024 volume was within 0.1% of 2019, the 32% rise in value is almost entirely a rise in average price."
+        ]
+      },
+      {
+        "heading": "What Happened to the Average Export Price?",
+        "image": {
+          "src": "/images/china-exports-unit-value-chart.svg",
+          "alt": "Bar chart of China's average sunflower seed export value per tonne: 1,293 dollars in 2019, 1,275 in 2020, 1,373 in 2021, 1,527 in 2022, 1,789 in 2023 and 1,706 in 2024",
+          "caption": "Average customs value per tonne. Source: UN Comtrade."
+        },
+        "body": [
+          "The average customs value climbed from $1,293 per tonne in 2019 to $1,789 in 2023, an increase of 38%, then fell 4.6% in 2024 to $1,706. In other units, $1,706 per tonne is $1.71 per kilogram or $0.77 per pound (calculated; see our guide to [metric and short tons](/blog/sunflower-seed-price-per-ton-units-kg-lb-guide))."
+        ]
+      },
+      {
+        "heading": "Which Years Saw the Biggest Price Moves?",
+        "body": [
+          "Year-on-year changes in the average value show when the market moved. The sharpest rise came in 2023, and 2024 was the first fall in the series apart from 2020."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Value per tonne ($)",
+            "Change on prior year"
+          ],
+          "rows": [
+            [
+              "2019",
+              "1,293",
+              "-"
+            ],
+            [
+              "2020",
+              "1,275",
+              "-1.4%"
+            ],
+            [
+              "2021",
+              "1,373",
+              "+7.6%"
+            ],
+            [
+              "2022",
+              "1,527",
+              "+11.2%"
+            ],
+            [
+              "2023",
+              "1,789",
+              "+17.1%"
+            ],
+            [
+              "2024",
+              "1,706",
+              "-4.6%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Would an Average Load Be Worth?",
+        "body": [
+          "As an illustration, a 20ft container holding about 9.7 tonnes of in-shell seed, the volume estimate in our guide to [how many tons fit in a container](/blog/tons-per-container-sunflower-seeds-20ft-40ft), would be worth about $16,550 at the 2024 average customs value (calculated). Real loads differ in grade, size and packaging, so use this only to get an order of magnitude."
+        ]
+      },
+      {
+        "heading": "Is the Average Customs Value a Price Quote?",
+        "body": [
+          "No. It averages every type of seed, every size grade, every packaging format and every shipment in the year, valued at the border. A quote for one grade of in-shell confection seed can sit well above or below it. The figure is useful as a sanity check on direction and order of magnitude, and unhelpful as a negotiating target. Our guide to [FOB pricing](/blog/fob-pricing-sunflower-seeds) lists what moves a single quote."
+        ]
+      },
+      {
+        "heading": "How Concentrated Are China's Exports?",
+        "body": [
+          "Twelve destinations took 77% of the 2024 volume, out of 80 partners reported. The remaining partners together took about 112 kt. The destination detail is in our guide to [who buys Chinese sunflower seeds](/blog/who-buys-chinese-sunflower-seeds-top-destinations)."
+        ]
+      },
+      {
+        "heading": "What Do Volume and Price Together Tell You?",
+        "body": [
+          "Value is volume times price, so the two can be separated. From 2019 to 2024 volume changed by -0.0% and price by +31.9%, which together give the +31.9% change in value (calculated from [UN Comtrade](https://comtradeplus.un.org/)). In 2021 the pattern was different: volume fell and price rose, so value fell by less than volume did. Reading one without the other would give the wrong story."
+        ]
+      },
+      {
+        "heading": "How Should a Buyer Use These Figures?",
+        "body": [
+          "Treat them as context. They show that China ships close to half a million tonnes a year, that the market is large enough for a buyer to expect competing offers, and that average prices moved by a third in five years. They do not replace a quote, a specification or a test certificate. Compare your own quote with the per-origin comparison in our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values)."
+        ]
+      },
+      {
+        "heading": "How Reliable Are the Numbers?",
+        "body": [
+          "Comtrade marks some quantities as estimated, and the 2019-2023 world totals for China carry that flag, while the 2024 total does not. A few partner rows in each year are flagged as well. Reporting countries can also disagree with each other, which our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics) explains."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) to the world and to each partner, net weight and primary value.",
+          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206.",
+          "Growth rates, shares and per-unit conversions are our own arithmetic."
+        ]
+      },
+      {
+        "heading": "What Were the Average Annual Growth Rates?",
+        "body": [
+          "Over the five years from 2019 to 2024, export value grew by 5.7% a year on a compound basis, unit value by 5.7% a year and volume by -0.0% a year ([UN Comtrade](https://comtradeplus.un.org/), calculated). The unit value path was not smooth: it was flat in 2020, rose in 2021 to 2023 and eased in 2024, so a compound rate describes the endpoints and nothing about the years between."
+        ],
+        "table": {
+          "headers": [
+            "Measure",
+            "2019",
+            "2024",
+            "Compound annual change"
+          ],
+          "rows": [
+            [
+              "Volume (kt)",
+              "480.3",
+              "480.2",
+              "-0.0%"
+            ],
+            [
+              "Value ($ million)",
+              "621",
+              "819",
+              "+5.7%"
+            ],
+            [
+              "Value per tonne ($)",
+              "1,293",
+              "1,706",
+              "+5.7%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Much of Each Year's Value Change Came From Volume and How Much From Price?",
+        "body": [
+          "Value changes can be split into a volume effect (the change in tonnes at the previous year's price) and a price effect (the change in price on the current year's tonnes). The two add up to the change in value. The split shows that 2021's fall was driven by volume while the rises in 2022 and 2023 were driven mostly by price ([UN Comtrade](https://comtradeplus.un.org/), calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Change in value ($ million)",
+            "Volume effect ($ million)",
+            "Price effect ($ million)"
+          ],
+          "rows": [
+            [
+              "2020",
+              "+27",
+              "+36",
+              "-9"
+            ],
+            [
+              "2021",
+              "-62",
+              "-103",
+              "+42"
+            ],
+            [
+              "2022",
+              "+93",
+              "+25",
+              "+69"
+            ],
+            [
+              "2023",
+              "+148",
+              "+27",
+              "+121"
+            ],
+            [
+              "2024",
+              "-8",
+              "+31",
+              "-40"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Ask for a Quote on Your Specification",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your series, volume, bag format and destination, and we will quote against your specification, not against an average. Read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) for the full process."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "middle-east-turkiye-central-asia-sunflower-seed-trade",
+    title: "The Middle East, Türkiye and Central Asia: What Sunflower Seed Trade Data Show",
+    seoTitle: "Middle East and Türkiye Sunflower Seed Trade",
+    seoDescription: "Türkiye's sunflower seed imports fell from 1,239 kt in 2019 to 288 kt in 2024, yet China's share of their value rose. See the data.",
+    excerpt: "China's sunflower seed exports to Iraq, Türkiye, the UAE, Saudi Arabia and Uzbekistan from 2019 to 2024, and a close look at Türkiye's imports by origin.",
+    category: "Regional Markets",
+    date: "2027-02-16",
+    author: "James Feng",
+    image: "/images/ai-middle-east-market.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Türkiye's imports of sunflower seed fell from 1,239 thousand tonnes in 2019 to 288 thousand tonnes in 2024, and China's reported exports to Türkiye fell from 125.3 kt to 21.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Yet China's share of the value of Türkiye's imports rose from 19% to 28%, which says more about the type of seed than about the market's size. Iraq, Uzbekistan and Saudi Arabia show steadier patterns."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Türkiye imported 1,239 kt in 2019 and 288 kt in 2024, a fall of 77% ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "China's share of Türkiye's import value was 19% in 2019 and 28% in 2024 (calculated).",
+          "Iraq took 60.7 kt from China in 2024, Uzbekistan 29.2 kt, the UAE 16.4 kt and Saudi Arabia 11.5 kt.",
+          "China-reported exports to the UAE fell from 44.3 kt in 2019 to 16.4 kt in 2024.",
+          "These are customs records by partner country, which can differ from where seed is finally sold."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Import origin** is the country a reporter records the goods as coming from, and it can differ from the country that grew them.",
+          "**Share of import value** is the value of imports from one origin divided by the value of all imports, so it is not the same as share of tonnes.",
+          "**Re-export** is a later shipment of imported goods to another country, which inflates import figures for trading hubs."
+        ]
+      },
+      {
+        "heading": "How Much Does China Ship to Each Market?",
+        "image": {
+          "src": "/images/ai-middle-east-market.jpg",
+          "alt": "Busy Middle Eastern market street with food stalls",
+          "caption": "Regional demand. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table gives China-reported exports in kilotonnes for six destinations in the region from 2019 to 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+          ],
+          "rows": [
+            [
+              "Iraq",
+              "41.3",
+              "64.0",
+              "56.2",
+              "54.1",
+              "58.8",
+              "60.7"
+            ],
+            [
+              "Türkiye",
+              "125.3",
+              "120.3",
+              "78.5",
+              "19.4",
+              "54.9",
+              "21.9"
+            ],
+            [
+              "UAE",
+              "44.3",
+              "18.1",
+              "24.7",
+              "52.3",
+              "25.1",
+              "16.4"
+            ],
+            [
+              "Saudi Arabia",
+              "15.0",
+              "11.7",
+              "8.5",
+              "10.7",
+              "12.8",
+              "11.5"
+            ],
+            [
+              "Uzbekistan",
+              "4.5",
+              "16.9",
+              "16.8",
+              "22.0",
+              "28.1",
+              "29.2"
+            ],
+            [
+              "Iran",
+              "40.7",
+              "28.4",
+              "34.1",
+              "60.6",
+              "62.4",
+              "76.5"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Happened to Türkiye's Imports?",
+        "image": {
+          "src": "/images/turkiye-total-imports-chart.svg",
+          "alt": "Bar chart of Türkiye's sunflower seed imports in kilotonnes by year, falling from 1,239 in 2019 to 288 in 2024",
+          "caption": "Türkiye's total imports of HS 1206. Source: UN Comtrade."
+        },
+        "body": [
+          "Türkiye's total HS 1206 imports were 1,239 kt in 2019, 1,207 kt in 2020, 734 kt in 2021, 826 kt in 2022, 746 kt in 2023 and 288 kt in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). The 2024 figure is a fall of about 61% on 2023. We do not explain it, because the data do not say why, and a change of that size could reflect policy, supply or a reporting change."
+        ]
+      },
+      {
+        "heading": "Where Does Türkiye's Seed Come From?",
+        "image": {
+          "src": "/images/turkiye-imports-by-origin-2024.svg",
+          "alt": "Bar chart of Türkiye's 2024 sunflower seed imports by origin in kilotonnes: Moldova 115, Romania 46, Ukraine 45, China 33, France 12, Russia 9",
+          "caption": "Türkiye's 2024 imports by origin. Source: UN Comtrade."
+        },
+        "body": [
+          "In 2023 the largest origins by volume were Ukraine (368 kt), Romania (206 kt) and Bulgaria (74 kt), with China at 30.2 kt. In 2024 Moldova led with 115 kt, followed by Romania, Ukraine and China at 33.1 kt ([UN Comtrade](https://comtradeplus.un.org/)). China's tonnage held up while the Black Sea origins fell, which is why its share rose."
+        ]
+      },
+      {
+        "heading": "How Did Türkiye's Imports From Each Origin Change?",
+        "body": [
+          "The table shows Türkiye-reported imports from its main origins for 2022, 2023 and 2024, in kilotonnes. Origins that fell sharply sit next to China, whose volume held up."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "2022 (kt)",
+            "2023 (kt)",
+            "2024 (kt)"
+          ],
+          "rows": [
+            [
+              "Ukraine",
+              "557.0",
+              "368.5",
+              "45.2"
+            ],
+            [
+              "Romania",
+              "96.3",
+              "206.4",
+              "45.7"
+            ],
+            [
+              "Bulgaria",
+              "29.3",
+              "73.8",
+              "12.8"
+            ],
+            [
+              "Moldova",
+              "115.5",
+              "32.3",
+              "114.8"
+            ],
+            [
+              "China",
+              "18.0",
+              "30.2",
+              "33.1"
+            ],
+            [
+              "France",
+              "0.1",
+              "0.2",
+              "12.1"
+            ],
+            [
+              "Russia",
+              "0.1",
+              "21.0",
+              "9.3"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Happened to the Value of Türkiye's Imports?",
+        "body": [
+          "Total value fell from $568 million in 2019 to $208 million in 2024, a drop of 63%, close to the 77% fall in volume ([UN Comtrade](https://comtradeplus.un.org/)). China's own value of seed imported by Türkiye stayed between $30 million and $120 million over the six years, according to Türkiye's records."
+        ]
+      },
+      {
+        "heading": "What Do the UAE and Saudi Arabia Report Themselves?",
+        "body": [
+          "The UAE reported total imports of 48 kt in 2019 and 15 kt in 2023, and nothing for 2024 in the data we retrieved. Saudi Arabia reported 23 kt in 2019 and 16 kt in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Both are far smaller than Türkiye's totals, which is a reminder that a Gulf port can be a trading point as much as a final market."
+        ]
+      },
+      {
+        "heading": "Why Did China's Share of Türkiye's Import Value Rise?",
+        "body": [
+          "Because the seed from China is declared at a much higher value per tonne. In 2024 Türkiye declared Chinese seed at $1,735 per tonne, against about $490 to $520 for seed from Ukraine, Romania and Moldova (calculated). A premium product keeps a larger share of value than of volume, which our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values) explains."
+        ]
+      },
+      {
+        "heading": "Why Do China's and Türkiye's Figures Disagree?",
+        "body": [
+          "China reported 21.9 kt exported to Türkiye in 2024, while Türkiye reported 33.1 kt imported from China, a gap of about 51% (calculated). Timing, transit routes and classification can all cause this, which our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics) describes."
+        ]
+      },
+      {
+        "heading": "What About Iraq, Saudi Arabia and Uzbekistan?",
+        "body": [
+          "Iraq took 60.7 kt from China in 2024, close to its 41.3 kt in 2019 but with a peak of 64.0 kt in between. Saudi Arabia stayed between 8.5 and 15.0 kt, and Uzbekistan rose from 4.5 kt to 29.2 kt. Iran appears in the table because it is a reported destination; the compliance note in our guide to [destinations](/blog/who-buys-chinese-sunflower-seeds-top-destinations) applies."
+        ]
+      },
+      {
+        "heading": "How Should You Read a Single Market's Fall?",
+        "body": [
+          "A large fall in one market's imports does not mean demand for every type of seed fell. Türkiye's imports of Black Sea seed dropped far more than its imports from China, so the pattern in the data is a change in who supplies a particular product, not an even decline. Ask a buyer which product they are short of before you assume a market has closed or opened."
+        ]
+      },
+      {
+        "heading": "What Should a Seller Take From This?",
+        "body": [
+          "The region is large but shifting, and the biggest single market of 2019 is now much smaller. A seller should not plan on a destination's past volume, should confirm what type of seed a buyer wants, and should keep more than one market open. Our guide to [sourcing for the Middle East](/blog/sourcing-sunflower-seeds-middle-east) adds the trade-route context."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and Türkiye-reported imports (flow M), by partner, 2019-2024.",
+          "Shares, changes and unit values are our own calculations; the 2024 fall in Türkiye's imports is reported, not explained."
+        ]
+      },
+      {
+        "heading": "How Much Did Each Destination Change Between 2019 and 2024?",
+        "body": [
+          "Taking China-reported exports to the six destinations in the table, the combined volume was 271 kt in 2019 and 216 kt in 2024, a change of -20% ([UN Comtrade](https://comtradeplus.un.org/), calculated). The totals hide opposite movements, which the table sets out by destination."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019 (kt)",
+            "2024 (kt)",
+            "Change (kt)",
+            "Change (%)"
+          ],
+          "rows": [
+            [
+              "Iraq",
+              "41.3",
+              "60.7",
+              "+19.4",
+              "+47%"
+            ],
+            [
+              "Türkiye",
+              "125.3",
+              "21.9",
+              "-103.3",
+              "-82%"
+            ],
+            [
+              "UAE",
+              "44.3",
+              "16.4",
+              "-27.9",
+              "-63%"
+            ],
+            [
+              "Saudi Arabia",
+              "15.0",
+              "11.5",
+              "-3.5",
+              "-23%"
+            ],
+            [
+              "Uzbekistan",
+              "4.5",
+              "29.2",
+              "+24.6",
+              "+543%"
+            ],
+            [
+              "Iran",
+              "40.7",
+              "76.5",
+              "+35.8",
+              "+88%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Is the 2024 Volume Divided Among the Six?",
+        "body": [
+          "In 2024 the six destinations took 216 kt together. The largest by volume was Iran with 35% of that total, and the smallest was Saudi Arabia with 5% (calculated). These are shares of the six destinations only. China ships to many other markets, and the figures show where China reports sending seed, not where it is sold on."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2024 volume (kt)",
+            "Share of the six"
+          ],
+          "rows": [
+            [
+              "Iran",
+              "76.5",
+              "35%"
+            ],
+            [
+              "Iraq",
+              "60.7",
+              "28%"
+            ],
+            [
+              "Uzbekistan",
+              "29.2",
+              "13%"
+            ],
+            [
+              "Türkiye",
+              "21.9",
+              "10%"
+            ],
+            [
+              "UAE",
+              "16.4",
+              "8%"
+            ],
+            [
+              "Saudi Arabia",
+              "11.5",
+              "5%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Should a Buyer Check Before Shipping to a Destination Country?",
+        "body": [
+          "Customs data say how much moved, not what the rules require. Before shipping, confirm the destination's import conditions, any sanctions or export-control restrictions that apply to the parties and the route, and the documents the buyer's customs office expects. Our guides to the [phytosanitary certificate and certificate of origin](/blog/phytosanitary-certificate-certificate-of-origin) and to [Incoterms](/blog/incoterms-sunflower-seeds-fob-cif) explain the documents and the point where responsibility passes."
+        ]
+      },
+      {
+        "heading": "Ask About Supply for Your Market",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your destination and series, and we will confirm documents and shipping options."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "europe-spain-germany-chinese-sunflower-seed-imports",
+    title: "Europe's Buyers of Chinese Sunflower Seed: Spain and Germany, With EU Allergen and Cadmium Rules",
+    seoTitle: "Spain and Germany: Chinese Seed Imports",
+    seoDescription: "China's sunflower seed exports to Spain rose from 14 to 37 kt and to Germany from 4 to 14 kt between 2019 and 2024.",
+    excerpt: "China's sunflower seed exports to Spain and Germany from 2019 to 2024, how each country's imports break down by origin, and the EU allergen and cadmium points a seller should check.",
+    category: "Regional Markets",
+    date: "2027-02-18",
+    author: "James Feng",
+    image: "/images/ai-export-documents-desk-stamp.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Spain and Germany are the two EU members among China's twelve largest sunflower seed destinations in 2024: shipments to Spain rose from 14.2 kt in 2019 to 36.8 kt in 2024, and to Germany from 3.9 kt to 13.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Both are large importers from other origins as well, so China is one supplier among several. This guide shows the numbers and the EU rules that a seller should check first."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "China-reported exports to Spain: 36.8 kt, $75.5 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "China-reported exports to Germany: 13.9 kt, $23.0 million in 2024.",
+          "In Spain's own 2024 data China ranked second by value, behind France, at $72.9 million.",
+          "Sunflower is not on the EU list of 14 allergens that must be emphasised on labels (FSAI).",
+          "An EFSA-hosted table lists a maximum cadmium level of 0.50 mg/kg for sunflower seed under Regulation (EC) No 1881/2006; check the current text."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**EU allergen list** means the 14 allergen groups in Annex II of Regulation (EU) No 1169/2011 that must be emphasised in an ingredients list ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
+          "**Maximum level** is the highest concentration of a contaminant, such as cadmium, that a regulation allows in a food on the market.",
+          "**Mirror data** are the same trade flow reported by both sides, the exporter's and the importer's, which rarely match exactly."
+        ]
+      },
+      {
+        "heading": "How Much Does China Ship to Spain and Germany?",
+        "body": [
+          "The table shows China-reported exports to each country by year ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Spain (kt)",
+            "Spain ($ million)",
+            "Germany (kt)",
+            "Germany ($ million)"
+          ],
+          "rows": [
+            [
+              "2019",
+              "14.2",
+              "23.5",
+              "3.9",
+              "5.2"
+            ],
+            [
+              "2020",
+              "29.9",
+              "48.9",
+              "8.2",
+              "11.2"
+            ],
+            [
+              "2021",
+              "29.3",
+              "56.5",
+              "6.0",
+              "8.9"
+            ],
+            [
+              "2022",
+              "24.7",
+              "49.4",
+              "6.2",
+              "9.7"
+            ],
+            [
+              "2023",
+              "30.2",
+              "64.9",
+              "9.8",
+              "16.8"
+            ],
+            [
+              "2024",
+              "36.8",
+              "75.5",
+              "13.9",
+              "23.0"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Where Does Spain's Seed Come From?",
+        "image": {
+          "src": "/images/spain-imports-by-origin-2024-value.svg",
+          "alt": "Bar chart of Spain's 2024 sunflower seed import value by origin: France 115 million dollars, China 73, Ukraine 17, Bulgaria 16, Romania 14",
+          "caption": "Spain's 2024 imports by origin, value. Source: UN Comtrade."
+        },
+        "body": [
+          "France is Spain's largest supplier by far: in 2024 it supplied 192 kt worth $115 million, against 35 kt and $73 million from China. China's volume is smaller but its value is second, because its seed is declared at about $2,097 per tonne ([UN Comtrade](https://comtradeplus.un.org/))."
+        ]
+      },
+      {
+        "heading": "Where Does Germany's Seed Come From?",
+        "image": {
+          "src": "/images/germany-imports-by-origin-2024-value.svg",
+          "alt": "Bar chart of Germany's 2024 sunflower seed import value by origin: Bulgaria 73 million dollars, France 50, China 26, Austria 20, Hungary 19",
+          "caption": "Germany's 2024 imports by origin, value. Source: UN Comtrade."
+        },
+        "body": [
+          "Germany's largest suppliers in 2024 by value were Bulgaria ($73 million), France ($50 million) and China ($26 million), with Austria and Hungary behind ([UN Comtrade](https://comtradeplus.un.org/)). China supplied 13.9 kt, about the same tonnage as in 2023, at a declared $1,897 per tonne."
+        ]
+      },
+      {
+        "heading": "How Did Spain's Main Suppliers Change Over Three Years?",
+        "body": [
+          "The table shows Spain-reported imports in kilotonnes from its four main origins and China for 2022 to 2024."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "2022 (kt)",
+            "2023 (kt)",
+            "2024 (kt)"
+          ],
+          "rows": [
+            [
+              "France",
+              "224.6",
+              "195.1",
+              "192.1"
+            ],
+            [
+              "Romania",
+              "120.5",
+              "119.6",
+              "26.4"
+            ],
+            [
+              "Ukraine",
+              "61.3",
+              "35.9",
+              "34.4"
+            ],
+            [
+              "Bulgaria",
+              "71.2",
+              "31.8",
+              "11.6"
+            ],
+            [
+              "China",
+              "25.9",
+              "29.8",
+              "34.8"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do Declared Values Compare Across the Two Markets?",
+        "body": [
+          "China's declared value per tonne to Spain was $1,660 in 2019 and $2,049 in 2024, and to Germany $1,337 in 2019 and $1,650 in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Spain pays more per tonne than Germany, which may reflect the grade of seed shipped, a question for a seller to ask a buyer rather than assume."
+        ]
+      },
+      {
+        "heading": "What Do European Buyers Usually Ask For?",
+        "list": [
+          "The type, size grade and moisture of the seed, written into the specification.",
+          "Allergen documentation and a statement on cross-contact.",
+          "Contaminant results, including cadmium, for the lot.",
+          "Labeling in the destination language, usually the importer's responsibility.",
+          "A phytosanitary certificate and a certificate of origin with the shipment."
+        ]
+      },
+      {
+        "heading": "Do the Spanish and German Figures Match China's?",
+        "body": [
+          "Closely for volume. China reported 36.8 kt to Spain and Spain reported 34.8 kt from China, and both sides report 13.9 kt for Germany ([UN Comtrade](https://comtradeplus.un.org/)). That agreement is reassuring, and it contrasts with the larger gap for Türkiye described in our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics)."
+        ]
+      },
+      {
+        "heading": "Does the EU Require Allergen Labeling for Sunflower Seed?",
+        "body": [
+          "Sunflower is not on the EU's list of 14 allergens, so the seed itself needs no allergen emphasis, but any listed allergen in the product, such as sesame, nuts, mustard or celery, does ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Our [allergen labeling guide](/blog/sunflower-seed-allergen-labeling-us-eu) compares the EU and US rules."
+        ]
+      },
+      {
+        "heading": "What Is the EU Cadmium Limit?",
+        "body": [
+          "An EFSA-hosted table lists 0.50 mg/kg for 'linseed and sunflower seed' under Commission Regulation (EC) No 1881/2006 ([EFSA table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf)). That regulation has been updated since the table was prepared, so confirm the current figure in EU law before you rely on it. Ask your supplier for cadmium test results for any lot shipped to the EU, as discussed in our guide to [side effects and safe servings](/blog/sunflower-seed-side-effects-safe-serving-sizes)."
+        ]
+      },
+      {
+        "heading": "Which Is the Easier Market to Enter, Spain or Germany?",
+        "body": [
+          "Neither is easy, but they differ. Both import a similar total of seed from all origins (313 kt for Spain and 327 kt for Germany in their own 2024 reports), but Spain pays more per tonne for Chinese seed and has taken larger tonnages from China. Germany's China volume was smaller and rose later, from 3.9 kt in 2019, and its largest suppliers are closer to home. The data cannot tell you which buyers want in-shell snack seed, so ask the importer what product, size and packaging they need before you quote."
+        ]
+      },
+      {
+        "heading": "How Do Labeling and Language Affect a Shipment?",
+        "body": [
+          "Labeling language requirements are set country by country within the EU, so a pack made for Spain is not automatically right for Germany, and an importer can confirm what applies. Agree early who writes and checks the text, as our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) recommends, and keep the allergen statement consistent with the product's ingredient list."
+        ]
+      },
+      {
+        "heading": "What Else Should You Check for EU Imports?",
+        "body": [
+          "This guide covers only the points we could verify. Plant health certificates, import controls, pesticide limits and labeling language are set by EU and national rules, and an importer or customs broker in the destination is the right source. Our guides to the [phytosanitary certificate and certificate of origin](/blog/phytosanitary-certificate-certificate-of-origin) and the [HS code](/blog/sunflower-seed-hs-codes-export-documentation) cover the export side."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and Spain- and Germany-reported imports by origin, 2019-2024.",
+          "[FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens; [EFSA-hosted table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the cadmium level.",
+          "Unit values and comparisons are our own calculations."
+        ]
+      },
+      {
+        "heading": "How Fast Did Shipments to Each Country Grow?",
+        "body": [
+          "From 2019 to 2024, China-reported volume to Spain grew 2.6 times and value 3.2 times; volume to Germany grew 3.6 times and value 4.4 times ([UN Comtrade](https://comtradeplus.un.org/), calculated). Germany started from a much smaller base, so its multiple is larger even though its tonnage is far below Spain's."
+        ],
+        "table": {
+          "headers": [
+            "Measure",
+            "Spain",
+            "Germany"
+          ],
+          "rows": [
+            [
+              "Volume 2019 to 2024 (kt)",
+              "14.2 to 36.8",
+              "3.9 to 13.9"
+            ],
+            [
+              "Volume multiple",
+              "2.6x",
+              "3.6x"
+            ],
+            [
+              "Compound annual volume growth",
+              "+21%",
+              "+29%"
+            ],
+            [
+              "Value multiple",
+              "3.2x",
+              "4.4x"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Big Is China's Share of Each Country's Imports?",
+        "body": [
+          "By the importers' own 2024 figures, China supplied 34.8 kt of Spain's 313 kt of imports, a share of 11% by volume, and 13.9 kt of Germany's 327 kt, a share of 4.2% ([UN Comtrade](https://comtradeplus.un.org/), calculated). In both markets the large majority of seed arrives from other origins, so a seller from China is competing against established regional suppliers. Shares by value are higher because Chinese seed is declared at a higher value per tonne."
+        ]
+      },
+      {
+        "heading": "Ask About Supplying Europe",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us the destination country, and we will confirm the documents and test results we can provide."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "us-import-duty-sunflower-seeds-hts-1206",
+    title: "US Import Duty and Import Sources for Sunflower Seeds (HTS 1206)",
+    seoTitle: "US Import Duty on Sunflower Seeds: HTS 1206",
+    seoDescription: "The US general duty on sunflower seeds under HTS 1206 is Free, yet the US imported only about 1.0 kt from China in 2024, against 51 kt from Bulgaria.",
+    excerpt: "The US tariff lines for sunflower seeds under HTS 1206, the general and column 2 duty rates, and where US imports actually come from, including how small the flow from China is.",
+    category: "Regional Markets",
+    date: "2027-02-23",
+    author: "James Feng",
+    image: "/images/ai-customs-duty-calculator-desk.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "The US general rate of duty for sunflower seeds under HTS 1206.00.00 is Free ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)). The more useful fact for a seller is who actually supplies the US market: in 2024 the largest sources by volume were Bulgaria (51 kt), Canada (35 kt) and Argentina (17 kt), while US-reported imports from China were only about 1.0 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). We state this plainly because it should shape how you plan a US market entry."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "HTS 1206.00.00, 'Sunflower seeds, whether or not broken': general rate Free; column 2 rate 4.4 cents per kg ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)).",
+          "US imports of HS 1206 were worth $121 million in 2024 and $152 million in 2020 ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Bulgaria supplied 51 kt, Canada 35 kt and Argentina 17 kt in 2024.",
+          "US-reported imports from China were about 1.0 kt ($2.5 million) in 2024.",
+          "Additional duties can apply to goods of Chinese origin outside the general rate; confirm the current position with a customs broker."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**HTS** is the Harmonized Tariff Schedule of the United States, published by the US International Trade Commission, which sets the duty rate for each product line.",
+          "**General rate** (column 1) is the normal duty for countries with normal trade relations, while **column 2** applies to a small group of countries without it.",
+          "**Statistical suffix** is the final two digits of a ten-digit HTS number, used to count trade in more detail rather than to set a different duty."
+        ]
+      },
+      {
+        "heading": "What Is the US Duty on Sunflower Seeds?",
+        "body": [
+          "The USITC schedule lists HTS 1206.00.00 as 'Sunflower seeds, whether or not broken', with a general rate of Free and a column 2 rate of 4.4 cents per kilogram ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)). The general rate applies to most trading partners. It does not include any additional duties that may be imposed on specific origins under other provisions of the tariff schedule, which is why a current check matters. Our older guide to [US-China tariffs and duty drawback](/blog/us-china-tariffs-duty-drawback-sunflower-seeds) covers that side."
+        ]
+      },
+      {
+        "heading": "Which Statistical Lines Exist Under 1206?",
+        "image": {
+          "src": "/images/ai-customs-duty-calculator-desk.jpg",
+          "alt": "Desk with a calculator, rubber stamp and customs forms",
+          "caption": "Check the exact line with a broker. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The schedule splits the heading into statistical suffixes so the government can count different uses separately."
+        ],
+        "table": {
+          "headers": [
+            "HTS number",
+            "Description in the schedule",
+            "Units"
+          ],
+          "rows": [
+            [
+              "1206.00.00.20",
+              "For use as oil stock",
+              "kg"
+            ],
+            [
+              "1206.00.00.31",
+              "For sowing",
+              "kg"
+            ],
+            [
+              "1206.00.00.65",
+              "Certified organic",
+              "kg"
+            ],
+            [
+              "1206.00.00.70",
+              "Other",
+              "kg"
+            ],
+            [
+              "1206.00.00.75",
+              "Certified organic",
+              "kg"
+            ],
+            [
+              "1206.00.00.80",
+              "Other",
+              "kg"
+            ],
+            [
+              "1206.00.00.90",
+              "Other",
+              "kg"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Does the Line Change the Duty?",
+        "body": [
+          "Not in the data we retrieved: the duty rates sit at the 1206.00.00 level, and the suffix lines carry no separate rate. The schedule does not show how the organic and other lines are grouped in our extraction, so ask a broker which line fits your product, such as in-shell seed for human consumption. The suffix lines carry no separate duty rate in the data we retrieved, but the broker should still confirm the right one before entry."
+        ]
+      },
+      {
+        "heading": "Where Do US Imports of Sunflower Seed Come From?",
+        "image": {
+          "src": "/images/us-imports-by-origin-2024.svg",
+          "alt": "Bar chart of US sunflower seed imports by origin in 2024: Bulgaria 51 kt, Canada 35, Argentina 17, Türkiye 3, Germany 1, China 1",
+          "caption": "US imports by origin, 2024. Source: UN Comtrade."
+        },
+        "body": [
+          "The US-reported figures show a market supplied mainly from the Black Sea region, Canada and Argentina. Quantity is missing for some years in the US totals, so we use the 2024 origin rows, which are complete."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "51.4",
+              "61.5",
+              "1,196"
+            ],
+            [
+              "Canada",
+              "35.3",
+              "25.1",
+              "710"
+            ],
+            [
+              "Argentina",
+              "17.3",
+              "11.1",
+              "642"
+            ],
+            [
+              "Romania",
+              "3.5",
+              "2.2",
+              "629"
+            ],
+            [
+              "Türkiye",
+              "2.9",
+              "5.1",
+              "1,760"
+            ],
+            [
+              "Germany",
+              "1.0",
+              "4.2",
+              "4,081"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Big Is the Flow From China?",
+        "body": [
+          "US-reported imports from China were 1.0 kt in 2024 and have stayed between 0.5 and 1.8 kt a year since 2019 ([UN Comtrade](https://comtradeplus.un.org/)). Total US imports in 2024 were worth $121 million, so China's $2.5 million is a small part. These figures cover all sunflower seed under HS 1206, so snack seed sold by US producers is not visible here."
+        ]
+      },
+      {
+        "heading": "How Have US Import Values Changed?",
+        "body": [
+          "US imports of HS 1206 were worth $90 million in 2019, $152 million in 2020, $143 million in 2021, $182 million in 2022, $144 million in 2023 and $121 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Quantity totals are missing for some years in the US submissions, so we use values here and do not compute a price series."
+        ]
+      },
+      {
+        "heading": "What Is the Column 2 Rate in Dollars per Tonne?",
+        "body": [
+          "The column 2 rate of 4.4 cents per kilogram equals $44 per tonne (calculated), against a general rate of Free. In the schedule, column 2 is the rate for countries outside normal trade relations, so most importers will deal with the general rate. The two rates are shown so that a buyer who sees 4.4 cents in the schedule is not alarmed by it."
+        ]
+      },
+      {
+        "heading": "How Do You Check the Current Rate Yourself?",
+        "list": [
+          "Search the HTS for 1206 and read the 'General' column for 1206.00.00.",
+          "Check Chapter 99 of the schedule and customs notices for additional duties that apply to the country of origin.",
+          "Confirm the ten-digit statistical suffix with a customs broker.",
+          "Re-check before each order, since rates and additional duties can change.",
+          "Keep a dated copy of the rate you relied on."
+        ]
+      },
+      {
+        "heading": "What Does This Mean for Our North America Guide?",
+        "body": [
+          "Our earlier guide to [sourcing sunflower seeds for North America](/blog/sourcing-sunflower-seeds-north-america) describes how US brands source seed from China. The trade data show that this is a small share of US imports, so a seller should not assume a large ready market. It may still suit brands that want a particular confection seed, but the volume evidence is modest."
+        ]
+      },
+      {
+        "heading": "What Other US Requirements Apply to Imported Food?",
+        "body": [
+          "Food imports into the US need an FDA Prior Notice, and importers have supplier verification duties, which our guides to [FDA Prior Notice](/blog/fda-prior-notice-imported-food) and [FSVP](/blog/fsvp-sunflower-seed-importers) explain. Allergen labeling is covered in our [US and EU comparison](/blog/sunflower-seed-allergen-labeling-us-eu)."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USITC Harmonized Tariff Schedule](https://hts.usitc.gov/) - HTS 1206.00.00 description, general rate (Free), column 2 rate (4.4 cents/kg) and statistical suffixes, retrieved through the USITC search interface on 16 October 2026.",
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. US-reported imports (flow M) by origin, 2019-2024."
+        ]
+      },
+      {
+        "heading": "What Share of the Listed Volume Does Each Origin Supply?",
+        "body": [
+          "The six origins in the table supplied 111.4 kt in 2024. Bulgaria's share of that volume was 46%, Canada's 32% and Argentina's 16% ([UN Comtrade](https://comtradeplus.un.org/), calculated; US-reported imports, HS 1206). The shares are of the six listed origins, not of all US imports, because the table omits smaller suppliers."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "Volume (kt)",
+            "Share of the six",
+            "Value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "51.4",
+              "46%",
+              "1,196"
+            ],
+            [
+              "Canada",
+              "35.3",
+              "32%",
+              "710"
+            ],
+            [
+              "Argentina",
+              "17.3",
+              "16%",
+              "642"
+            ],
+            [
+              "Romania",
+              "3.5",
+              "3%",
+              "629"
+            ],
+            [
+              "Türkiye",
+              "2.9",
+              "3%",
+              "1,760"
+            ],
+            [
+              "Germany",
+              "1.0",
+              "1%",
+              "4,081"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Do Declared Values per Tonne Differ So Much Between Origins?",
+        "body": [
+          "Bulgarian seed was declared at $1,196 per tonne against $710 for Canadian seed, a ratio of 1.7 to 1, while German seed was declared at $4,081 ([UN Comtrade](https://comtradeplus.un.org/), calculated). The customs data do not say why. Differences in seed type (oil, confection or sowing seed), processing and re-export of seed all affect unit values, so these figures should not be read as a ranking of quality or price competitiveness."
+        ]
+      },
+      {
+        "heading": "How Did US Import Value Change From Year to Year?",
+        "body": [
+          "Measured in value, US imports rose by 69% from 2019 to 2020, then changed by -6%, +28%, -21% and -16% in the following four years ([UN Comtrade](https://comtradeplus.un.org/), calculated). The 2024 value of $121 million is +35% against 2019. Because these are values and not tonnes, a change can reflect price as well as quantity."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "US imports of HS 1206 ($ million)",
+            "Change on prior year"
+          ],
+          "rows": [
+            [
+              "2019",
+              "90",
+              "-"
+            ],
+            [
+              "2020",
+              "152",
+              "+69%"
+            ],
+            [
+              "2021",
+              "143",
+              "-6%"
+            ],
+            [
+              "2022",
+              "182",
+              "+28%"
+            ],
+            [
+              "2023",
+              "144",
+              "-21%"
+            ],
+            [
+              "2024",
+              "121",
+              "-16%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Would the Column 2 Rate Add to an Average Load?",
+        "body": [
+          "At 4.4 cents per kilogram, the column 2 rate equals $44 per tonne. For a load of 9.7 tonnes, as estimated in our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft), that is $427 (calculated). Most importers face the general rate of Free, so this is only the size of the number, not a cost most buyers will pay."
+        ]
+      },
+      {
+        "heading": "Ask About Shipping to the United States",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us your volume and the product you need, and we will tell you plainly whether we can supply it."
         ]
       }
     ],
@@ -4478,712 +6761,6 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
-    slug: "us-import-duty-sunflower-seeds-hts-1206",
-    title: "US Import Duty and Import Sources for Sunflower Seeds (HTS 1206)",
-    seoTitle: "US Import Duty on Sunflower Seeds: HTS 1206",
-    seoDescription: "The US general duty on sunflower seeds under HTS 1206 is Free, yet the US imported only about 1.0 kt from China in 2024, against 51 kt from Bulgaria.",
-    excerpt: "The US tariff lines for sunflower seeds under HTS 1206, the general and column 2 duty rates, and where US imports actually come from, including how small the flow from China is.",
-    category: "Regional Markets",
-    date: "2027-02-23",
-    author: "James Feng",
-    image: "/images/ai-customs-duty-calculator-desk.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "The US general rate of duty for sunflower seeds under HTS 1206.00.00 is Free ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)). The more useful fact for a seller is who actually supplies the US market: in 2024 the largest sources by volume were Bulgaria (51 kt), Canada (35 kt) and Argentina (17 kt), while US-reported imports from China were only about 1.0 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). We state this plainly because it should shape how you plan a US market entry."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "HTS 1206.00.00, 'Sunflower seeds, whether or not broken': general rate Free; column 2 rate 4.4 cents per kg ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)).",
-          "US imports of HS 1206 were worth $121 million in 2024 and $152 million in 2020 ([UN Comtrade](https://comtradeplus.un.org/)).",
-          "Bulgaria supplied 51 kt, Canada 35 kt and Argentina 17 kt in 2024.",
-          "US-reported imports from China were about 1.0 kt ($2.5 million) in 2024.",
-          "Additional duties can apply to goods of Chinese origin outside the general rate; confirm the current position with a customs broker."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**HTS** is the Harmonized Tariff Schedule of the United States, published by the US International Trade Commission, which sets the duty rate for each product line.",
-          "**General rate** (column 1) is the normal duty for countries with normal trade relations, while **column 2** applies to a small group of countries without it.",
-          "**Statistical suffix** is the final two digits of a ten-digit HTS number, used to count trade in more detail rather than to set a different duty."
-        ]
-      },
-      {
-        "heading": "What Is the US Duty on Sunflower Seeds?",
-        "body": [
-          "The USITC schedule lists HTS 1206.00.00 as 'Sunflower seeds, whether or not broken', with a general rate of Free and a column 2 rate of 4.4 cents per kilogram ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)). The general rate applies to most trading partners. It does not include any additional duties that may be imposed on specific origins under other provisions of the tariff schedule, which is why a current check matters. Our older guide to [US-China tariffs and duty drawback](/blog/us-china-tariffs-duty-drawback-sunflower-seeds) covers that side."
-        ]
-      },
-      {
-        "heading": "Which Statistical Lines Exist Under 1206?",
-        "image": {
-          "src": "/images/ai-customs-duty-calculator-desk.jpg",
-          "alt": "Desk with a calculator, rubber stamp and customs forms",
-          "caption": "Check the exact line with a broker. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "The schedule splits the heading into statistical suffixes so the government can count different uses separately."
-        ],
-        "table": {
-          "headers": [
-            "HTS number",
-            "Description in the schedule",
-            "Units"
-          ],
-          "rows": [
-            [
-              "1206.00.00.20",
-              "For use as oil stock",
-              "kg"
-            ],
-            [
-              "1206.00.00.31",
-              "For sowing",
-              "kg"
-            ],
-            [
-              "1206.00.00.65",
-              "Certified organic",
-              "kg"
-            ],
-            [
-              "1206.00.00.70",
-              "Other",
-              "kg"
-            ],
-            [
-              "1206.00.00.75",
-              "Certified organic",
-              "kg"
-            ],
-            [
-              "1206.00.00.80",
-              "Other",
-              "kg"
-            ],
-            [
-              "1206.00.00.90",
-              "Other",
-              "kg"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Does the Line Change the Duty?",
-        "body": [
-          "Not in the data we retrieved: the duty rates sit at the 1206.00.00 level, and the suffix lines carry no separate rate. The schedule does not show how the organic and other lines are grouped in our extraction, so ask a broker which line fits your product, such as in-shell seed for human consumption. The suffix lines carry no separate duty rate in the data we retrieved, but the broker should still confirm the right one before entry."
-        ]
-      },
-      {
-        "heading": "Where Do US Imports of Sunflower Seed Come From?",
-        "image": {
-          "src": "/images/us-imports-by-origin-2024.svg",
-          "alt": "Bar chart of US sunflower seed imports by origin in 2024: Bulgaria 51 kt, Canada 35, Argentina 17, Türkiye 3, Germany 1, China 1",
-          "caption": "US imports by origin, 2024. Source: UN Comtrade."
-        },
-        "body": [
-          "The US-reported figures show a market supplied mainly from the Black Sea region, Canada and Argentina. Quantity is missing for some years in the US totals, so we use the 2024 origin rows, which are complete."
-        ],
-        "table": {
-          "headers": [
-            "Origin",
-            "Volume (kt)",
-            "Value ($ million)",
-            "Value per tonne ($)"
-          ],
-          "rows": [
-            [
-              "Bulgaria",
-              "51.4",
-              "61.5",
-              "1,196"
-            ],
-            [
-              "Canada",
-              "35.3",
-              "25.1",
-              "710"
-            ],
-            [
-              "Argentina",
-              "17.3",
-              "11.1",
-              "642"
-            ],
-            [
-              "Romania",
-              "3.5",
-              "2.2",
-              "629"
-            ],
-            [
-              "Türkiye",
-              "2.9",
-              "5.1",
-              "1,760"
-            ],
-            [
-              "Germany",
-              "1.0",
-              "4.2",
-              "4,081"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "How Big Is the Flow From China?",
-        "body": [
-          "US-reported imports from China were 1.0 kt in 2024 and have stayed between 0.5 and 1.8 kt a year since 2019 ([UN Comtrade](https://comtradeplus.un.org/)). Total US imports in 2024 were worth $121 million, so China's $2.5 million is a small part. These figures cover all sunflower seed under HS 1206, so snack seed sold by US producers is not visible here."
-        ]
-      },
-      {
-        "heading": "How Have US Import Values Changed?",
-        "body": [
-          "US imports of HS 1206 were worth $90 million in 2019, $152 million in 2020, $143 million in 2021, $182 million in 2022, $144 million in 2023 and $121 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Quantity totals are missing for some years in the US submissions, so we use values here and do not compute a price series."
-        ]
-      },
-      {
-        "heading": "What Is the Column 2 Rate in Dollars per Tonne?",
-        "body": [
-          "The column 2 rate of 4.4 cents per kilogram equals $44 per tonne (calculated), against a general rate of Free. In the schedule, column 2 is the rate for countries outside normal trade relations, so most importers will deal with the general rate. The two rates are shown so that a buyer who sees 4.4 cents in the schedule is not alarmed by it."
-        ]
-      },
-      {
-        "heading": "How Do You Check the Current Rate Yourself?",
-        "list": [
-          "Search the HTS for 1206 and read the 'General' column for 1206.00.00.",
-          "Check Chapter 99 of the schedule and customs notices for additional duties that apply to the country of origin.",
-          "Confirm the ten-digit statistical suffix with a customs broker.",
-          "Re-check before each order, since rates and additional duties can change.",
-          "Keep a dated copy of the rate you relied on."
-        ]
-      },
-      {
-        "heading": "What Does This Mean for Our North America Guide?",
-        "body": [
-          "Our earlier guide to [sourcing sunflower seeds for North America](/blog/sourcing-sunflower-seeds-north-america) describes how US brands source seed from China. The trade data show that this is a small share of US imports, so a seller should not assume a large ready market. It may still suit brands that want a particular confection seed, but the volume evidence is modest."
-        ]
-      },
-      {
-        "heading": "What Other US Requirements Apply to Imported Food?",
-        "body": [
-          "Food imports into the US need an FDA Prior Notice, and importers have supplier verification duties, which our guides to [FDA Prior Notice](/blog/fda-prior-notice-imported-food) and [FSVP](/blog/fsvp-sunflower-seed-importers) explain. Allergen labeling is covered in our [US and EU comparison](/blog/sunflower-seed-allergen-labeling-us-eu)."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[USITC Harmonized Tariff Schedule](https://hts.usitc.gov/) - HTS 1206.00.00 description, general rate (Free), column 2 rate (4.4 cents/kg) and statistical suffixes, retrieved through the USITC search interface on 16 October 2026.",
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. US-reported imports (flow M) by origin, 2019-2024."
-        ]
-      },
-      {
-        "heading": "Ask About Shipping to the United States",
-        "body": [
-          "[Request a quote](/contact#quote-form) and tell us your volume and the product you need, and we will tell you plainly whether we can supply it."
-        ]
-      }
-    ],
-  },
-  {
-    slug: "europe-spain-germany-chinese-sunflower-seed-imports",
-    title: "Europe's Buyers of Chinese Sunflower Seed: Spain and Germany, With EU Allergen and Cadmium Rules",
-    seoTitle: "Spain and Germany: Chinese Seed Imports",
-    seoDescription: "China's sunflower seed exports to Spain rose from 14 to 37 kt and to Germany from 4 to 14 kt between 2019 and 2024.",
-    excerpt: "China's sunflower seed exports to Spain and Germany from 2019 to 2024, how each country's imports break down by origin, and the EU allergen and cadmium points a seller should check.",
-    category: "Regional Markets",
-    date: "2027-02-18",
-    author: "James Feng",
-    image: "/images/ai-export-documents-desk-stamp.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "Spain and Germany are the two EU members among China's twelve largest sunflower seed destinations in 2024: shipments to Spain rose from 14.2 kt in 2019 to 36.8 kt in 2024, and to Germany from 3.9 kt to 13.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Both are large importers from other origins as well, so China is one supplier among several. This guide shows the numbers and the EU rules that a seller should check first."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "China-reported exports to Spain: 36.8 kt, $75.5 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)).",
-          "China-reported exports to Germany: 13.9 kt, $23.0 million in 2024.",
-          "In Spain's own 2024 data China ranked second by value, behind France, at $72.9 million.",
-          "Sunflower is not on the EU list of 14 allergens that must be emphasised on labels (FSAI).",
-          "An EFSA-hosted table lists a maximum cadmium level of 0.50 mg/kg for sunflower seed under Regulation (EC) No 1881/2006; check the current text."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**EU allergen list** means the 14 allergen groups in Annex II of Regulation (EU) No 1169/2011 that must be emphasised in an ingredients list ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
-          "**Maximum level** is the highest concentration of a contaminant, such as cadmium, that a regulation allows in a food on the market.",
-          "**Mirror data** are the same trade flow reported by both sides, the exporter's and the importer's, which rarely match exactly."
-        ]
-      },
-      {
-        "heading": "How Much Does China Ship to Spain and Germany?",
-        "body": [
-          "The table shows China-reported exports to each country by year ([UN Comtrade](https://comtradeplus.un.org/))."
-        ],
-        "table": {
-          "headers": [
-            "Year",
-            "Spain (kt)",
-            "Spain ($ million)",
-            "Germany (kt)",
-            "Germany ($ million)"
-          ],
-          "rows": [
-            [
-              "2019",
-              "14.2",
-              "23.5",
-              "3.9",
-              "5.2"
-            ],
-            [
-              "2020",
-              "29.9",
-              "48.9",
-              "8.2",
-              "11.2"
-            ],
-            [
-              "2021",
-              "29.3",
-              "56.5",
-              "6.0",
-              "8.9"
-            ],
-            [
-              "2022",
-              "24.7",
-              "49.4",
-              "6.2",
-              "9.7"
-            ],
-            [
-              "2023",
-              "30.2",
-              "64.9",
-              "9.8",
-              "16.8"
-            ],
-            [
-              "2024",
-              "36.8",
-              "75.5",
-              "13.9",
-              "23.0"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Where Does Spain's Seed Come From?",
-        "image": {
-          "src": "/images/spain-imports-by-origin-2024-value.svg",
-          "alt": "Bar chart of Spain's 2024 sunflower seed import value by origin: France 115 million dollars, China 73, Ukraine 17, Bulgaria 16, Romania 14",
-          "caption": "Spain's 2024 imports by origin, value. Source: UN Comtrade."
-        },
-        "body": [
-          "France is Spain's largest supplier by far: in 2024 it supplied 192 kt worth $115 million, against 35 kt and $73 million from China. China's volume is smaller but its value is second, because its seed is declared at about $2,097 per tonne ([UN Comtrade](https://comtradeplus.un.org/))."
-        ]
-      },
-      {
-        "heading": "Where Does Germany's Seed Come From?",
-        "image": {
-          "src": "/images/germany-imports-by-origin-2024-value.svg",
-          "alt": "Bar chart of Germany's 2024 sunflower seed import value by origin: Bulgaria 73 million dollars, France 50, China 26, Austria 20, Hungary 19",
-          "caption": "Germany's 2024 imports by origin, value. Source: UN Comtrade."
-        },
-        "body": [
-          "Germany's largest suppliers in 2024 by value were Bulgaria ($73 million), France ($50 million) and China ($26 million), with Austria and Hungary behind ([UN Comtrade](https://comtradeplus.un.org/)). China supplied 13.9 kt, about the same tonnage as in 2023, at a declared $1,897 per tonne."
-        ]
-      },
-      {
-        "heading": "How Did Spain's Main Suppliers Change Over Three Years?",
-        "body": [
-          "The table shows Spain-reported imports in kilotonnes from its four main origins and China for 2022 to 2024."
-        ],
-        "table": {
-          "headers": [
-            "Origin",
-            "2022 (kt)",
-            "2023 (kt)",
-            "2024 (kt)"
-          ],
-          "rows": [
-            [
-              "France",
-              "224.6",
-              "195.1",
-              "192.1"
-            ],
-            [
-              "Romania",
-              "120.5",
-              "119.6",
-              "26.4"
-            ],
-            [
-              "Ukraine",
-              "61.3",
-              "35.9",
-              "34.4"
-            ],
-            [
-              "Bulgaria",
-              "71.2",
-              "31.8",
-              "11.6"
-            ],
-            [
-              "China",
-              "25.9",
-              "29.8",
-              "34.8"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "How Do Declared Values Compare Across the Two Markets?",
-        "body": [
-          "China's declared value per tonne to Spain was $1,660 in 2019 and $2,049 in 2024, and to Germany $1,337 in 2019 and $1,650 in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Spain pays more per tonne than Germany, which may reflect the grade of seed shipped, a question for a seller to ask a buyer rather than assume."
-        ]
-      },
-      {
-        "heading": "What Do European Buyers Usually Ask For?",
-        "list": [
-          "The type, size grade and moisture of the seed, written into the specification.",
-          "Allergen documentation and a statement on cross-contact.",
-          "Contaminant results, including cadmium, for the lot.",
-          "Labeling in the destination language, usually the importer's responsibility.",
-          "A phytosanitary certificate and a certificate of origin with the shipment."
-        ]
-      },
-      {
-        "heading": "Do the Spanish and German Figures Match China's?",
-        "body": [
-          "Closely for volume. China reported 36.8 kt to Spain and Spain reported 34.8 kt from China, and both sides report 13.9 kt for Germany ([UN Comtrade](https://comtradeplus.un.org/)). That agreement is reassuring, and it contrasts with the larger gap for Türkiye described in our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics)."
-        ]
-      },
-      {
-        "heading": "Does the EU Require Allergen Labeling for Sunflower Seed?",
-        "body": [
-          "Sunflower is not on the EU's list of 14 allergens, so the seed itself needs no allergen emphasis, but any listed allergen in the product, such as sesame, nuts, mustard or celery, does ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Our [allergen labeling guide](/blog/sunflower-seed-allergen-labeling-us-eu) compares the EU and US rules."
-        ]
-      },
-      {
-        "heading": "What Is the EU Cadmium Limit?",
-        "body": [
-          "An EFSA-hosted table lists 0.50 mg/kg for 'linseed and sunflower seed' under Commission Regulation (EC) No 1881/2006 ([EFSA table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf)). That regulation has been updated since the table was prepared, so confirm the current figure in EU law before you rely on it. Ask your supplier for cadmium test results for any lot shipped to the EU, as discussed in our guide to [side effects and safe servings](/blog/sunflower-seed-side-effects-safe-serving-sizes)."
-        ]
-      },
-      {
-        "heading": "Which Is the Easier Market to Enter, Spain or Germany?",
-        "body": [
-          "Neither is easy, but they differ. Both import a similar total of seed from all origins (313 kt for Spain and 327 kt for Germany in their own 2024 reports), but Spain pays more per tonne for Chinese seed and has taken larger tonnages from China. Germany's China volume was smaller and rose later, from 3.9 kt in 2019, and its largest suppliers are closer to home. The data cannot tell you which buyers want in-shell snack seed, so ask the importer what product, size and packaging they need before you quote."
-        ]
-      },
-      {
-        "heading": "How Do Labeling and Language Affect a Shipment?",
-        "body": [
-          "Labeling language requirements are set country by country within the EU, so a pack made for Spain is not automatically right for Germany, and an importer can confirm what applies. Agree early who writes and checks the text, as our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) recommends, and keep the allergen statement consistent with the product's ingredient list."
-        ]
-      },
-      {
-        "heading": "What Else Should You Check for EU Imports?",
-        "body": [
-          "This guide covers only the points we could verify. Plant health certificates, import controls, pesticide limits and labeling language are set by EU and national rules, and an importer or customs broker in the destination is the right source. Our guides to the [phytosanitary certificate and certificate of origin](/blog/phytosanitary-certificate-certificate-of-origin) and the [HS code](/blog/sunflower-seed-hs-codes-export-documentation) cover the export side."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and Spain- and Germany-reported imports by origin, 2019-2024.",
-          "[FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens; [EFSA-hosted table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the cadmium level.",
-          "Unit values and comparisons are our own calculations."
-        ]
-      },
-      {
-        "heading": "Ask About Supplying Europe",
-        "body": [
-          "[Request a quote](/contact#quote-form) and tell us the destination country, and we will confirm the documents and test results we can provide."
-        ]
-      }
-    ],
-  },
-  {
-    slug: "middle-east-turkiye-central-asia-sunflower-seed-trade",
-    title: "The Middle East, Türkiye and Central Asia: What Sunflower Seed Trade Data Show",
-    seoTitle: "Middle East and Türkiye Sunflower Seed Trade",
-    seoDescription: "Türkiye's sunflower seed imports fell from 1,239 kt in 2019 to 288 kt in 2024, yet China's share of their value rose. See the data.",
-    excerpt: "China's sunflower seed exports to Iraq, Türkiye, the UAE, Saudi Arabia and Uzbekistan from 2019 to 2024, and a close look at Türkiye's imports by origin.",
-    category: "Regional Markets",
-    date: "2027-02-16",
-    author: "James Feng",
-    image: "/images/ai-middle-east-market.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "Türkiye's imports of sunflower seed fell from 1,239 thousand tonnes in 2019 to 288 thousand tonnes in 2024, and China's reported exports to Türkiye fell from 125.3 kt to 21.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Yet China's share of the value of Türkiye's imports rose from 19% to 28%, which says more about the type of seed than about the market's size. Iraq, Uzbekistan and Saudi Arabia show steadier patterns."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "Türkiye imported 1,239 kt in 2019 and 288 kt in 2024, a fall of 77% ([UN Comtrade](https://comtradeplus.un.org/)).",
-          "China's share of Türkiye's import value was 19% in 2019 and 28% in 2024 (calculated).",
-          "Iraq took 60.7 kt from China in 2024, Uzbekistan 29.2 kt, the UAE 16.4 kt and Saudi Arabia 11.5 kt.",
-          "China-reported exports to the UAE fell from 44.3 kt in 2019 to 16.4 kt in 2024.",
-          "These are customs records by partner country, which can differ from where seed is finally sold."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**Import origin** is the country a reporter records the goods as coming from, and it can differ from the country that grew them.",
-          "**Share of import value** is the value of imports from one origin divided by the value of all imports, so it is not the same as share of tonnes.",
-          "**Re-export** is a later shipment of imported goods to another country, which inflates import figures for trading hubs."
-        ]
-      },
-      {
-        "heading": "How Much Does China Ship to Each Market?",
-        "image": {
-          "src": "/images/ai-middle-east-market.jpg",
-          "alt": "Busy Middle Eastern market street with food stalls",
-          "caption": "Regional demand. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "The table gives China-reported exports in kilotonnes for six destinations in the region from 2019 to 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
-        ],
-        "table": {
-          "headers": [
-            "Destination",
-            "2019",
-            "2020",
-            "2021",
-            "2022",
-            "2023",
-            "2024"
-          ],
-          "rows": [
-            [
-              "Iraq",
-              "41.3",
-              "64.0",
-              "56.2",
-              "54.1",
-              "58.8",
-              "60.7"
-            ],
-            [
-              "Türkiye",
-              "125.3",
-              "120.3",
-              "78.5",
-              "19.4",
-              "54.9",
-              "21.9"
-            ],
-            [
-              "UAE",
-              "44.3",
-              "18.1",
-              "24.7",
-              "52.3",
-              "25.1",
-              "16.4"
-            ],
-            [
-              "Saudi Arabia",
-              "15.0",
-              "11.7",
-              "8.5",
-              "10.7",
-              "12.8",
-              "11.5"
-            ],
-            [
-              "Uzbekistan",
-              "4.5",
-              "16.9",
-              "16.8",
-              "22.0",
-              "28.1",
-              "29.2"
-            ],
-            [
-              "Iran",
-              "40.7",
-              "28.4",
-              "34.1",
-              "60.6",
-              "62.4",
-              "76.5"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "What Happened to Türkiye's Imports?",
-        "image": {
-          "src": "/images/turkiye-total-imports-chart.svg",
-          "alt": "Bar chart of Türkiye's sunflower seed imports in kilotonnes by year, falling from 1,239 in 2019 to 288 in 2024",
-          "caption": "Türkiye's total imports of HS 1206. Source: UN Comtrade."
-        },
-        "body": [
-          "Türkiye's total HS 1206 imports were 1,239 kt in 2019, 1,207 kt in 2020, 734 kt in 2021, 826 kt in 2022, 746 kt in 2023 and 288 kt in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). The 2024 figure is a fall of about 61% on 2023. We do not explain it, because the data do not say why, and a change of that size could reflect policy, supply or a reporting change."
-        ]
-      },
-      {
-        "heading": "Where Does Türkiye's Seed Come From?",
-        "image": {
-          "src": "/images/turkiye-imports-by-origin-2024.svg",
-          "alt": "Bar chart of Türkiye's 2024 sunflower seed imports by origin in kilotonnes: Moldova 115, Romania 46, Ukraine 45, China 33, France 12, Russia 9",
-          "caption": "Türkiye's 2024 imports by origin. Source: UN Comtrade."
-        },
-        "body": [
-          "In 2023 the largest origins by volume were Ukraine (368 kt), Romania (206 kt) and Bulgaria (74 kt), with China at 30.2 kt. In 2024 Moldova led with 115 kt, followed by Romania, Ukraine and China at 33.1 kt ([UN Comtrade](https://comtradeplus.un.org/)). China's tonnage held up while the Black Sea origins fell, which is why its share rose."
-        ]
-      },
-      {
-        "heading": "How Did Türkiye's Imports From Each Origin Change?",
-        "body": [
-          "The table shows Türkiye-reported imports from its main origins for 2022, 2023 and 2024, in kilotonnes. Origins that fell sharply sit next to China, whose volume held up."
-        ],
-        "table": {
-          "headers": [
-            "Origin",
-            "2022 (kt)",
-            "2023 (kt)",
-            "2024 (kt)"
-          ],
-          "rows": [
-            [
-              "Ukraine",
-              "557.0",
-              "368.5",
-              "45.2"
-            ],
-            [
-              "Romania",
-              "96.3",
-              "206.4",
-              "45.7"
-            ],
-            [
-              "Bulgaria",
-              "29.3",
-              "73.8",
-              "12.8"
-            ],
-            [
-              "Moldova",
-              "115.5",
-              "32.3",
-              "114.8"
-            ],
-            [
-              "China",
-              "18.0",
-              "30.2",
-              "33.1"
-            ],
-            [
-              "France",
-              "0.1",
-              "0.2",
-              "12.1"
-            ],
-            [
-              "Russia",
-              "0.1",
-              "21.0",
-              "9.3"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "What Happened to the Value of Türkiye's Imports?",
-        "body": [
-          "Total value fell from $568 million in 2019 to $208 million in 2024, a drop of 63%, close to the 77% fall in volume ([UN Comtrade](https://comtradeplus.un.org/)). China's own value of seed imported by Türkiye stayed between $30 million and $120 million over the six years, according to Türkiye's records."
-        ]
-      },
-      {
-        "heading": "What Do the UAE and Saudi Arabia Report Themselves?",
-        "body": [
-          "The UAE reported total imports of 48 kt in 2019 and 15 kt in 2023, and nothing for 2024 in the data we retrieved. Saudi Arabia reported 23 kt in 2019 and 16 kt in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Both are far smaller than Türkiye's totals, which is a reminder that a Gulf port can be a trading point as much as a final market."
-        ]
-      },
-      {
-        "heading": "Why Did China's Share of Türkiye's Import Value Rise?",
-        "body": [
-          "Because the seed from China is declared at a much higher value per tonne. In 2024 Türkiye declared Chinese seed at $1,735 per tonne, against about $490 to $520 for seed from Ukraine, Romania and Moldova (calculated). A premium product keeps a larger share of value than of volume, which our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values) explains."
-        ]
-      },
-      {
-        "heading": "Why Do China's and Türkiye's Figures Disagree?",
-        "body": [
-          "China reported 21.9 kt exported to Türkiye in 2024, while Türkiye reported 33.1 kt imported from China, a gap of about 51% (calculated). Timing, transit routes and classification can all cause this, which our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics) describes."
-        ]
-      },
-      {
-        "heading": "What About Iraq, Saudi Arabia and Uzbekistan?",
-        "body": [
-          "Iraq took 60.7 kt from China in 2024, close to its 41.3 kt in 2019 but with a peak of 64.0 kt in between. Saudi Arabia stayed between 8.5 and 15.0 kt, and Uzbekistan rose from 4.5 kt to 29.2 kt. Iran appears in the table because it is a reported destination; the compliance note in our guide to [destinations](/blog/who-buys-chinese-sunflower-seeds-top-destinations) applies."
-        ]
-      },
-      {
-        "heading": "How Should You Read a Single Market's Fall?",
-        "body": [
-          "A large fall in one market's imports does not mean demand for every type of seed fell. Türkiye's imports of Black Sea seed dropped far more than its imports from China, so the pattern in the data is a change in who supplies a particular product, not an even decline. Ask a buyer which product they are short of before you assume a market has closed or opened."
-        ]
-      },
-      {
-        "heading": "What Should a Seller Take From This?",
-        "body": [
-          "The region is large but shifting, and the biggest single market of 2019 is now much smaller. A seller should not plan on a destination's past volume, should confirm what type of seed a buyer wants, and should keep more than one market open. Our guide to [sourcing for the Middle East](/blog/sourcing-sunflower-seeds-middle-east) adds the trade-route context."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and Türkiye-reported imports (flow M), by partner, 2019-2024.",
-          "Shares, changes and unit values are our own calculations; the 2024 fall in Türkiye's imports is reported, not explained."
-        ]
-      },
-      {
-        "heading": "Ask About Supply for Your Market",
-        "body": [
-          "[Request a quote](/contact#quote-form) with your destination and series, and we will confirm documents and shipping options."
-        ]
-      }
-    ],
-  },
-  {
     slug: "who-buys-chinese-sunflower-seeds-top-destinations",
     title: "Who Buys Chinese Sunflower Seeds? Twelve Destinations, 2019-2024",
     seoTitle: "Who Buys Chinese Sunflower Seeds: Top Markets",
@@ -5782,229 +7359,6 @@ export const blogPosts: BlogPost[] = [
         "heading": "Compare Quotes on the Same Basis",
         "body": [
           "[Request a quote](/contact#quote-form) with your required size and moisture, and we will state the Incoterm and the specification, so the price can be compared fairly."
-        ]
-      }
-    ],
-  },
-  {
-    slug: "china-sunflower-seed-exports-2019-2024",
-    title: "China's Sunflower Seed Exports 2019-2024: Volume, Value and Price Per Tonne",
-    seoTitle: "China's Sunflower Seed Exports 2019-2024",
-    seoDescription: "China exported 480 kt of sunflower seed worth $819 million in 2024, an average $1,706 per tonne. See six years of customs data.",
-    excerpt: "Six years of UN Comtrade data on China's HS 1206 sunflower seed exports: volume, value and average customs value per tonne, with a guide to what the averages do and do not tell a buyer.",
-    category: "Importing & Trade",
-    date: "2027-01-12",
-    author: "James Feng",
-    image: "/images/ai-cargo-port-containers.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "China exported about 480 thousand tonnes of sunflower seed in 2024, worth $819 million, an average customs value of $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Volume was almost the same as in 2019, but value rose by 32%, so almost all of the growth came from price. This guide sets out the six-year record and how to use it."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "2024 exports: 480.2 kt, $819.3 million, $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/)).",
-          "Volume ranged from 427 kt (2021) to 508 kt (2020) over the six years.",
-          "Average customs value rose from $1,293 per tonne in 2019 to $1,789 in 2023, then eased to $1,706 in 2024.",
-          "The three largest destinations by volume in 2024 (Iran, Iraq and Russia) took 40% of the total.",
-          "The figures cover every kind of sunflower seed under HS 1206, not only confection seed."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**HS 1206** is the six-digit Harmonized System heading for sunflower seeds, whether or not broken, which covers oil-type, confection and sowing seed alike ([Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
-          "**Customs value** is the value declared at the border; for exports it is generally the free-on-board (FOB) value, which is why it is comparable with an FOB quotation only roughly.",
-          "**Unit value** is the customs value divided by the net weight, so it is an average over everything shipped in the year and not the price of any single lot."
-        ]
-      },
-      {
-        "heading": "How Much Sunflower Seed Does China Export?",
-        "image": {
-          "src": "/images/china-exports-volume-chart.svg",
-          "alt": "Bar chart of China's sunflower seed export volume in kilotonnes: 480 in 2019, 508 in 2020, 427 in 2021, 445 in 2022, 463 in 2023 and 480 in 2024",
-          "caption": "China's HS 1206 export volume. Source: UN Comtrade."
-        },
-        "body": [
-          "The table lists China's reported exports to the world for each year. Volumes are net weight converted from kilograms to kilotonnes ([UN Comtrade](https://comtradeplus.un.org/))."
-        ],
-        "table": {
-          "headers": [
-            "Year",
-            "Volume (kt)",
-            "Value ($ million)",
-            "Value per tonne ($)",
-            "Volume change"
-          ],
-          "rows": [
-            [
-              "2019",
-              "480.3",
-              "621.2",
-              "1,293",
-              "-"
-            ],
-            [
-              "2020",
-              "508.0",
-              "647.9",
-              "1,275",
-              "+5.8%"
-            ],
-            [
-              "2021",
-              "427.0",
-              "586.1",
-              "1,373",
-              "-16.0%"
-            ],
-            [
-              "2022",
-              "444.8",
-              "679.2",
-              "1,527",
-              "+4.2%"
-            ],
-            [
-              "2023",
-              "462.7",
-              "827.7",
-              "1,789",
-              "+4.0%"
-            ],
-            [
-              "2024",
-              "480.2",
-              "819.3",
-              "1,706",
-              "+3.8%"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "How Did Export Volume Change Year to Year?",
-        "body": [
-          "Volume peaked at 508 kt in 2020, dropped 16.0% to 427 kt in 2021, and has recovered each year since, by 4.2%, 4.0% and 3.8% (calculated from [UN Comtrade](https://comtradeplus.un.org/)). Six years is a short record, so we avoid calling any of these a trend. The 2021 dip and the rebound are the visible pattern."
-        ]
-      },
-      {
-        "heading": "How Did Export Value Change?",
-        "body": [
-          "Value rose from $621 million in 2019 to $828 million in 2023 and $819 million in 2024, with a low of $586 million in 2021 ([UN Comtrade](https://comtradeplus.un.org/)). Because 2024 volume was within 0.1% of 2019, the 32% rise in value is almost entirely a rise in average price."
-        ]
-      },
-      {
-        "heading": "What Happened to the Average Export Price?",
-        "image": {
-          "src": "/images/china-exports-unit-value-chart.svg",
-          "alt": "Bar chart of China's average sunflower seed export value per tonne: 1,293 dollars in 2019, 1,275 in 2020, 1,373 in 2021, 1,527 in 2022, 1,789 in 2023 and 1,706 in 2024",
-          "caption": "Average customs value per tonne. Source: UN Comtrade."
-        },
-        "body": [
-          "The average customs value climbed from $1,293 per tonne in 2019 to $1,789 in 2023, an increase of 38%, then fell 4.6% in 2024 to $1,706. In other units, $1,706 per tonne is $1.71 per kilogram or $0.77 per pound (calculated; see our guide to [metric and short tons](/blog/sunflower-seed-price-per-ton-units-kg-lb-guide))."
-        ]
-      },
-      {
-        "heading": "Which Years Saw the Biggest Price Moves?",
-        "body": [
-          "Year-on-year changes in the average value show when the market moved. The sharpest rise came in 2023, and 2024 was the first fall in the series apart from 2020."
-        ],
-        "table": {
-          "headers": [
-            "Year",
-            "Value per tonne ($)",
-            "Change on prior year"
-          ],
-          "rows": [
-            [
-              "2019",
-              "1,293",
-              "-"
-            ],
-            [
-              "2020",
-              "1,275",
-              "-1.4%"
-            ],
-            [
-              "2021",
-              "1,373",
-              "+7.6%"
-            ],
-            [
-              "2022",
-              "1,527",
-              "+11.2%"
-            ],
-            [
-              "2023",
-              "1,789",
-              "+17.1%"
-            ],
-            [
-              "2024",
-              "1,706",
-              "-4.6%"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "What Would an Average Load Be Worth?",
-        "body": [
-          "As an illustration, a 20ft container holding about 9.7 tonnes of in-shell seed, the volume estimate in our guide to [how many tons fit in a container](/blog/tons-per-container-sunflower-seeds-20ft-40ft), would be worth about $16,550 at the 2024 average customs value (calculated). Real loads differ in grade, size and packaging, so use this only to get an order of magnitude."
-        ]
-      },
-      {
-        "heading": "Is the Average Customs Value a Price Quote?",
-        "body": [
-          "No. It averages every type of seed, every size grade, every packaging format and every shipment in the year, valued at the border. A quote for one grade of in-shell confection seed can sit well above or below it. The figure is useful as a sanity check on direction and order of magnitude, and unhelpful as a negotiating target. Our guide to [FOB pricing](/blog/fob-pricing-sunflower-seeds) lists what moves a single quote."
-        ]
-      },
-      {
-        "heading": "How Concentrated Are China's Exports?",
-        "body": [
-          "Twelve destinations took 77% of the 2024 volume, out of 80 partners reported. The remaining partners together took about 112 kt. The destination detail is in our guide to [who buys Chinese sunflower seeds](/blog/who-buys-chinese-sunflower-seeds-top-destinations)."
-        ]
-      },
-      {
-        "heading": "What Do Volume and Price Together Tell You?",
-        "body": [
-          "Value is volume times price, so the two can be separated. From 2019 to 2024 volume changed by -0.0% and price by +31.9%, which together give the +31.9% change in value (calculated from [UN Comtrade](https://comtradeplus.un.org/)). In 2021 the pattern was different: volume fell and price rose, so value fell by less than volume did. Reading one without the other would give the wrong story."
-        ]
-      },
-      {
-        "heading": "How Should a Buyer Use These Figures?",
-        "body": [
-          "Treat them as context. They show that China ships close to half a million tonnes a year, that the market is large enough for a buyer to expect competing offers, and that average prices moved by a third in five years. They do not replace a quote, a specification or a test certificate. Compare your own quote with the per-origin comparison in our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values)."
-        ]
-      },
-      {
-        "heading": "How Reliable Are the Numbers?",
-        "body": [
-          "Comtrade marks some quantities as estimated, and the 2019-2023 world totals for China carry that flag, while the 2024 total does not. A few partner rows in each year are flagged as well. Reporting countries can also disagree with each other, which our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics) explains."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) to the world and to each partner, net weight and primary value.",
-          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206.",
-          "Growth rates, shares and per-unit conversions are our own arithmetic."
-        ]
-      },
-      {
-        "heading": "Ask for a Quote on Your Specification",
-        "body": [
-          "[Request a quote](/contact#quote-form) with your series, volume, bag format and destination, and we will quote against your specification, not against an average. Read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) for the full process."
         ]
       }
     ],
@@ -6655,226 +8009,6 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
-    slug: "sunflower-seed-supply-risks-weather-yield-freight",
-    title: "Sunflower Seed Supply Risks: Weather, Yield Swings and Shipping Contingencies",
-    seoTitle: "Sunflower Seed Supply Risks and Contingencies",
-    seoDescription: "US confection output rose 45%, then 22%, then fell 33% in three years. See what yield swings mean for buyers and how to plan.",
-    excerpt: "What recent crop swings show about sunflower seed supply risk, and a practical contingency plan for buyers covering sourcing, stock, contracts and shipping.",
-    category: "Importing & Trade",
-    date: "2027-04-06",
-    author: "James Feng",
-    image: "/images/ai-cargo-ship-departing-port.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "Sunflower seed supply moves with the weather. The best public evidence is the US record: confection production rose 45% in 2022 and 22% in 2023, then fell 33% in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). A buyer who plans on a flat supply curve will be caught out in a short year, so the useful question is which protections you can build into an order."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "US confection production: 167, 242, 295 and 199 million pounds in 2021 to 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
-          "The 2024 fall was about 33% for confection and nearly 52% for oil-type seed ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
-          "The NSA names drought and the red sunflower seed weevil as factors in 2024.",
-          "The 2022 rise of 45% shows that swings run in both directions (calculated)."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**Safety stock** is inventory held to cover a short crop or a late shipment.",
-          "**Allocation** is a supplier's decision to ration limited supply between its customers in a short year.",
-          "**Forward order** is an order placed now for delivery on a later date, often at an agreed price."
-        ]
-      },
-      {
-        "heading": "What Happened to the US Confection Crop?",
-        "image": {
-          "src": "/images/ai-sunflower-heads-hanging-dry.jpg",
-          "alt": "Sunflower heads hanging to dry in the sun",
-          "caption": "Weather decides the crop long before shipping starts. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "The NSA reports US confection production of 167 million pounds in 2021, 242 in 2022, 295 in 2023 and 199 in 2024. It attributes the 2024 decline to drought in several states and to damage from the red sunflower seed weevil in South Dakota."
-        ],
-        "table": {
-          "headers": [
-            "Crop year",
-            "Confection production (million lb)",
-            "Change on prior year"
-          ],
-          "rows": [
-            [
-              "2021",
-              "167",
-              "-"
-            ],
-            [
-              "2022",
-              "242",
-              "+45%"
-            ],
-            [
-              "2023",
-              "295",
-              "+22%"
-            ],
-            [
-              "2024",
-              "199",
-              "-33%"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Did Oil-Type and Confection Seed Move Together?",
-        "body": [
-          "They moved in the same direction but not by the same amount. Oil-type production changed +48%, -24% and -52% in 2022, 2023 and 2024, against +45%, +22% and -33% for confection (calculated from [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Confection output was steadier, which suggests a different mix of growing areas and contracts, but the report does not explain the gap, so we treat it as an observation only."
-        ],
-        "table": {
-          "headers": [
-            "Crop year",
-            "Oil-type change",
-            "Confection change"
-          ],
-          "rows": [
-            [
-              "2022",
-              "+48%",
-              "+45%"
-            ],
-            [
-              "2023",
-              "-24%",
-              "+22%"
-            ],
-            [
-              "2024",
-              "-52%",
-              "-33%"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Why Do Yields Swing So Much?",
-        "body": [
-          "Sunflower is an annual field crop, so rainfall, heat and pests in a single season set the harvest. The 2024 US example combined drought with a pest problem, and both hit planted area that was already smaller. Origin matters here: Inner Mongolia has its own climate and cropping pattern, so US figures illustrate the risk but do not predict it."
-        ]
-      },
-      {
-        "heading": "What Does a Short Crop Mean for a Buyer?",
-        "body": [
-          "In a short year, prices tend to firm, allocation tightens and lead times can lengthen, as a supplier decides which customers to fill first. Buyers with a standing relationship, a forecast and a signed schedule are better placed than first-time spot buyers. Our guide to [harvest timing and pricing](/blog/seasonal-harvest-timing-sunflower-seed-availability) explains how the calendar affects availability."
-        ]
-      },
-      {
-        "heading": "Where Do Shipping Risks Fit In?",
-        "image": {
-          "src": "/images/ai-cargo-ship-departing-port.jpg",
-          "alt": "Container ship leaving a busy port at dusk beside rows of stacked containers",
-          "caption": "Shipping adds its own timing risk. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "Even when the crop is large, shipping can delay it. Port congestion, container availability and holiday shutdowns all move delivery dates, and our guide to [Chinese New Year shipping](/blog/chinese-new-year-sunflower-seed-shipping) covers the best-known calendar gap. Freight rates change often, so ask for the validity period on every quote rather than treating the number as fixed."
-        ]
-      },
-      {
-        "heading": "What Would a 33% Shortfall Mean for Your Order Book?",
-        "body": [
-          "Take an illustrative buyer who needs 100 tonnes a year from a single supplier. If that supplier's crop falls by about a third, as US confection output did in 2024, the supplier may be able to deliver roughly 67 tonnes, leaving 33 tonnes to find elsewhere. The numbers are hypothetical, but the arithmetic shows why a second source is cheaper to qualify before the shortfall than during it, when every other buyer is looking too."
-        ]
-      },
-      {
-        "heading": "What Does a Simple Supply Risk Register Look Like?",
-        "body": [
-          "A short register keeps the risks visible. Each row pairs a risk with the signal that would warn you and the action you have already agreed. The entries are our practical guidance, not data."
-        ],
-        "table": {
-          "headers": [
-            "Risk",
-            "Early signal",
-            "Pre-agreed action"
-          ],
-          "rows": [
-            [
-              "Short crop",
-              "Supplier reports lower harvest or tighter allocation",
-              "Shift volume to a second source; confirm reserved quantity"
-            ],
-            [
-              "Quality drift",
-              "Moisture or foreign material above limit on test certificates",
-              "Reject or discount per contract; retest at a named laboratory"
-            ],
-            [
-              "Shipping delay",
-              "Port congestion, booking rollovers",
-              "Alternative port and forwarder; buffer stock covers one extra month"
-            ],
-            [
-              "Price spike",
-              "Quote validity shortens",
-              "Fix price for the next shipments through a forward order"
-            ],
-            [
-              "Payment friction",
-              "Bank delays on a first transfer",
-              "Agree terms in advance; consider a letter of credit"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Should You Hold Safety Stock?",
-        "body": [
-          "Safety stock buffers a short crop or a late ship, but seed does not keep forever, and stock held too long loses quality. Our [shelf life guide](/blog/sunflower-seed-shelf-life) and [warehouse storage guide](/blog/warehouse-storage-sunflower-seeds-moisture-temperature) explain the limits. Size the buffer to the supplier's lead time plus a margin, rather than to an arbitrary number of months."
-        ]
-      },
-      {
-        "heading": "How Can You Spread Supply Risk?",
-        "list": [
-          "Qualify a second source or a second series before you need one.",
-          "Agree a forecast with your main supplier so volume is reserved for you.",
-          "Split orders across harvest and non-harvest months where storage allows.",
-          "Keep the destination port and forwarder flexible, with a back-up route.",
-          "Write delivery windows and remedies for late shipment into the contract."
-        ]
-      },
-      {
-        "heading": "How Do You Read a Supplier's Crop Update?",
-        "body": [
-          "Ask for facts you can check, not reassurance. Useful items are the planted area compared with the previous year, the weather events that affected the crop, the expected tonnage, how much is already sold forward, and how much carried over from the last season. A supplier that can answer these in numbers is easier to plan with than one that says supply is 'normal'. Treat any answer without a number as unconfirmed."
-        ]
-      },
-      {
-        "heading": "What Should a Contract Say About Shortfalls?",
-        "body": [
-          "Define what counts as a shortfall, how much notice the supplier must give, and whether you may buy elsewhere without penalty. Quality should be defined through test results rather than adjectives. See our [guide to supply contract terms](/blog/sunflower-seed-supply-contract-terms) and the [T/T versus letter of credit comparison](/blog/tt-vs-letter-of-credit-sunflower-seeds) for payment protection."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - confection and oil-type production for 2021-2024, and the drought and weevil explanation (United States crop).",
-          "Year-on-year changes are our calculation from those figures."
-        ]
-      },
-      {
-        "heading": "Plan Your Supply Before the Next Season",
-        "body": [
-          "[Request a quote](/contact#quote-form) with your annual volume and delivery windows, and we will discuss how to schedule your orders."
-        ]
-      }
-    ],
-  },
-  {
     slug: "sunflower-kernel-specification-sheet-quality-factors",
     title: "Sunflower Kernel Specification Sheet: 14 Quality Factors to Specify",
     seoTitle: "Sunflower Kernel Spec Sheet: 14 Quality Factors",
@@ -7162,141 +8296,6 @@ export const blogPosts: BlogPost[] = [
         "heading": "Need In-Shell Seed Instead of Kernels?",
         "body": [
           "XingYi Trading exports in-shell confection seed. [Request a quote](/contact#quote-form) if you need in-shell seed for your own dehulling, and read our guide to [in-shell versus kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk)."
-        ]
-      }
-    ],
-  },
-  {
-    slug: "warehouse-storage-sunflower-seeds-moisture-temperature",
-    title: "Warehouse Storage for Sunflower Seeds: Moisture, Heat and Safe Handling",
-    seoTitle: "Storing Sunflower Seeds in a Warehouse",
-    seoDescription: "Sunflower seed stored above 10% moisture risks hot spots. Learn the NSA storage guidance, why moisture readings rebound, and what to check when seed arrives.",
-    excerpt: "How to store confection sunflower seed in a warehouse: moisture targets, why readings rebound, aeration rates converted to metric, hot spots and fire risk, and an arrival checklist.",
-    category: "Harvesting & Storage",
-    date: "2027-03-16",
-    author: "James Feng",
-    image: "/images/process-02-storage-silos.webp",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "Seed that arrives dry can still spoil in a warehouse if moisture, heat and airflow are not managed. The National Sunflower Association advises drying sunflower to under 10% moisture, warns that hulls dry faster than kernels so a meter reading can rebound, and flags hot spots and fine-fibre fire risk ([NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/)). This guide turns that advice into a storage routine for a buyer."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "Dry sunflower to under 10% moisture, from a combining moisture of 14-15% (NSA).",
-          "A meter can read 10% one day and 12% the next, because hulls dry faster than kernels (NSA).",
-          "NSA aeration guidance of 1/10 to 1 cfm per cwt equals about 0.06 to 0.62 cubic metres per minute per tonne (our conversion).",
-          "US confection seed averaged 10.7% moisture in 2024, above the 10% mark ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)).",
-          "Without aeration, seed should be rotated between bins to avoid hot spots (NSA)."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**Moisture content** is the share of a seed's weight that is water, and the NSA advises drying sunflower to under 10%.",
-          "A **hot spot** is a pocket of stored seed that heats up, usually because moisture is high and air cannot move through the stack.",
-          "**Aeration** is moving air through stored seed to cool it and equalise moisture."
-        ]
-      },
-      {
-        "heading": "What Moisture Level Is Safe for Storage?",
-        "image": {
-          "src": "/images/process-02-storage-silos.webp",
-          "alt": "Storage silos at the XingYi Trading facility",
-          "caption": "Storage silos at the XingYi Trading facility. Photo: XingYi Trading."
-        },
-        "body": [
-          "The NSA's drying guidance is to take sunflower down to under 10% moisture, and to monitor it so it is not overdried. That matters because the confection seed in its 2024 crop report averaged 10.7%, so seed from a wet year can arrive above the safe mark ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Always set a moisture limit in the purchase specification, as our [moisture and purity guide](/blog/sunflower-seed-moisture-content-purity-standards) explains."
-        ]
-      },
-      {
-        "heading": "Why Can a Moisture Reading Rebound?",
-        "body": [
-          "The NSA notes that hulls dry faster than kernels, so a meter may show 10% and then climb to 12% the next day as moisture moves from kernel to hull. Its suggested check is to seal some seed in a jar overnight and read it the next day. A single reading on arrival is therefore not enough, and a second reading after rest is a cheap safeguard."
-        ]
-      },
-      {
-        "heading": "How Does Aeration Work, in Metric Units?",
-        "body": [
-          "The NSA gives aeration rates of 1/10 to 1 cfm per cwt, which means cubic feet of air per minute for each hundredweight of seed. Using NIST's definition of the pound ([NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c)) and 1 cubic foot = 0.0283168 m³, that is about 0.06 to 0.62 cubic metres of air per minute for each tonne. This is our own conversion of a US grower guideline, so treat it as an order of magnitude and follow the advice of your warehouse engineer."
-        ]
-      },
-      {
-        "heading": "What Does Moisture Cost You per Tonne?",
-        "body": [
-          "Water weighs the same as seed when it is on the scale. A tonne at 12% moisture holds 880 kg of dry matter, and a tonne at 10% holds 900 kg, so the wetter lot has 2.3% less seed in it (calculated). The NSA's own rebound example, a reading that moves from 10% to 12%, therefore changes what you are paying for as well as how safely the seed stores."
-        ]
-      },
-      {
-        "heading": "What Does Aeration Mean for a Real Stack?",
-        "body": [
-          "Take a 20 tonne stack as an example. The NSA range of 0.06 to 0.62 cubic metres per minute per tonne becomes 1.2 to 12.5 cubic metres per minute for the whole stack, or about 44 to 441 cfm (calculated). The range is wide because the right rate depends on moisture and temperature, which is why the NSA treats it as a guideline rather than a fixed figure."
-        ]
-      },
-      {
-        "heading": "What Are Hot Spots, and How Do You Prevent Them?",
-        "body": [
-          "A hot spot is a pocket of seed that heats up, usually because moisture is high and air cannot move through the stack. The NSA says that without aeration, sunflower should be rotated between bins so hot spots do not develop. For bagged seed, the equivalent is to keep stacks away from walls, leave air gaps and turn old stock first, which are practical steps rather than NSA figures."
-        ]
-      },
-      {
-        "heading": "Is There a Fire Risk?",
-        "image": {
-          "src": "/images/warehouse-storage.jpg",
-          "alt": "Pallets of bagged sunflower seeds stacked in a warehouse",
-          "caption": "Stacked bagged seed. Photo: XingYi Trading facility."
-        },
-        "body": [
-          "Yes. The NSA flags fine seed fibres as a fire hazard, especially in dry conditions. Keep dust under control, avoid ignition sources near stacks, and follow your local fire rules for agricultural storage. This is another reason to clean seed before storage and to specify a foreign-material limit."
-        ]
-      },
-      {
-        "heading": "What Changes for Kernels and Roasted Products?",
-        "body": [
-          "Hulled kernels are more exposed than in-shell seed, which is why the NSA's kernel specification sets moisture at 8% or lower, against the under-10% drying target for seed in the shell. For roasted kernel, the NSA hosts a study in which low-oxygen packaging prolonged shelf stability for a full year. The practical point is that a storage plan written for in-shell seed should not be applied to kernels or roasted products without a separate check."
-        ]
-      },
-      {
-        "heading": "How Often Should Stored Seed Be Re-Checked?",
-        "body": [
-          "There is no single interval in the NSA guidance, so set one from your own risk. Check more often in the first weeks after arrival, when moisture is still equalising, after any weather change that affects the warehouse, and whenever you notice an odour or warm spot. Record each reading, so a trend shows before a problem does."
-        ]
-      },
-      {
-        "heading": "What Should You Check When Seed Arrives?",
-        "list": [
-          "Moisture on arrival and again after a rest period.",
-          "Visible mould, off-odour or heating in the bags.",
-          "Bag condition: seams intact, no wet patches.",
-          "Lot number, packing date and test certificate against the order.",
-          "Where in the warehouse the lot goes, and which stock it sits next to."
-        ]
-      },
-      {
-        "heading": "How Long Can You Store Seed?",
-        "body": [
-          "That depends on moisture, temperature and packaging, and the NSA hosts a 1997 study finding that low-oxygen packaging can prolong the shelf stability of roasted sunflower kernel for a full year ([NSA shelf stability studies](https://www.sunflowernsa.com/seed/seedshelf-stability-study/)). That finding concerns roasted kernels, not in-shell raw seed, so see our [shelf life guide](/blog/sunflower-seed-shelf-life) for in-shell storage."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% target, rebound example, aeration rate, hot spots and fibre fire risk.",
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 2024 nonoil moisture average.",
-          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - the pound definition used in the aeration conversion."
-        ]
-      },
-      {
-        "heading": "Plan Storage Before the Shipment Arrives",
-        "body": [
-          "[Request a quote](/contact#quote-form) with your destination and storage conditions, and we will discuss packaging and moisture limits that suit them."
         ]
       }
     ],
@@ -9070,408 +10069,6 @@ export const blogPosts: BlogPost[] = [
           "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)",
           "[How long do sunflower seeds last?](/blog/sunflower-seed-shelf-life)",
           "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)"
-        ]
-      }
-    ],
-  },
-  {
-    slug: "sunflower-seed-calories-protein-macros",
-    title: "Sunflower Seed Calories, Protein and Macros: Raw, Roasted and Salted Compared",
-    seoTitle: "Sunflower Seed Calories and Macros per Serving",
-    seoDescription: "Sunflower seed kernels have 164 kcal and 5.8 g protein per 28 g. Compare raw, roasted and salted types, from 1 to 183 mg sodium.",
-    excerpt: "USDA values for six types of sunflower seed kernels scaled to a 28 g serving: calories, protein, fat and sodium, with a chart of how much salt changes the result.",
-    category: "Health & Nutrition",
-    date: "2027-01-05",
-    author: "James Feng",
-    image: "/images/ai-raw-vs-roasted-comparison.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "A 28 g (about 1 oz) serving of sunflower seed kernels contains 163 to 173 kcal and about 5.4 to 5.8 g of protein, depending on how the seeds were processed (USDA FoodData Central, scaled to 28 g). Roasting barely changes calories. Added salt changes sodium a great deal: from about 1 mg to 183 mg per serving.",
-          "Search results for 'sunflower seed calories' often quote one number for every type of seed. USDA records show that is mostly fine for calories, and very wrong for sodium. This guide scales six USDA kernel records to one serving so you can compare them."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "Energy per 100 g ranges only from 582 to 619 kcal across six USDA kernel records, a spread of about 6% ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
-          "Protein is 20.8 g per 100 g in dried kernels and 19.3 g in dry roasted kernels without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
-          "Sodium is the real difference: 3 mg per 100 g without salt and 655 mg with salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
-          "At 28 g, dry roasted kernels with salt supply about 8% of the 2,300 mg sodium Daily Value ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
-          "One cup of kernels weighs 140 g, about 818 kcal for dried kernels (USDA portion weight, calculated)."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**USDA FoodData Central** is the US Department of Agriculture's public nutrient database, and the source of every value in this guide.",
-          "**Dry roasted kernels** are roasted without added oil, while **oil roasted kernels** are roasted in oil; USDA lists them as separate records.",
-          "**Macros** is short for macronutrients: protein, fat and carbohydrate, the three nutrients that provide energy in food."
-        ]
-      },
-      {
-        "heading": "How Many Calories Are in a Serving of Sunflower Seeds?",
-        "image": {
-          "src": "/images/ai-raw-vs-roasted-comparison.jpg",
-          "alt": "Two small piles of sunflower seed kernels on a white surface, pale raw kernels on the left and golden roasted kernels on the right",
-          "caption": "Raw and roasted kernels. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "The table scales each USDA record to 28 g. Values are for kernels, not seeds in the shell."
-        ],
-        "table": {
-          "headers": [
-            "Type (USDA record)",
-            "kcal",
-            "Protein (g)",
-            "Fat (g)",
-            "Sodium (mg)"
-          ],
-          "rows": [
-            [
-              "Dried kernels (raw)",
-              "164",
-              "5.8",
-              "14.4",
-              "3"
-            ],
-            [
-              "Dry roasted, no salt",
-              "163",
-              "5.4",
-              "13.9",
-              "1"
-            ],
-            [
-              "Oil roasted, no salt",
-              "166",
-              "5.6",
-              "14.4",
-              "1"
-            ],
-            [
-              "Dry roasted, salt added",
-              "163",
-              "5.4",
-              "13.9",
-              "183"
-            ],
-            [
-              "Oil roasted, salt added",
-              "166",
-              "5.6",
-              "14.4",
-              "85"
-            ],
-            [
-              "Toasted, salt added",
-              "173",
-              "4.8",
-              "15.9",
-              "172"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Does Roasting Change the Calories?",
-        "body": [
-          "Very little. Dried kernels have 584 kcal per 100 g, dry roasted kernels without salt 582 and oil roasted kernels without salt 592. The widest gap across all six records is about 6%, and the highest value belongs to toasted kernels with salt added (619 kcal). Added oil explains part of the difference, so the label on your pack matters more than the word 'roasted'."
-        ]
-      },
-      {
-        "heading": "How Do the Six Types Compare per 100 Calories?",
-        "body": [
-          "Comparing servings by weight can mislead, because added oil and salt change what a gram contains. A fairer test is to divide each nutrient by the energy it arrives with. The table below does that for the six USDA records, and every value is calculated from the per-100 g figures ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
-          "Our analysis of the six records shows that, by this measure, dried kernels (raw) gives the most protein at 3.6 g per 100 kcal, and toasted, salt added gives the least at 2.8 g. Sodium spans a far wider range: 0.5 mg per 100 kcal for oil roasted, no salt against 113 mg for dry roasted, salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated)."
-        ],
-        "table": {
-          "headers": [
-            "Per 100 kcal",
-            "Protein (g)",
-            "Fat (g)",
-            "Sodium (mg)"
-          ],
-          "rows": [
-            [
-              "Dried kernels (raw)",
-              "3.6",
-              "8.8",
-              "1.5"
-            ],
-            [
-              "Dry roasted, no salt",
-              "3.3",
-              "8.6",
-              "0.5"
-            ],
-            [
-              "Oil roasted, no salt",
-              "3.4",
-              "8.7",
-              "0.5"
-            ],
-            [
-              "Dry roasted, salt added",
-              "3.3",
-              "8.6",
-              "113"
-            ],
-            [
-              "Oil roasted, salt added",
-              "3.4",
-              "8.7",
-              "51"
-            ],
-            [
-              "Toasted, salt added",
-              "2.8",
-              "9.2",
-              "99"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "What Does This Mean When You Compare Labels?",
-        "body": [
-          "Two bags of sunflower seeds can look almost identical on the front and still differ by a factor of 222 in sodium per calorie. The nutrition panel on the back is where that shows up, so compare sodium per serving first and calories second.",
-          "For a food brand, the same logic applies to specification sheets. Ask the supplier whether the quoted values describe raw kernels, roasted kernels or salted kernels, and which serving weight they use. A mismatch there is a common reason for numbers that do not reconcile."
-        ]
-      },
-      {
-        "heading": "How Much Protein Do Sunflower Seeds Have?",
-        "body": [
-          "Dried kernels have 20.8 g of protein per 100 g, or 5.8 g in 28 g. Dry roasted kernels without salt have 19.3 g per 100 g (5.4 g per serving), and oil roasted kernels 20.1 g (5.6 g). Fat is the larger macronutrient at 51 g per 100 g for dried kernels, against 20 g of carbohydrate."
-        ]
-      },
-      {
-        "heading": "How Much Sodium Do Salted Sunflower Seeds Add?",
-        "image": {
-          "src": "/images/sunflower-seed-sodium-chart.svg",
-          "alt": "Bar chart of sodium per 28 gram serving of sunflower seed kernels: about 3 milligrams for unsalted types and 85 to 183 milligrams for salted types",
-          "caption": "Sodium per 28 g serving. Source: USDA FoodData Central, calculated by XingYi Trading."
-        },
-        "body": [
-          "Unsalted kernels contain only 1 to 3 mg of sodium per serving. Salted types range from 85 mg (oil roasted, salt added) to 183 mg (dry roasted, salt added). Against the FDA Daily Value of 2,300 mg ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)), the highest of these is 8% in a single 28 g serving."
-        ]
-      },
-      {
-        "heading": "How Many Calories Are in a Cup of Sunflower Seeds?",
-        "body": [
-          "USDA lists one cup of dried kernels as 140 g, which is about 818 kcal at 584 kcal per 100 g. Seeds in the shell are different: one cup with hulls has an edible yield of 46 g, or about 269 kcal of kernel ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated). Measure by weight when you can."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562, 170563, 170564, 169418, 168593 and 168594 for sunflower seed kernels.",
-          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the 2,300 mg sodium reference amount."
-        ]
-      },
-      {
-        "heading": "Which Type of Sunflower Seed Has the Most Calories?",
-        "body": [
-          "Of the six records here, toasted kernels with salt added have the most energy at 619 kcal per 100 g, or 173 kcal in 28 g. Dry roasted kernels with or without salt are lowest at 582 kcal per 100 g."
-        ]
-      },
-      {
-        "heading": "Do These Values Apply to Seeds in the Shell?",
-        "body": [
-          "No. They describe shelled kernels. Weigh only the kernels, or use the edible-yield figure in the cup answer above."
-        ]
-      },
-      {
-        "heading": "Can I Use These Numbers on a Product Label?",
-        "body": [
-          "Treat them as reference data, not label data. A label must reflect your own product, so confirm requirements with your regulatory adviser and your supplier. See [nutrition facts for private-label packaging](/blog/sunflower-seed-nutrition-facts-private-label)."
-        ]
-      },
-      {
-        "heading": "Buying Sunflower Seeds for a Food Business",
-        "body": [
-          "Sourcing seeds for a snack brand? Read the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
-        ]
-      },
-      {
-        "heading": "Related Reading",
-        "list": [
-          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
-          "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)",
-          "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)"
-        ]
-      }
-    ],
-  },
-  {
-    slug: "sunflower-seed-allergen-labeling-us-eu",
-    title: "Sunflower Seed Allergen Labeling: What US and EU Rules Require From Food Brands",
-    seoTitle: "Sunflower Seed Allergen Labeling: US vs EU",
-    seoDescription: "Sunflower is not on the US list of 9 major allergens or the EU list of 14. See how each region requires allergens to be declared and what brands must check.",
-    excerpt: "Sunflower seed is on neither the US nor the EU allergen list, but the products it goes into often contain listed allergens. What the rules require and what to ask your supplier.",
-    category: "Importing & Trade",
-    date: "2027-03-02",
-    author: "James Feng",
-    image: "/images/ai-certification-binder-facility.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "Sunflower seed is not one of the 9 major food allergens recognised in the United States or one of the 14 allergens listed in the European Union, so the seed itself does not trigger a mandatory allergen declaration in either market (FDA; FSAI). The risk for food brands comes from the other ingredients in the product and from cross-contact. Check every ingredient against both lists, including sesame, which became the ninth US major allergen on January 1, 2023.",
-          "A buyer who reads 'sunflower seeds are not a major allergen' and stops there can still ship a mislabelled product. The seed is rarely sold alone: snack mixes, bakery products and spreads combine it with nuts, sesame, wheat or milk. This guide covers what the two rule sets say and what to ask your supplier. It is general information, not legal advice."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "The US recognises 9 major food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "The EU lists 14 allergens in Annex II, including celery, mustard, lupin, molluscs and sulphites above 10 mg/kg ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
-          "Sesame became the 9th US major allergen under the FASTER Act, signed April 23, 2021 and effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "In the US, an allergen's food source must be declared at least once, in parentheses after the ingredient name or in a 'Contains' statement next to the ingredient list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "In the EU, allergens must be emphasised in the ingredients list, for example by font, style or background colour ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "A **major food allergen** is, under US law, one of nine foods for which labels must name the food source. The EU uses a longer list of 14 allergen groups.",
-          "A **Contains statement** is a line such as 'Contains: wheat' placed immediately after or next to the ingredient list, one of two accepted ways to declare US major allergens ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
-          "**Cross-contact** is the unintended transfer of an allergen from one food or surface to another, for example on shared equipment."
-        ]
-      },
-      {
-        "heading": "Is Sunflower Seed a Major Allergen in the US?",
-        "image": {
-          "src": "/images/ai-certification-binder-facility.jpg",
-          "alt": "Open compliance binder and pen on a steel table in a food factory",
-          "caption": "Allergen documentation belongs in the supplier file. Illustrative AI-generated image, not a product photo."
-        },
-        "body": [
-          "No. FDA's list of nine major allergens does not include sunflower ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)). The law requires labels to identify the food source of every major allergen used to make the food, so a product made only from sunflower seeds needs no allergen statement for the seed itself."
-        ]
-      },
-      {
-        "heading": "What Does the EU Require?",
-        "body": [
-          "The EU's Annex II lists 14 allergen groups, among them cereals containing gluten, peanuts, soybeans, milk, nuts, celery, mustard, sesame seeds, sulphites, lupin and molluscs. Sunflower is not one of them ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Where a listed allergen is an ingredient, it must be named in the ingredients list and set apart from the other words."
-        ]
-      },
-      {
-        "heading": "How Do the US and EU Rules Differ?",
-        "image": {
-          "src": "/images/allergen-list-counts.svg",
-          "alt": "Bar chart: the United States recognises 9 major food allergens and the European Union lists 14, with sunflower on neither list",
-          "caption": "Number of listed allergens. Sources: FDA and FSAI."
-        },
-        "table": {
-          "headers": [
-            "Item",
-            "United States",
-            "European Union"
-          ],
-          "rows": [
-            [
-              "Number of listed allergens",
-              "9 major allergens",
-              "14 allergen groups (Annex II)"
-            ],
-            [
-              "Is sunflower listed?",
-              "No",
-              "No"
-            ],
-            [
-              "How declared",
-              "Source named once: in parentheses after the ingredient or in a Contains statement",
-              "Allergen emphasised in the ingredients list (font, style or background)"
-            ],
-            [
-              "Recent change",
-              "Sesame added, effective January 1, 2023",
-              "List set by Annex II of Regulation 1169/2011"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Which Allergens Appear Only on the EU List?",
-        "body": [
-          "Comparing the two lists shows that all nine US major allergens have an EU counterpart, with wheat covered by the EU's cereals containing gluten and the US tree nuts matched by the EU's nuts ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). The EU list is longer by five groups: Celery, mustard, lupin, molluscs and sulphur dioxide and sulphites (above 10 mg/kg). This comparison is our own reading of the two lists.",
-          "The practical effect is easy to miss. A seasoned seed snack that contains mustard or celery in its seasoning would need allergen emphasis in the EU, while neither is a US major allergen under the list above. Brands that sell in both markets should therefore check against the longer list first."
-        ]
-      },
-      {
-        "heading": "What Is a Practical Allergen Check for a Sunflower Seed Product?",
-        "list": [
-          "List every ingredient in the finished product, including seasonings and coatings.",
-          "Check each ingredient against the US list of 9 and the EU list of 14, using the sources below.",
-          "Ask the supplier which allergens are handled in the same facility and on shared equipment.",
-          "Decide who writes the allergen statement for each destination market, and who approves it.",
-          "Keep the supplier's allergen documentation with the specification and the label artwork."
-        ]
-      },
-      {
-        "heading": "Which Listed Allergens Can Share a Product With Sunflower Seeds?",
-        "body": [
-          "Check each ingredient in the finished product against both lists. Seed and nut snack mixes may contain tree nuts, peanuts or sesame, and bakery or bar products may add wheat, milk or soybeans. Sesame deserves a second look for US-bound products because it joined the list only on January 1, 2023, so older labels and specifications may predate it."
-        ]
-      },
-      {
-        "heading": "What Should You Ask a Supplier About Cross-Contact?",
-        "list": [
-          "Which allergens are handled in the same facility, and on which lines?",
-          "Is sesame, peanut or tree nut processed on shared equipment?",
-          "How are lines cleaned between products, and is cleaning verified?",
-          "What allergen documentation can the supplier provide for your specific order?",
-          "Who confirms the final label wording for your destination market?"
-        ]
-      },
-      {
-        "heading": "Who Is Responsible for the Label?",
-        "body": [
-          "Labeling requirements vary by destination, and the importer is generally the one who finalizes them, even when a supplier prints the packaging. Agree early who writes and checks the allergen statement. Our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) explains the labeling decision, and the [documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin) covers the paperwork that travels with the shipment."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods.",
-          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised."
-        ]
-      },
-      {
-        "heading": "Is Sesame Covered by US Allergen Labeling?",
-        "body": [
-          "Yes. The FASTER Act, signed April 23, 2021, made sesame the ninth major allergen, effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies))."
-        ]
-      },
-      {
-        "heading": "Is a Contains Statement Mandatory in the US?",
-        "body": [
-          "Not by itself. FDA accepts two methods: naming the source in parentheses within the ingredient list, or a Contains statement next to the list. One of them must appear at least once on the label."
-        ]
-      },
-      {
-        "heading": "Request Allergen Documentation With Your Quote",
-        "body": [
-          "[Request a quote](/contact#quote-form), state your destination market and ask what allergen documentation is available for your order. For the full buying process, see the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
-        ]
-      },
-      {
-        "heading": "Related Reading",
-        "list": [
-          "[What to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier)",
-          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
-          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)"
         ]
       }
     ],
