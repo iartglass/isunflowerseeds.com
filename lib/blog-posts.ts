@@ -46,6 +46,215 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "bulk-sunflower-seeds-buyers-guide",
+    title: "Bulk Sunflower Seeds: The Complete Buyer's Guide to Series, Packaging, Shipping and Documents",
+    seoTitle: "Bulk Sunflower Seeds: A Complete Buyer's Guide",
+    seoDescription: "Buy bulk sunflower seeds from China: compare 3 series, 25 kg and 50 kg bags, FCL vs LCL, FOB vs CIF, and the documents to confirm before you pay.",
+    excerpt: "How to buy bulk confectionery sunflower seeds from China: which series to specify, how seeds are packed and shipped, which Incoterm fits, and which documents to confirm before you pay.",
+    category: "Importing & Trade",
+    date: "2026-12-15",
+    author: "James Feng",
+    image: "/images/facility-exterior-1.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "heading": "Quick Answer",
+        "body": [
+          "To buy bulk sunflower seeds from China, specify the series (361, 363 or Tongqing No.6), the bag format (25 kg and 50 kg PP woven bags are the standard export sacks), and your destination port. Then choose full or partial container shipping and an Incoterm such as FOB. Confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026)."
+        ]
+      },
+      {
+        "heading": "Key Takeaways",
+        "list": [
+          "Bulk sunflower seeds are classified under HS code 1206, \"Sunflower seeds, whether or not broken\" ([Flexport HS reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
+          "Incoterms are 11 rules issued by the International Chamber of Commerce that set who bears cost and risk in an international sale ([trade.gov](https://www.trade.gov/know-your-incoterms)).",
+          "There is no universal volume at which a full container beats a shared one, so quote both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "XingYi Trading runs 9 production lines with up to 300 tons of daily output (XingYi Trading company data, 2026).",
+          "The phytosanitary certificate and certificate of origin are the two documents most likely to hold up clearance, because government bodies issue them on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
+        ]
+      },
+      {
+        "heading": "Key Terms",
+        "body": [
+          "Bulk sunflower seeds are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags for repacking, private label or distribution, rather than in retail packs.",
+          "MOQ (minimum order quantity) is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
+          "An Incoterm is a standard trade term that splits cost and risk between seller and buyer. FOB (Free on Board) puts the handover at the port of loading, while CIF (Cost, Insurance and Freight) has the seller arrange freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
+        ]
+      },
+      {
+        "body": [
+          "A first bulk order goes wrong when the buyer treats it as a price comparison. The decisions that change your landed cost and your clearance risk are the series, the packaging, the shipping mode, the Incoterm and the paperwork. This guide walks through each one in the order you will face them, and links to the detailed guides where a topic needs more depth."
+        ]
+      },
+      {
+        "heading": "What Should You Specify When Ordering Bulk Sunflower Seeds?",
+        "image": {
+          "src": "/images/product-grading-caliper.jpg",
+          "alt": "Calipers measuring the width of in-shell sunflower seeds during size grading",
+          "caption": "Size grading with calipers: confirm the kernel and shell size you need before quoting. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed and pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
+          "Then write down the grade details you will hold the supplier to: moisture, purity and size. Our guides to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards) and [common seed defects](/blog/sunflower-seed-defects-quality-inspection) list what to ask for."
+        ],
+        "table": {
+          "headers": [
+            "Series",
+            "Positioning",
+            "Typical use"
+          ],
+          "rows": [
+            [
+              "[361 Series](/products/361-series)",
+              "General-purpose, volume-friendly grade with plump, aromatic kernels",
+              "Snacking, baking, garnishing, cost-optimized private label"
+            ],
+            [
+              "[363 Series](/products/363-series)",
+              "Premium raw grade, organically grown and pesticide-free",
+              "Branded and health-focused retail lines"
+            ],
+            [
+              "[Tongqing No.6](/products/tq6-series)",
+              "Named cultivar with a larger kernel and richer flavor",
+              "Premium and large-kernel product lines"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Are Bulk Sunflower Seeds Packed?",
+        "image": {
+          "src": "/images/packaging-worker.jpg",
+          "alt": "Worker filling a PP woven sack with sunflower seeds at an automated bagging station",
+          "caption": "Automated bagging into PP woven sacks. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment, and laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
+          "Private-label printing is generally possible, but minimums, artwork lead times and cost vary by order, so confirm them in writing. See [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) and [vacuum-sealed vs standard bags](/blog/vacuum-sealed-vs-standard-export-bags)."
+        ]
+      },
+      {
+        "heading": "Should You Ship a Full Container or a Shared One?",
+        "body": [
+          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. The two are not separated by a fixed volume: one freight source states there is no universal threshold at which FCL becomes cheaper, and advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "This is why supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
+        ]
+      },
+      {
+        "heading": "Which Incoterm Should You Choose for a First Order?",
+        "body": [
+          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
+          "Whichever you pick, compare quotes on the same term. Our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) explains what moves the price."
+        ]
+      },
+      {
+        "heading": "What Documents Does a Bulk Shipment Need?",
+        "body": [
+          "Confirm the document list before production, not after the container is loaded. The table covers the documents that most often decide whether cargo clears on time."
+        ],
+        "table": {
+          "headers": [
+            "Document",
+            "What it does",
+            "Where to read more"
+          ],
+          "rows": [
+            [
+              "Phytosanitary certificate",
+              "Attests that plant products are inspected and meet the importing country's pest requirements ([USDA APHIS](https://www.aphis.usda.gov/plant-exports/certification))",
+              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
+            ],
+            [
+              "Certificate of origin",
+              "States the country where the goods were produced",
+              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
+            ],
+            [
+              "HS code on customs paperwork",
+              "Classifies the goods as HS 1206 for duty and declaration",
+              "[HS codes and export documents](/blog/sunflower-seed-hs-codes-export-documentation)"
+            ],
+            [
+              "FDA Prior Notice (US-bound food)",
+              "Must be filed with FDA before the shipment arrives ([FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods))",
+              "[FDA filing guide](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do You Verify a Supplier Before Paying?",
+        "body": [
+          "Ask for the certifications the supplier holds, request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion ([third-party inspection guide](/blog/third-party-inspection-sunflower-seeds)).",
+          "Our checklist of [questions to ask a supplier](/blog/what-to-ask-sunflower-seed-supplier) and the comparison of [buying direct versus through a trading company](/compare) cover the rest."
+        ]
+      },
+      {
+        "heading": "What Does the Ordering Process Look Like?",
+        "image": {
+          "src": "/images/bulk-order-process.svg",
+          "alt": "Four-step bulk order process: request a quote, review samples, confirm order terms, production and shipment",
+          "caption": "The four-step order process as run by XingYi Trading (XingYi Trading company data, 2026)."
+        },
+        "body": [
+          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. Put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
+        ]
+      },
+      {
+        "heading": "Sources and Further Reading",
+        "list": [
+          "[Flexport: HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the tariff heading and statistical subheadings for sunflower seeds.",
+          "[trade.gov: Know your Incoterms](https://www.trade.gov/know-your-incoterms) - what Incoterms are and who issues them.",
+          "[iContainers: LCL vs FCL](https://www.icontainers.com/help/lcl-vs-fcl/) - how to compare shared and full-container shipping.",
+          "[USDA APHIS: phytosanitary certification](https://www.aphis.usda.gov/plant-exports/certification) - what a phytosanitary certificate attests."
+        ]
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "body": [
+          "Short answers to the questions buyers ask most often before a first bulk order."
+        ]
+      },
+      {
+        "heading": "What Is the Minimum Order for Bulk Sunflower Seeds?",
+        "body": [
+          "It depends on the series, packaging and container choice, and some suppliers treat MOQ as a starting point for negotiation. State your target volume and destination in the quote request and the supplier will confirm what is possible. See [MOQ explained](/blog/sunflower-seed-moq-explained)."
+        ]
+      },
+      {
+        "heading": "Can You Get Private-Label Packaging on a Bulk Order?",
+        "body": [
+          "Private-label printing and custom bag specifications are generally available, with minimums and lead times that vary by order. Send your bag size, branding and volume with the quote request so they can be confirmed together."
+        ]
+      },
+      {
+        "heading": "Which Series Suits a First Order?",
+        "body": [
+          "Pick by end use: 361 for volume and cost-optimized lines, 363 for premium raw and health-focused retail, and Tongqing No.6 for larger-kernel appeal. Request samples of two series if you are undecided. See the [three-series comparison](/blog/361-vs-363-vs-tongqing-no6-comparison)."
+        ]
+      },
+      {
+        "heading": "Request a Bulk Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your series, target volume, bag format and destination port, and we will confirm specifications and shipping options for your order."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)",
+          "[How to write an RFQ for bulk sunflower seeds](/blog/how-to-write-rfq-bulk-sunflower-seeds)",
+          "[T/T vs letter of credit for sunflower seeds](/blog/tt-vs-letter-of-credit-sunflower-seeds)"
+        ]
+      }
+    ],
+  },
+  {
     slug: "sunflower-seeds-recipes",
     title: "Sunflower Seed Recipes: A Complete Cooking Guide",
     seoTitle: "Sunflower Seed Recipes: 8 Creative Cooking Ideas",
