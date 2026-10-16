@@ -168,7 +168,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-pesto-and-seed-butter",
     title: "Sunflower Seed Pesto and Seed Butter: Two Recipes Worth Making",
-    seoTitle: "Sunflower Seed Pesto & Seed Butter: Two Easy Recipes",
+    seoTitle: "Sunflower Seed Pesto & Seed Butter Recipes",
     seoDescription:
       "Two recipes worth making with sunflower seeds: a nutty, dairy-free pesto and a nut-free seed butter spread, with ingredient ratios and storage tips.",
     excerpt:
@@ -272,7 +272,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seeds-cosmetic-industry",
     title: "Sunflower Seeds in Beauty: Cosmetics, Skincare, and Hair Care",
-    seoTitle: "Sunflower Seeds in Cosmetics, Skincare & Hair Care",
+    seoTitle: "Sunflower Seeds in Cosmetics & Skincare",
     seoDescription:
       "How sunflower seed oil is used in cosmetics, skincare, and hair care, what research says about its benefits, and the ingredients that make it effective.",
     excerpt:
@@ -369,7 +369,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-festivals",
     title: "Sunflower Seed Festivals: Celebrating Nature's Golden Bounty",
-    seoTitle: "Sunflower Festivals & Seed Culture in Bayannur, China",
+    seoTitle: "Sunflower Festivals & Culture in Bayannur",
     seoDescription:
       "Sunflower festivals and cultural celebrations in Bayannur, Inner Mongolia, from the Wuyuan sunflower park to bloom-season photography tourism.",
     excerpt:
@@ -465,7 +465,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "harvesting-sunflower-seeds-drying",
     title: "Drying and Storing Sunflower Seeds: A Complete Guide",
-    seoTitle: "Drying and Storing Sunflower Seeds: A Complete Guide",
+    seoTitle: "Drying and Storing Sunflower Seeds Guide",
     seoDescription:
       "How to dry and store sunflower seeds properly, the target moisture levels that prevent mold and spoilage, and practical methods for small and large harvests.",
     excerpt:
@@ -569,7 +569,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "harvesting-sunflower-seeds-methods",
     title: "Harvesting Sunflower Seeds: Timing and Methods",
-    seoTitle: "Harvesting Sunflower Seeds: Timing, Cues & Methods",
+    seoTitle: "Harvesting Sunflower Seeds: Timing & Methods",
     seoDescription:
       "Visual cues, moisture readings, and equipment used to time and carry out a sunflower harvest, from hand-cut heads to combine harvesting at scale.",
     excerpt:
@@ -671,7 +671,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-nutrition-benefits",
     title: "Sunflower Seed Nutrition: Immune Support, Weight Management, and Minerals",
-    seoTitle: "Sunflower Seed Nutrition: Vitamin E, Protein & Minerals",
+    seoTitle: "Sunflower Seed Nutrition: Vitamin E & Protein",
     seoDescription:
       "Vitamin E, protein, healthy fats, and minerals in sunflower seeds: the full nutritional profile explained, plus immune and weight-management benefits.",
     excerpt:
@@ -798,9 +798,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "how-to-import-sunflower-seeds-from-china",
     title: "How to Import Sunflower Seeds From China: A Complete Buyer's Guide",
-    seoTitle: "How to Import Sunflower Seeds From China: Complete Guide",
+    seoTitle: "How to Import Sunflower Seeds From China",
     seoDescription:
-      "The full process for importing sunflower seeds from China: supplier vetting, samples, payment terms, shipping, and customs documentation for first-time buyers.",
+      "The full process for importing sunflower seeds from China: supplier vetting, samples, payment terms, shipping, and customs documents for first-time buyers.",
     excerpt:
       "From vetting a supplier to clearing customs — the full process a first-time importer goes through to bring bulk sunflower seeds from China into the US, EU, or another destination market.",
     category: "Importing & Trade",
@@ -919,7 +919,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-hs-codes-export-documentation",
     title: "Sunflower Seed HS Codes & Export Documentation: What Buyers Need to Know",
-    seoTitle: "Sunflower Seed HS Codes & Export Documentation Guide",
+    seoTitle: "Sunflower Seed HS Codes & Export Documents",
     seoDescription:
       "The HS code for sunflower seeds and the export documents a shipment needs to clear customs: invoice, packing list, phytosanitary and origin certificates.",
     excerpt:
@@ -1047,7 +1047,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "361-vs-363-vs-tongqing-no6-comparison",
     title: "361 vs. 363 vs. Tongqing No.6: Choosing the Right Series for Your Product Line",
-    seoTitle: "361 vs 363 vs Tongqing No.6 Sunflower Seeds Compared",
+    seoTitle: "361 vs 363 vs Tongqing No.6 Compared",
     seoDescription:
       "Compare 361, 363, and Tongqing No.6 sunflower seed series by kernel size, flavor, price, and use, to choose the right series for your product line.",
     excerpt:
@@ -1158,7 +1158,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "what-to-ask-sunflower-seed-supplier",
     title: "What Buyers Should Ask Before Choosing a Sunflower Seed Supplier",
-    seoTitle: "What to Ask a Sunflower Seed Supplier Before You Order",
+    seoTitle: "What to Ask a Sunflower Seed Supplier",
     seoDescription:
       "Certifications, audits, samples, and red flags to check before choosing a sunflower seed supplier, plus the questions that separate factories from middlemen.",
     excerpt:
@@ -1272,7 +1272,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-packaging-options-bulk-export",
     title: "Sunflower Seed Packaging Options for Bulk Export: Bag Sizes, Private Label, and MOQ",
-    seoTitle: "Sunflower Seed Bulk Export Packaging: Sizes & Private Label",
+    seoTitle: "Sunflower Seed Bulk Export Packaging Options",
     seoDescription:
       "Bag sizes, private-label options, and MOQ considerations for bulk sunflower seed export: 25 kg and 50 kg PP woven bags, FIBC jumbo bags, and more.",
     excerpt:
@@ -1393,9 +1393,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "phytosanitary-certificate-certificate-of-origin",
     title: "Phytosanitary Certificates & Certificate of Origin: A Buyer's Documentation Checklist",
-    seoTitle: "Phytosanitary Certificate & Certificate of Origin Checklist",
+    seoTitle: "Phytosanitary & Origin Certificate Checklist",
     seoDescription:
-      "What phytosanitary certificates and certificates of origin certify, who issues them for China exports, and a documentation checklist for sunflower seed buyers.",
+      "What phytosanitary certificates and certificates of origin certify, who issues them for China exports, and a documentation checklist for buyers.",
     excerpt:
       "What these two documents actually certify, who issues them, and why importing countries require them specifically for seed shipments.",
     category: "Importing & Trade",
@@ -1498,7 +1498,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "fob-pricing-sunflower-seeds",
     title: "FOB Pricing for Sunflower Seeds: How It's Calculated and What Affects the Price",
-    seoTitle: "FOB Pricing for Sunflower Seeds: How It's Calculated",
+    seoTitle: "FOB Pricing for Sunflower Seeds Explained",
     seoDescription:
       "How FOB price is calculated for bulk sunflower seeds, which market factors such as harvest, grade, and packaging move it, and how to compare supplier quotes.",
     excerpt:
@@ -1605,7 +1605,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-moq-explained",
     title: "Sunflower Seed MOQ Explained: What \"Minimum Order Quantity\" Really Means",
-    seoTitle: "Sunflower Seed MOQ Explained: Minimum Order Quantity Guide",
+    seoTitle: "Sunflower Seed MOQ Explained for Bulk Buyers",
     seoDescription:
       "What minimum order quantity really means in bulk sunflower seed export, what drives it, and how buyers can negotiate MOQ for trials and private-label orders.",
     excerpt:
@@ -1705,7 +1705,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "incoterms-sunflower-seeds-fob-cif",
     title: "FOB, CIF, and Incoterms Explained for First-Time Sunflower Seed Importers",
-    seoTitle: "FOB, CIF & Incoterms for First-Time Sunflower Seed Importers",
+    seoTitle: "FOB, CIF & Incoterms for Sunflower Seed Imports",
     seoDescription:
       "FOB, CIF, and other Incoterms explained plainly for first-time sunflower seed importers, with who pays freight, insurance, and risk at each stage.",
     excerpt:
@@ -1805,7 +1805,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sourcing-sunflower-seeds-middle-east",
     title: "Sourcing Sunflower Seeds for the Middle East Market: A Trader's Guide",
-    seoTitle: "Sourcing Sunflower Seeds for the Middle East: Trader's Guide",
+    seoTitle: "Sourcing Sunflower Seeds for the Middle East",
     seoDescription:
       "UAE redistribution hubs, GCC snack market growth, and how traders source bulk sunflower seeds for the Middle East: routes, documents, and key checks.",
     excerpt:
@@ -1903,7 +1903,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sourcing-sunflower-seeds-southeast-asia",
     title: "Sourcing Confectionery Sunflower Seeds for Southeast Asia's Snack Industry",
-    seoTitle: "Sourcing Sunflower Seeds for Southeast Asia's Snack Industry",
+    seoTitle: "Sourcing Sunflower Seeds for Southeast Asia",
     seoDescription:
       "Growing snack demand across Southeast Asia and what it means for confectionery sunflower seed buyers: sourcing routes, ports, lead times, and packaging.",
     excerpt:
@@ -1995,7 +1995,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sourcing-sunflower-seeds-north-america",
     title: "A North American Buyer's Guide to Sourcing Bulk Sunflower Seeds From China",
-    seoTitle: "Sourcing Bulk Sunflower Seeds From China for North America",
+    seoTitle: "Sourcing Sunflower Seeds for North America",
     seoDescription:
       "How US and Canadian snack brands source bulk sunflower seeds from China: documents, FDA considerations, shipping lanes, and what buyers should confirm first.",
     excerpt:
@@ -2087,7 +2087,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "confectionery-vs-oil-type-sunflower-seeds",
     title: "Confectionery vs. Oil-Type Sunflower Seeds: Why the Distinction Matters for Buyers",
-    seoTitle: "Confectionery vs Oil-Type Sunflower Seeds: Key Differences",
+    seoTitle: "Confectionery vs Oil-Type Sunflower Seeds",
     seoDescription:
       "The real difference between confectionery and oil-type sunflower seeds in kernel size, stripes, use, and price, and why the distinction matters for importers.",
     excerpt:
@@ -2185,7 +2185,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "raw-vs-roasted-sunflower-seeds",
     title: "Raw vs. Roasted Sunflower Seeds: Which Form Do Bulk Buyers Need?",
-    seoTitle: "Raw vs Roasted Sunflower Seeds: Which Do Bulk Buyers Need?",
+    seoTitle: "Raw vs Roasted Sunflower Seeds for Bulk Buyers",
     seoDescription:
       "Compare raw and roasted sunflower seeds for bulk buyers: shelf life, processing, flavor, private-label options, and which suits snack or retail brands.",
     excerpt:
@@ -2283,7 +2283,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-moisture-content-purity-standards",
     title: "Sunflower Seed Moisture Content & Purity Standards: What the Numbers Mean",
-    seoTitle: "Sunflower Seed Moisture Content & Purity Standards Explained",
+    seoTitle: "Sunflower Seed Moisture & Purity Standards",
     seoDescription:
       "Why moisture content is critical for safe sunflower seed storage and shipping, and what the benchmark moisture and purity ranges mean for buyers.",
     excerpt:
@@ -2381,7 +2381,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-defects-quality-inspection",
     title: "Common Sunflower Seed Defects and Quality Issues: A Buyer's Inspection Checklist",
-    seoTitle: "Sunflower Seed Defects: Buyer's Quality Inspection Checklist",
+    seoTitle: "Sunflower Seed Defects: Inspection Checklist",
     seoDescription:
       "The common quality defects buyers and inspectors check for in bulk sunflower seed shipments, with a practical inspection checklist for buyers.",
     excerpt:
@@ -2483,7 +2483,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "container-loading-fcl-lcl-sunflower-seeds",
     title: "Container Loading Basics for Bulk Sunflower Seed Orders: FCL vs. LCL",
-    seoTitle: "FCL vs LCL for Bulk Sunflower Seed Orders: Container Basics",
+    seoTitle: "FCL vs LCL for Bulk Sunflower Seed Orders",
     seoDescription:
       "The difference between full container load and less-than-container load for bulk sunflower seeds, with typical loading volumes, costs, and when to pick each.",
     excerpt:
@@ -2589,9 +2589,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-shelf-life",
     title: "How Long Do Sunflower Seeds Stay Fresh? Shelf Life for Bulk and Redistribution Buyers",
-    seoTitle: "Sunflower Seed Shelf Life: How Long Do They Stay Fresh?",
+    seoTitle: "How Long Do Sunflower Seeds Last? Shelf Life",
     seoDescription:
-      "What food-science research says about sunflower seed shelf life for bulk and redistribution buyers: storage conditions, moisture, packaging, and spoilage signs.",
+      "What food-science research says about sunflower seed shelf life for bulk and redistribution buyers: storage, moisture, packaging, and spoilage signs.",
     excerpt:
       "What food-science research says about sunflower seed shelf life, and the storage factors that determine whether a batch lasts months or years.",
     category: "Quality & Sourcing",
@@ -2690,7 +2690,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "vacuum-sealed-vs-standard-export-bags",
     title: "Vacuum-Sealed vs. Standard Export Bags: Packaging Choices That Affect Freshness",
-    seoTitle: "Vacuum-Sealed vs Standard Export Bags for Sunflower Seeds",
+    seoTitle: "Vacuum-Sealed vs Standard Export Bags",
     seoDescription:
       "How vacuum sealing compares to standard export bags for sunflower seed freshness, shelf life, cost, and shipping, with guidance on choosing for your market.",
     excerpt:
@@ -2789,7 +2789,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "non-gmo-pesticide-residue-testing",
     title: "Non-GMO Status and Pesticide-Residue Testing: What Sunflower Seed Buyers Should Ask About",
-    seoTitle: "Non-GMO & Pesticide Residue Testing for Sunflower Seeds",
+    seoTitle: "Non-GMO & Pesticide Testing for Sunflower Seeds",
     seoDescription:
       "What non-GMO verification and pesticide-residue testing involve for bulk sunflower seed buyers, which reports to request, and how to read the results.",
     excerpt:
@@ -2887,7 +2887,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "seasonal-harvest-timing-sunflower-seed-availability",
     title: "How Seasonal Harvest Timing Affects Sunflower Seed Availability and Pricing",
-    seoTitle: "Sunflower Seed Harvest Timing: Availability & Pricing",
+    seoTitle: "Sunflower Seed Harvest Timing & Availability",
     seoDescription:
       "How the Inner Mongolia harvest calendar affects bulk sunflower seed availability and price, and when importers should place orders to secure supply.",
     excerpt:
@@ -2985,7 +2985,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "bayannur-inner-mongolia-sunflower-capital",
     title: "Bayannur, Inner Mongolia: Why China's Sunflower Capital Produces a Different Quality of Seed",
-    seoTitle: "Bayannur, Inner Mongolia: China's Sunflower Seed Capital",
+    seoTitle: "Bayannur: China's Sunflower Seed Capital",
     seoDescription:
       "Why Bayannur, Inner Mongolia produces a different quality of confectionery sunflower seed: climate, soil, harvest scale, and what it means for exporters.",
     excerpt:
@@ -3083,7 +3083,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "china-sunflower-seed-export-statistics",
     title: "Sunflower Seed Export Statistics: Bayannur and China's Role in the Global Market",
-    seoTitle: "China Sunflower Seed Export Statistics & Bayannur's Role",
+    seoTitle: "China Sunflower Seed Export Statistics",
     seoDescription:
       "Trade data on China's confectionery sunflower seed exports, top destination markets, and why Bayannur, Inner Mongolia anchors global supply.",
     excerpt:
@@ -3181,7 +3181,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "how-to-write-rfq-bulk-sunflower-seeds",
     title: "How to Write an RFQ for Bulk Sunflower Seeds That Gets a Fast, Accurate Quote",
-    seoTitle: "How to Write an RFQ for Bulk Sunflower Seeds: What to Include",
+    seoTitle: "How to Write an RFQ for Bulk Sunflower Seeds",
     seoDescription:
       "What to include in a request for quotation so a sunflower seed supplier can reply fast with an accurate price: grade, volume, packaging, Incoterms, port.",
     excerpt:
@@ -3284,7 +3284,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "how-to-choose-freight-forwarder-sunflower-seeds",
     title: "How to Choose a Freight Forwarder for Importing Sunflower Seeds From China",
-    seoTitle: "How to Choose a Freight Forwarder for China Seed Imports",
+    seoTitle: "Choosing a Freight Forwarder for China Imports",
     seoDescription:
       "What to check before choosing a freight forwarder for bulk sunflower seeds from China: food-cargo experience, container options, customs help, and fees.",
     excerpt:
@@ -3391,7 +3391,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "tt-vs-letter-of-credit-sunflower-seeds",
     title: "T/T vs. Letter of Credit: Choosing Payment Terms for a Sunflower Seed Import Order",
-    seoTitle: "T/T vs Letter of Credit for Sunflower Seed Imports",
+    seoTitle: "T/T vs Letter of Credit for Sunflower Seeds",
     seoDescription:
       "Compare T/T and letter of credit payment terms for bulk sunflower seed import orders: cost, risk, timing, and which suits first-time and repeat buyers.",
     excerpt:
@@ -3494,7 +3494,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "sunflower-seed-food-fraud-authenticity",
     title: "How Buyers Verify They're Getting Real Confectionery Sunflower Seeds, Not Mislabeled Product",
-    seoTitle: "Verify Authentic Confectionery Sunflower Seeds | Buyer Guide",
+    seoTitle: "Verify Authentic Confectionery Sunflower Seeds",
     seoDescription:
       "How bulk buyers verify a shipment is genuine confectionery sunflower seed and not mislabeled or adulterated: documents, lab tests, and inspection checks.",
     excerpt:
@@ -3600,7 +3600,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "third-party-inspection-sunflower-seeds",
     title: "Do You Need a Third-Party Inspection for Your Sunflower Seed Order?",
-    seoTitle: "Third-Party Inspection for Sunflower Seed Orders: Guide",
+    seoTitle: "Third-Party Inspection for Sunflower Seed Orders",
     seoDescription:
       "What a third-party pre-shipment inspection covers for bulk sunflower seed orders, when it is worth the cost, and how to arrange SGS or Intertek checks.",
     excerpt:
