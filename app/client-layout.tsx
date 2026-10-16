@@ -50,7 +50,10 @@ export default function ClientLayout({
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
           <div className="flex min-h-screen flex-col">
             <Navbar />
-            <AnimatePresence mode="wait">
+            {/* initial={false}: without it the server HTML ships <main style="opacity:0"> and nothing
+                is visible (so the LCP element cannot paint) until JavaScript hydrates. Route-change
+                transitions are unchanged. */}
+            <AnimatePresence mode="wait" initial={false}>
               <motion.main
                 key={pathname}
                 initial={{ opacity: 0, y: 20 }}
