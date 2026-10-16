@@ -6,12 +6,17 @@ import { Button } from "@/components/ui/button"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { SchemaWebPage, SchemaBreadcrumb, SchemaFAQ, SchemaItemList } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "Wholesale Sunflower Seed Products — 361, 363 & TQ6"
+const pageDescription =
+  "Wholesale sunflower seed series for bulk buyers — 361, 363, and Tongqing No.6 (TQ6). Organic, non-GMO, confectionery-grade, processed in Bayannur, Inner Mongolia."
 
 export const metadata = {
-  title: "Wholesale Sunflower Seed Products — 361, 363 & TQ6",
-  description:
-    "Wholesale sunflower seed series for bulk buyers — 361, 363, and Tongqing No.6 (TQ6). Organic, non-GMO, confectionery-grade, processed in Bayannur, Inner Mongolia.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/products" },
+  ...pageSocial(pageTitle, pageDescription, "/products"),
 }
 
 export default function ProductsPage() {

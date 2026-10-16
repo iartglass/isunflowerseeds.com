@@ -15,12 +15,17 @@ import {
 
 import { Button } from "@/components/ui/button"
 import { SchemaWebPage, SchemaBreadcrumb } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "About Us — Sunflower Seed Exporter Since 2014"
+const pageDescription =
+  "Sunflower seed exporter based in Bayannur, Inner Mongolia since 2014 — 9 production lines, 300 tons daily, 16-stage quality control, exporting worldwide."
 
 export const metadata = {
-  title: "About Us — Sunflower Seed Exporter Since 2014",
-  description:
-    "Sunflower seed exporter based in Bayannur, Inner Mongolia since 2014 — 9 production lines, 300 tons daily, 16-stage quality control, exporting worldwide.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/about" },
+  ...pageSocial(pageTitle, pageDescription, "/about"),
 }
 
 export default function AboutPage() {

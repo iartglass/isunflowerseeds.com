@@ -7,12 +7,17 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { getPublishedBlogPosts } from "@/lib/blog-posts"
 import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "Tongqing No.6 (TQ6) Sunflower Seeds — Large Kernel"
+const pageDescription =
+  "Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a large-kernel variety, organically grown and non-GMO. Processed in Bayannur for bulk export."
 
 export const metadata = {
-  title: "Tongqing No.6 (TQ6) Sunflower Seeds — Large Kernel",
-  description:
-    "Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a large-kernel variety, organically grown and non-GMO. Processed in Bayannur for bulk export.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/products/tq6-series" },
+  ...pageSocial(pageTitle, pageDescription, "/products/tq6-series"),
 }
 
 const relatedPosts = getPublishedBlogPosts().filter((p) => p.relatedSeries?.includes("tq6-series")).slice(0, 3)

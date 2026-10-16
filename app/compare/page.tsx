@@ -6,12 +6,17 @@ import { Button } from "@/components/ui/button"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SchemaWebPage, SchemaBreadcrumb, SchemaFAQ } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "Buying Direct vs. a Trading Company or Marketplace"
+const pageDescription =
+  "An honest comparison of buying sunflower seeds direct from the factory versus sourcing through a trading company or B2B marketplace listing."
 
 export const metadata = {
-  title: "Buying Direct vs. a Trading Company or Marketplace",
-  description:
-    "An honest comparison of buying sunflower seeds direct from the factory versus sourcing through a trading company or B2B marketplace listing.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/compare" },
+  ...pageSocial(pageTitle, pageDescription, "/compare"),
 }
 
 export default function ComparePage() {

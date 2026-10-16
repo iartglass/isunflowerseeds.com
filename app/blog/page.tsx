@@ -7,16 +7,21 @@ import { blogCategories, getPublishedBlogPosts } from "@/lib/blog-posts"
 import { BlogGrid } from "@/components/blog/blog-grid"
 import { FeaturedPost } from "@/components/blog/featured-post"
 import { SchemaBreadcrumb, SchemaItemList } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
 
 // Publish dates are scheduled across Jul-Oct 2026 (see guazi/seo-plan/BLOG-CALENDAR-Q3-2026.md).
 // Dynamic rendering ensures future-dated posts appear automatically on their date.
 export const dynamic = "force-dynamic"
 
+const pageTitle = "Sunflower Seed Blog & Resources"
+const pageDescription =
+  "Recipes, harvesting guides, nutrition facts, and beauty uses for sunflower seeds — from an exporter based in Bayannur, Inner Mongolia."
+
 export const metadata = {
-  title: "Sunflower Seed Blog & Resources",
-  description:
-    "Recipes, harvesting guides, nutrition facts, and beauty uses for sunflower seeds — from an exporter based in Bayannur, Inner Mongolia.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/blog" },
+  ...pageSocial(pageTitle, pageDescription, "/blog"),
 }
 
 export default function BlogPage() {

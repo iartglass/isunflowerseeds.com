@@ -28,6 +28,22 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     title: { absolute: post.seoTitle ?? post.title },
     description: post.seoDescription ?? post.excerpt,
     alternates: { canonical: `/blog/${post.slug}` },
+    openGraph: {
+      type: "article" as const,
+      siteName: "XingYi Trading",
+      title: post.seoTitle ?? post.title,
+      description: post.seoDescription ?? post.excerpt,
+      url: `/blog/${post.slug}`,
+      publishedTime: post.date,
+      authors: [post.author],
+      images: [{ url: post.image, alt: post.title }],
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title: post.seoTitle ?? post.title,
+      description: post.seoDescription ?? post.excerpt,
+      images: [post.image],
+    },
   }
 }
 

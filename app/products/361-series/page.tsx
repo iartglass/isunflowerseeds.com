@@ -7,12 +7,17 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { getPublishedBlogPosts } from "@/lib/blog-posts"
 import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "361 Series Sunflower Seeds — Bulk & Wholesale"
+const pageDescription =
+  "361 Series sunflower seeds for bulk buyers — plump, aromatic kernels for snacking, baking, and garnishing. Processed in Bayannur, Inner Mongolia."
 
 export const metadata = {
-  title: "361 Series Sunflower Seeds — Bulk & Wholesale",
-  description:
-    "361 Series sunflower seeds for bulk buyers — plump, aromatic kernels for snacking, baking, and garnishing. Processed in Bayannur, Inner Mongolia.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/products/361-series" },
+  ...pageSocial(pageTitle, pageDescription, "/products/361-series"),
 }
 
 const relatedPosts = getPublishedBlogPosts().filter((p) => p.relatedSeries?.includes("361-series")).slice(0, 3)

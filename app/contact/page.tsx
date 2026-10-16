@@ -4,12 +4,17 @@ import { Mail, MapPin, Phone, MessageSquare, ClipboardCheck, Truck } from "lucid
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { SchemaWebPage, SchemaBreadcrumb, SchemaFAQ } from "@/components/schema"
 import { ContactForm } from "@/components/contact-form"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "Contact Us — Request a Sunflower Seed Quote"
+const pageDescription =
+  "Request pricing, samples, and shipping details for bulk sunflower seed orders. Based in Bayannur, Inner Mongolia — exporting worldwide."
 
 export const metadata = {
-  title: "Contact Us — Request a Sunflower Seed Quote",
-  description:
-    "Request pricing, samples, and shipping details for bulk sunflower seed orders. Based in Bayannur, Inner Mongolia — exporting worldwide.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/contact" },
+  ...pageSocial(pageTitle, pageDescription, "/contact"),
 }
 
 export default function ContactPage() {

@@ -7,12 +7,17 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { getPublishedBlogPosts } from "@/lib/blog-posts"
 import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
+import { pageSocial } from "@/lib/seo"
+
+const pageTitle = "363 Series Premium Raw Sunflower Seeds"
+const pageDescription =
+  "363 Series premium raw sunflower seeds for bulk buyers — organic, non-GMO, rich in protein and healthy fats. Processed in Bayannur, Inner Mongolia."
 
 export const metadata = {
-  title: "363 Series Premium Raw Sunflower Seeds",
-  description:
-    "363 Series premium raw sunflower seeds for bulk buyers — organic, non-GMO, rich in protein and healthy fats. Processed in Bayannur, Inner Mongolia.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: { canonical: "/products/363-series" },
+  ...pageSocial(pageTitle, pageDescription, "/products/363-series"),
 }
 
 const relatedPosts = getPublishedBlogPosts().filter((p) => p.relatedSeries?.includes("363-series")).slice(0, 3)
