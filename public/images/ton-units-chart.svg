@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 246" role="img" aria-labelledby="t d">
+<title id="t">Three different tons in kilograms</title><desc id="d">Bar chart: a metric ton is 1,000 kg, a short ton is 907.2 kg and a long ton is 1,016.0 kg.</desc>
+<rect width="960" height="246" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Three different tons in kilograms</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Short ton (2,000 lb)</text>
+<rect x="260" y="70" width="429" height="30" rx="4" fill="#d4740e"/>
+<text x="699" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">907.2 kg</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Metric ton (1,000 kg)</text>
+<rect x="260" y="122" width="473" height="30" rx="4" fill="#1e3a5f"/>
+<text x="743" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1,000.0 kg</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Long ton (2,240 lb)</text>
+<rect x="260" y="174" width="480" height="30" rx="4" fill="#b8860b"/>
+<text x="750" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1,016.0 kg</text>
+<text x="30" y="232" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: NIST Handbook 44-2026, Appendix C. Conversions calculated by XingYi Trading.</text></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 402" role="img" aria-labelledby="t d">
+<title id="t">China's sunflower seed exports to three Southeast Asian markets, kt</title><desc id="d">Bar chart comparing 2019 and 2024 export volume to Viet Nam (26 and 26 kt), Thailand (8 and 14 kt) and Indonesia (12 and 7 kt).</desc>
+<rect width="960" height="402" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">China's sunflower seed exports to three Southeast Asian markets, kt</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Viet Nam 2019</text>
+<rect x="190" y="70" width="429" height="30" rx="4" fill="#1e3a5f"/>
+<text x="629" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">26.4 kt</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Viet Nam 2024</text>
+<rect x="190" y="122" width="428" height="30" rx="4" fill="#b8860b"/>
+<text x="628" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">26.4 kt</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Thailand 2019</text>
+<rect x="190" y="174" width="126" height="30" rx="4" fill="#1e3a5f"/>
+<text x="326" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">7.7 kt</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Thailand 2024</text>
+<rect x="190" y="226" width="225" height="30" rx="4" fill="#b8860b"/>
+<text x="425" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">13.8 kt</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Indonesia 2019</text>
+<rect x="190" y="278" width="195" height="30" rx="4" fill="#1e3a5f"/>
+<text x="395" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">12.0 kt</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Indonesia 2024</text>
+<rect x="190" y="330" width="117" height="30" rx="4" fill="#b8860b"/>
+<text x="317" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">7.2 kt</text>
+<text x="30" y="388" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: UN Comtrade, HS 1206, China-reported exports by partner.</text></svg>

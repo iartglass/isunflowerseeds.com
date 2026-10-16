@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" role="img" aria-labelledby="t d">
+<title id="t">Share of US confection seed over the 20/64 screen</title><desc id="d">Bar chart of the percentage of confection sunflower seed over the 20/64 size, crop years 2020 to 2024, from the NSA crop quality report.</desc>
+<rect width="960" height="350" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Share of US confection seed over the 20/64 screen</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2020</text>
+<rect x="300" y="70" width="417" height="30" rx="4" fill="#b8860b"/>
+<text x="727" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">80.2%</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2021</text>
+<rect x="300" y="122" width="444" height="30" rx="4" fill="#b8860b"/>
+<text x="754" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">85.4%</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2022</text>
+<rect x="300" y="174" width="430" height="30" rx="4" fill="#b8860b"/>
+<text x="740" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">82.6%</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2023</text>
+<rect x="300" y="226" width="421" height="30" rx="4" fill="#b8860b"/>
+<text x="731" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">80.9%</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2024</text>
+<rect x="300" y="278" width="444" height="30" rx="4" fill="#1e3a5f"/>
+<text x="754" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">85.3%</text>
+<text x="30" y="336" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: NSA 2024 U.S. Sunflower Crop Quality Report (nonoil seed samples). United States crop.</text></svg>

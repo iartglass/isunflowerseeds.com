@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 246" role="img" aria-labelledby="t d">
+<title id="t">Magnesium per 28 g: kernels, seed butter and tahini</title><desc id="d">Bar chart of magnesium in milligrams per 28 g serving: dried sunflower kernels, sunflower seed butter and tahini.</desc>
+<rect width="960" height="246" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Magnesium per 28 g: kernels, seed butter and tahini</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dried sunflower kernels</text>
+<rect x="280" y="70" width="394" height="30" rx="4" fill="#b8860b"/>
+<text x="684" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">91 mg</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Sunflower seed butter</text>
+<rect x="280" y="122" width="377" height="30" rx="4" fill="#b8860b"/>
+<text x="667" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">87 mg</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Tahini (sesame butter)</text>
+<rect x="280" y="174" width="115" height="30" rx="4" fill="#2d6a4f"/>
+<text x="405" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">27 mg</text>
+<text x="30" y="232" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: USDA FoodData Central (FDC IDs 170562, 170155, 168604) scaled to 28 g. Calculated by XingYi Trading.</text></svg>

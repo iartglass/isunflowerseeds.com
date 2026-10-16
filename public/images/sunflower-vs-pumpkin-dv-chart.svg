@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 714" role="img" aria-labelledby="t d">
+<title id="t">Share of Daily Value per 28 g: sunflower vs pumpkin seed kernels</title><desc id="d">Paired bars comparing percent Daily Value of vitamin E, selenium, magnesium, zinc, iron and protein in 28 g of dried sunflower and pumpkin seed kernels.</desc>
+<rect width="960" height="714" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Share of Daily Value per 28 g: sunflower vs pumpkin seed kernels</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Vitamin E - sunflower</text>
+<rect x="250" y="70" width="525" height="30" rx="4" fill="#b8860b"/>
+<text x="785" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">66%</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Vitamin E - pumpkin</text>
+<rect x="250" y="122" width="33" height="30" rx="4" fill="#2d6a4f"/>
+<text x="293" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">4%</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Selenium - sunflower</text>
+<rect x="250" y="174" width="216" height="30" rx="4" fill="#b8860b"/>
+<text x="476" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">27%</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Selenium - pumpkin</text>
+<rect x="250" y="226" width="38" height="30" rx="4" fill="#2d6a4f"/>
+<text x="298" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">5%</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Magnesium - sunflower</text>
+<rect x="250" y="278" width="173" height="30" rx="4" fill="#b8860b"/>
+<text x="433" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">22%</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Magnesium - pumpkin</text>
+<rect x="250" y="330" width="316" height="30" rx="4" fill="#2d6a4f"/>
+<text x="576" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">39%</text>
+<text x="30" y="403" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Zinc - sunflower</text>
+<rect x="250" y="382" width="102" height="30" rx="4" fill="#b8860b"/>
+<text x="362" y="403" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">13%</text>
+<text x="30" y="455" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Zinc - pumpkin</text>
+<rect x="250" y="434" width="159" height="30" rx="4" fill="#2d6a4f"/>
+<text x="419" y="455" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">20%</text>
+<text x="30" y="507" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Iron - sunflower</text>
+<rect x="250" y="486" width="65" height="30" rx="4" fill="#b8860b"/>
+<text x="325" y="507" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">8%</text>
+<text x="30" y="559" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Iron - pumpkin</text>
+<rect x="250" y="538" width="110" height="30" rx="4" fill="#2d6a4f"/>
+<text x="370" y="559" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">14%</text>
+<text x="30" y="611" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Protein - sunflower</text>
+<rect x="250" y="590" width="93" height="30" rx="4" fill="#b8860b"/>
+<text x="353" y="611" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">12%</text>
+<text x="30" y="663" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Protein - pumpkin</text>
+<rect x="250" y="642" width="135" height="30" rx="4" fill="#2d6a4f"/>
+<text x="395" y="663" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">17%</text>
+<text x="30" y="700" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: USDA FoodData Central (FDC IDs 170562 and 170556) scaled to 28 g; FDA Daily Values. Calculated by XingYi Trading.</text></svg>
