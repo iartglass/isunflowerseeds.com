@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 194" role="img" aria-labelledby="t d">
+<title id="t">Major allergens that must be declared: US vs EU</title><desc id="d">Bar chart: the United States recognises 9 major food allergens and the European Union lists 14. Sunflower is on neither list.</desc>
+<rect width="960" height="194" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Major allergens that must be declared: US vs EU</text>
+<text x="30" y="92" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">United States (FDA)</text>
+<rect x="300" y="70" width="315" height="30" rx="4" fill="#1e3a5f"/>
+<text x="625" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">9</text>
+<text x="30" y="144" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">European Union (Annex II)</text>
+<rect x="300" y="122" width="490" height="30" rx="4" fill="#b8860b"/>
+<text x="800" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">14</text>
+<text x="30" y="180" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Sources: FDA, Food Allergies; FSAI, Food Information to Consumers. Sunflower is on neither list.</text></svg>

@@ -46,6 +46,549 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "sunflower-seed-allergen-labeling-us-eu",
+    title: "Sunflower Seed Allergen Labeling: What US and EU Rules Require From Food Brands",
+    seoTitle: "Sunflower Seed Allergen Labeling: US vs EU",
+    seoDescription: "Sunflower is not on the US list of 9 major allergens or the EU list of 14. See how each region requires allergens to be declared and what brands must check.",
+    excerpt: "Sunflower seed is on neither the US nor the EU allergen list, but the products it goes into often contain listed allergens. What the rules require and what to ask your supplier.",
+    category: "Importing & Trade",
+    date: "2027-03-02",
+    author: "James Feng",
+    image: "/images/ai-certification-binder-facility.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "heading": "Quick Answer",
+        "body": [
+          "Sunflower seed is not one of the 9 major food allergens recognised in the United States or one of the 14 allergens listed in the European Union, so the seed itself does not trigger a mandatory allergen declaration in either market (FDA; FSAI). The risk for food brands comes from the other ingredients in the product and from cross-contact. Check every ingredient against both lists, including sesame, which became the ninth US major allergen on January 1, 2023."
+        ]
+      },
+      {
+        "heading": "Key Takeaways",
+        "list": [
+          "The US recognises 9 major food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "The EU lists 14 allergens in Annex II, including celery, mustard, lupin, molluscs and sulphites above 10 mg/kg ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
+          "Sesame became the 9th US major allergen under the FASTER Act, signed April 23, 2021 and effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "In the US, an allergen's food source must be declared at least once, in parentheses after the ingredient name or in a 'Contains' statement next to the ingredient list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "In the EU, allergens must be emphasised in the ingredients list, for example by font, style or background colour ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
+        ]
+      },
+      {
+        "heading": "Key Terms",
+        "body": [
+          "A **major food allergen** is, under US law, one of nine foods for which labels must name the food source. The EU uses a longer list of 14 allergen groups.",
+          "A **Contains statement** is a line such as 'Contains: wheat' placed immediately after or next to the ingredient list, one of two accepted ways to declare US major allergens ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)).",
+          "**Cross-contact** is the unintended transfer of an allergen from one food or surface to another, for example on shared equipment."
+        ]
+      },
+      {
+        "body": [
+          "A buyer who reads 'sunflower seeds are not a major allergen' and stops there can still ship a mislabelled product. The seed is rarely sold alone: snack mixes, bakery products and spreads combine it with nuts, sesame, wheat or milk. This guide covers what the two rule sets say and what to ask your supplier. It is general information, not legal advice."
+        ]
+      },
+      {
+        "heading": "Is Sunflower Seed a Major Allergen in the US?",
+        "image": {
+          "src": "/images/ai-certification-binder-facility.jpg",
+          "alt": "Open compliance binder and pen on a steel table in a food factory",
+          "caption": "Allergen documentation belongs in the supplier file. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "No. FDA's list of nine major allergens does not include sunflower ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)). The law requires labels to identify the food source of every major allergen used to make the food, so a product made only from sunflower seeds needs no allergen statement for the seed itself."
+        ]
+      },
+      {
+        "heading": "What Does the EU Require?",
+        "body": [
+          "The EU's Annex II lists 14 allergen groups, among them cereals containing gluten, peanuts, soybeans, milk, nuts, celery, mustard, sesame seeds, sulphites, lupin and molluscs. Sunflower is not one of them ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Where a listed allergen is an ingredient, it must be named in the ingredients list and set apart from the other words."
+        ]
+      },
+      {
+        "heading": "How Do the US and EU Rules Differ?",
+        "image": {
+          "src": "/images/allergen-list-counts.svg",
+          "alt": "Bar chart: the United States recognises 9 major food allergens and the European Union lists 14, with sunflower on neither list",
+          "caption": "Number of listed allergens. Sources: FDA and FSAI."
+        },
+        "table": {
+          "headers": [
+            "Item",
+            "United States",
+            "European Union"
+          ],
+          "rows": [
+            [
+              "Number of listed allergens",
+              "9 major allergens",
+              "14 allergen groups (Annex II)"
+            ],
+            [
+              "Is sunflower listed?",
+              "No",
+              "No"
+            ],
+            [
+              "How declared",
+              "Source named once: in parentheses after the ingredient or in a Contains statement",
+              "Allergen emphasised in the ingredients list (font, style or background)"
+            ],
+            [
+              "Recent change",
+              "Sesame added, effective January 1, 2023",
+              "List set by Annex II of Regulation 1169/2011"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Listed Allergens Can Share a Product With Sunflower Seeds?",
+        "body": [
+          "Check each ingredient in the finished product against both lists. Seed and nut snack mixes may contain tree nuts, peanuts or sesame, and bakery or bar products may add wheat, milk or soybeans. Sesame deserves a second look for US-bound products because it joined the list only on January 1, 2023, so older labels and specifications may predate it."
+        ]
+      },
+      {
+        "heading": "What Should You Ask a Supplier About Cross-Contact?",
+        "list": [
+          "Which allergens are handled in the same facility, and on which lines?",
+          "Is sesame, peanut or tree nut processed on shared equipment?",
+          "How are lines cleaned between products, and is cleaning verified?",
+          "What allergen documentation can the supplier provide for your specific order?",
+          "Who confirms the final label wording for your destination market?"
+        ]
+      },
+      {
+        "heading": "Who Is Responsible for the Label?",
+        "body": [
+          "Labeling requirements vary by destination, and the importer is generally the one who finalizes them, even when a supplier prints the packaging. Agree early who writes and checks the allergen statement. Our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) explains the labeling decision, and the [documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin) covers the paperwork that travels with the shipment."
+        ]
+      },
+      {
+        "heading": "Sources and Further Reading",
+        "list": [
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised."
+        ]
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "body": [
+          "Short answers on the points buyers ask about most."
+        ]
+      },
+      {
+        "heading": "Is Sesame Covered by US Allergen Labeling?",
+        "body": [
+          "Yes. The FASTER Act, signed April 23, 2021, made sesame the ninth major allergen, effective January 1, 2023 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies))."
+        ]
+      },
+      {
+        "heading": "Is a Contains Statement Mandatory in the US?",
+        "body": [
+          "Not by itself. FDA accepts two methods: naming the source in parentheses within the ingredient list, or a Contains statement next to the list. One of them must appear at least once on the label."
+        ]
+      },
+      {
+        "heading": "Request Allergen Documentation With Your Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form), state your destination market and ask what allergen documentation is available for your order. For the full buying process, see the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[What to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier)",
+          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
+          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)"
+        ]
+      }
+    ],
+  },
+  {
+    slug: "sunflower-seed-calories-protein-macros",
+    title: "Sunflower Seed Calories, Protein and Macros: Raw, Roasted and Salted Compared",
+    seoTitle: "Sunflower Seed Calories and Macros per Serving",
+    seoDescription: "Sunflower seed kernels have 164 kcal and 5.8 g protein per 28 g. Compare raw, roasted and salted types, from 1 to 183 mg sodium.",
+    excerpt: "USDA values for six types of sunflower seed kernels scaled to a 28 g serving: calories, protein, fat and sodium, with a chart of how much salt changes the result.",
+    category: "Health & Nutrition",
+    date: "2027-01-05",
+    author: "James Feng",
+    image: "/images/ai-raw-vs-roasted-comparison.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "heading": "Quick Answer",
+        "body": [
+          "A 28 g (about 1 oz) serving of sunflower seed kernels contains 163 to 173 kcal and about 5.4 to 5.8 g of protein, depending on how the seeds were processed (USDA FoodData Central, scaled to 28 g). Roasting barely changes calories. Added salt changes sodium a great deal: from about 1 mg to 183 mg per serving."
+        ]
+      },
+      {
+        "heading": "Key Takeaways",
+        "list": [
+          "Energy per 100 g ranges only from 582 to 619 kcal across six USDA kernel records, a spread of about 6% ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Protein is 20.8 g per 100 g in dried kernels and 19.3 g in dry roasted kernels without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Sodium is the real difference: 3 mg per 100 g without salt and 655 mg with salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "At 28 g, dry roasted kernels with salt supply about 8% of the 2,300 mg sodium Daily Value ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "One cup of kernels weighs 140 g, about 818 kcal for dried kernels (USDA portion weight, calculated)."
+        ]
+      },
+      {
+        "heading": "Key Terms",
+        "body": [
+          "**USDA FoodData Central** is the US Department of Agriculture's public nutrient database, and the source of every value in this guide.",
+          "**Dry roasted kernels** are roasted without added oil, while **oil roasted kernels** are roasted in oil; USDA lists them as separate records.",
+          "**Macros** is short for macronutrients: protein, fat and carbohydrate, the three nutrients that provide energy in food."
+        ]
+      },
+      {
+        "body": [
+          "Search results for 'sunflower seed calories' often quote one number for every type of seed. USDA records show that is mostly fine for calories, and very wrong for sodium. This guide scales six USDA kernel records to one serving so you can compare them."
+        ]
+      },
+      {
+        "heading": "How Many Calories Are in a Serving of Sunflower Seeds?",
+        "image": {
+          "src": "/images/ai-raw-vs-roasted-comparison.jpg",
+          "alt": "Two small piles of sunflower seed kernels on a white surface, pale raw kernels on the left and golden roasted kernels on the right",
+          "caption": "Raw and roasted kernels. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table scales each USDA record to 28 g. Values are for kernels, not seeds in the shell."
+        ],
+        "table": {
+          "headers": [
+            "Type (USDA record)",
+            "kcal",
+            "Protein (g)",
+            "Fat (g)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried kernels (raw)",
+              "164",
+              "5.8",
+              "14.4",
+              "3"
+            ],
+            [
+              "Dry roasted, no salt",
+              "163",
+              "5.4",
+              "13.9",
+              "1"
+            ],
+            [
+              "Oil roasted, no salt",
+              "166",
+              "5.6",
+              "14.4",
+              "1"
+            ],
+            [
+              "Dry roasted, salt added",
+              "163",
+              "5.4",
+              "13.9",
+              "183"
+            ],
+            [
+              "Oil roasted, salt added",
+              "166",
+              "5.6",
+              "14.4",
+              "85"
+            ],
+            [
+              "Toasted, salt added",
+              "173",
+              "4.8",
+              "15.9",
+              "172"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Does Roasting Change the Calories?",
+        "body": [
+          "Very little. Dried kernels have 584 kcal per 100 g, dry roasted kernels without salt 582 and oil roasted kernels without salt 592. The widest gap across all six records is about 6%, and the highest value belongs to toasted kernels with salt added (619 kcal). Added oil explains part of the difference, so the label on your pack matters more than the word 'roasted'."
+        ]
+      },
+      {
+        "heading": "How Much Protein Do Sunflower Seeds Have?",
+        "body": [
+          "Dried kernels have 20.8 g of protein per 100 g, or 5.8 g in 28 g. Dry roasted kernels without salt have 19.3 g per 100 g (5.4 g per serving), and oil roasted kernels 20.1 g (5.6 g). Fat is the larger macronutrient at 51 g per 100 g for dried kernels, against 20 g of carbohydrate."
+        ]
+      },
+      {
+        "heading": "How Much Sodium Do Salted Sunflower Seeds Add?",
+        "image": {
+          "src": "/images/sunflower-seed-sodium-chart.svg",
+          "alt": "Bar chart of sodium per 28 gram serving of sunflower seed kernels: about 3 milligrams for unsalted types and 85 to 183 milligrams for salted types",
+          "caption": "Sodium per 28 g serving. Source: USDA FoodData Central, calculated by XingYi Trading."
+        },
+        "body": [
+          "Unsalted kernels contain only 1 to 3 mg of sodium per serving. Salted types range from 85 mg (oil roasted, salt added) to 183 mg (dry roasted, salt added). Against the FDA Daily Value of 2,300 mg ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)), the highest of these is 8% in a single 28 g serving."
+        ]
+      },
+      {
+        "heading": "How Many Calories Are in a Cup of Sunflower Seeds?",
+        "body": [
+          "USDA lists one cup of dried kernels as 140 g, which is about 818 kcal at 584 kcal per 100 g. Seeds in the shell are different: one cup with hulls has an edible yield of 46 g, or about 269 kcal of kernel ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated). Measure by weight when you can."
+        ]
+      },
+      {
+        "heading": "Sources and Further Reading",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562, 170563, 170564, 169418, 168593 and 168594 for sunflower seed kernels.",
+          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the 2,300 mg sodium reference amount."
+        ]
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "body": [
+          "Quick answers based on the USDA records above."
+        ]
+      },
+      {
+        "heading": "Which Type of Sunflower Seed Has the Most Calories?",
+        "body": [
+          "Of the six records here, toasted kernels with salt added have the most energy at 619 kcal per 100 g, or 173 kcal in 28 g. Dry roasted kernels with or without salt are lowest at 582 kcal per 100 g."
+        ]
+      },
+      {
+        "heading": "Do These Values Apply to Seeds in the Shell?",
+        "body": [
+          "No. They describe shelled kernels. Weigh only the kernels, or use the edible-yield figure in the cup answer above."
+        ]
+      },
+      {
+        "heading": "Can I Use These Numbers on a Product Label?",
+        "body": [
+          "Treat them as reference data, not label data. A label must reflect your own product, so confirm requirements with your regulatory adviser and your supplier. See [nutrition facts for private-label packaging](/blog/sunflower-seed-nutrition-facts-private-label)."
+        ]
+      },
+      {
+        "heading": "Buying Sunflower Seeds for a Food Business",
+        "body": [
+          "Sourcing seeds for a snack brand? Read the [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[Are sunflower seeds good for you?](/blog/are-sunflower-seeds-good-for-you)",
+          "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)",
+          "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)"
+        ]
+      }
+    ],
+  },
+  {
+    slug: "are-sunflower-seeds-good-for-you",
+    title: "Are Sunflower Seeds Good for You? What a 28 g Serving Provides, and Where to Be Careful",
+    seoTitle: "Are Sunflower Seeds Good for You? USDA Data",
+    seoDescription: "A 28 g serving of sunflower seed kernels has about 164 kcal and 66% of the vitamin E Daily Value. See the benefits and the salt trade-off.",
+    excerpt: "What a 28 g serving of sunflower seed kernels provides according to USDA data, how salted seeds change the picture, and what the numbers do and do not tell you.",
+    category: "Health & Nutrition",
+    date: "2026-12-17",
+    author: "James Feng",
+    image: "/images/ai-seeds-bowl-portion.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "heading": "Quick Answer",
+        "body": [
+          "Yes, in sensible portions. A 28 g (about 1 oz) serving of dried sunflower seed kernels provides about 164 kcal, 5.8 g of protein and 9.8 mg of vitamin E, which is 66% of the 15 mg Daily Value (USDA FoodData Central, FDC ID 170562, scaled to 28 g). The trade-offs are calories and, in salted seeds, sodium: dry roasted kernels with salt added carry about 183 mg of sodium per 28 g."
+        ]
+      },
+      {
+        "heading": "Key Takeaways",
+        "list": [
+          "A 28 g serving of dried kernels has about 164 kcal and 5.8 g of protein ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled from per-100 g values).",
+          "The same serving supplies 66% of the vitamin E Daily Value, 27% for selenium and 22% for magnesium ([FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "About 81% of the fat is monounsaturated or polyunsaturated, and about 9% is saturated ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated).",
+          "Salt changes the picture: dry roasted kernels with salt added have 655 mg of sodium per 100 g, against 3 mg without salt ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Sunflower is not on the US list of 9 major food allergens or the EU list of 14 ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers))."
+        ]
+      },
+      {
+        "heading": "Key Terms",
+        "body": [
+          "**Sunflower seed kernels** are the shelled, edible part of the seed. The USDA values in this guide describe kernels, not seeds in the shell.",
+          "**Daily Value (DV)** is the reference amount FDA uses on nutrition labels. For the nutrients covered here it is 15 mg for vitamin E, 420 mg for magnesium, 55 mcg for selenium and 2,300 mg for sodium ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "**Alpha-tocopherol** is the form of vitamin E for which FDA sets the 15 mg Daily Value."
+        ]
+      },
+      {
+        "body": [
+          "Most advice about sunflower seeds mixes raw, roasted and salted products as if they were one food. They are not, so this guide starts from one USDA record for dried kernels, scales it to a 28 g serving, and then shows where salted and roasted versions differ. It is general nutrition information, not medical advice."
+        ]
+      },
+      {
+        "heading": "What Nutrients Are in a Serving of Sunflower Seeds?",
+        "image": {
+          "src": "/images/ai-seeds-bowl-portion.jpg",
+          "alt": "Small white bowl of shelled sunflower seed kernels on a wooden table",
+          "caption": "A small bowl of kernels. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table scales the USDA record for dried sunflower seed kernels (FDC ID 170562) to a 28 g serving. Percent Daily Value is shown where this guide has the FDA reference amount."
+        ],
+        "table": {
+          "headers": [
+            "Nutrient",
+            "Per 28 g",
+            "% Daily Value"
+          ],
+          "rows": [
+            [
+              "Energy",
+              "164 kcal",
+              "-"
+            ],
+            [
+              "Protein",
+              "5.8 g",
+              "-"
+            ],
+            [
+              "Total fat",
+              "14.4 g",
+              "-"
+            ],
+            [
+              "Carbohydrate",
+              "5.6 g",
+              "-"
+            ],
+            [
+              "Dietary fiber",
+              "2.4 g",
+              "-"
+            ],
+            [
+              "Vitamin E",
+              "9.8 mg",
+              "66%"
+            ],
+            [
+              "Selenium",
+              "15 mcg",
+              "27%"
+            ],
+            [
+              "Magnesium",
+              "91 mg",
+              "22%"
+            ],
+            [
+              "Sodium",
+              "2.5 mg",
+              "0.1%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Do Sunflower Seeds Provide Useful Vitamin E, Magnesium and Selenium?",
+        "image": {
+          "src": "/images/sunflower-seed-dv-chart.svg",
+          "alt": "Bar chart: a 28 g serving of sunflower seed kernels supplies about 66 percent of the vitamin E Daily Value, 27 percent for selenium and 22 percent for magnesium",
+          "caption": "Share of FDA Daily Value per 28 g serving. Source: USDA FoodData Central and FDA, calculated by XingYi Trading."
+        },
+        "body": [
+          "Vitamin E is the standout. One serving supplies 9.8 mg, about 66% of the 15 mg Daily Value. Selenium follows at 15 mcg (27% of 55 mcg), and magnesium at 91 mg (22% of 420 mg).",
+          "These are amounts in the food, not proof of a health outcome. How much you absorb and need depends on the rest of your diet, so treat the percentages as a way to compare foods."
+        ]
+      },
+      {
+        "heading": "What Kind of Fat Do Sunflower Seeds Contain?",
+        "body": [
+          "Sunflower seed kernels are energy-dense: 51 g of fat per 100 g, which is why a small serving carries 164 kcal. Of that fat, USDA reports 18.5 g monounsaturated, 23.1 g polyunsaturated and 4.5 g saturated per 100 g. That works out to about 81% unsaturated and 9% saturated (calculated from the USDA record)."
+        ]
+      },
+      {
+        "heading": "Are Salted Sunflower Seeds a Problem?",
+        "body": [
+          "Salt is the biggest difference between products. Per 100 g, dry roasted kernels without salt contain 3 mg of sodium and dry roasted kernels with salt added contain 655 mg ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). In a 28 g serving that is 1 mg against 183 mg, or 8% of the 2,300 mg sodium Daily Value ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "Check the label of the exact product you buy, because brands vary. For a full comparison see our guide to [sunflower seed calories, protein and sodium by type](/blog/sunflower-seed-calories-protein-macros)."
+        ]
+      },
+      {
+        "heading": "How Much Should You Eat?",
+        "body": [
+          "This guide uses 28 g as a reference portion, not as a recommendation. The right amount depends on your calorie and sodium targets and on any medical condition, so ask a registered dietitian or clinician if you have specific needs."
+        ]
+      },
+      {
+        "heading": "Is Sunflower Seed a Major Allergen?",
+        "body": [
+          "No label law singles it out. FDA recognises nine major allergens (milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame), and the EU lists 14 in Annex II; sunflower is on neither list ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). That is a labelling rule, not a guarantee that nobody reacts, so anyone with a known seed allergy should speak to an allergist. Food brands can read our guide to [sunflower seed allergen labeling](/blog/sunflower-seed-allergen-labeling-us-eu)."
+        ]
+      },
+      {
+        "heading": "Sources and Further Reading",
+        "list": [
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - nutrient values for dried sunflower seed kernels (FDC ID 170562).",
+          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts used for percent Daily Value.",
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens under US law.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens and how they are emphasised."
+        ]
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "body": [
+          "Short answers to the questions that come up most often."
+        ]
+      },
+      {
+        "heading": "Are Roasted Sunflower Seeds Less Healthy Than Raw?",
+        "body": [
+          "The energy is almost the same. USDA lists 584 kcal per 100 g for dried kernels, 582 for dry roasted without salt and 592 for oil roasted without salt. The meaningful difference comes from added salt or oil, so read the label."
+        ]
+      },
+      {
+        "heading": "Do Seeds in the Shell Have the Same Nutrition?",
+        "body": [
+          "The USDA values describe kernels. Seeds in the shell weigh more because of the hull: USDA gives one cup of kernels as 140 g, while one cup of seeds with hulls has an edible yield of 46 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Compare nutrition on a kernel-weight basis."
+        ]
+      },
+      {
+        "heading": "Where Do the Numbers Come From?",
+        "body": [
+          "Every nutrient value is the USDA FoodData Central record 'Seeds, sunflower seed kernels, dried', multiplied by 0.28 to give 28 g. Percent Daily Value uses the FDA reference amounts. Your product's label is the final authority."
+        ]
+      },
+      {
+        "heading": "Buying Sunflower Seeds for a Food Business",
+        "body": [
+          "If you source seeds for a snack brand, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)",
+          "[How long do sunflower seeds last?](/blog/sunflower-seed-shelf-life)",
+          "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)"
+        ]
+      }
+    ],
+  },
+  {
     slug: "bulk-sunflower-seeds-buyers-guide",
     title: "Bulk Sunflower Seeds: The Complete Buyer's Guide to Series, Packaging, Shipping and Documents",
     seoTitle: "Bulk Sunflower Seeds: A Complete Buyer's Guide",

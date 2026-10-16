@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" role="img" aria-labelledby="t d">
+<title id="t">Sodium in a 28 g serving of sunflower seed kernels</title><desc id="d">Bar chart of sodium in milligrams per 28 g serving: unsalted kernels contain 1 to 3 mg, salted kernels 85 to 183 mg.</desc>
+<rect width="960" height="350" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Sodium in a 28 g serving of sunflower seed kernels</text>
+<text x="30" y="92" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dried (raw), no salt</text>
+<rect x="300" y="70" width="6" height="30" rx="4" fill="#2d6a4f"/>
+<text x="316" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">3 mg</text>
+<text x="30" y="144" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dry roasted, no salt</text>
+<rect x="300" y="122" width="2" height="30" rx="4" fill="#2d6a4f"/>
+<text x="312" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1 mg</text>
+<text x="30" y="196" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Oil roasted, salt added</text>
+<rect x="300" y="174" width="216" height="30" rx="4" fill="#d4740e"/>
+<text x="526" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">85 mg</text>
+<text x="30" y="248" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Toasted, salt added</text>
+<rect x="300" y="226" width="437" height="30" rx="4" fill="#d4740e"/>
+<text x="747" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">172 mg</text>
+<text x="30" y="300" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Dry roasted, salt added</text>
+<rect x="300" y="278" width="467" height="30" rx="4" fill="#c53030"/>
+<text x="777" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">183 mg</text>
+<text x="30" y="336" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: USDA FoodData Central (FDC IDs 170562, 170563, 168593, 168594, 169418) scaled to 28 g. Calculated by XingYi Trading.</text></svg>
