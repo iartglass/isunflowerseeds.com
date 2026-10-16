@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" role="img" aria-labelledby="t d">
+<title id="t">Türkiye's import value per tonne by origin, 2024</title><desc id="d">Bar chart of declared import value per tonne in Türkiye by origin: China 1,735 dollars, France 897, Moldova 520, Romania 516 and Ukraine 490.</desc>
+<rect width="960" height="350" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Türkiye's import value per tonne by origin, 2024</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">China</text>
+<rect x="170" y="70" width="451" height="30" rx="4" fill="#b8860b"/>
+<text x="631" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1,735 $/t</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">France</text>
+<rect x="170" y="122" width="233" height="30" rx="4" fill="#1e3a5f"/>
+<text x="413" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">897 $/t</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Moldova</text>
+<rect x="170" y="174" width="135" height="30" rx="4" fill="#1e3a5f"/>
+<text x="315" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">520 $/t</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Romania</text>
+<rect x="170" y="226" width="134" height="30" rx="4" fill="#1e3a5f"/>
+<text x="314" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">516 $/t</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Ukraine</text>
+<rect x="170" y="278" width="127" height="30" rx="4" fill="#1e3a5f"/>
+<text x="307" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">490 $/t</text>
+<text x="30" y="336" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: UN Comtrade, HS 1206, Türkiye-reported imports, 2024.</text></svg>

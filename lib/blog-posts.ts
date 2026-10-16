@@ -46,6 +46,2186 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "reading-sunflower-seed-trade-data-mirror-statistics",
+    title: "How to Read Sunflower Seed Trade Data: Mirror Statistics, Estimates and the Limits of HS 1206",
+    seoTitle: "Reading Sunflower Seed Trade Data: HS 1206",
+    seoDescription: "In 2024 China reported 21.9 kt of sunflower seed exports to Türkiye while Türkiye reported 33.1 kt of imports. Why trade data disagree, and how to use them.",
+    excerpt: "Why two countries report different numbers for the same sunflower seed shipments, what the estimated flags mean, what HS 1206 does not tell you, and how to reproduce the figures.",
+    category: "Importing & Trade",
+    date: "2027-04-01",
+    author: "James Feng",
+    image: "/images/ai-freight-coordination-desk.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "The same trade flow often appears with two different numbers. For 2024, China reported 21.9 thousand tonnes of sunflower seed exported to Türkiye, while Türkiye reported 33.1 thousand tonnes imported from China, a gap of +51%; for Spain and Germany the two sides agree within a few percent ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Knowing why is what separates a careful reading of trade data from a misleading one."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Türkiye 2024: China-reported 21.9 kt against Türkiye-reported 33.1 kt ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Spain 2024: 36.8 kt against 34.8 kt; Germany 2024: 13.9 kt against 13.9 kt.",
+          "12 of 478 China-reported rows from 2019 to 2024 carry an estimation flag, and the 2019-2023 world totals for China are among them.",
+          "HS 1206 covers oil-type, confection and sowing seed, so it cannot isolate in-shell snack seed.",
+          "All values in this series are in US dollars, and quantities are net weight in kilograms."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Mirror statistics** are the two reports of one trade flow, the exporter's and the importer's, which are compared to check data quality.",
+          "**Estimated quantity** is a figure that the database derived from value or another unit when the reporter did not supply net weight, and it is flagged as such.",
+          "**HS 1206** is the six-digit Harmonized System code for sunflower seeds, whether or not broken ([Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/))."
+        ]
+      },
+      {
+        "heading": "How Do the Two Sides Compare?",
+        "image": {
+          "src": "/images/mirror-statistics-2024.svg",
+          "alt": "Paired bar chart of 2024 sunflower seed trade as reported by China and by the importer for Türkiye, Spain, Germany, Thailand and Indonesia",
+          "caption": "China-reported exports against importer-reported imports, 2024. Source: UN Comtrade."
+        },
+        "body": [
+          "The table sets China's reported exports against each importer's reported imports from China for 2023 and 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Country",
+            "Year",
+            "China-reported (kt)",
+            "Importer-reported (kt)",
+            "Difference"
+          ],
+          "rows": [
+            [
+              "Türkiye",
+              "2023",
+              "54.9",
+              "30.2",
+              "-45%"
+            ],
+            [
+              "Türkiye",
+              "2024",
+              "21.9",
+              "33.1",
+              "+51%"
+            ],
+            [
+              "Spain",
+              "2023",
+              "30.2",
+              "29.8",
+              "-1%"
+            ],
+            [
+              "Spain",
+              "2024",
+              "36.8",
+              "34.8",
+              "-6%"
+            ],
+            [
+              "Germany",
+              "2023",
+              "9.8",
+              "10.4",
+              "+7%"
+            ],
+            [
+              "Germany",
+              "2024",
+              "13.9",
+              "13.9",
+              "-0%"
+            ],
+            [
+              "Thailand",
+              "2023",
+              "12.7",
+              "13.2",
+              "+4%"
+            ],
+            [
+              "Thailand",
+              "2024",
+              "13.8",
+              "13.4",
+              "-3%"
+            ],
+            [
+              "Indonesia",
+              "2023",
+              "9.8",
+              "9.1",
+              "-7%"
+            ],
+            [
+              "Indonesia",
+              "2024",
+              "7.2",
+              "8.4",
+              "+16%"
+            ],
+            [
+              "Viet Nam",
+              "2023",
+              "23.9",
+              "18.1",
+              "-24%"
+            ],
+            [
+              "Viet Nam",
+              "2024",
+              "26.4",
+              "not reported",
+              "-"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Is the Gap for Türkiye Stable Over Time?",
+        "body": [
+          "Not really. The table compares the two reports for Türkiye in every year from 2019 to 2024 and shows the gap swinging in size."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "China-reported (kt)",
+            "Türkiye-reported (kt)",
+            "Difference"
+          ],
+          "rows": [
+            [
+              "2019",
+              "125.3",
+              "92.1",
+              "-27%"
+            ],
+            [
+              "2020",
+              "120.3",
+              "106.3",
+              "-12%"
+            ],
+            [
+              "2021",
+              "78.5",
+              "83.0",
+              "+6%"
+            ],
+            [
+              "2022",
+              "19.4",
+              "18.0",
+              "-8%"
+            ],
+            [
+              "2023",
+              "54.9",
+              "30.2",
+              "-45%"
+            ],
+            [
+              "2024",
+              "21.9",
+              "33.1",
+              "+51%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Do the Two Reports Differ?",
+        "image": {
+          "src": "/images/ai-customs-documents-desk.jpg",
+          "alt": "Desk with customs documents, a stamp and a laptop",
+          "caption": "Two customs systems, two records. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The usual causes are timing, because goods shipped in December arrive in January and fall in different years; transit and re-export, because seed shipped to one country may be recorded as arriving from another; valuation, because exporters report free on board and importers report cost, insurance and freight; and classification, because a lot may be coded under another heading on one side. These are general explanations, and the data do not say which applies to Türkiye."
+        ]
+      },
+      {
+        "heading": "How Big a Gap Is Worth Worrying About?",
+        "body": [
+          "There is no official threshold, so this is our judgment. Gaps of a few percent, such as Spain's 6% and Germany's 0%, are routine. A gap of 30 to 50% for one market and year, as for Türkiye, is a reason to look at both figures and not average them."
+        ]
+      },
+      {
+        "heading": "What Do the Estimated Flags Mean?",
+        "body": [
+          "Comtrade marks a quantity as estimated when the reporting country supplied a value but not a weight, or when the database converted another unit. In our download, 12 of 478 China-reported partner rows were flagged, and the 2019-2023 world totals were among them while the 2024 total was not. Treat flagged totals as approximate, and prefer partner-level rows that are not flagged when you need precision."
+        ]
+      },
+      {
+        "heading": "What Does HS 1206 Leave Out?",
+        "body": [
+          "It does not separate oil-type seed from confection seed, in-shell from shelled, or sowing seed from food seed. It also says nothing about size, moisture or packaging. A national tariff can split the heading further, as the US schedule does with statistical suffixes in our guide to [US import duty](/blog/us-import-duty-sunflower-seeds-hts-1206), but the six-digit data used here cannot."
+        ]
+      },
+      {
+        "heading": "Why Is Unit Value a Rough Guide?",
+        "body": [
+          "It averages everything under the heading, so a country that buys more confection seed shows a higher value per tonne. The comparison of origins in our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values) relies on that, and it is an inference, not a reported field."
+        ]
+      },
+      {
+        "heading": "What Do the Partner Totals Include?",
+        "body": [
+          "A reporter's 'world' row is the sum of all partners, so it includes small partners and any quantities that were estimated. Partner rows can also include transit countries. When you need one country's imports, use that country's own partner rows, and when you need an overall picture, use the world row but remember its estimation flag."
+        ]
+      },
+      {
+        "heading": "Why Do Some Years or Countries Have No Quantity?",
+        "body": [
+          "Some submissions give a value but no net weight, and the database shows a zero or a blank. In our download, the US and Spanish totals have missing quantities in some years, and Viet Nam's 2024 figure from China is absent. Never read a zero quantity as zero trade; check the value alongside it."
+        ]
+      },
+      {
+        "heading": "How Can You Reproduce These Figures?",
+        "list": [
+          "Use the UN Comtrade public preview interface for annual data, classification HS, commodity code 1206.",
+          "Choose the reporter (China is 156) and flow (X for exports, M for imports), and one year at a time.",
+          "Leave the partner open for a full list, or set it to 0 for the world total.",
+          "Read net weight in kilograms and primary value in US dollars, and note the estimation flag.",
+          "Divide value by weight in tonnes to get the unit value."
+        ]
+      },
+      {
+        "heading": "How Should You Cite Trade Data?",
+        "body": [
+          "Name the source and the download date, the reporter, the flow, the classification and the year, and say whether quantities are flagged as estimated. State your own calculations as such. Without those details a figure cannot be checked, and trade data change when countries revise their submissions."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and importer-reported imports, 2023 and 2024.",
+          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206.",
+          "Differences and shares are our own calculations."
+        ]
+      },
+      {
+        "heading": "Use Data as Context, Then Ask for a Specification",
+        "body": [
+          "[Request a quote](/contact#quote-form) and we will quote against your specification, since trade data describe the market but not your lot."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "southeast-asia-sunflower-seed-imports-vietnam-thailand-indonesia",
+    title: "Southeast Asia: Vietnam, Thailand and Indonesia as Buyers of Chinese Sunflower Seed",
+    seoTitle: "Vietnam, Thailand and Indonesia Seed Imports",
+    seoDescription: "Thailand's sunflower seed imports from China rose 79% from 2019 to 2024 while Indonesia's fell. See the trade data for three markets.",
+    excerpt: "China's sunflower seed exports to Viet Nam, Thailand and Indonesia from 2019 to 2024, the unit values, and how each importer's own figures compare.",
+    category: "Regional Markets",
+    date: "2027-03-04",
+    author: "James Feng",
+    image: "/images/ai-southeast-asia-market.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Viet Nam, Thailand and Indonesia together took 10% of China's sunflower seed export volume in 2024, and the three moved in different directions: Thailand grew from 7.7 kt to 13.8 kt, Viet Nam stayed near 26 kt and Indonesia fell from 12.0 kt to 7.2 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Thailand's own import figures match China's closely, while Viet Nam's do not."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "2024 China-reported exports: Viet Nam 26.4 kt, Thailand 13.8 kt, Indonesia 7.2 kt ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Together they took 9.9% of China's 2024 export volume (calculated).",
+          "2024 declared value per tonne: Viet Nam $1,742, Thailand $1,647, Indonesia $1,423 (calculated).",
+          "Thailand's own reported imports from China were 13.4 kt in 2024 against China's 13.8 kt.",
+          "Viet Nam did not report a 2024 quantity from China in the data we retrieved."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Mirror statistics** are two reports of the same trade flow, one from the exporting country and one from the importing country.",
+          "**Declared value per tonne** is the customs value divided by net weight, an average over all seed shipped from one origin.",
+          "**Reporter** is the country that submits the trade record to the United Nations database."
+        ]
+      },
+      {
+        "heading": "How Much Does China Ship to Each Country?",
+        "image": {
+          "src": "/images/sea-exports-2019-2024.svg",
+          "alt": "Bar chart of China's sunflower seed exports to Viet Nam, Thailand and Indonesia in 2019 and 2024 in kilotonnes",
+          "caption": "China's exports to three Southeast Asian markets. Source: UN Comtrade."
+        },
+        "body": [
+          "The table compares 2019 with 2024 for the three destinations, with the 2024 value and value per tonne ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019 (kt)",
+            "2024 (kt)",
+            "Change",
+            "2024 value ($ million)",
+            "2024 value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "Viet Nam",
+              "26.4",
+              "26.4",
+              "-0%",
+              "45.9",
+              "1,742"
+            ],
+            [
+              "Thailand",
+              "7.7",
+              "13.8",
+              "+79%",
+              "22.8",
+              "1,647"
+            ],
+            [
+              "Indonesia",
+              "12.0",
+              "7.2",
+              "-40%",
+              "10.3",
+              "1,423"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does the Year-by-Year Record Look Like?",
+        "image": {
+          "src": "/images/ai-port-cargo-weighing.jpg",
+          "alt": "Dock worker with a clipboard checking the weight of a large bag of seed on a scale",
+          "caption": "Seed is weighed and documented before export. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table lists China-reported exports to the three destinations in kilotonnes for every year, with each destination's share of China's total in 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "Share of 2024 total"
+          ],
+          "rows": [
+            [
+              "Viet Nam",
+              "26.4",
+              "21.0",
+              "19.4",
+              "29.6",
+              "23.9",
+              "26.4",
+              "5.5%"
+            ],
+            [
+              "Thailand",
+              "7.7",
+              "12.7",
+              "14.2",
+              "13.5",
+              "12.7",
+              "13.8",
+              "2.9%"
+            ],
+            [
+              "Indonesia",
+              "12.0",
+              "14.0",
+              "6.3",
+              "10.8",
+              "9.8",
+              "7.2",
+              "1.5%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Has Declared Value per Tonne Moved?",
+        "body": [
+          "Value per tonne is a rough guide to product mix and price. The table shows it for each destination and year."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+          ],
+          "rows": [
+            [
+              "Viet Nam",
+              "1,886",
+              "1,455",
+              "1,503",
+              "1,710",
+              "1,696",
+              "1,742"
+            ],
+            [
+              "Thailand",
+              "1,354",
+              "1,294",
+              "1,318",
+              "1,484",
+              "1,815",
+              "1,647"
+            ],
+            [
+              "Indonesia",
+              "1,194",
+              "1,068",
+              "1,063",
+              "1,457",
+              "1,683",
+              "1,423"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Has Viet Nam Changed?",
+        "body": [
+          "Viet Nam is the largest of the three by volume, with China-reported exports of 26.4 kt in 2019, a low of 19.4 kt, a high of 29.6 kt and 26.4 kt in 2024. That is a flat pattern with year-to-year swings of roughly 10 to 50%, which suggests demand that depends on short-term factors more than a trend."
+        ]
+      },
+      {
+        "heading": "How Has Thailand Changed?",
+        "body": [
+          "Thailand is the clearest riser, from 7.7 kt to 13.8 kt, an increase of 79%, with most of the growth in 2020 and 2021 and stable volumes since. Value per tonne was $1,647, close to China's overall average of $1,706 ([UN Comtrade](https://comtradeplus.un.org/))."
+        ]
+      },
+      {
+        "heading": "How Has Indonesia Changed?",
+        "body": [
+          "Indonesia moved the other way, from 12.0 kt in 2019 to 7.2 kt in 2024, a fall of 40%, and its declared value of $1,423 per tonne is the lowest of the three. A lower unit value points to a different product mix from Thailand or Viet Nam, but the data cannot say which."
+        ]
+      },
+      {
+        "heading": "Do Importers' Own Figures Agree With China's?",
+        "body": [
+          "For Thailand and Indonesia the two sets of figures are close, and for Viet Nam they differ in several years."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "Year",
+            "China-reported exports (kt)",
+            "Importer-reported imports from China (kt)"
+          ],
+          "rows": [
+            [
+              "Viet Nam",
+              "2019",
+              "26.4",
+              "5.4"
+            ],
+            [
+              "Viet Nam",
+              "2022",
+              "29.6",
+              "28.5"
+            ],
+            [
+              "Viet Nam",
+              "2023",
+              "23.9",
+              "18.1"
+            ],
+            [
+              "Viet Nam",
+              "2024",
+              "26.4",
+              "not reported"
+            ],
+            [
+              "Thailand",
+              "2019",
+              "7.7",
+              "8.0"
+            ],
+            [
+              "Thailand",
+              "2022",
+              "13.5",
+              "13.1"
+            ],
+            [
+              "Thailand",
+              "2023",
+              "12.7",
+              "13.2"
+            ],
+            [
+              "Thailand",
+              "2024",
+              "13.8",
+              "13.4"
+            ],
+            [
+              "Indonesia",
+              "2019",
+              "12.0",
+              "13.7"
+            ],
+            [
+              "Indonesia",
+              "2022",
+              "10.8",
+              "10.6"
+            ],
+            [
+              "Indonesia",
+              "2023",
+              "9.8",
+              "9.1"
+            ],
+            [
+              "Indonesia",
+              "2024",
+              "7.2",
+              "8.4"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Might Viet Nam's Own Figures Differ?",
+        "body": [
+          "Viet Nam's reported imports from China were well below China's reported exports in 2019, 2020, 2021 and 2023, and the two sides agreed more closely in 2022. Shipments that pass through other ports, border trade and different coding can all produce gaps like this, but the data do not tell us which applies. For a market-size estimate, use the China-reported figures and treat Viet Nam's own numbers as a lower bound."
+        ]
+      },
+      {
+        "heading": "What Does This Mean for Planning?",
+        "body": [
+          "Of the three markets, Thailand has the steadiest pattern and the best agreement between the two sets of figures, which makes it the easiest to size. Viet Nam is bigger but harder to read, and Indonesia has been shrinking. Our older guide to [sourcing for Southeast Asia](/blog/sourcing-sunflower-seeds-southeast-asia) discusses demand, which these data do not cover."
+        ]
+      },
+      {
+        "heading": "How Do the Three Markets Rank Within China's Exports?",
+        "body": [
+          "Viet Nam took 5.5% of China's 2024 volume, Thailand 2.9% and Indonesia 1.5%, a combined 9.9% (calculated from [UN Comtrade](https://comtradeplus.un.org/)). In 2019 the same three took 9.6%, so their combined weight has barely changed even though the split between them has."
+        ]
+      },
+      {
+        "heading": "Is Humidity a Concern for Seed Shipped to Southeast Asia?",
+        "body": [
+          "Warm, humid ports raise the risk of moisture uptake, so packaging and storage matter more than on a dry route. Our guides to [vacuum-sealed versus standard bags](/blog/vacuum-sealed-vs-standard-export-bags) and [warehouse storage](/blog/warehouse-storage-sunflower-seeds-moisture-temperature) cover the options. Ask the buyer how long seed will sit in the warehouse before sale, and set the moisture limit accordingly."
+        ]
+      },
+      {
+        "heading": "What Is the Short Summary of the Three Markets?",
+        "body": [
+          "The table condenses the pattern into one line per country. The labels are our reading of the figures, not official categories."
+        ],
+        "table": {
+          "headers": [
+            "Market",
+            "Pattern 2019-2024",
+            "What it suggests"
+          ],
+          "rows": [
+            [
+              "Thailand",
+              "Rising, then steady",
+              "Easiest to size; both sides' figures agree"
+            ],
+            [
+              "Viet Nam",
+              "Large, flat, volatile",
+              "Bigger market but harder to read from the data"
+            ],
+            [
+              "Indonesia",
+              "Falling",
+              "A shrinking buyer, with the lowest declared value per tonne"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Should You Check Before Shipping There?",
+        "list": [
+          "Import permits and plant health requirements for each country.",
+          "Whether the buyer wants in-shell confection seed or another type.",
+          "Labeling language and allergen rules, using our [labeling guide](/blog/sunflower-seed-allergen-labeling-us-eu) as a starting point.",
+          "Port, transit time and storage conditions in a humid climate, as covered in our [storage guide](/blog/warehouse-storage-sunflower-seeds-moisture-temperature).",
+          "Payment terms and the Incoterm."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and importer-reported imports (flow M), 2019-2024.",
+          "Changes, shares and unit values are our own calculations."
+        ]
+      },
+      {
+        "heading": "Ask About Shipping to Southeast Asia",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your port and volume, and we will confirm the series and documents."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "us-import-duty-sunflower-seeds-hts-1206",
+    title: "US Import Duty and Import Sources for Sunflower Seeds (HTS 1206)",
+    seoTitle: "US Import Duty on Sunflower Seeds: HTS 1206",
+    seoDescription: "The US general duty on sunflower seeds under HTS 1206 is Free, yet the US imported only about 1.0 kt from China in 2024, against 51 kt from Bulgaria.",
+    excerpt: "The US tariff lines for sunflower seeds under HTS 1206, the general and column 2 duty rates, and where US imports actually come from, including how small the flow from China is.",
+    category: "Regional Markets",
+    date: "2027-02-23",
+    author: "James Feng",
+    image: "/images/ai-customs-duty-calculator-desk.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "The US general rate of duty for sunflower seeds under HTS 1206.00.00 is Free ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)). The more useful fact for a seller is who actually supplies the US market: in 2024 the largest sources by volume were Bulgaria (51 kt), Canada (35 kt) and Argentina (17 kt), while US-reported imports from China were only about 1.0 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). We state this plainly because it should shape how you plan a US market entry."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "HTS 1206.00.00, 'Sunflower seeds, whether or not broken': general rate Free; column 2 rate 4.4 cents per kg ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)).",
+          "US imports of HS 1206 were worth $121 million in 2024 and $152 million in 2020 ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Bulgaria supplied 51 kt, Canada 35 kt and Argentina 17 kt in 2024.",
+          "US-reported imports from China were about 1.0 kt ($2.5 million) in 2024.",
+          "Additional duties can apply to goods of Chinese origin outside the general rate; confirm the current position with a customs broker."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**HTS** is the Harmonized Tariff Schedule of the United States, published by the US International Trade Commission, which sets the duty rate for each product line.",
+          "**General rate** (column 1) is the normal duty for countries with normal trade relations, while **column 2** applies to a small group of countries without it.",
+          "**Statistical suffix** is the final two digits of a ten-digit HTS number, used to count trade in more detail rather than to set a different duty."
+        ]
+      },
+      {
+        "heading": "What Is the US Duty on Sunflower Seeds?",
+        "body": [
+          "The USITC schedule lists HTS 1206.00.00 as 'Sunflower seeds, whether or not broken', with a general rate of Free and a column 2 rate of 4.4 cents per kilogram ([USITC Harmonized Tariff Schedule](https://hts.usitc.gov/)). The general rate applies to most trading partners. It does not include any additional duties that may be imposed on specific origins under other provisions of the tariff schedule, which is why a current check matters. Our older guide to [US-China tariffs and duty drawback](/blog/us-china-tariffs-duty-drawback-sunflower-seeds) covers that side."
+        ]
+      },
+      {
+        "heading": "Which Statistical Lines Exist Under 1206?",
+        "image": {
+          "src": "/images/ai-customs-duty-calculator-desk.jpg",
+          "alt": "Desk with a calculator, rubber stamp and customs forms",
+          "caption": "Check the exact line with a broker. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The schedule splits the heading into statistical suffixes so the government can count different uses separately."
+        ],
+        "table": {
+          "headers": [
+            "HTS number",
+            "Description in the schedule",
+            "Units"
+          ],
+          "rows": [
+            [
+              "1206.00.00.20",
+              "For use as oil stock",
+              "kg"
+            ],
+            [
+              "1206.00.00.31",
+              "For sowing",
+              "kg"
+            ],
+            [
+              "1206.00.00.65",
+              "Certified organic",
+              "kg"
+            ],
+            [
+              "1206.00.00.70",
+              "Other",
+              "kg"
+            ],
+            [
+              "1206.00.00.75",
+              "Certified organic",
+              "kg"
+            ],
+            [
+              "1206.00.00.80",
+              "Other",
+              "kg"
+            ],
+            [
+              "1206.00.00.90",
+              "Other",
+              "kg"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Does the Line Change the Duty?",
+        "body": [
+          "Not in the data we retrieved: the duty rates sit at the 1206.00.00 level, and the suffix lines carry no separate rate. The schedule does not show how the organic and other lines are grouped in our extraction, so ask a broker which line fits your product, such as in-shell seed for human consumption. The suffix lines carry no separate duty rate in the data we retrieved, but the broker should still confirm the right one before entry."
+        ]
+      },
+      {
+        "heading": "Where Do US Imports of Sunflower Seed Come From?",
+        "image": {
+          "src": "/images/us-imports-by-origin-2024.svg",
+          "alt": "Bar chart of US sunflower seed imports by origin in 2024: Bulgaria 51 kt, Canada 35, Argentina 17, Türkiye 3, Germany 1, China 1",
+          "caption": "US imports by origin, 2024. Source: UN Comtrade."
+        },
+        "body": [
+          "The US-reported figures show a market supplied mainly from the Black Sea region, Canada and Argentina. Quantity is missing for some years in the US totals, so we use the 2024 origin rows, which are complete."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "51.4",
+              "61.5",
+              "1,196"
+            ],
+            [
+              "Canada",
+              "35.3",
+              "25.1",
+              "710"
+            ],
+            [
+              "Argentina",
+              "17.3",
+              "11.1",
+              "642"
+            ],
+            [
+              "Romania",
+              "3.5",
+              "2.2",
+              "629"
+            ],
+            [
+              "Türkiye",
+              "2.9",
+              "5.1",
+              "1,760"
+            ],
+            [
+              "Germany",
+              "1.0",
+              "4.2",
+              "4,081"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Big Is the Flow From China?",
+        "body": [
+          "US-reported imports from China were 1.0 kt in 2024 and have stayed between 0.5 and 1.8 kt a year since 2019 ([UN Comtrade](https://comtradeplus.un.org/)). Total US imports in 2024 were worth $121 million, so China's $2.5 million is a small part. These figures cover all sunflower seed under HS 1206, so snack seed sold by US producers is not visible here."
+        ]
+      },
+      {
+        "heading": "How Have US Import Values Changed?",
+        "body": [
+          "US imports of HS 1206 were worth $90 million in 2019, $152 million in 2020, $143 million in 2021, $182 million in 2022, $144 million in 2023 and $121 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Quantity totals are missing for some years in the US submissions, so we use values here and do not compute a price series."
+        ]
+      },
+      {
+        "heading": "What Is the Column 2 Rate in Dollars per Tonne?",
+        "body": [
+          "The column 2 rate of 4.4 cents per kilogram equals $44 per tonne (calculated), against a general rate of Free. In the schedule, column 2 is the rate for countries outside normal trade relations, so most importers will deal with the general rate. The two rates are shown so that a buyer who sees 4.4 cents in the schedule is not alarmed by it."
+        ]
+      },
+      {
+        "heading": "How Do You Check the Current Rate Yourself?",
+        "list": [
+          "Search the HTS for 1206 and read the 'General' column for 1206.00.00.",
+          "Check Chapter 99 of the schedule and customs notices for additional duties that apply to the country of origin.",
+          "Confirm the ten-digit statistical suffix with a customs broker.",
+          "Re-check before each order, since rates and additional duties can change.",
+          "Keep a dated copy of the rate you relied on."
+        ]
+      },
+      {
+        "heading": "What Does This Mean for Our North America Guide?",
+        "body": [
+          "Our earlier guide to [sourcing sunflower seeds for North America](/blog/sourcing-sunflower-seeds-north-america) describes how US brands source seed from China. The trade data show that this is a small share of US imports, so a seller should not assume a large ready market. It may still suit brands that want a particular confection seed, but the volume evidence is modest."
+        ]
+      },
+      {
+        "heading": "What Other US Requirements Apply to Imported Food?",
+        "body": [
+          "Food imports into the US need an FDA Prior Notice, and importers have supplier verification duties, which our guides to [FDA Prior Notice](/blog/fda-prior-notice-imported-food) and [FSVP](/blog/fsvp-sunflower-seed-importers) explain. Allergen labeling is covered in our [US and EU comparison](/blog/sunflower-seed-allergen-labeling-us-eu)."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[USITC Harmonized Tariff Schedule](https://hts.usitc.gov/) - HTS 1206.00.00 description, general rate (Free), column 2 rate (4.4 cents/kg) and statistical suffixes, retrieved through the USITC search interface on 16 October 2026.",
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. US-reported imports (flow M) by origin, 2019-2024."
+        ]
+      },
+      {
+        "heading": "Ask About Shipping to the United States",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us your volume and the product you need, and we will tell you plainly whether we can supply it."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "europe-spain-germany-chinese-sunflower-seed-imports",
+    title: "Europe's Buyers of Chinese Sunflower Seed: Spain and Germany, With EU Allergen and Cadmium Rules",
+    seoTitle: "Spain and Germany: Chinese Seed Imports",
+    seoDescription: "China's sunflower seed exports to Spain rose from 14 to 37 kt and to Germany from 4 to 14 kt between 2019 and 2024.",
+    excerpt: "China's sunflower seed exports to Spain and Germany from 2019 to 2024, how each country's imports break down by origin, and the EU allergen and cadmium points a seller should check.",
+    category: "Regional Markets",
+    date: "2027-02-18",
+    author: "James Feng",
+    image: "/images/ai-export-documents-desk-stamp.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Spain and Germany are the two EU members among China's twelve largest sunflower seed destinations in 2024: shipments to Spain rose from 14.2 kt in 2019 to 36.8 kt in 2024, and to Germany from 3.9 kt to 13.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Both are large importers from other origins as well, so China is one supplier among several. This guide shows the numbers and the EU rules that a seller should check first."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "China-reported exports to Spain: 36.8 kt, $75.5 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "China-reported exports to Germany: 13.9 kt, $23.0 million in 2024.",
+          "In Spain's own 2024 data China ranked second by value, behind France, at $72.9 million.",
+          "Sunflower is not on the EU list of 14 allergens that must be emphasised on labels (FSAI).",
+          "An EFSA-hosted table lists a maximum cadmium level of 0.50 mg/kg for sunflower seed under Regulation (EC) No 1881/2006; check the current text."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**EU allergen list** means the 14 allergen groups in Annex II of Regulation (EU) No 1169/2011 that must be emphasised in an ingredients list ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)).",
+          "**Maximum level** is the highest concentration of a contaminant, such as cadmium, that a regulation allows in a food on the market.",
+          "**Mirror data** are the same trade flow reported by both sides, the exporter's and the importer's, which rarely match exactly."
+        ]
+      },
+      {
+        "heading": "How Much Does China Ship to Spain and Germany?",
+        "body": [
+          "The table shows China-reported exports to each country by year ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Spain (kt)",
+            "Spain ($ million)",
+            "Germany (kt)",
+            "Germany ($ million)"
+          ],
+          "rows": [
+            [
+              "2019",
+              "14.2",
+              "23.5",
+              "3.9",
+              "5.2"
+            ],
+            [
+              "2020",
+              "29.9",
+              "48.9",
+              "8.2",
+              "11.2"
+            ],
+            [
+              "2021",
+              "29.3",
+              "56.5",
+              "6.0",
+              "8.9"
+            ],
+            [
+              "2022",
+              "24.7",
+              "49.4",
+              "6.2",
+              "9.7"
+            ],
+            [
+              "2023",
+              "30.2",
+              "64.9",
+              "9.8",
+              "16.8"
+            ],
+            [
+              "2024",
+              "36.8",
+              "75.5",
+              "13.9",
+              "23.0"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Where Does Spain's Seed Come From?",
+        "image": {
+          "src": "/images/spain-imports-by-origin-2024-value.svg",
+          "alt": "Bar chart of Spain's 2024 sunflower seed import value by origin: France 115 million dollars, China 73, Ukraine 17, Bulgaria 16, Romania 14",
+          "caption": "Spain's 2024 imports by origin, value. Source: UN Comtrade."
+        },
+        "body": [
+          "France is Spain's largest supplier by far: in 2024 it supplied 192 kt worth $115 million, against 35 kt and $73 million from China. China's volume is smaller but its value is second, because its seed is declared at about $2,097 per tonne ([UN Comtrade](https://comtradeplus.un.org/))."
+        ]
+      },
+      {
+        "heading": "Where Does Germany's Seed Come From?",
+        "image": {
+          "src": "/images/germany-imports-by-origin-2024-value.svg",
+          "alt": "Bar chart of Germany's 2024 sunflower seed import value by origin: Bulgaria 73 million dollars, France 50, China 26, Austria 20, Hungary 19",
+          "caption": "Germany's 2024 imports by origin, value. Source: UN Comtrade."
+        },
+        "body": [
+          "Germany's largest suppliers in 2024 by value were Bulgaria ($73 million), France ($50 million) and China ($26 million), with Austria and Hungary behind ([UN Comtrade](https://comtradeplus.un.org/)). China supplied 13.9 kt, about the same tonnage as in 2023, at a declared $1,897 per tonne."
+        ]
+      },
+      {
+        "heading": "How Did Spain's Main Suppliers Change Over Three Years?",
+        "body": [
+          "The table shows Spain-reported imports in kilotonnes from its four main origins and China for 2022 to 2024."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "2022 (kt)",
+            "2023 (kt)",
+            "2024 (kt)"
+          ],
+          "rows": [
+            [
+              "France",
+              "224.6",
+              "195.1",
+              "192.1"
+            ],
+            [
+              "Romania",
+              "120.5",
+              "119.6",
+              "26.4"
+            ],
+            [
+              "Ukraine",
+              "61.3",
+              "35.9",
+              "34.4"
+            ],
+            [
+              "Bulgaria",
+              "71.2",
+              "31.8",
+              "11.6"
+            ],
+            [
+              "China",
+              "25.9",
+              "29.8",
+              "34.8"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do Declared Values Compare Across the Two Markets?",
+        "body": [
+          "China's declared value per tonne to Spain was $1,660 in 2019 and $2,049 in 2024, and to Germany $1,337 in 2019 and $1,650 in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Spain pays more per tonne than Germany, which may reflect the grade of seed shipped, a question for a seller to ask a buyer rather than assume."
+        ]
+      },
+      {
+        "heading": "What Do European Buyers Usually Ask For?",
+        "list": [
+          "The type, size grade and moisture of the seed, written into the specification.",
+          "Allergen documentation and a statement on cross-contact.",
+          "Contaminant results, including cadmium, for the lot.",
+          "Labeling in the destination language, usually the importer's responsibility.",
+          "A phytosanitary certificate and a certificate of origin with the shipment."
+        ]
+      },
+      {
+        "heading": "Do the Spanish and German Figures Match China's?",
+        "body": [
+          "Closely for volume. China reported 36.8 kt to Spain and Spain reported 34.8 kt from China, and both sides report 13.9 kt for Germany ([UN Comtrade](https://comtradeplus.un.org/)). That agreement is reassuring, and it contrasts with the larger gap for Türkiye described in our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics)."
+        ]
+      },
+      {
+        "heading": "Does the EU Require Allergen Labeling for Sunflower Seed?",
+        "body": [
+          "Sunflower is not on the EU's list of 14 allergens, so the seed itself needs no allergen emphasis, but any listed allergen in the product, such as sesame, nuts, mustard or celery, does ([FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). Our [allergen labeling guide](/blog/sunflower-seed-allergen-labeling-us-eu) compares the EU and US rules."
+        ]
+      },
+      {
+        "heading": "What Is the EU Cadmium Limit?",
+        "body": [
+          "An EFSA-hosted table lists 0.50 mg/kg for 'linseed and sunflower seed' under Commission Regulation (EC) No 1881/2006 ([EFSA table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf)). That regulation has been updated since the table was prepared, so confirm the current figure in EU law before you rely on it. Ask your supplier for cadmium test results for any lot shipped to the EU, as discussed in our guide to [side effects and safe servings](/blog/sunflower-seed-side-effects-safe-serving-sizes)."
+        ]
+      },
+      {
+        "heading": "Which Is the Easier Market to Enter, Spain or Germany?",
+        "body": [
+          "Neither is easy, but they differ. Both import a similar total of seed from all origins (313 kt for Spain and 327 kt for Germany in their own 2024 reports), but Spain pays more per tonne for Chinese seed and has taken larger tonnages from China. Germany's China volume was smaller and rose later, from 3.9 kt in 2019, and its largest suppliers are closer to home. The data cannot tell you which buyers want in-shell snack seed, so ask the importer what product, size and packaging they need before you quote."
+        ]
+      },
+      {
+        "heading": "How Do Labeling and Language Affect a Shipment?",
+        "body": [
+          "Labeling language requirements are set country by country within the EU, so a pack made for Spain is not automatically right for Germany, and an importer can confirm what applies. Agree early who writes and checks the text, as our [packaging guide](/blog/sunflower-seed-packaging-options-bulk-export) recommends, and keep the allergen statement consistent with the product's ingredient list."
+        ]
+      },
+      {
+        "heading": "What Else Should You Check for EU Imports?",
+        "body": [
+          "This guide covers only the points we could verify. Plant health certificates, import controls, pesticide limits and labeling language are set by EU and national rules, and an importer or customs broker in the destination is the right source. Our guides to the [phytosanitary certificate and certificate of origin](/blog/phytosanitary-certificate-certificate-of-origin) and the [HS code](/blog/sunflower-seed-hs-codes-export-documentation) cover the export side."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and Spain- and Germany-reported imports by origin, 2019-2024.",
+          "[FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens; [EFSA-hosted table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the cadmium level.",
+          "Unit values and comparisons are our own calculations."
+        ]
+      },
+      {
+        "heading": "Ask About Supplying Europe",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us the destination country, and we will confirm the documents and test results we can provide."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "middle-east-turkiye-central-asia-sunflower-seed-trade",
+    title: "The Middle East, Türkiye and Central Asia: What Sunflower Seed Trade Data Show",
+    seoTitle: "Middle East and Türkiye Sunflower Seed Trade",
+    seoDescription: "Türkiye's sunflower seed imports fell from 1,239 kt in 2019 to 288 kt in 2024, yet China's share of their value rose. See the data.",
+    excerpt: "China's sunflower seed exports to Iraq, Türkiye, the UAE, Saudi Arabia and Uzbekistan from 2019 to 2024, and a close look at Türkiye's imports by origin.",
+    category: "Regional Markets",
+    date: "2027-02-16",
+    author: "James Feng",
+    image: "/images/ai-middle-east-market.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Türkiye's imports of sunflower seed fell from 1,239 thousand tonnes in 2019 to 288 thousand tonnes in 2024, and China's reported exports to Türkiye fell from 125.3 kt to 21.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Yet China's share of the value of Türkiye's imports rose from 19% to 28%, which says more about the type of seed than about the market's size. Iraq, Uzbekistan and Saudi Arabia show steadier patterns."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Türkiye imported 1,239 kt in 2019 and 288 kt in 2024, a fall of 77% ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "China's share of Türkiye's import value was 19% in 2019 and 28% in 2024 (calculated).",
+          "Iraq took 60.7 kt from China in 2024, Uzbekistan 29.2 kt, the UAE 16.4 kt and Saudi Arabia 11.5 kt.",
+          "China-reported exports to the UAE fell from 44.3 kt in 2019 to 16.4 kt in 2024.",
+          "These are customs records by partner country, which can differ from where seed is finally sold."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Import origin** is the country a reporter records the goods as coming from, and it can differ from the country that grew them.",
+          "**Share of import value** is the value of imports from one origin divided by the value of all imports, so it is not the same as share of tonnes.",
+          "**Re-export** is a later shipment of imported goods to another country, which inflates import figures for trading hubs."
+        ]
+      },
+      {
+        "heading": "How Much Does China Ship to Each Market?",
+        "image": {
+          "src": "/images/ai-middle-east-market.jpg",
+          "alt": "Busy Middle Eastern market street with food stalls",
+          "caption": "Regional demand. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "The table gives China-reported exports in kilotonnes for six destinations in the region from 2019 to 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+          ],
+          "rows": [
+            [
+              "Iraq",
+              "41.3",
+              "64.0",
+              "56.2",
+              "54.1",
+              "58.8",
+              "60.7"
+            ],
+            [
+              "Türkiye",
+              "125.3",
+              "120.3",
+              "78.5",
+              "19.4",
+              "54.9",
+              "21.9"
+            ],
+            [
+              "UAE",
+              "44.3",
+              "18.1",
+              "24.7",
+              "52.3",
+              "25.1",
+              "16.4"
+            ],
+            [
+              "Saudi Arabia",
+              "15.0",
+              "11.7",
+              "8.5",
+              "10.7",
+              "12.8",
+              "11.5"
+            ],
+            [
+              "Uzbekistan",
+              "4.5",
+              "16.9",
+              "16.8",
+              "22.0",
+              "28.1",
+              "29.2"
+            ],
+            [
+              "Iran",
+              "40.7",
+              "28.4",
+              "34.1",
+              "60.6",
+              "62.4",
+              "76.5"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Happened to Türkiye's Imports?",
+        "image": {
+          "src": "/images/turkiye-total-imports-chart.svg",
+          "alt": "Bar chart of Türkiye's sunflower seed imports in kilotonnes by year, falling from 1,239 in 2019 to 288 in 2024",
+          "caption": "Türkiye's total imports of HS 1206. Source: UN Comtrade."
+        },
+        "body": [
+          "Türkiye's total HS 1206 imports were 1,239 kt in 2019, 1,207 kt in 2020, 734 kt in 2021, 826 kt in 2022, 746 kt in 2023 and 288 kt in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). The 2024 figure is a fall of about 61% on 2023. We do not explain it, because the data do not say why, and a change of that size could reflect policy, supply or a reporting change."
+        ]
+      },
+      {
+        "heading": "Where Does Türkiye's Seed Come From?",
+        "image": {
+          "src": "/images/turkiye-imports-by-origin-2024.svg",
+          "alt": "Bar chart of Türkiye's 2024 sunflower seed imports by origin in kilotonnes: Moldova 115, Romania 46, Ukraine 45, China 33, France 12, Russia 9",
+          "caption": "Türkiye's 2024 imports by origin. Source: UN Comtrade."
+        },
+        "body": [
+          "In 2023 the largest origins by volume were Ukraine (368 kt), Romania (206 kt) and Bulgaria (74 kt), with China at 30.2 kt. In 2024 Moldova led with 115 kt, followed by Romania, Ukraine and China at 33.1 kt ([UN Comtrade](https://comtradeplus.un.org/)). China's tonnage held up while the Black Sea origins fell, which is why its share rose."
+        ]
+      },
+      {
+        "heading": "How Did Türkiye's Imports From Each Origin Change?",
+        "body": [
+          "The table shows Türkiye-reported imports from its main origins for 2022, 2023 and 2024, in kilotonnes. Origins that fell sharply sit next to China, whose volume held up."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "2022 (kt)",
+            "2023 (kt)",
+            "2024 (kt)"
+          ],
+          "rows": [
+            [
+              "Ukraine",
+              "557.0",
+              "368.5",
+              "45.2"
+            ],
+            [
+              "Romania",
+              "96.3",
+              "206.4",
+              "45.7"
+            ],
+            [
+              "Bulgaria",
+              "29.3",
+              "73.8",
+              "12.8"
+            ],
+            [
+              "Moldova",
+              "115.5",
+              "32.3",
+              "114.8"
+            ],
+            [
+              "China",
+              "18.0",
+              "30.2",
+              "33.1"
+            ],
+            [
+              "France",
+              "0.1",
+              "0.2",
+              "12.1"
+            ],
+            [
+              "Russia",
+              "0.1",
+              "21.0",
+              "9.3"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Happened to the Value of Türkiye's Imports?",
+        "body": [
+          "Total value fell from $568 million in 2019 to $208 million in 2024, a drop of 63%, close to the 77% fall in volume ([UN Comtrade](https://comtradeplus.un.org/)). China's own value of seed imported by Türkiye stayed between $30 million and $120 million over the six years, according to Türkiye's records."
+        ]
+      },
+      {
+        "heading": "What Do the UAE and Saudi Arabia Report Themselves?",
+        "body": [
+          "The UAE reported total imports of 48 kt in 2019 and 15 kt in 2023, and nothing for 2024 in the data we retrieved. Saudi Arabia reported 23 kt in 2019 and 16 kt in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). Both are far smaller than Türkiye's totals, which is a reminder that a Gulf port can be a trading point as much as a final market."
+        ]
+      },
+      {
+        "heading": "Why Did China's Share of Türkiye's Import Value Rise?",
+        "body": [
+          "Because the seed from China is declared at a much higher value per tonne. In 2024 Türkiye declared Chinese seed at $1,735 per tonne, against about $490 to $520 for seed from Ukraine, Romania and Moldova (calculated). A premium product keeps a larger share of value than of volume, which our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values) explains."
+        ]
+      },
+      {
+        "heading": "Why Do China's and Türkiye's Figures Disagree?",
+        "body": [
+          "China reported 21.9 kt exported to Türkiye in 2024, while Türkiye reported 33.1 kt imported from China, a gap of about 51% (calculated). Timing, transit routes and classification can all cause this, which our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics) describes."
+        ]
+      },
+      {
+        "heading": "What About Iraq, Saudi Arabia and Uzbekistan?",
+        "body": [
+          "Iraq took 60.7 kt from China in 2024, close to its 41.3 kt in 2019 but with a peak of 64.0 kt in between. Saudi Arabia stayed between 8.5 and 15.0 kt, and Uzbekistan rose from 4.5 kt to 29.2 kt. Iran appears in the table because it is a reported destination; the compliance note in our guide to [destinations](/blog/who-buys-chinese-sunflower-seeds-top-destinations) applies."
+        ]
+      },
+      {
+        "heading": "How Should You Read a Single Market's Fall?",
+        "body": [
+          "A large fall in one market's imports does not mean demand for every type of seed fell. Türkiye's imports of Black Sea seed dropped far more than its imports from China, so the pattern in the data is a change in who supplies a particular product, not an even decline. Ask a buyer which product they are short of before you assume a market has closed or opened."
+        ]
+      },
+      {
+        "heading": "What Should a Seller Take From This?",
+        "body": [
+          "The region is large but shifting, and the biggest single market of 2019 is now much smaller. A seller should not plan on a destination's past volume, should confirm what type of seed a buyer wants, and should keep more than one market open. Our guide to [sourcing for the Middle East](/blog/sourcing-sunflower-seeds-middle-east) adds the trade-route context."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and Türkiye-reported imports (flow M), by partner, 2019-2024.",
+          "Shares, changes and unit values are our own calculations; the 2024 fall in Türkiye's imports is reported, not explained."
+        ]
+      },
+      {
+        "heading": "Ask About Supply for Your Market",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your destination and series, and we will confirm documents and shipping options."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "who-buys-chinese-sunflower-seeds-top-destinations",
+    title: "Who Buys Chinese Sunflower Seeds? Twelve Destinations, 2019-2024",
+    seoTitle: "Who Buys Chinese Sunflower Seeds: Top Markets",
+    seoDescription: "Twelve destinations took 77% of China's sunflower seed exports in 2024. See which markets grew, which shrank and why rankings differ.",
+    excerpt: "China's twelve largest sunflower seed destinations in 2024, how each changed since 2019, and what the ranking by volume and by value shows a buyer or seller.",
+    category: "Regional Markets",
+    date: "2027-02-11",
+    author: "James Feng",
+    image: "/images/ai-cargo-ship-departing-port.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Twelve destinations took 77% of China's sunflower seed export volume in 2024, led by Iran, Iraq and Russia, and several of them look very different from five years earlier: Russia's volume rose from 2.3 kt to 53.4 kt, while Türkiye's fell from 125.3 kt to 21.9 kt ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). This guide ranks the destinations and shows what changed."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Iran (76.5 kt), Iraq (60.7 kt) and Russia (53.4 kt) were the three largest by volume in 2024 ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Russia grew 23 times since 2019, Uzbekistan 6.4 times, Germany 3.6 times and Spain 2.6 times.",
+          "Türkiye fell 82% and the UAE 63% over the same period.",
+          "China reported 80 partners in 2024; the top twelve took 77% of volume.",
+          "All figures are China-reported exports under HS 1206 and include all types of sunflower seed."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Partner** is the destination country as recorded by Chinese customs, which may differ from the final consumer country because of transit and re-export.",
+          "**Export volume** is net weight in kilotonnes (kt), where one kilotonne is 1,000 tonnes.",
+          "**Value share** and **volume share** are a destination's portion of China's total export value or weight."
+        ]
+      },
+      {
+        "heading": "Which Destinations Buy the Most?",
+        "image": {
+          "src": "/images/china-destinations-2024-value.svg",
+          "alt": "Bar chart of China's sunflower seed export value by destination in 2024, with Iran, Iraq and Russia highest",
+          "caption": "Export value by destination, 2024. Source: UN Comtrade."
+        },
+        "body": [
+          "The table ranks the twelve largest destinations by 2024 export value and shows volume in 2019 and 2024, the multiple between them, value and share of 2024 volume ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "2019 (kt)",
+            "2024 (kt)",
+            "Change",
+            "2024 value ($ million)",
+            "Share of 2024 volume"
+          ],
+          "rows": [
+            [
+              "Iran",
+              "40.7",
+              "76.5",
+              "1.9x",
+              "131.1",
+              "15.9%"
+            ],
+            [
+              "Iraq",
+              "41.3",
+              "60.7",
+              "1.5x",
+              "106.8",
+              "12.6%"
+            ],
+            [
+              "Russia",
+              "2.3",
+              "53.4",
+              "23.5x",
+              "82.2",
+              "11.1%"
+            ],
+            [
+              "Spain",
+              "14.2",
+              "36.8",
+              "2.6x",
+              "75.5",
+              "7.7%"
+            ],
+            [
+              "Uzbekistan",
+              "4.5",
+              "29.2",
+              "6.4x",
+              "53.9",
+              "6.1%"
+            ],
+            [
+              "Viet Nam",
+              "26.4",
+              "26.4",
+              "1.0x",
+              "45.9",
+              "5.5%"
+            ],
+            [
+              "Türkiye",
+              "125.3",
+              "21.9",
+              "0.2x",
+              "36.8",
+              "4.6%"
+            ],
+            [
+              "UAE",
+              "44.3",
+              "16.4",
+              "0.4x",
+              "27.7",
+              "3.4%"
+            ],
+            [
+              "Germany",
+              "3.9",
+              "13.9",
+              "3.6x",
+              "23.0",
+              "2.9%"
+            ],
+            [
+              "Thailand",
+              "7.7",
+              "13.8",
+              "1.8x",
+              "22.8",
+              "2.9%"
+            ],
+            [
+              "Saudi Arabia",
+              "15.0",
+              "11.5",
+              "0.8x",
+              "19.7",
+              "2.4%"
+            ],
+            [
+              "Indonesia",
+              "12.0",
+              "7.2",
+              "0.6x",
+              "10.3",
+              "1.5%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Which Markets Grew the Fastest?",
+        "body": [
+          "Russia, Uzbekistan, Germany and Spain grew most. Russia's volume went from 2.3 kt to 53.4 kt, Uzbekistan's from 4.5 kt to 29.2 kt, Germany's from 3.9 kt to 13.9 kt and Spain's from 14.2 kt to 36.8 kt. Starting from a small base makes Russia's multiple look larger than its absolute change, but all four added meaningful tonnage."
+        ]
+      },
+      {
+        "heading": "Which Markets Shrank?",
+        "body": [
+          "Türkiye fell from 125.3 kt to 21.9 kt, the UAE from 44.3 kt to 16.4 kt and Indonesia from 12.0 kt to 7.2 kt. Türkiye was China's largest destination by volume in 2019, which makes its fall the biggest single shift in the table. Our guide to [Türkiye and the Middle East](/blog/middle-east-turkiye-central-asia-sunflower-seed-trade) looks at it in detail."
+        ]
+      },
+      {
+        "heading": "Is Iran Really the Largest Destination?",
+        "body": [
+          "On China's own reporting, yes: 76.5 kt and $131.1 million in 2024 ([UN Comtrade](https://comtradeplus.un.org/)). We report the figure as data and do not suggest it as a sales opportunity. Anyone trading with or through any country must follow the sanctions, export-control and banking rules that apply to them, and should take legal advice before committing."
+        ]
+      },
+      {
+        "heading": "Why Do Rankings by Volume and by Value Differ?",
+        "body": [
+          "Because the value per tonne differs by destination. In 2024 the average declared value was $2,049 per tonne for Spain, $1,650 for Germany, $1,541 for Russia and $1,423 for Indonesia (calculated). A destination that takes a premium product ranks higher by value than by volume, and the reverse is also true."
+        ]
+      },
+      {
+        "heading": "How Has the Ranking by Volume Changed Since 2019?",
+        "image": {
+          "src": "/images/ai-port-cargo-weighing.jpg",
+          "alt": "Dock worker with a clipboard checking the weight of a large bag of seed on a scale",
+          "caption": "Shipments are weighed and recorded at the port. Illustrative AI-generated image, not a product photo."
+        },
+        "body": [
+          "Ranking the same twelve destinations by volume in 2019 and 2024 shows how much the order moved."
+        ],
+        "table": {
+          "headers": [
+            "Destination",
+            "Rank in 2019",
+            "Rank in 2024"
+          ],
+          "rows": [
+            [
+              "Iran",
+              "4",
+              "1"
+            ],
+            [
+              "Iraq",
+              "3",
+              "2"
+            ],
+            [
+              "Russia",
+              "12",
+              "3"
+            ],
+            [
+              "Spain",
+              "7",
+              "4"
+            ],
+            [
+              "Uzbekistan",
+              "10",
+              "5"
+            ],
+            [
+              "Viet Nam",
+              "5",
+              "6"
+            ],
+            [
+              "Türkiye",
+              "1",
+              "7"
+            ],
+            [
+              "UAE",
+              "2",
+              "8"
+            ],
+            [
+              "Germany",
+              "11",
+              "9"
+            ],
+            [
+              "Thailand",
+              "9",
+              "10"
+            ],
+            [
+              "Saudi Arabia",
+              "6",
+              "11"
+            ],
+            [
+              "Indonesia",
+              "8",
+              "12"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does the Long Tail Look Like?",
+        "body": [
+          "Outside the twelve, about 68 partners shared roughly 112 kt in 2024, an average of about 1.7 kt each (calculated). Many are small or occasional buyers, which suits a seller who values a spread of customers but not one who needs a large steady account."
+        ]
+      },
+      {
+        "heading": "How Concentrated Is the Market?",
+        "body": [
+          "The twelve destinations in the table took 77% of volume, so the remaining partners together took about 112 kt. Concentration cuts both ways: a few large buyers make demand easy to read, but a policy change in one of them moves the whole total, as Türkiye's fall shows."
+        ]
+      },
+      {
+        "heading": "Is Every Big Country a Big Buyer?",
+        "body": [
+          "No. India, for example, imported only about 6.7 kt of HS 1206 seed from all sources in 2024, of which about 4.2 kt came from China ([UN Comtrade](https://comtradeplus.un.org/), India-reported imports). A large population does not guarantee a large import market for in-shell seed, so check trade data before choosing a target market."
+        ]
+      },
+      {
+        "heading": "How Should You Use This Ranking?",
+        "body": [
+          "Use it to decide which markets deserve a closer look, not to forecast next year. Rankings change when one large buyer changes policy or supplier, as Türkiye's did, so look at the five-year path as well as the latest year. Then talk to the importers themselves about the product, size and packaging they actually want."
+        ]
+      },
+      {
+        "heading": "What Is the Difference Between Growth in Tonnes and Growth in Value?",
+        "body": [
+          "Value growth can come from volume, price or both. Between 2019 and 2024, Spain's value rose 221% while its volume rose 160%, and Russia's value rose 2171% on a volume rise of 2249% (calculated from [UN Comtrade](https://comtradeplus.un.org/)). The two series are worth reading together, and a market that grows in value faster than in volume is paying more per tonne."
+        ]
+      },
+      {
+        "heading": "What Should You Check Before Selling Into a Market?",
+        "list": [
+          "Import permits, plant health certificates and labeling rules in the destination.",
+          "Whether the importer buys in-shell confection seed or oil-type seed.",
+          "Payment terms and banking access, including any sanctions exposure.",
+          "Allergen and contaminant rules, covered in our guide to [allergen labeling](/blog/sunflower-seed-allergen-labeling-us-eu).",
+          "Whether the destination is the final market or a transit point."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) by partner, 2019-2024.",
+          "India-reported imports come from the same source. Multiples and shares are our own calculations."
+        ]
+      },
+      {
+        "heading": "Discuss Your Market With Us",
+        "body": [
+          "[Request a quote](/contact#quote-form) and tell us your destination and product, and we will say whether we can supply it and on what documents."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "chinese-vs-black-sea-sunflower-seed-prices-customs-values",
+    title: "Why Chinese Sunflower Seed Is Declared at Much Higher Values Than Black Sea Seed",
+    seoTitle: "Chinese vs Black Sea Sunflower Seed Values",
+    seoDescription: "Spain declared Chinese sunflower seed at $2,266/t in 2023 against $488/t for Romanian seed, 4.6 times as much. What the customs data suggest.",
+    excerpt: "Importers' customs values per tonne for sunflower seed from China, France, Bulgaria, Ukraine and Romania in Spain, Germany and Türkiye, and what the gap suggests about product type.",
+    category: "Quality & Sourcing",
+    date: "2027-02-04",
+    author: "James Feng",
+    image: "/images/ai-confectionery-vs-oil-comparison.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Importers report what they pay per tonne at the border, and the numbers differ sharply by origin. Spain declared Chinese sunflower seed at $2,266 per tonne in 2023, against $488 for Romanian seed and $1,003 for French seed ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). The gap is consistent with a difference in product, with confection seed priced well above oil-type seed, but the data cannot prove it."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Spain 2023: China $2,266/t, France $1,003/t, Bulgaria $860/t, Ukraine $494/t, Romania $488/t ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Germany 2023: China $1,911/t, Austria $1,458/t, Bulgaria $1,321/t, France $740/t.",
+          "Türkiye 2024: China $1,735/t against $490/t for Ukrainian seed.",
+          "Chinese seed is declared at 2.3 to 4.6 times the value of French and Romanian seed in Spain (calculated).",
+          "The data cover all HS 1206 seed; product type is our inference, not a reported field."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Unit value** is the declared customs value divided by net weight, an average per tonne over everything imported from one origin in a year.",
+          "**CIF** (cost, insurance and freight) is the basis on which most importers declare value, so it includes the cost of shipping the seed to the border.",
+          "**Confection seed** is sunflower seed grown for eating, with a large striped hull, while **oil-type seed** is grown for crushing and has a smaller black hull; our guide to [confectionery versus oil-type seed](/blog/confectionery-vs-oil-type-sunflower-seeds) explains the difference."
+        ]
+      },
+      {
+        "heading": "What Do Importers in Spain Declare?",
+        "image": {
+          "src": "/images/spain-unit-value-by-origin.svg",
+          "alt": "Bar chart of Spain's declared sunflower seed import value per tonne in 2023: China 2,266 dollars, France 1,003, Bulgaria 860, Ukraine 494, Romania 488",
+          "caption": "Spain's declared import value per tonne, 2023. Source: UN Comtrade."
+        },
+        "body": [
+          "Spain is a useful test because it buys seed from several origins in volume. The table shows its 2023 imports by origin, with quantity, declared value and value per tonne ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "China",
+              "29.8",
+              "67.5",
+              "2,266"
+            ],
+            [
+              "France",
+              "195.1",
+              "195.6",
+              "1,003"
+            ],
+            [
+              "Bulgaria",
+              "31.8",
+              "27.3",
+              "860"
+            ],
+            [
+              "Ukraine",
+              "35.9",
+              "17.7",
+              "494"
+            ],
+            [
+              "Romania",
+              "119.6",
+              "58.4",
+              "488"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Do Importers in Germany Declare?",
+        "body": [
+          "Germany shows the same ordering with a narrower gap. Chinese seed was declared at $1,911 per tonne, 2.6 times the $740 for French seed, while Austrian and Bulgarian seed sat between them ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "China",
+              "10.4",
+              "19.9",
+              "1,911"
+            ],
+            [
+              "Austria",
+              "11.6",
+              "17.0",
+              "1,458"
+            ],
+            [
+              "Bulgaria",
+              "72.3",
+              "95.5",
+              "1,321"
+            ],
+            [
+              "France",
+              "95.2",
+              "70.5",
+              "740"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Do Importers in Türkiye Declare?",
+        "image": {
+          "src": "/images/turkiye-unit-value-by-origin.svg",
+          "alt": "Bar chart of Türkiye's declared sunflower seed import value per tonne in 2024: China 1,735 dollars, France 897, Moldova 520, Romania 516, Ukraine 490",
+          "caption": "Türkiye's declared import value per tonne, 2024. Source: UN Comtrade."
+        },
+        "body": [
+          "In 2024 Türkiye declared Chinese seed at $1,735 per tonne, against $490 for Ukrainian seed, a ratio of 3.5 ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)"
+          ],
+          "rows": [
+            [
+              "China",
+              "33.1",
+              "57.4",
+              "1,735"
+            ],
+            [
+              "France",
+              "12.1",
+              "10.9",
+              "897"
+            ],
+            [
+              "Moldova",
+              "114.8",
+              "59.7",
+              "520"
+            ],
+            [
+              "Romania",
+              "45.7",
+              "23.6",
+              "516"
+            ],
+            [
+              "Ukraine",
+              "45.2",
+              "22.1",
+              "490"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Large Are the Gaps in Dollars?",
+        "body": [
+          "The gaps are large in absolute terms as well as in ratios. Chinese seed was declared $1,778 per tonne above Romanian seed and $1,263 above French seed in Spain in 2023, $1,171 above French seed in Germany, and $1,245 above Ukrainian seed in Türkiye in 2024 (calculated from [UN Comtrade](https://comtradeplus.un.org/)). Gaps of roughly $1,200 to $1,800 per tonne are larger than any single-year move in China's own average value, which never changed by more than $262 from one year to the next (calculated)."
+        ]
+      },
+      {
+        "heading": "Did the Gap Persist in 2024?",
+        "body": [
+          "Yes. In Spain's 2024 data China was declared at $2,097 per tonne, against $518 for Romania, $484 for Ukraine and $598 for France. The ordering matched 2023, although the French value fell sharply, which shows how much origin averages move from year to year."
+        ],
+        "table": {
+          "headers": [
+            "Origin",
+            "2023 ($/t)",
+            "2024 ($/t)"
+          ],
+          "rows": [
+            [
+              "China",
+              "2,266",
+              "2,097"
+            ],
+            [
+              "France",
+              "1,003",
+              "598"
+            ],
+            [
+              "Bulgaria",
+              "860",
+              "1,393"
+            ],
+            [
+              "Ukraine",
+              "494",
+              "484"
+            ],
+            [
+              "Romania",
+              "488",
+              "518"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Should an Importer Ask to Check the Mix?",
+        "list": [
+          "Is the seed confection (striped, large hull) or oil-type (small black hull)?",
+          "What size grade is it, and what share is over the named screen?",
+          "What moisture and foreign-material limits apply?",
+          "Is it packed for food use, with food-grade bags and labels?",
+          "Does the quote include freight and insurance?"
+        ]
+      },
+      {
+        "heading": "Why Might Chinese Seed Be Declared at a Higher Value?",
+        "body": [
+          "Several explanations fit, and the data cannot separate them. The most likely is product mix: a larger share of confection seed, which is graded, cleaned and sized for eating, against crushing-grade oilseed that is bought as a commodity. Others are size and grade, packaging, and the cost of shipping over a longer distance, which is included in a CIF value. We treat product mix as the leading explanation, not as a finding."
+        ]
+      },
+      {
+        "heading": "Does Distance Explain the Gap?",
+        "body": [
+          "Freight is part of a CIF value, and China is farther from Spain, Germany and Türkiye than Romania, Bulgaria or Ukraine, so some of the gap is likely to be freight. The data do not show how much, and we cannot separate freight from product in these figures. Ask for the FOB and freight components in any quote you compare."
+        ]
+      },
+      {
+        "heading": "What Do France, Austria and Bulgaria Tell You?",
+        "body": [
+          "They sit in the middle. French seed was declared at roughly $740 to $1,000 per tonne, Bulgarian seed at $860 to $1,320 and Austrian seed at $1,460, depending on the importer and year (calculated from the tables). A mid-range value can come from a mix of oil-type and confection seed, so a country average is a blend of products."
+        ]
+      },
+      {
+        "heading": "Why Not Simply Compare Prices Across Origins?",
+        "body": [
+          "Because a price per tonne is only meaningful for the same product on the same terms. A tonne of crushing-grade oilseed and a tonne of graded in-shell confection seed share a tariff heading and little else. The unit values here are best used to show that the two are different products, not to say that one origin is cheaper."
+        ]
+      },
+      {
+        "heading": "What Does This Mean When You Compare Quotes?",
+        "list": [
+          "Compare like with like: confection seed against confection seed, with the same size grade and moisture.",
+          "Ask which Incoterm the price uses, because a CIF price includes freight and an FOB price does not.",
+          "Do not use a Black Sea oilseed price as a benchmark for in-shell confection seed.",
+          "Use country unit values only as a rough check that a quote is plausible.",
+          "Write size, moisture and foreign-material limits into the specification before comparing price."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. Importer-reported imports (flow M) by origin: Spain 2023, Germany 2023, Türkiye 2024.",
+          "Ratios and the product-mix explanation are our own calculation and inference."
+        ]
+      },
+      {
+        "heading": "Compare Quotes on the Same Basis",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your required size and moisture, and we will state the Incoterm and the specification, so the price can be compared fairly."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "china-sunflower-seed-exports-2019-2024",
+    title: "China's Sunflower Seed Exports 2019-2024: Volume, Value and Price Per Tonne",
+    seoTitle: "China's Sunflower Seed Exports 2019-2024",
+    seoDescription: "China exported 480 kt of sunflower seed worth $819 million in 2024, an average $1,706 per tonne. See six years of customs data.",
+    excerpt: "Six years of UN Comtrade data on China's HS 1206 sunflower seed exports: volume, value and average customs value per tonne, with a guide to what the averages do and do not tell a buyer.",
+    category: "Importing & Trade",
+    date: "2027-01-12",
+    author: "James Feng",
+    image: "/images/ai-cargo-port-containers.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "China exported about 480 thousand tonnes of sunflower seed in 2024, worth $819 million, an average customs value of $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026). Volume was almost the same as in 2019, but value rose by 32%, so almost all of the growth came from price. This guide sets out the six-year record and how to use it."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "2024 exports: 480.2 kt, $819.3 million, $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/)).",
+          "Volume ranged from 427 kt (2021) to 508 kt (2020) over the six years.",
+          "Average customs value rose from $1,293 per tonne in 2019 to $1,789 in 2023, then eased to $1,706 in 2024.",
+          "The three largest destinations by volume in 2024 (Iran, Iraq and Russia) took 40% of the total.",
+          "The figures cover every kind of sunflower seed under HS 1206, not only confection seed."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**HS 1206** is the six-digit Harmonized System heading for sunflower seeds, whether or not broken, which covers oil-type, confection and sowing seed alike ([Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
+          "**Customs value** is the value declared at the border; for exports it is generally the free-on-board (FOB) value, which is why it is comparable with an FOB quotation only roughly.",
+          "**Unit value** is the customs value divided by the net weight, so it is an average over everything shipped in the year and not the price of any single lot."
+        ]
+      },
+      {
+        "heading": "How Much Sunflower Seed Does China Export?",
+        "image": {
+          "src": "/images/china-exports-volume-chart.svg",
+          "alt": "Bar chart of China's sunflower seed export volume in kilotonnes: 480 in 2019, 508 in 2020, 427 in 2021, 445 in 2022, 463 in 2023 and 480 in 2024",
+          "caption": "China's HS 1206 export volume. Source: UN Comtrade."
+        },
+        "body": [
+          "The table lists China's reported exports to the world for each year. Volumes are net weight converted from kilograms to kilotonnes ([UN Comtrade](https://comtradeplus.un.org/))."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Volume (kt)",
+            "Value ($ million)",
+            "Value per tonne ($)",
+            "Volume change"
+          ],
+          "rows": [
+            [
+              "2019",
+              "480.3",
+              "621.2",
+              "1,293",
+              "-"
+            ],
+            [
+              "2020",
+              "508.0",
+              "647.9",
+              "1,275",
+              "+5.8%"
+            ],
+            [
+              "2021",
+              "427.0",
+              "586.1",
+              "1,373",
+              "-16.0%"
+            ],
+            [
+              "2022",
+              "444.8",
+              "679.2",
+              "1,527",
+              "+4.2%"
+            ],
+            [
+              "2023",
+              "462.7",
+              "827.7",
+              "1,789",
+              "+4.0%"
+            ],
+            [
+              "2024",
+              "480.2",
+              "819.3",
+              "1,706",
+              "+3.8%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Did Export Volume Change Year to Year?",
+        "body": [
+          "Volume peaked at 508 kt in 2020, dropped 16.0% to 427 kt in 2021, and has recovered each year since, by 4.2%, 4.0% and 3.8% (calculated from [UN Comtrade](https://comtradeplus.un.org/)). Six years is a short record, so we avoid calling any of these a trend. The 2021 dip and the rebound are the visible pattern."
+        ]
+      },
+      {
+        "heading": "How Did Export Value Change?",
+        "body": [
+          "Value rose from $621 million in 2019 to $828 million in 2023 and $819 million in 2024, with a low of $586 million in 2021 ([UN Comtrade](https://comtradeplus.un.org/)). Because 2024 volume was within 0.1% of 2019, the 32% rise in value is almost entirely a rise in average price."
+        ]
+      },
+      {
+        "heading": "What Happened to the Average Export Price?",
+        "image": {
+          "src": "/images/china-exports-unit-value-chart.svg",
+          "alt": "Bar chart of China's average sunflower seed export value per tonne: 1,293 dollars in 2019, 1,275 in 2020, 1,373 in 2021, 1,527 in 2022, 1,789 in 2023 and 1,706 in 2024",
+          "caption": "Average customs value per tonne. Source: UN Comtrade."
+        },
+        "body": [
+          "The average customs value climbed from $1,293 per tonne in 2019 to $1,789 in 2023, an increase of 38%, then fell 4.6% in 2024 to $1,706. In other units, $1,706 per tonne is $1.71 per kilogram or $0.77 per pound (calculated; see our guide to [metric and short tons](/blog/sunflower-seed-price-per-ton-units-kg-lb-guide))."
+        ]
+      },
+      {
+        "heading": "Which Years Saw the Biggest Price Moves?",
+        "body": [
+          "Year-on-year changes in the average value show when the market moved. The sharpest rise came in 2023, and 2024 was the first fall in the series apart from 2020."
+        ],
+        "table": {
+          "headers": [
+            "Year",
+            "Value per tonne ($)",
+            "Change on prior year"
+          ],
+          "rows": [
+            [
+              "2019",
+              "1,293",
+              "-"
+            ],
+            [
+              "2020",
+              "1,275",
+              "-1.4%"
+            ],
+            [
+              "2021",
+              "1,373",
+              "+7.6%"
+            ],
+            [
+              "2022",
+              "1,527",
+              "+11.2%"
+            ],
+            [
+              "2023",
+              "1,789",
+              "+17.1%"
+            ],
+            [
+              "2024",
+              "1,706",
+              "-4.6%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Would an Average Load Be Worth?",
+        "body": [
+          "As an illustration, a 20ft container holding about 9.7 tonnes of in-shell seed, the volume estimate in our guide to [how many tons fit in a container](/blog/tons-per-container-sunflower-seeds-20ft-40ft), would be worth about $16,550 at the 2024 average customs value (calculated). Real loads differ in grade, size and packaging, so use this only to get an order of magnitude."
+        ]
+      },
+      {
+        "heading": "Is the Average Customs Value a Price Quote?",
+        "body": [
+          "No. It averages every type of seed, every size grade, every packaging format and every shipment in the year, valued at the border. A quote for one grade of in-shell confection seed can sit well above or below it. The figure is useful as a sanity check on direction and order of magnitude, and unhelpful as a negotiating target. Our guide to [FOB pricing](/blog/fob-pricing-sunflower-seeds) lists what moves a single quote."
+        ]
+      },
+      {
+        "heading": "How Concentrated Are China's Exports?",
+        "body": [
+          "Twelve destinations took 77% of the 2024 volume, out of 80 partners reported. The remaining partners together took about 112 kt. The destination detail is in our guide to [who buys Chinese sunflower seeds](/blog/who-buys-chinese-sunflower-seeds-top-destinations)."
+        ]
+      },
+      {
+        "heading": "What Do Volume and Price Together Tell You?",
+        "body": [
+          "Value is volume times price, so the two can be separated. From 2019 to 2024 volume changed by -0.0% and price by +31.9%, which together give the +31.9% change in value (calculated from [UN Comtrade](https://comtradeplus.un.org/)). In 2021 the pattern was different: volume fell and price rose, so value fell by less than volume did. Reading one without the other would give the wrong story."
+        ]
+      },
+      {
+        "heading": "How Should a Buyer Use These Figures?",
+        "body": [
+          "Treat them as context. They show that China ships close to half a million tonnes a year, that the market is large enough for a buyer to expect competing offers, and that average prices moved by a third in five years. They do not replace a quote, a specification or a test certificate. Compare your own quote with the per-origin comparison in our guide to [Chinese and Black Sea customs values](/blog/chinese-vs-black-sea-sunflower-seed-prices-customs-values)."
+        ]
+      },
+      {
+        "heading": "How Reliable Are the Numbers?",
+        "body": [
+          "Comtrade marks some quantities as estimated, and the 2019-2023 world totals for China carry that flag, while the 2024 total does not. A few partner rows in each year are flagged as well. Reporting countries can also disagree with each other, which our guide to [reading trade data](/blog/reading-sunflower-seed-trade-data-mirror-statistics) explains."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) to the world and to each partner, net weight and primary value.",
+          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206.",
+          "Growth rates, shares and per-unit conversions are our own arithmetic."
+        ]
+      },
+      {
+        "heading": "Ask for a Quote on Your Specification",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your series, volume, bag format and destination, and we will quote against your specification, not against an average. Read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) for the full process."
+        ]
+      }
+    ],
+  },
+  {
     slug: "tons-per-container-sunflower-seeds-20ft-40ft",
     title: "How Many Tons of Sunflower Seeds Fit in a 20ft or 40ft Container?",
     seoTitle: "Sunflower Seeds per Container: 20ft vs 40ft",

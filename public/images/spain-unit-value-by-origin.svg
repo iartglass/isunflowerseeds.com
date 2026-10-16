@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" role="img" aria-labelledby="t d">
+<title id="t">Spain's import value per tonne by origin, 2023</title><desc id="d">Bar chart of declared import value per tonne in Spain by origin: China 2,266 dollars, France 1,003, Bulgaria 860, Ukraine 494 and Romania 488.</desc>
+<rect width="960" height="350" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Spain's import value per tonne by origin, 2023</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">China</text>
+<rect x="170" y="70" width="453" height="30" rx="4" fill="#b8860b"/>
+<text x="633" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">2,266 $/t</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">France</text>
+<rect x="170" y="122" width="201" height="30" rx="4" fill="#1e3a5f"/>
+<text x="381" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1,003 $/t</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Bulgaria</text>
+<rect x="170" y="174" width="172" height="30" rx="4" fill="#1e3a5f"/>
+<text x="352" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">860 $/t</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Ukraine</text>
+<rect x="170" y="226" width="99" height="30" rx="4" fill="#1e3a5f"/>
+<text x="279" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">494 $/t</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Romania</text>
+<rect x="170" y="278" width="98" height="30" rx="4" fill="#1e3a5f"/>
+<text x="278" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">488 $/t</text>
+<text x="30" y="336" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: UN Comtrade, HS 1206, Spain-reported imports (CIF), 2023.</text></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 402" role="img" aria-labelledby="t d">
+<title id="t">Türkiye's sunflower seed imports by origin, 2024, kt</title><desc id="d">Bar chart of Türkiye's 2024 HS 1206 imports by origin: Moldova 115 kt, Romania 46, Ukraine 45, China 33, France 12 and Russia 9.</desc>
+<rect width="960" height="402" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">Türkiye's sunflower seed imports by origin, 2024, kt</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Moldova</text>
+<rect x="170" y="70" width="426" height="30" rx="4" fill="#1e3a5f"/>
+<text x="606" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">115 kt</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Romania</text>
+<rect x="170" y="122" width="170" height="30" rx="4" fill="#1e3a5f"/>
+<text x="350" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">46 kt</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Ukraine</text>
+<rect x="170" y="174" width="168" height="30" rx="4" fill="#1e3a5f"/>
+<text x="348" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">45 kt</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">China</text>
+<rect x="170" y="226" width="123" height="30" rx="4" fill="#b8860b"/>
+<text x="303" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">33 kt</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Bulgaria</text>
+<rect x="170" y="278" width="47" height="30" rx="4" fill="#1e3a5f"/>
+<text x="227" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">13 kt</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">France</text>
+<rect x="170" y="330" width="45" height="30" rx="4" fill="#1e3a5f"/>
+<text x="225" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">12 kt</text>
+<text x="30" y="388" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: UN Comtrade, HS 1206, Türkiye-reported imports, 2024.</text></svg>

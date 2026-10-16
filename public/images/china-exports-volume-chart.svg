@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 402" role="img" aria-labelledby="t d">
+<title id="t">China's sunflower seed exports, kilotonnes</title><desc id="d">Bar chart of China's HS 1206 sunflower seed export volume by year, 2019 to 2024, in kilotonnes.</desc>
+<rect width="960" height="402" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">China's sunflower seed exports, kilotonnes</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2019</text>
+<rect x="120" y="70" width="532" height="30" rx="4" fill="#b8860b"/>
+<text x="662" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">480 kt</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2020</text>
+<rect x="120" y="122" width="562" height="30" rx="4" fill="#b8860b"/>
+<text x="692" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">508 kt</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2021</text>
+<rect x="120" y="174" width="473" height="30" rx="4" fill="#b8860b"/>
+<text x="603" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">427 kt</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2022</text>
+<rect x="120" y="226" width="492" height="30" rx="4" fill="#b8860b"/>
+<text x="622" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">445 kt</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2023</text>
+<rect x="120" y="278" width="512" height="30" rx="4" fill="#b8860b"/>
+<text x="642" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">463 kt</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">2024</text>
+<rect x="120" y="330" width="532" height="30" rx="4" fill="#b8860b"/>
+<text x="662" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">480 kt</text>
+<text x="30" y="388" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: UN Comtrade, HS 1206, China-reported exports to World. 2019-2023 totals carry an estimation flag.</text></svg>

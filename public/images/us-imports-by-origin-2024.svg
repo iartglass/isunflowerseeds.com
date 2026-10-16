@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 402" role="img" aria-labelledby="t d">
+<title id="t">US imports of sunflower seed by origin, 2024, kt</title><desc id="d">Bar chart of US HS 1206 imports by origin in 2024: Bulgaria 51 kt, Canada 35, Argentina 17, Türkiye 3, Germany 1 and China 1.</desc>
+<rect width="960" height="402" fill="#faf9f7"/>
+<text x="30" y="38" style="font-family:Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1e3a5f">US imports of sunflower seed by origin, 2024, kt</text>
+<text x="30" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Bulgaria</text>
+<rect x="170" y="70" width="445" height="30" rx="4" fill="#1e3a5f"/>
+<text x="625" y="91" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">51.4 kt</text>
+<text x="30" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Canada</text>
+<rect x="170" y="122" width="306" height="30" rx="4" fill="#1e3a5f"/>
+<text x="486" y="143" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">35.3 kt</text>
+<text x="30" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Argentina</text>
+<rect x="170" y="174" width="150" height="30" rx="4" fill="#1e3a5f"/>
+<text x="330" y="195" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">17.3 kt</text>
+<text x="30" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Romania</text>
+<rect x="170" y="226" width="30" height="30" rx="4" fill="#1e3a5f"/>
+<text x="210" y="247" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">3.5 kt</text>
+<text x="30" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Türkiye</text>
+<rect x="170" y="278" width="25" height="30" rx="4" fill="#1e3a5f"/>
+<text x="205" y="299" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">2.9 kt</text>
+<text x="30" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" fill="#333">Germany</text>
+<rect x="170" y="330" width="9" height="30" rx="4" fill="#1e3a5f"/>
+<text x="189" y="351" style="font-family:Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">1.0 kt</text>
+<text x="30" y="388" style="font-family:Arial,Helvetica,sans-serif" font-size="12" fill="#666">Source: UN Comtrade, HS 1206, US-reported imports, 2024.</text></svg>
