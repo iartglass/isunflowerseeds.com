@@ -259,7 +259,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                                 <tr key={rIndex} className="border-t border-gray-200 dark:border-gray-700">
                                   {row.map((cell, cIndex) => (
                                     <td key={cIndex} className="px-4 py-3 text-gray-700 dark:text-gray-300 text-sm">
-                                      {cell}
+                                      <RichText text={cell} />
                                     </td>
                                   ))}
                                 </tr>

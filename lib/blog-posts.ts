@@ -145,6 +145,23 @@ export const blogPosts: BlogPost[] = [
         }
       },
       {
+        "heading": "Which Allergens Appear Only on the EU List?",
+        "body": [
+          "Comparing the two lists shows that all nine US major allergens have an EU counterpart, with wheat covered by the EU's cereals containing gluten and the US tree nuts matched by the EU's nuts ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies); [FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers)). The EU list is longer by five groups: Celery, mustard, lupin, molluscs and sulphur dioxide and sulphites (above 10 mg/kg). This comparison is our own reading of the two lists.",
+          "The practical effect is easy to miss. A seasoned seed snack that contains mustard or celery in its seasoning would need allergen emphasis in the EU, while neither is a US major allergen under the list above. Brands that sell in both markets should therefore check against the longer list first."
+        ]
+      },
+      {
+        "heading": "What Is a Practical Allergen Check for a Sunflower Seed Product?",
+        "list": [
+          "List every ingredient in the finished product, including seasonings and coatings.",
+          "Check each ingredient against the US list of 9 and the EU list of 14, using the sources below.",
+          "Ask the supplier which allergens are handled in the same facility and on shared equipment.",
+          "Decide who writes the allergen statement for each destination market, and who approves it.",
+          "Keep the supplier's allergen documentation with the specification and the label artwork."
+        ]
+      },
+      {
         "heading": "Which Listed Allergens Can Share a Product With Sunflower Seeds?",
         "body": [
           "Check each ingredient in the finished product against both lists. Seed and nut snack mixes may contain tree nuts, peanuts or sesame, and bakery or bar products may add wheat, milk or soybeans. Sesame deserves a second look for US-bound products because it joined the list only on January 1, 2023, so older labels and specifications may predate it."
@@ -323,6 +340,66 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Do the Six Types Compare per 100 Calories?",
+        "body": [
+          "Comparing servings by weight can mislead, because added oil and salt change what a gram contains. A fairer test is to divide each nutrient by the energy it arrives with. The table below does that for the six USDA records, and every value is calculated from the per-100 g figures ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)).",
+          "Our analysis of the six records shows that, by this measure, dried kernels (raw) gives the most protein at 3.6 g per 100 kcal, and toasted, salt added gives the least at 2.8 g. Sodium spans a far wider range: 0.5 mg per 100 kcal for oil roasted, no salt against 113 mg for dry roasted, salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Per 100 kcal",
+            "Protein (g)",
+            "Fat (g)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried kernels (raw)",
+              "3.6",
+              "8.8",
+              "1.5"
+            ],
+            [
+              "Dry roasted, no salt",
+              "3.3",
+              "8.6",
+              "0.5"
+            ],
+            [
+              "Oil roasted, no salt",
+              "3.4",
+              "8.7",
+              "0.5"
+            ],
+            [
+              "Dry roasted, salt added",
+              "3.3",
+              "8.6",
+              "113"
+            ],
+            [
+              "Oil roasted, salt added",
+              "3.4",
+              "8.7",
+              "51"
+            ],
+            [
+              "Toasted, salt added",
+              "2.8",
+              "9.2",
+              "99"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Does This Mean When You Compare Labels?",
+        "body": [
+          "Two bags of sunflower seeds can look almost identical on the front and still differ by a factor of 222 in sodium per calorie. The nutrition panel on the back is where that shows up, so compare sodium per serving first and calories second.",
+          "For a food brand, the same logic applies to specification sheets. Ask the supplier whether the quoted values describe raw kernels, roasted kernels or salted kernels, and which serving weight they use. A mismatch there is a common reason for numbers that do not reconcile."
+        ]
+      },
+      {
         "heading": "How Much Protein Do Sunflower Seeds Have?",
         "body": [
           "Dried kernels have 20.8 g of protein per 100 g, or 5.8 g in 28 g. Dry roasted kernels without salt have 19.3 g per 100 g (5.4 g per serving), and oil roasted kernels 20.1 g (5.6 g). Fat is the larger macronutrient at 51 g per 100 g for dried kernels, against 20 g of carbohydrate."
@@ -411,7 +488,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Quick Answer",
         "body": [
-          "Yes, in sensible portions. A 28 g (about 1 oz) serving of dried sunflower seed kernels provides about 164 kcal, 5.8 g of protein and 9.8 mg of vitamin E, which is 66% of the 15 mg Daily Value (USDA FoodData Central, FDC ID 170562, scaled to 28 g). The trade-offs are calories and, in salted seeds, sodium: dry roasted kernels with salt added carry about 183 mg of sodium per 28 g."
+          "Yes, in sensible portions. A 28 g (about 1 oz) serving of dried sunflower seed kernels provides about 164 kcal and 5.8 g of protein. It also supplies 9.8 mg of vitamin E, which is 66% of the 15 mg Daily Value ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled to 28 g; [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). The trade-offs are calories and, in salted seeds, sodium. Dry roasted kernels with salt added carry about 183 mg of sodium per 28 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients))."
         ]
       },
       {
@@ -445,59 +522,69 @@ export const blogPosts: BlogPost[] = [
           "caption": "A small bowl of kernels. Illustrative AI-generated image, not a product photo."
         },
         "body": [
-          "The table scales the USDA record for dried sunflower seed kernels (FDC ID 170562) to a 28 g serving. Percent Daily Value is shown where this guide has the FDA reference amount."
+          "The table scales the USDA record for dried sunflower seed kernels (FDC ID 170562) to a 28 g serving. Percent Daily Value is shown only where this guide has the FDA reference amount, and each row names its source."
         ],
         "table": {
           "headers": [
             "Nutrient",
             "Per 28 g",
-            "% Daily Value"
+            "% Daily Value",
+            "Source"
           ],
           "rows": [
             [
               "Energy",
               "164 kcal",
-              "-"
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
             ],
             [
               "Protein",
               "5.8 g",
-              "-"
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
             ],
             [
               "Total fat",
               "14.4 g",
-              "-"
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
             ],
             [
               "Carbohydrate",
               "5.6 g",
-              "-"
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
             ],
             [
               "Dietary fiber",
               "2.4 g",
-              "-"
+              "-",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)"
             ],
             [
               "Vitamin E",
               "9.8 mg",
-              "66%"
+              "66%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
             ],
             [
               "Selenium",
               "15 mcg",
-              "27%"
+              "27%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
             ],
             [
               "Magnesium",
               "91 mg",
-              "22%"
+              "22%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
             ],
             [
               "Sodium",
               "2.5 mg",
-              "0.1%"
+              "0.1%",
+              "[USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)"
             ]
           ]
         }
@@ -510,15 +597,48 @@ export const blogPosts: BlogPost[] = [
           "caption": "Share of FDA Daily Value per 28 g serving. Source: USDA FoodData Central and FDA, calculated by XingYi Trading."
         },
         "body": [
-          "Vitamin E is the standout. One serving supplies 9.8 mg, about 66% of the 15 mg Daily Value. Selenium follows at 15 mcg (27% of 55 mcg), and magnesium at 91 mg (22% of 420 mg).",
-          "These are amounts in the food, not proof of a health outcome. How much you absorb and need depends on the rest of your diet, so treat the percentages as a way to compare foods."
+          "Vitamin E is the standout nutrient. One serving supplies 9.8 mg, about 66% of the 15 mg Daily Value ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Selenium follows at 15 mcg, or 27% of the 55 mcg reference amount, and magnesium at 91 mg, or 22% of 420 mg ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "These figures describe what is in the food and do not prove a health outcome. How much you absorb and need depends on the rest of your diet, so the percentages are best used to compare one food with another."
         ]
       },
       {
         "heading": "What Kind of Fat Do Sunflower Seeds Contain?",
         "body": [
-          "Sunflower seed kernels are energy-dense: 51 g of fat per 100 g, which is why a small serving carries 164 kcal. Of that fat, USDA reports 18.5 g monounsaturated, 23.1 g polyunsaturated and 4.5 g saturated per 100 g. That works out to about 81% unsaturated and 9% saturated (calculated from the USDA record)."
+          "Sunflower seed kernels are energy-dense, with 51 g of fat per 100 g ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). That is why a small serving carries 164 kcal. USDA reports 18.5 g monounsaturated, 23.1 g polyunsaturated and 4.5 g saturated fat per 100 g, which works out to about 81% unsaturated and 9% saturated ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated)."
         ]
+      },
+      {
+        "heading": "How Nutrient-Dense Are Sunflower Seeds per 100 Calories?",
+        "body": [
+          "A per-serving view hides one useful comparison. Because kernels are rich in fat, it helps to ask how much of each nutrient arrives with every 100 kcal. We calculated this from the USDA records for dried kernels and for dry roasted kernels with salt added ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients); [FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)).",
+          "Our analysis of these two records shows that, per 100 kcal, dried kernels supply 6.0 mg of vitamin E (40% of the Daily Value), 56 mg of magnesium and 9.1 mcg of selenium. The salted dry roasted record has nearly the same energy but carries 113 mg of sodium per 100 kcal, about 73 times the 1.5 mg in dried kernels.",
+          "Put another way, reaching the full 15 mg vitamin E Daily Value from kernels alone would take about 43 g of dried kernels, or roughly 249 kcal. The first number says the seeds are a concentrated source; the second says the energy cost is real."
+        ],
+        "table": {
+          "headers": [
+            "Per 100 kcal",
+            "Vitamin E (mg)",
+            "Magnesium (mg)",
+            "Selenium (mcg)",
+            "Sodium (mg)"
+          ],
+          "rows": [
+            [
+              "Dried kernels",
+              "6.0",
+              "56",
+              "9.1",
+              "1.5"
+            ],
+            [
+              "Dry roasted, salt added",
+              "4.5",
+              "22",
+              "13.6",
+              "113"
+            ]
+          ]
+        }
       },
       {
         "heading": "Are Salted Sunflower Seeds a Problem?",
@@ -557,7 +677,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Are Roasted Sunflower Seeds Less Healthy Than Raw?",
         "body": [
-          "The energy is almost the same. USDA lists 584 kcal per 100 g for dried kernels, 582 for dry roasted without salt and 592 for oil roasted without salt. The meaningful difference comes from added salt or oil, so read the label."
+          "The energy is almost the same ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Dried kernels have 584 kcal per 100 g, dry roasted kernels without salt have 582, and oil roasted kernels without salt have 592. The meaningful difference comes from added salt or oil, so read the label."
         ]
       },
       {
@@ -569,7 +689,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do the Numbers Come From?",
         "body": [
-          "Every nutrient value is the USDA FoodData Central record 'Seeds, sunflower seed kernels, dried', multiplied by 0.28 to give 28 g. Percent Daily Value uses the FDA reference amounts. Your product's label is the final authority."
+          "Every nutrient value is the USDA FoodData Central record 'Seeds, sunflower seed kernels, dried' ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)), multiplied by 0.28 to give 28 g. Percent Daily Value uses the FDA reference amounts ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Your product's label is the final authority."
         ]
       },
       {
