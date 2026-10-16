@@ -46,389 +46,6 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
-    slug: "which-countries-import-the-most-sunflower-seeds",
-    title: "Which Countries Import the Most Sunflower Seeds? UN Comtrade Data for 2023 and 2024",
-    seoTitle: "Top Sunflower Seed Importing Countries 2024",
-    seoDescription: "Among 55 countries we checked, Bulgaria reported the largest 2024 imports of sunflower seeds (HS 1206) at 732 kt. See the top 15 with 2023 comparison.",
-    excerpt: "A ranking of reported sunflower seed (HS 1206) imports in 2023 and 2024 for a selection of countries, with year-on-year changes, average unit values and the limits of customs data.",
-    category: "Market Insights",
-    date: "2026-12-24",
-    author: "James Feng",
-    image: "/images/ai-cargo-port-containers.jpg",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "Among the 55 countries we checked, Bulgaria reported the largest 2024 imports under HS 1206 (sunflower seeds), at 732 thousand tonnes, followed by Netherlands at 510 and Germany at 327 ([UN Comtrade](https://comtradeplus.un.org/), calculated). The ten largest together account for 79% of the volume of the countries we selected. The ranking is not a ranking of every country, and HS 1206 covers all sunflower seed, not only the in-shell confection type we export."
-        ]
-      },
-      {
-        "heading": "What Are the Key Terms?",
-        "list": [
-          "**HS 1206** is the customs heading for sunflower seeds, whether or not broken; it does not separate confection seed from oilseed or in-shell from shelled.",
-          "**Reporter** is the country that submits the customs data; an import figure is what that country reports receiving.",
-          "**Net weight (estimated)** means UN Comtrade has estimated the weight when the reporter did not supply it; those values are marked (e) in the tables."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "Largest 2024 importer among the 55 countries with data for both years: Bulgaria, 732 kt (449 million USD).",
-          "Top ten share of the selected countries' 2024 volume: 79% (calculated).",
-          "Selected countries combined: 3,796 kt in 2024 against 4,783 kt in 2023, -20.6% (calculated).",
-          "Net weight was estimated by UN Comtrade, not reported, for 7 of the top ten in 2024."
-        ]
-      },
-      {
-        "heading": "How Did We Choose the Countries?",
-        "body": [
-          "We chose 71 reporting countries by hand: the European Union members, the major markets of North and South America, Asia, the Middle East, North Africa, Central Asia and Eastern Europe. No data came back for 16 of them in at least one year (Algeria, Bangladesh, Belarus, China, India, Iran, Romania, Russia, South Korea, Spain, Thailand, Ukraine, United Arab Emirates, United Kingdom, United States, Viet Nam), so they are excluded. Countries that are not on our list, and any whose data UN Comtrade has not published, cannot appear, so the ranking is a ranking of this selection, not of the world."
-        ]
-      },
-      {
-        "heading": "Which Are the Top 15 Importers in 2024?",
-        "image": {
-          "src": "/images/top-sunflower-seed-importers-2024-chart.svg",
-          "alt": "Bar chart of 2024 sunflower seed imports in thousand tonnes for the ten largest of the selected countries",
-          "caption": "2024 HS 1206 imports, top ten of the selected countries. Source: UN Comtrade, calculated."
-        },
-        "body": [
-          "The table lists the 15 largest importers among the selected countries, in thousand tonnes of net weight, with 2023 for comparison and each country's share of the selected total. The figures are total imports from all partners under HS 1206 ([UN Comtrade](https://comtradeplus.un.org/), partner: world, calculated)."
-        ],
-        "table": {
-          "headers": [
-            "Rank",
-            "Country",
-            "2024 (kt)",
-            "2023 (kt)",
-            "Change",
-            "Share of selection"
-          ],
-          "rows": [
-            [
-              "1",
-              "Bulgaria",
-              "732 (e)",
-              "658 (e)",
-              "+11%",
-              "19.3%"
-            ],
-            [
-              "2",
-              "Netherlands",
-              "510 (e)",
-              "647 (e)",
-              "-21%",
-              "13.4%"
-            ],
-            [
-              "3",
-              "Germany",
-              "327 (e)",
-              "291 (e)",
-              "+12%",
-              "8.6%"
-            ],
-            [
-              "4",
-              "Türkiye",
-              "288",
-              "746",
-              "-61%",
-              "7.6%"
-            ],
-            [
-              "5",
-              "Czechia",
-              "219 (e)",
-              "196 (e)",
-              "+12%",
-              "5.8%"
-            ],
-            [
-              "6",
-              "Hungary",
-              "194 (e)",
-              "339 (e)",
-              "-43%",
-              "5.1%"
-            ],
-            [
-              "7",
-              "Italy",
-              "188",
-              "223",
-              "-16%",
-              "4.9%"
-            ],
-            [
-              "8",
-              "Kazakhstan",
-              "187",
-              "260",
-              "-28%",
-              "4.9%"
-            ],
-            [
-              "9",
-              "Portugal",
-              "181 (e)",
-              "196 (e)",
-              "-8%",
-              "4.8%"
-            ],
-            [
-              "10",
-              "France",
-              "169 (e)",
-              "342 (e)",
-              "-51%",
-              "4.4%"
-            ],
-            [
-              "11",
-              "Austria",
-              "163 (e)",
-              "146 (e)",
-              "+11%",
-              "4.3%"
-            ],
-            [
-              "12",
-              "Belgium",
-              "115 (e)",
-              "123 (e)",
-              "-7%",
-              "3.0%"
-            ],
-            [
-              "13",
-              "Pakistan",
-              "59",
-              "46",
-              "+28%",
-              "1.5%"
-            ],
-            [
-              "14",
-              "Poland",
-              "53 (e)",
-              "55 (e)",
-              "-5%",
-              "1.4%"
-            ],
-            [
-              "15",
-              "Uzbekistan",
-              "41 (e)",
-              "74",
-              "-44%",
-              "1.1%"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Why Is This Not the Confection Seed Market?",
-        "body": [
-          "HS 1206 includes sunflower seed crushed for oil. Large importers such as processors in Türkiye and in the European Union may be buying for oil crushing, bird food or snack products, and the customs figure does not say which. Our product, in-shell confection seed, is a part of this total that the data cannot isolate. For China's side of the trade, see our guide to [China's sunflower seed exports from 2019 to 2024](/blog/china-sunflower-seed-exports-2019-2024)."
-        ]
-      },
-      {
-        "heading": "Do the European Figures Include Trade Between EU Countries?",
-        "body": [
-          "Yes. We used each country's imports from the world, which for an EU member includes shipments received from other EU members. A large EU figure may therefore be partly re-exported or moved between neighbours, and adding the EU countries together would count some seed twice. The data cannot tell you how much of a country's imports came from outside the bloc."
-        ]
-      },
-      {
-        "heading": "Which Countries Changed Most Between 2023 and 2024?",
-        "body": [
-          "The table shows the five largest increases and five largest decreases in volume, in thousand tonnes ([UN Comtrade](https://comtradeplus.un.org/), calculated). Year-to-year swings reflect harvest size and prices in the producing regions as well as demand, and the data do not separate these causes."
-        ],
-        "table": {
-          "headers": [
-            "Country",
-            "2023 (kt)",
-            "2024 (kt)",
-            "Change (kt)"
-          ],
-          "rows": [
-            [
-              "Bulgaria",
-              "658",
-              "732",
-              "+75"
-            ],
-            [
-              "Germany",
-              "291",
-              "327",
-              "+36"
-            ],
-            [
-              "Czechia",
-              "196",
-              "219",
-              "+23"
-            ],
-            [
-              "Croatia",
-              "9",
-              "26",
-              "+18"
-            ],
-            [
-              "Austria",
-              "146",
-              "163",
-              "+17"
-            ],
-            [
-              "Türkiye",
-              "746",
-              "288",
-              "-458"
-            ],
-            [
-              "France",
-              "342",
-              "169",
-              "-173"
-            ],
-            [
-              "Hungary",
-              "339",
-              "194",
-              "-145"
-            ],
-            [
-              "Netherlands",
-              "647",
-              "510",
-              "-137"
-            ],
-            [
-              "Kazakhstan",
-              "260",
-              "187",
-              "-72"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "What Do the Average Unit Values Show?",
-        "image": {
-          "src": "/images/ai-port-cargo-weighing.jpg",
-          "alt": "Cargo being weighed at a port terminal",
-          "caption": "Cargo weighing at a port. Illustrative AI-generated image."
-        },
-        "body": [
-          "Dividing customs value by net weight gives an average unit value. Among the top ten it ranged from about 0.48 USD per kg for Portugal to 1.40 USD per kg for France (calculated). Customs values are declared at import and may include freight and insurance, and they mix oilseed with confection seed, so they are not a price for any one product."
-        ],
-        "table": {
-          "headers": [
-            "Country",
-            "2024 value (million USD)",
-            "USD per kg",
-            "Weight"
-          ],
-          "rows": [
-            [
-              "Bulgaria",
-              "449",
-              "0.61",
-              "estimated"
-            ],
-            [
-              "Netherlands",
-              "323",
-              "0.63",
-              "estimated"
-            ],
-            [
-              "Germany",
-              "253",
-              "0.77",
-              "estimated"
-            ],
-            [
-              "Türkiye",
-              "208",
-              "0.72",
-              "reported"
-            ],
-            [
-              "Czechia",
-              "110",
-              "0.50",
-              "estimated"
-            ],
-            [
-              "Hungary",
-              "155",
-              "0.80",
-              "estimated"
-            ],
-            [
-              "Italy",
-              "100",
-              "0.53",
-              "reported"
-            ],
-            [
-              "Kazakhstan",
-              "121",
-              "0.65",
-              "reported"
-            ],
-            [
-              "Portugal",
-              "87",
-              "0.48",
-              "estimated"
-            ],
-            [
-              "France",
-              "237",
-              "1.40",
-              "estimated"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "What Should a Buyer or Exporter Do With This?",
-        "body": [
-          "Use the table to see where large flows exist, not to size a market for one product. Before targeting a country, look at its import tariff for HS 1206, its food safety and labeling rules, and what share of its imports is edible seed. Our [guide to US import duties and prior notice](/blog/fda-prior-notice-imported-food) shows what that work looks like for one market."
-        ]
-      },
-      {
-        "heading": "What Are the Limits of This Data?",
-        "body": [
-          "The data are annual totals as reported by each country, and UN Comtrade marks some net weights as estimated. Reporting countries can revise their figures later, and we retrieved these in October 2026, so numbers may differ from later releases. 7 of the top ten rest on estimated weights, so the order of neighbouring countries, such as Bulgaria and the Netherlands, is less certain than the table suggests. We checked 71 countries and the data for 55 of them support the ranking."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/) public preview API - HS 1206 imports, reporter-level annual totals, partner: world, 2023 and 2024, retrieved October 2026.",
-          "Ranking, shares, changes and unit values are our own calculations; the selection of reporting countries is ours."
-        ]
-      },
-      {
-        "heading": "Selling Sunflower Seeds Into One of These Markets?",
-        "body": [
-          "XingYi Trading exports in-shell confection sunflower seeds from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) and tell us your destination country, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
-        ]
-      }
-    ],
-  },
-  {
     slug: "sunflower-seed-search-demand-seasonality",
     title: "When Do People Search for Sunflower Seeds? A Year of US Google Data by Month",
     seoTitle: "Sunflower Seed Search Demand by Month (US Data)",
@@ -588,6 +205,81 @@ export const blogPosts: BlogPost[] = [
         "body": [
           "Pull monthly search volume for your own list of phrases from the Google Ads Keyword Planner or a data provider, for your own target countries, and compare at least two full years before calling a pattern seasonal. Then set the pattern beside your own order history and your supplier's lead time. Public search data answers when interest rises, and only your records answer when your customers buy."
         ]
+      },
+      {
+        "heading": "How Is the Year's Bulk Demand Spread Across Months?",
+        "body": [
+          "Adding the twelve monthly values gives 24,900 searches for \"bulk sunflower seeds\" over the year, and the table shows each month's share (calculated). March to May together account for 38% of the year, while October to December 2025 account for 17%."
+        ],
+        "table": {
+          "headers": [
+            "Month",
+            "Searches",
+            "Share of the 12 months"
+          ],
+          "rows": [
+            [
+              "Oct 2025",
+              "1,600",
+              "6.4%"
+            ],
+            [
+              "Nov 2025",
+              "1,300",
+              "5.2%"
+            ],
+            [
+              "Dec 2025",
+              "1,300",
+              "5.2%"
+            ],
+            [
+              "Jan 2026",
+              "1,600",
+              "6.4%"
+            ],
+            [
+              "Feb 2026",
+              "1,900",
+              "7.6%"
+            ],
+            [
+              "Mar 2026",
+              "2,900",
+              "11.6%"
+            ],
+            [
+              "Apr 2026",
+              "2,900",
+              "11.6%"
+            ],
+            [
+              "May 2026",
+              "3,600",
+              "14.5%"
+            ],
+            [
+              "Jun 2026",
+              "2,400",
+              "9.6%"
+            ],
+            [
+              "Jul 2026",
+              "1,900",
+              "7.6%"
+            ],
+            [
+              "Aug 2026",
+              "1,900",
+              "7.6%"
+            ],
+            [
+              "Sep 2026",
+              "1,600",
+              "6.4%"
+            ]
+          ]
+        }
       },
       {
         "heading": "Why Might Spring Be the Peak?",
@@ -755,6 +447,58 @@ export const blogPosts: BlogPost[] = [
         "heading": "How Much Sodium Does Salt Add?",
         "body": [
           "A lot, compared with the unsalted seed. A 28 g serving of dry roasted kernels with salt added has 183 mg of sodium, or 8% of the 2,300 mg Daily Value, against 1 mg without salt ([USDA FoodData Central](https://fdc.nal.usda.gov/); [FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels), calculated). The oil roasted salted record is lower, at 85 mg per 28 g. The difference between the two salted records shows that sodium depends on how much salt a product carries, so roasting at home with your own salt gives you control that a bag does not."
+        ]
+      },
+      {
+        "heading": "What Are the Settings at a Glance?",
+        "body": [
+          "The table collects the two sets of settings from the source in both temperature scales. Where the source gives no figure we say so rather than fill the cell."
+        ],
+        "table": {
+          "headers": [
+            "Method",
+            "Temperature",
+            "Time",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Oven roasting, shallow pan",
+              "300°F (149°C)",
+              "10 to 15 minutes, stir occasionally",
+              "NCHFP"
+            ],
+            [
+              "Dehydrator or sun drying",
+              "100°F (38°C)",
+              "not given",
+              "NCHFP"
+            ],
+            [
+              "Seeds in the shell",
+              "not given",
+              "not given",
+              "no source found"
+            ],
+            [
+              "Salting and storage",
+              "not given",
+              "not given",
+              "no source found"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Much Salt Equals the Sodium in a Salted Serving?",
+        "body": [
+          "Table salt is sodium chloride, and sodium makes up 39.3% of its weight (atomic masses 22.990 for sodium and 58.443 for sodium chloride, calculated). The 183 mg of sodium in a salted 28 g serving therefore corresponds to about 0.47 g of salt, and the 85 mg in the oil roasted record to about 0.22 g. Weigh the salt on a kitchen scale if you want to match or beat a commercial product."
+        ]
+      },
+      {
+        "heading": "How Many Servings and Calories Are in a Pound?",
+        "body": [
+          "A pound is 454 g, or about 16.2 servings of 28 g. At the USDA energy values that is roughly 2,649 kcal for a pound of dried kernels and 2,640 kcal for a pound of dry roasted kernels without salt ([USDA FoodData Central](https://fdc.nal.usda.gov/), calculated). The figures are for shelled kernels, so a pound of seeds in the shell contains fewer kernel calories because the hull is part of the weight."
         ]
       },
       {
@@ -1137,6 +881,389 @@ export const blogPosts: BlogPost[] = [
         "heading": "Looking for Sunflower Seeds for a Seed Mix or Snack Line?",
         "body": [
           "XingYi Trading supplies sunflower seeds only, not the other seeds and nuts compared here. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+        ]
+      }
+    ],
+  },
+  {
+    slug: "which-countries-import-the-most-sunflower-seeds",
+    title: "Which Countries Import the Most Sunflower Seeds? UN Comtrade Data for 2023 and 2024",
+    seoTitle: "Top Sunflower Seed Importing Countries 2024",
+    seoDescription: "Among 55 countries we checked, Bulgaria reported the largest 2024 imports of sunflower seeds (HS 1206) at 732 kt. See the top 15 with 2023 comparison.",
+    excerpt: "A ranking of reported sunflower seed (HS 1206) imports in 2023 and 2024 for a selection of countries, with year-on-year changes, average unit values and the limits of customs data.",
+    category: "Market Insights",
+    date: "2026-12-24",
+    author: "James Feng",
+    image: "/images/ai-cargo-port-containers.jpg",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "Among the 55 countries we checked, Bulgaria reported the largest 2024 imports under HS 1206 (sunflower seeds), at 732 thousand tonnes, followed by Netherlands at 510 and Germany at 327 ([UN Comtrade](https://comtradeplus.un.org/), calculated). The ten largest together account for 79% of the volume of the countries we selected. The ranking is not a ranking of every country, and HS 1206 covers all sunflower seed, not only the in-shell confection type we export."
+        ]
+      },
+      {
+        "heading": "What Are the Key Terms?",
+        "list": [
+          "**HS 1206** is the customs heading for sunflower seeds, whether or not broken; it does not separate confection seed from oilseed or in-shell from shelled.",
+          "**Reporter** is the country that submits the customs data; an import figure is what that country reports receiving.",
+          "**Net weight (estimated)** means UN Comtrade has estimated the weight when the reporter did not supply it; those values are marked (e) in the tables."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Largest 2024 importer among the 55 countries with data for both years: Bulgaria, 732 kt (449 million USD).",
+          "Top ten share of the selected countries' 2024 volume: 79% (calculated).",
+          "Selected countries combined: 3,796 kt in 2024 against 4,783 kt in 2023, -20.6% (calculated).",
+          "Net weight was estimated by UN Comtrade, not reported, for 7 of the top ten in 2024."
+        ]
+      },
+      {
+        "heading": "How Did We Choose the Countries?",
+        "body": [
+          "We chose 71 reporting countries by hand: the European Union members, the major markets of North and South America, Asia, the Middle East, North Africa, Central Asia and Eastern Europe. No data came back for 16 of them in at least one year (Algeria, Bangladesh, Belarus, China, India, Iran, Romania, Russia, South Korea, Spain, Thailand, Ukraine, United Arab Emirates, United Kingdom, United States, Viet Nam), so they are excluded. Countries that are not on our list, and any whose data UN Comtrade has not published, cannot appear, so the ranking is a ranking of this selection, not of the world."
+        ]
+      },
+      {
+        "heading": "Which Are the Top 15 Importers in 2024?",
+        "image": {
+          "src": "/images/top-sunflower-seed-importers-2024-chart.svg",
+          "alt": "Bar chart of 2024 sunflower seed imports in thousand tonnes for the ten largest of the selected countries",
+          "caption": "2024 HS 1206 imports, top ten of the selected countries. Source: UN Comtrade, calculated."
+        },
+        "body": [
+          "The table lists the 15 largest importers among the selected countries, in thousand tonnes of net weight, with 2023 for comparison and each country's share of the selected total. The figures are total imports from all partners under HS 1206 ([UN Comtrade](https://comtradeplus.un.org/), partner: world, calculated)."
+        ],
+        "table": {
+          "headers": [
+            "Rank",
+            "Country",
+            "2024 (kt)",
+            "2023 (kt)",
+            "Change",
+            "Share of selection"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bulgaria",
+              "732 (e)",
+              "658 (e)",
+              "+11%",
+              "19.3%"
+            ],
+            [
+              "2",
+              "Netherlands",
+              "510 (e)",
+              "647 (e)",
+              "-21%",
+              "13.4%"
+            ],
+            [
+              "3",
+              "Germany",
+              "327 (e)",
+              "291 (e)",
+              "+12%",
+              "8.6%"
+            ],
+            [
+              "4",
+              "Türkiye",
+              "288",
+              "746",
+              "-61%",
+              "7.6%"
+            ],
+            [
+              "5",
+              "Czechia",
+              "219 (e)",
+              "196 (e)",
+              "+12%",
+              "5.8%"
+            ],
+            [
+              "6",
+              "Hungary",
+              "194 (e)",
+              "339 (e)",
+              "-43%",
+              "5.1%"
+            ],
+            [
+              "7",
+              "Italy",
+              "188",
+              "223",
+              "-16%",
+              "4.9%"
+            ],
+            [
+              "8",
+              "Kazakhstan",
+              "187",
+              "260",
+              "-28%",
+              "4.9%"
+            ],
+            [
+              "9",
+              "Portugal",
+              "181 (e)",
+              "196 (e)",
+              "-8%",
+              "4.8%"
+            ],
+            [
+              "10",
+              "France",
+              "169 (e)",
+              "342 (e)",
+              "-51%",
+              "4.4%"
+            ],
+            [
+              "11",
+              "Austria",
+              "163 (e)",
+              "146 (e)",
+              "+11%",
+              "4.3%"
+            ],
+            [
+              "12",
+              "Belgium",
+              "115 (e)",
+              "123 (e)",
+              "-7%",
+              "3.0%"
+            ],
+            [
+              "13",
+              "Pakistan",
+              "59",
+              "46",
+              "+28%",
+              "1.5%"
+            ],
+            [
+              "14",
+              "Poland",
+              "53 (e)",
+              "55 (e)",
+              "-5%",
+              "1.4%"
+            ],
+            [
+              "15",
+              "Uzbekistan",
+              "41 (e)",
+              "74",
+              "-44%",
+              "1.1%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Why Is This Not the Confection Seed Market?",
+        "body": [
+          "HS 1206 includes sunflower seed crushed for oil. Large importers such as processors in Türkiye and in the European Union may be buying for oil crushing, bird food or snack products, and the customs figure does not say which. Our product, in-shell confection seed, is a part of this total that the data cannot isolate. For China's side of the trade, see our guide to [China's sunflower seed exports from 2019 to 2024](/blog/china-sunflower-seed-exports-2019-2024)."
+        ]
+      },
+      {
+        "heading": "Do the European Figures Include Trade Between EU Countries?",
+        "body": [
+          "Yes. We used each country's imports from the world, which for an EU member includes shipments received from other EU members. A large EU figure may therefore be partly re-exported or moved between neighbours, and adding the EU countries together would count some seed twice. The data cannot tell you how much of a country's imports came from outside the bloc."
+        ]
+      },
+      {
+        "heading": "Which Countries Changed Most Between 2023 and 2024?",
+        "body": [
+          "The table shows the five largest increases and five largest decreases in volume, in thousand tonnes ([UN Comtrade](https://comtradeplus.un.org/), calculated). Year-to-year swings reflect harvest size and prices in the producing regions as well as demand, and the data do not separate these causes."
+        ],
+        "table": {
+          "headers": [
+            "Country",
+            "2023 (kt)",
+            "2024 (kt)",
+            "Change (kt)"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "658",
+              "732",
+              "+75"
+            ],
+            [
+              "Germany",
+              "291",
+              "327",
+              "+36"
+            ],
+            [
+              "Czechia",
+              "196",
+              "219",
+              "+23"
+            ],
+            [
+              "Croatia",
+              "9",
+              "26",
+              "+18"
+            ],
+            [
+              "Austria",
+              "146",
+              "163",
+              "+17"
+            ],
+            [
+              "Türkiye",
+              "746",
+              "288",
+              "-458"
+            ],
+            [
+              "France",
+              "342",
+              "169",
+              "-173"
+            ],
+            [
+              "Hungary",
+              "339",
+              "194",
+              "-145"
+            ],
+            [
+              "Netherlands",
+              "647",
+              "510",
+              "-137"
+            ],
+            [
+              "Kazakhstan",
+              "260",
+              "187",
+              "-72"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Do the Average Unit Values Show?",
+        "image": {
+          "src": "/images/ai-port-cargo-weighing.jpg",
+          "alt": "Cargo being weighed at a port terminal",
+          "caption": "Cargo weighing at a port. Illustrative AI-generated image."
+        },
+        "body": [
+          "Dividing customs value by net weight gives an average unit value. Among the top ten it ranged from about 0.48 USD per kg for Portugal to 1.40 USD per kg for France (calculated). Customs values are declared at import and may include freight and insurance, and they mix oilseed with confection seed, so they are not a price for any one product."
+        ],
+        "table": {
+          "headers": [
+            "Country",
+            "2024 value (million USD)",
+            "USD per kg",
+            "Weight"
+          ],
+          "rows": [
+            [
+              "Bulgaria",
+              "449",
+              "0.61",
+              "estimated"
+            ],
+            [
+              "Netherlands",
+              "323",
+              "0.63",
+              "estimated"
+            ],
+            [
+              "Germany",
+              "253",
+              "0.77",
+              "estimated"
+            ],
+            [
+              "Türkiye",
+              "208",
+              "0.72",
+              "reported"
+            ],
+            [
+              "Czechia",
+              "110",
+              "0.50",
+              "estimated"
+            ],
+            [
+              "Hungary",
+              "155",
+              "0.80",
+              "estimated"
+            ],
+            [
+              "Italy",
+              "100",
+              "0.53",
+              "reported"
+            ],
+            [
+              "Kazakhstan",
+              "121",
+              "0.65",
+              "reported"
+            ],
+            [
+              "Portugal",
+              "87",
+              "0.48",
+              "estimated"
+            ],
+            [
+              "France",
+              "237",
+              "1.40",
+              "estimated"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What Should a Buyer or Exporter Do With This?",
+        "body": [
+          "Use the table to see where large flows exist, not to size a market for one product. Before targeting a country, look at its import tariff for HS 1206, its food safety and labeling rules, and what share of its imports is edible seed. Our [guide to US import duties and prior notice](/blog/fda-prior-notice-imported-food) shows what that work looks like for one market."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Data?",
+        "body": [
+          "The data are annual totals as reported by each country, and UN Comtrade marks some net weights as estimated. Reporting countries can revise their figures later, and we retrieved these in October 2026, so numbers may differ from later releases. 7 of the top ten rest on estimated weights, so the order of neighbouring countries, such as Bulgaria and the Netherlands, is less certain than the table suggests. We checked 71 countries and the data for 55 of them support the ranking."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[UN Comtrade](https://comtradeplus.un.org/) public preview API - HS 1206 imports, reporter-level annual totals, partner: world, 2023 and 2024, retrieved October 2026.",
+          "Ranking, shares, changes and unit values are our own calculations; the selection of reporting countries is ours."
+        ]
+      },
+      {
+        "heading": "Selling Sunflower Seeds Into One of These Markets?",
+        "body": [
+          "XingYi Trading exports in-shell confection sunflower seeds from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) and tell us your destination country, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
