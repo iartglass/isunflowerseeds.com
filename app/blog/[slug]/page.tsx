@@ -325,7 +325,12 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                 {/* Author Card */}
                 <div className="mt-10 flex items-center gap-4 p-6 rounded-2xl border border-gray-100 dark:border-gray-800">
                   <span className="relative h-14 w-14 rounded-full overflow-hidden flex-shrink-0 border border-gray-200 dark:border-gray-700">
-                    <Image src="/images/james-feng.jpg" alt={post.author} fill className="object-cover" />
+                    <Image
+                      src={post.author === "XingYi Trading" ? "/images/logo.png" : "/images/james-feng.jpg"}
+                      alt={post.author}
+                      fill
+                      className={post.author === "XingYi Trading" ? "object-contain p-1" : "object-cover"}
+                    />
                   </span>
                   <div>
                     <p className="font-bold text-gray-900">{post.author}</p>

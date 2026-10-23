@@ -223,11 +223,14 @@ export function SchemaBlogPosting({
     image: coverImage.startsWith("http") ? coverImage : `${BASE_URL}${coverImage}`,
     datePublished: date,
     dateModified: dateModified ?? date,
-    author: {
-      "@type": "Person",
-      name: author,
-      worksFor: orgRef,
-    },
+    // A company byline is an Organization; a personal byline stays a Person.
+    author: author === COMPANY_NAME
+      ? orgRef
+      : {
+          "@type": "Person",
+          name: author,
+          worksFor: orgRef,
+        },
     publisher: orgRef,
     keywords: tags.join(", "),
     inLanguage: "en",
