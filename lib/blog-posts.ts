@@ -63,7 +63,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "A third-party inspection is a paid, independent check of a shipment before it leaves the supplier's facility, distinct from the supplier's own internal QC. Here's what it actually covers, and when it's genuinely worth arranging."
+          "A third-party inspection is a paid, independent check of a shipment before it leaves the supplier, separate from the supplier's own QC. XingYi Trading cooperates with the inspection company the buyer chooses. This guide covers what an inspection checks, what to weigh in its cost, and when it is worth arranging."
         ]
       },
       {
@@ -74,13 +74,13 @@ export const blogPosts: BlogPost[] = [
           "caption": "Inspectors check flavor, odor, and appearance against the approved sample and packaging specification."
         },
         "body": [
-          "An inspector visits the supplier's facility once goods are complete or close to it (typically 80%+ complete for the batch), draws a random sample from across the batch, and checks it against agreed specifications. [For food products specifically, inspectors check flavor and odor compliance against the approved sample, along with packaging specification](https://www.nbnqc.com/services/pre-shipment-inspection/), not just visual appearance."
+          "An inspector visits the supplier's facility once goods are complete or close to it (typically 80%+ complete for the batch), draws a random sample from across the batch, and checks it against agreed specifications. For food products specifically, inspectors may check the goods against the approved sample and the packaging specification, not just visual appearance."
         ]
       },
       {
         "heading": "What Is AQL Sampling and How Does It Work?",
         "body": [
-          "AQL (Acceptable Quality Limit) is [the internationally recognized sampling standard (ISO 2859-1 / ANSI Z1.4)](https://www.ctstek.com/food-AQL-inspection/1341.html) used to determine how many units to sample from a batch and how many defects are tolerable before the batch fails inspection. Inspectors classify any defects found as critical, major, or minor based on pre-agreed tolerance levels, this standardization is what makes AQL results comparable across different inspection companies and shipments."
+          "AQL (Acceptable Quality Limit) is a sampling approach used to determine how many units to sample from a batch and how many defects are tolerable before the batch fails inspection. Inspectors classify any defects found as critical, major, or minor based on pre-agreed tolerance levels, this standardization is what makes AQL results comparable across different inspection companies and shipments."
         ]
       },
       {
@@ -91,7 +91,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "The buyer typically arranges and pays for third-party inspection, since it exists to verify the buyer's own interest."
         },
         "body": [
-          "Typically the buyer, since the inspection exists to protect the buyer's interest independently of the supplier. Costs vary by inspection company and scope, companies like [Intertek](https://www.intertek.com/food/) offer pre-shipment inspection alongside broader food-testing services, but are generally a small fraction of the total shipment value for a bulk order, worth weighing against the value of the goods and your confidence level in the specific supplier."
+          "Typically the buyer, since the inspection exists to protect the buyer's interest independently of the supplier. Costs vary by inspection company and scope, firms such as [Intertek](https://www.intertek.com/food/) offer food testing and inspection services, so weigh the cost against the value of the goods and your confidence level in the specific supplier."
         ]
       },
       {
@@ -146,9 +146,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Do You Arrange an Inspection With XingYi Trading?",
+        "body": [
+          "XingYi Trading cooperates with the inspection company the buyer chooses. Name the company and the scope in your quote request, so that the schedule can be set around production, and agree in writing what the inspector will check, which standard or sample it will use and how a failed result will be handled.",
+          "Share the specification with the inspector before the visit. Agree who pays, what happens if the lot is retested, and the date after which the goods are released. An inspection is only as useful as the specification and the sample it checks against, so settle those first."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "An inspection checks one lot against a specification at one time, and it does not guarantee later lots. Costs and scope vary by company, so agree both in advance."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[intertek.com](https://www.intertek.com/food/) - cited for: Intertek. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Arrange an Inspection for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) and let us know if you'd like to coordinate a third-party inspection before shipment."
+          "[Request a quote](/contact#quote-form) and let us know if you'd like to coordinate a third-party inspection before shipment. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -199,7 +218,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "DNA-based and isotopic testing methods can confirm species and origin authenticity when a buyer has specific concerns."
         },
         "body": [
-          "For agricultural commodities generally, [DNA-based testing and isotopic analysis](https://www.rssl.com/food-consumer-goods/food-authenticity-testing/) are the established methods for confirming species/variety identity and detecting adulteration, and [independent testing labs like SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) offer this alongside standard food-safety testing. These are more commonly applied to higher-fraud-risk commodities, but the same independent lab testing infrastructure (covered in our [non-GMO and pesticide residue testing guide](/blog/non-gmo-pesticide-residue-testing)) can be used to verify a sunflower seed shipment if a buyer has specific concerns."
+          "For agricultural commodities generally, [DNA-based testing](https://www.rssl.com/food-consumer-goods/food-authenticity-testing/) is an established method for confirming species or variety identity, and independent testing labs offer this alongside standard food-safety testing. These are more commonly applied to higher-fraud-risk commodities, but the same independent lab testing infrastructure (covered in our [non-GMO and pesticide residue testing guide](/blog/non-gmo-pesticide-residue-testing)) can be used to verify a sunflower seed shipment if a buyer has specific concerns."
         ]
       },
       {
@@ -254,9 +273,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Should You Ask a Supplier About Origin and Identity?",
+        "body": [
+          "Ask which series the lot is, where it was grown, and how the supplier keeps lots apart. A supplier that can answer in writing, and that supports the answer with a specification and test results for your lot, gives you something to compare against what arrives."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The article describes verification practices in general terms and does not assess any supplier. Testing methods and thresholds depend on the question you need to answer."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[fsns.com](https://fsns.com/how-to-conduct-a-food-fraud-vulnerability-assessment-free-checklist/) - cited for: FSVP rule requires importers to verify that foreign suppliers have controls in place to pr. Checked 2026-10-24.",
+          "[rssl.com](https://www.rssl.com/food-consumer-goods/food-authenticity-testing/) - cited for: DNA-based testing. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source With Verified Product Integrity",
         "body": [
-          "[Request samples (the buyer pays shipping)](/contact#quote-form) to compare against your own verification process."
+          "[Request samples (the buyer pays shipping)](/contact#quote-form) to compare against your own verification process. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -279,7 +317,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Payment terms aren't just an administrative detail, T/T and letter of credit distribute risk between buyer and supplier in genuinely different ways. Here's how each actually works for a bulk sunflower seed order."
+          "T/T and a letter of credit share risk between buyer and supplier in different ways. T/T is a bank transfer, often split into a deposit and a balance, while an L/C releases payment only against compliant documents. XingYi Trading works on T/T for most orders and can discuss an L/C for larger orders."
         ]
       },
       {
@@ -290,7 +328,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "A T/T deposit is typically paid before production begins, with the balance due before or against shipping documents."
         },
         "body": [
-          "T/T is a direct bank-to-bank wire transfer, and [the 30/70 split (30% deposit, 70% balance) is the industry-standard structure for most B2B orders from China](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/). The deposit gives the supplier working capital to begin production, while withholding the balance until shipment gives the buyer leverage to confirm quality before final payment. A full T/T transfer typically takes two to five business days depending on the banks involved."
+          "T/T is a direct bank-to-bank wire transfer, and [professional buyers often use a milestone contract, such as a 30% advance deposit to start production](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/). The deposit gives the supplier working capital to begin production, while withholding the balance until shipment gives the buyer leverage to confirm quality before final payment. A full T/T transfer typically takes two to five business days depending on the banks involved."
         ]
       },
       {
@@ -301,19 +339,19 @@ export const blogPosts: BlogPost[] = [
           "caption": "An L/C shifts payment verification to the banks, releasing funds only against compliant documents."
         },
         "body": [
-          "An L/C is a payment guarantee issued by the buyer's bank, which releases funds to the supplier only once the supplier presents specified compliant documents, typically a commercial invoice, packing list, and bill of lading. Because the bank verifies documents before releasing payment, the buyer isn't required to deposit funds directly to the supplier upfront, which meaningfully changes the risk picture compared to T/T. The [International Chamber of Commerce's trade finance rules](https://iccwbo.org/business-solutions/trade-finance/) (UCP 600) are what banks worldwide use to standardize how L/C documents are examined."
+          "An L/C is a payment guarantee issued by the buyer's bank, which releases funds to the supplier only once the supplier presents specified compliant documents, typically a commercial invoice, packing list, and bill of lading. Because the bank verifies documents before releasing payment, the buyer isn't required to deposit funds directly to the supplier upfront, which meaningfully changes the risk picture compared to T/T. Banks examine L/C documents against the terms of the credit, so the documents have to match it exactly."
         ]
       },
       {
         "heading": "Which Method Carries More Risk for the Buyer?",
         "body": [
-          "T/T places more risk on the buyer, particularly on the deposit portion, once funds reach the supplier's account, they're outside the buyer's control until goods ship. L/C shifts more of that risk to the banks, since payment only releases against compliant documentation, but [the tradeoff is that document discrepancies, even a small clerical error on a bill of lading, can cause the bank to freeze payment](https://www.chinaimportal.com/blog/letter-of-credit-payment-china-guide/) until the error is formally corrected, which can itself cause delays."
+          "T/T places more risk on the buyer, particularly on the deposit portion, once funds reach the supplier's account, they're outside the buyer's control until goods ship. L/C shifts more of that risk to the banks, since payment only releases against compliant documentation, but the tradeoff is that document discrepancies, even a small clerical error on a bill of lading, can cause the bank to hold payment until the error is formally corrected, which can itself cause delays."
         ]
       },
       {
         "heading": "Which Method Is More Common for Bulk Sunflower Seed Orders?",
         "body": [
-          "T/T is the more commonly used method for small-to-mid-size orders in this industry, largely because it's faster and simpler to execute. L/C tends to be reserved for larger orders, [suppliers often consider L/C impractical for transactions under roughly $50,000](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/) given the paperwork and bank fees involved relative to the order size."
+          "T/T is the more commonly used method for small-to-mid-size orders in this industry, largely because it's faster and simpler to execute. L/C tends to be reserved for larger orders, one guide puts full container loads or custom runs above $50,000 as the range where an L/C is worth considering ([unionsourcechina.com](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/)) given the paperwork and bank fees involved relative to the order size."
         ]
       },
       {
@@ -359,9 +397,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Do Buyers Combine the Two?",
+        "body": [
+          "Buyers sometimes combine a deposit and a balance under T/T, which limits the amount at risk before production starts. One guide describes professional buyers using a milestone contract, such as a 30% advance deposit to start production ([unionsourcechina.com](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/)). XingYi Trading works on T/T for most orders and can discuss an L/C for larger orders.",
+          "Whichever structure you choose, write the amounts, the dates and the documents that trigger each payment into the contract, and check the bank charges with your own bank before you commit."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The comparison is general and not financial or legal advice. Bank charges, document rules and the terms of the contract decide how either method works for your order."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[unionsourcechina.com](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/) - cited for: professional buyers often use a milestone contract, such as a 30% advance deposit to start. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Confirm Payment Terms for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) and let us know your preferred payment structure, and we'll confirm terms alongside pricing."
+          "[Request a quote](/contact#quote-form) and let us know your preferred payment structure, and we'll confirm terms alongside pricing. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -405,13 +462,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Why Does Food-Specific Experience Matter for a Freight Forwarder?",
         "body": [
-          "Food shipments carry regulatory requirements, FDA registration, [prior notice filing](/blog/fda-prior-notice-imported-food), phytosanitary certification, that a general cargo forwarder may not flag proactively. [Industry guidance on selecting a China freight forwarder](https://www.freightos.com/freight-resources/find-freight-forwarder-in-china/) specifically calls out that food imports require FDA approval and that an experienced forwarder will flag these requirements early rather than leaving you to discover them at the port."
+          "Food shipments carry regulatory requirements, FDA registration, [prior notice filing](/blog/fda-prior-notice-imported-food), phytosanitary certification, that a general cargo forwarder may not flag proactively. An experienced forwarder will flag food-specific requirements early instead of leaving you to discover them at the port, so ask whether it has handled food shipments."
         ]
       },
       {
         "heading": "How Important Is a Forwarder's Customs Clearance Experience?",
         "body": [
-          "Very, [a misclassified HS code can result in unnecessary duties or delays](https://plainfreight.com/guides/how-to-choose-freight-forwarder-china), so a forwarder's customs track record on your specific product category is worth confirming directly rather than assuming all forwarders handle this equally well. Ask how they've handled HS classification questions for agricultural commodities specifically, not general merchandise."
+          "Very, a misclassified HS code can result in unnecessary duties or delays, so a forwarder's customs track record on your specific product category is worth confirming directly rather than assuming all forwarders handle this equally well. Ask how they've handled HS classification questions for agricultural commodities specifically, not general merchandise."
         ]
       },
       {
@@ -468,9 +525,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Should You Ask a Forwarder About Food Cargo?",
+        "body": [
+          "Ask whether the forwarder has handled food shipments on your route, who files the documents for your destination, and how it handles delays and cargo that is rolled to a later vessel. Ask for the quote in writing with the charges listed, so that origin, ocean and destination charges can be compared with another forwarder's.",
+          "If you buy FOB, the forwarder you choose takes the cargo from the port of loading, and XingYi Trading can work with the forwarder you choose. Give your forwarder the supplier's cargo details early, since bookings depend on the vessel schedule."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The advice is general and does not recommend a particular forwarder. Check each forwarder's references and charges for your own route."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[trade.gov](https://www.trade.gov/know-your-incoterms) - cited for: Incoterm. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Confirm Freight Details for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) with your destination port, and we'll confirm freight coordination options alongside your product pricing."
+          "[Request a quote](/contact#quote-form) with your destination port, and we'll confirm freight coordination options alongside your product pricing. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -493,7 +569,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "A vague RFQ gets a vague answer, or a round of clarifying emails before a supplier can quote at all. [Sourcing guidance on RFQ best practices](https://www.responsive.io/blog/rfq-templates-examples) is consistent on this point: the more specific the request, the more accurate and comparable the quotes that come back. Here's what to include in an RFQ for a bulk sunflower seed order."
+          "A vague RFQ gets a vague answer, or a round of clarifying emails before a supplier can quote at all. One RFQ guide makes the same point: the more detail a buyer gives, the more accurate the quotes ([responsive.io](https://www.responsive.io/blog/rfq-templates-examples)). Here's what to include in an RFQ for a bulk sunflower seed order."
         ]
       },
       {
@@ -522,7 +598,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Should You Request Pricing at Multiple Volume Tiers?",
         "body": [
-          "Yes, asking for pricing at two or three volume levels (for example, a trial LCL quantity and a full container quantity) in the same RFQ lets you see the per-ton discount curve and gives you a clearer basis for negotiation, without needing to send a second request later. [General RFQ guidance](https://www.maplesourcing.com/request-for-quotation-in-procurement-examples-and-best-practices.html) recommends this specifically for sourcing decisions where volume isn't fully locked in yet."
+          "Yes, asking for pricing at two or three volume levels (for example, a trial LCL quantity and a full container quantity) in the same RFQ lets you see the per-ton discount curve and gives you a clearer basis for negotiation, without needing to send a second request later. This helps most when your volume is not fully locked in yet."
         ]
       },
       {
@@ -573,9 +649,29 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Does a Complete RFQ Look Like?",
+        "body": [
+          "A complete request names the series, the quantity in metric tonnes, the bag type and weight, the destination port, the Incoterm you want to be quoted on, the target arrival date and the documents you need. Add your specification limits for moisture, size and foreign material, and the test method you will use. If you need samples, say how many and where to send them.",
+          "Send the same request to every supplier you ask, so that the answers can be compared line by line. A reply that leaves a line blank, or answers with a general statement, has not answered that line, and you should ask again before you compare prices."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The checklist is general and each supplier may ask for different details. A quote based on an RFQ is not a contract, so confirm the final terms in writing."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[responsive.io](https://www.responsive.io/blog/rfq-templates-examples) - cited for: responsive.io. Checked 2026-10-24.",
+          "[iccwbo.org](https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/) - cited for: ICC's official Incoterms rules. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Ready to Send Your RFQ?",
         "body": [
-          "[Use our quote form](/contact#quote-form), it's built around the same fields covered above, so filling it in completely gets you a fast, accurate response."
+          "[Use our quote form](/contact#quote-form), it's built around the same fields covered above, so filling it in completely gets you a fast, accurate response. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -598,7 +694,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Sunflower is the world's fourth-largest oilseed crop, and China's role in the global sunflower trade is more nuanced than a single import/export figure suggests. Here's what the data shows."
+          "On China's own reports, HS 1206 sunflower seed exports were 480 thousand tonnes in 2024, worth $819 million ([UN Comtrade](https://comtradeplus.un.org/)). China also imports some sunflower seed, so its role in the trade is more nuanced than one figure suggests. This guide explains what the data show and what they leave out."
         ]
       },
       {
@@ -609,7 +705,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "China imports raw oil-crushing seed while exporting a growing volume of confectionery seed, two distinct trade flows."
         },
         "body": [
-          "Both, depending on the category, and this distinction matters. At the national level, [China is actually a net importer of raw sunflower seed](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Oilseeds+and+Products+Annual_Beijing_China+-+People%27s+Republic+of_CH2026-0032.pdf) for crushing into oil, with imports from suppliers like Kazakhstan, Bulgaria, and Russia. But that's a separate trade flow from confectionery/in-shell sunflower seed, the category XingYi Trading exports, where China has been a growing exporter, not an importer."
+          "Both, depending on the category, and this distinction matters. China also imports sunflower seed: USDA's Foreign Agricultural Service reports imports of 0.13 million tonnes in marketing year 2024/25, with Kazakhstan, Bulgaria and Russia as the top suppliers, while exports averaged 455,000 tonnes a year in recent years, with Russia, Iraq and Iran as major destinations ([USDA FAS](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Oilseeds+and+Products+Annual_Beijing_China+-+People%27s+Republic+of_CH2026-0032.pdf)). But that's a separate trade flow from confectionery/in-shell sunflower seed, the category XingYi Trading exports, where China has been a growing exporter, not an importer."
         ]
       },
       {
@@ -644,7 +740,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Can a Buyer Verify These Trade Figures Independently?",
         "body": [
-          "Beyond the regional and enterprise-level figures cited above, [UN Comtrade and the World Bank's WITS platform](https://wits.worldbank.org/trade/comtrade/en/country/ALL/year/2022/tradeflow/Exports/partner/WLD/product/120600) allow direct queries of country-level export and import data under HS code 120600, letting a buyer pull current figures for a specific year and partner-country pairing rather than relying solely on secondary reporting. The [Observatory of Economic Complexity](https://oec.world/en/profile/bilateral-product/sunflower-seeds/reporter/chn) also publishes a browsable trade profile for China's sunflower seed trade specifically."
+          "Beyond the regional and enterprise-level figures cited above, [UN Comtrade and the World Bank's WITS platform](https://wits.worldbank.org/trade/comtrade/en/country/ALL/year/2022/tradeflow/Exports/partner/WLD/product/120600) allow direct queries of country-level export and import data under HS code 120600, letting a buyer pull current figures for a specific year and partner-country pairing rather than relying solely on secondary reporting."
         ]
       },
       {
@@ -673,9 +769,22 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do the Annual Totals Show?",
+        "body": [
+          "On China's own reports, HS 1206 exports were 480 thousand tonnes in 2024, worth $819 million, an average declared value of $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/)). Our [guide to China's exports from 2019 to 2024](/blog/china-sunflower-seed-exports-2019-2024) gives the full series and the year-by-year changes.",
+          "The figures cover all sunflower seed, so they include seed crushed for oil as well as the in-shell confection seed we export."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The figures are customs data for all sunflower seed under HS 1206 and cannot separate confection seed from oilseed. They show the scale of trade and not the price of any one grade."
+        ]
+      },
+      {
         "heading": "Source From an Established Export Region",
         "body": [
-          "[Request a quote](/contact#quote-form) to source confectionery sunflower seeds from our facility in Bayannur, one of the regions driving this export growth."
+          "[Request a quote](/contact#quote-form) to source confectionery sunflower seeds from our facility in Bayannur, one of the regions driving this export growth. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -698,7 +807,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Bayannur isn't just where XingYi Trading happens to be based, it's officially recognized as China's largest base for edible sunflower production, and that status has a real agricultural history behind it. Here's what makes the region distinct."
+          "[Xinhua](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html) describes Bayannur as China's largest base for edible sunflower production, and XingYi Trading has operated there, at Linhe First Farm, since 2014. This guide explains how the region came to specialise in sunflowers, where production sits within the city, and what the figures do and do not show."
         ]
       },
       {
@@ -709,7 +818,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Bayannur is officially described as China's largest base for edible sunflower production."
         },
         "body": [
-          "Bayannur is officially described, per [China's State Council Information Office](http://english.scio.gov.cn/m/chinavoices/2026-01/16/content_118283090.html) and [Xinhua](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html), as \"China's largest base for edible sunflower production.\" The city plants more than 4 million mu of sunflower annually, roughly half of China's total edible sunflower acreage, with 2024 production exceeding 940,000 tonnes."
+          "Bayannur is described by [Xinhua](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html) as \"China\\'s largest base for edible sunflower production.\" People\\'s Daily put its sunflower planting area at about 4.1 million mu ([People\\'s Daily](http://en.people.cn/n3/2024/0208/c90000-20132728.html))."
         ]
       },
       {
@@ -727,7 +836,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Does This History Translate to Export Performance Today?",
         "body": [
-          "From [January to November 2025](http://en.people.cn/n3/2024/0208/c90000-20132728.html), Bayannur exported nearly 395,000 tonnes of sunflower seed products, up more than 23% year-on-year, with export value rising roughly 22% to 4.55 billion yuan. Products reach more than 40 countries and regions, concentrated in the Middle East, Southeast Asia, and Europe. Sunflower exports represent 64% of the city's total agricultural export value, and the local processing industry cluster includes around 120 sunflower processing enterprises."
+          "People's Daily reported that Bayannur's sunflower products are sold to more than 40 countries and regions ([People's Daily](http://en.people.cn/n3/2024/0208/c90000-20132728.html))."
         ]
       },
       {
@@ -773,9 +882,30 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Else Do Official Sources Say About the Region?",
+        "body": [
+          "China.org.cn reports that Bayannur was once burdened by nearly 4.8 million mu (320,000 hectares) of saline-alkali land where wheat and corn struggled, and that the introduction of sunflowers in the 1970s was a turning point for the city ([China.org.cn](http://www.china.org.cn/2026-01/16/content_118283187.shtml)). Regional reporting adds that Wuyuan County accounts for about one-seventh of the national sunflower area, about 1.2 million mu, and that sunflowers provide 60% of the county's farmers' income ([Inner Mongolia government portal](http://www.goinnermongolia.com.cn/2024-03/19/c_972386.htm))."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The regional figures come from news and government sources and may be revised. They describe the city and not any single company, and the figures are not our own measurements."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[english.news.cn](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html) - cited for: Xinhua. Checked 2026-10-24.",
+          "[en.people.cn](http://en.people.cn/n3/2024/0208/c90000-20132728.html) - cited for: People\\'s Daily. Checked 2026-10-24.",
+          "[china.org.cn](http://www.china.org.cn/2026-01/16/content_118283187.shtml) - cited for: China.org.cn. Checked 2026-10-24.",
+          "[goinnermongolia.com.cn](http://www.goinnermongolia.com.cn/2024-03/19/c_972386.htm) - cited for: Inner Mongolia government portal. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source From Bayannur Directly",
         "body": [
-          "[Request samples (the buyer pays shipping)](/contact#quote-form) from our facility in Linhe District, Bayannur City."
+          "[Request samples (the buyer pays shipping)](/contact#quote-form) from our facility in Linhe District, Bayannur City. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -809,7 +939,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Inner Mongolia's sunflowers are typically planted in June and harvested in September."
         },
         "body": [
-          "[In Inner Mongolia specifically](https://www.tridge.com/intelligences/sunflower-seed/CN/season), sunflowers are typically planted in June and harvested in September. More broadly across China's growing regions, sowing spans February through May with harvest running July through October, depending on the specific region."
+          "Planting and harvest dates depend on the region and the variety, so ask your supplier for the dates that apply to the seed you are buying."
         ]
       },
       {
@@ -821,7 +951,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Does National Pricing Get Set?",
         "body": [
-          "The Hongding Agricultural Trading Market in Wuyuan County, within Bayannur, functions as [the national center for sunflower seed price formation in China](https://www.ocl-journal.org/articles/ocl/full_html/2022/01/ocl210062/ocl210062.html), according to peer-reviewed agricultural research, meaning harvest-season trading activity there is a primary driver of the pricing signals that ripple out to the rest of the market."
+          ""
         ]
       },
       {
@@ -873,9 +1003,22 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Does the Export Calendar Show?",
+        "body": [
+          "China's reported monthly exports show a seasonal shape. Across 2019 to 2024, January to March took 31% of annual volume on average, and the lowest month was September at 3.9% ([UN Comtrade](https://comtradeplus.un.org/), HS 1206, calculated). The highest averages were 12.9% in January, 12.4% in November and 12.6% in December.",
+          "The pattern shows when goods were exported, not when seed was harvested or bought, and it covers all sunflower seed. It does suggest that the months after harvest are busy for shipments, so book production and freight early if you need seed in the first quarter."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The export calendar comes from customs data that record when goods were exported, not when seed was harvested or sold. Harvest dates differ by region and year, so ask your supplier for availability."
+        ]
+      },
+      {
         "heading": "Plan Your Order Timing",
         "body": [
-          "[Request a quote](/contact#quote-form) and we'll confirm current availability and lead time for your target volume."
+          "[Request a quote](/contact#quote-form) and we'll confirm current availability and lead time for your target volume. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -898,7 +1041,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Non-GMO status and pesticide-residue testing come up frequently in buyer questionnaires, but the two aren't the same thing, and requirements vary meaningfully by destination market. Here's what each actually involves."
+          "Non-GMO status and pesticide-residue testing are separate questions. Non-GMO verification relies on DNA-based PCR testing at an accredited lab, while residue testing measures pesticides against the limits of each destination market. XingYi Trading's seed is not certified organic, and we make no non-GMO or pesticide-free claim."
         ]
       },
       {
@@ -909,7 +1052,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Non-GMO verification and pesticide-residue testing are two separate checks buyers may ask about."
         },
         "body": [
-          "Under frameworks like the [Non-GMO Project Standard](https://www.nongmoproject.org), testing for high-risk crops is conducted using DNA-based PCR (polymerase chain reaction) methods at labs accredited to the ISO/IEC 17025 standard, the internationally recognized accreditation for testing and calibration laboratories, with [more detail on the testing process itself](https://www.foodchainid.com/resources/gmo-testing-for-non-gmo-project-verification-explained/) available from accredited testing providers. It's worth being clear with buyers that non-GMO status alone doesn't address pesticide or fertilizer use, that's a separate question covered by residue testing, not the same certification."
+          "Under the Non-GMO Project's verification, required testing for food products is done by DNA-based PCR (polymerase chain reaction) methods at an approved lab accredited to ISO 17025, with [more detail on the testing process](https://www.foodchainid.com/resources/gmo-testing-for-non-gmo-project-verification-explained/) available from accredited testing providers. It's worth being clear with buyers that non-GMO status alone doesn't address pesticide or fertilizer use, that's a separate question covered by residue testing, not the same certification."
         ]
       },
       {
@@ -951,7 +1094,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Lab Accreditation Should Buyers Look For?",
         "body": [
-          "ISO/IEC 17025 accreditation is the standard credential to look for in any lab conducting official contaminant or residue testing, it's referenced by both EU food-safety guidance and Non-GMO Project protocols as the recognized bar for testing reliability."
+          "ISO 17025 accreditation is the standard credential to look for in any lab conducting official contaminant or residue testing, it's referenced by both EU food-safety guidance and Non-GMO Project protocols as the recognized bar for testing reliability."
         ]
       },
       {
@@ -973,9 +1116,22 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Can XingYi Trading Say About These Claims?",
+        "body": [
+          "XingYi Trading's seed is not certified organic, and we make no non-GMO or pesticide-free claim. If your market needs test results, such as residue tests against your destination's limits, say so in your quote request and agree in writing which tests, at which laboratory, on which lot."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[foodchainid.com](https://www.foodchainid.com/resources/gmo-testing-for-non-gmo-project-verification-explained/) - cited for: more detail on the testing process. Checked 2026-10-24.",
+          "[food.ec.europa.eu](https://food.ec.europa.eu/plants/pesticides/maximum-residue-levels/qas-pesticides_en) - cited for: one country's limits can be legally rejected. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Ask About Testing for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) and raise your destination market's specific residue and non-GMO documentation requirements, we'll confirm what's available for your order."
+          "[Request a quote](/contact#quote-form) and raise your destination market's specific residue and non-GMO documentation requirements, we'll confirm what's available for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1009,7 +1165,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Removing oxygen from the package is the core mechanism behind vacuum sealing's freshness benefits."
         },
         "body": [
-          "[Vacuum sealing removes oxygen from the package](https://www.packaging-gateway.com/features/the-benefits-of-vacuum-packing-in-food-packaging/), which suppresses both bacterial/mold growth and the oxidative rancidity that's the primary spoilage pathway for oil-rich seeds. The general principle in food preservation is that vacuum-sealed product can stay fresh dramatically longer than conventionally packaged product, though the exact multiplier varies by food type, so treat this as a general packaging principle rather than a seed-specific number."
+          "[Vacuum sealing removes oxygen from the package](https://www.packaging-gateway.com/features/the-benefits-of-vacuum-packing-in-food-packaging/), which minimises the growth of bacteria and mould and inhibits oxidation, the cause of off-flavours. For oil-rich seeds, oxidation is the main quality risk (our judgment). The general principle in food preservation is that vacuum-sealed product can stay fresh dramatically longer than conventionally packaged product, though the exact multiplier varies by food type, so treat this as a general packaging principle rather than a seed-specific number."
         ]
       },
       {
@@ -1050,7 +1206,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Should You Ask a Supplier About Their Packaging Materials?",
         "body": [
-          "Ask whether bags are food-grade certified, what the specific lining or lamination material is (if any), and whether packaging materials themselves have been tested for contaminants. This is a less commonly asked question than product-quality testing, but packaging material safety is a real part of overall [food safety compliance](https://www.fda.gov/food)."
+          "Ask whether bags are food-grade certified, what the specific lining or lamination material is (if any), and whether packaging materials themselves have been tested for contaminants. This is a less commonly asked question than product-quality testing, but packaging material safety is a real part of overall food safety compliance."
         ]
       },
       {
@@ -1069,14 +1225,34 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Do Buyers Typically Test Whether Vacuum Sealing Is Worth the Added Cost?",
         "body": [
-          "[Freight and packaging industry resources](https://www.freightos.com/freight-resources/) generally recommend running a small trial order in both formats before committing a full shipment to vacuum-sealed packaging, since the actual value of extended shelf life depends heavily on your specific distribution timeline and end market. A buyer whose product typically sells through within a few weeks of arrival often finds the added freshness runway from vacuum sealing goes largely unused, while a buyer with a longer, slower distribution chain, multiple regional warehouses, a longer retail sell-through cycle, is more likely to see the cost translate into a real, usable benefit.",
+          "A sensible check is to run a small trial order in both formats before committing a full shipment to vacuum-sealed packaging, since the actual value of extended shelf life depends heavily on your specific distribution timeline and end market. A buyer whose product typically sells through within a few weeks of arrival often finds the added freshness runway from vacuum sealing goes largely unused, while a buyer with a longer, slower distribution chain, multiple regional warehouses, a longer retail sell-through cycle, is more likely to see the cost translate into a real, usable benefit.",
           "Comparing the landed cost difference against your own typical inventory-turnover timeline, rather than assuming vacuum sealing is universally worth the premium, is the more reliable way to decide."
+        ]
+      },
+      {
+        "heading": "How Would You Test the Two Formats?",
+        "body": [
+          "Run a small trial in both formats before committing a full shipment. Pack the same lot in each, store both under the conditions of your own distribution chain, and compare moisture, odor and taste at the intervals you care about. The result tells you whether the extra cost of the oxygen barrier buys enough shelf life for your timeline.",
+          "A 1997 study listed by the [National Sunflower Association](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) found that low-oxygen packaging can prolong the shelf stability of roasted kernel for a full year, which shows the direction of the effect. Your own product and chain decide how much of it you need."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The comparison is general and the cost of vacuum packing varies by supplier. Whether it pays for itself depends on your distribution time and your product, which a trial can show."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[packaging-gateway.com](https://www.packaging-gateway.com/features/the-benefits-of-vacuum-packing-in-food-packaging/) - cited for: Vacuum sealing removes oxygen from the package. Checked 2026-10-24.",
+          "[sunflowernsa.com](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) - cited for: National Sunflower Association. Checked 2026-10-24."
         ]
       },
       {
         "heading": "Discuss Packaging Options for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target packaging format, and we'll confirm what's available for your order."
+          "[Request a quote](/contact#quote-form) with your target packaging format, and we'll confirm what's available for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1110,7 +1286,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Packaging quality and storage temperature both play a large role in how long a batch stays fresh."
         },
         "body": [
-          "A [shelf-stability study from the National Sunflower Association](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) found that roasted sunflower kernels last more than 12 months in nitrogen-flushed pouches, but only about 8 weeks when exposed to air at elevated temperature (100°F / 38°C). Raw sunflower kernels last more than 12 months in packaging that limits moisture and oxygen exposure, the packaging barrier matters as much as the seed itself."
+          "A 1997 shelf-stability study listed by the [National Sunflower Association](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) found that low-oxygen packaging can prolong the shelf stability of roasted sunflower kernel for a full year. Raw sunflower kernels last more than 12 months in packaging that limits moisture and oxygen exposure, the packaging barrier matters as much as the seed itself."
         ]
       },
       {
@@ -1125,7 +1301,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What's a Safe Moisture Level for Long-Term Storage?",
         "body": [
-          "A safe storage moisture level of around 10% or below is commonly cited, with lower moisture (closer to 8-9%) recommended for longer storage durations, [drying guidance from the National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) reflects similar targets for the kernel itself, and [University of Missouri Extension](https://extension.missouri.edu/publications/g4290) puts long-term storage moisture at around 9%. See our [full moisture content and purity standards guide](/blog/sunflower-seed-moisture-content-purity-standards) for the detail behind these numbers."
+          "A safe storage moisture level of around 10% or below is commonly cited, with lower moisture (closer to 8-9%) recommended for longer storage durations, and [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) considers confection sunflower safe to store for less than six months at 10% moisture and for longer at 9%. See our [full moisture content and purity standards guide](/blog/sunflower-seed-moisture-content-purity-standards) for the detail behind these numbers."
         ]
       },
       {
@@ -1177,9 +1353,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Should You Ask a Supplier About Shelf Life?",
+        "body": [
+          "Ask for the production date, the moisture at packing, the packaging type and the storage conditions the supplier assumes, and agree what remaining shelf life you need on arrival. Shelf life is not a single number: it depends on moisture, temperature, oxygen and whether the seed is raw or roasted. A claim without those conditions is hard to hold anyone to, so ask for them in writing."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "Shelf life depends on moisture, temperature, oxygen and packaging, and no general figure applies to every product. Test your own product in its own packaging and conditions."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[sunflowernsa.com](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) - cited for: National Sunflower Association. Checked 2026-10-24.",
+          "[extension.sdstate.edu](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) - cited for: SDSU Extension. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Seeds With Freshness in Mind",
         "body": [
-          "[Request a quote](/contact#quote-form) and let us know your intended storage and resale timeline so we can confirm the right form and packaging for your order."
+          "[Request a quote](/contact#quote-form) and let us know your intended storage and resale timeline so we can confirm the right form and packaging for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1202,7 +1397,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Container loading strategy affects cost, transit time, and even product quality for bulk dry goods like sunflower seeds. Here's the practical difference between FCL and LCL shipping, and when each makes sense."
+          "XingYi Trading's minimum order is one 20ft container, which holds about 9.7 tonnes of loose in-shell seed by volume (calculated). This guide compares full container load (FCL) with less than container load (LCL) for bulk dry goods, and explains when each makes sense for a buyer who is comparing suppliers."
         ]
       },
       {
@@ -1238,7 +1433,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Why Does FCL Matter More for Food-Grade Dry Goods Like Seeds?",
         "body": [
-          "FCL is generally faster in transit and lower-risk for contamination or damage, since goods are loaded once, sealed, and unloaded once. [LCL involves multiple handling touchpoints](https://www.emotrans-global.com/blog/ltl-lcl-ftl-fcl-guide/), which for food-grade dry goods raises the practical risk of moisture exposure, odor transfer, or pest contamination, and typically requires more robust packing (palletizing, shrink-wrap, stronger cartons) to hold up through the extra handling."
+          "FCL is generally faster in transit and lower-risk for contamination or damage, since goods are loaded once, sealed, and unloaded once. LCL involves consolidating and de-consolidating multiple shipments, which adds handling points. For food-grade dry goods, that can raise the risk of moisture exposure, odor transfer or pest contamination, so stronger packing may be needed (our judgment)."
         ]
       },
       {
@@ -1280,14 +1475,34 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Does Destination Port Infrastructure Affect the FCL vs. LCL Decision?",
         "body": [
-          "It can, a destination port with efficient container-yard handling and a nearby CFS makes LCL a more practical option than a port where deconsolidation adds significant extra transit time or cost. Some [freight forwarder resources](https://www.freightos.com/freight-resources/) note that LCL transit reliability varies more by trade lane than FCL does, simply because there are more parties and handoffs involved in getting a shared container's contents sorted and released. If your destination port has a reputation for slower LCL processing, that's worth weighing alongside the raw cost comparison.",
+          "It can, a destination port with efficient container-yard handling and a nearby CFS makes LCL a more practical option than a port where deconsolidation adds significant extra transit time or cost. LCL transit reliability can vary more by trade lane than FCL, since more parties and handoffs are involved in sorting and releasing a shared container's contents (our judgment). If your destination port has a reputation for slower LCL processing, that's worth weighing alongside the raw cost comparison.",
           "Because this varies by trade lane and by season, it's worth asking your freight forwarder directly about typical LCL performance on your specific origin-to-destination route, rather than relying on general FCL/LCL guidance alone."
+        ]
+      },
+      {
+        "heading": "How Does a 20ft Container Compare With a 40ft?",
+        "body": [
+          "A 20ft container has an internal volume of 33.2 m³ and a 40ft container 67.7 m³ ([DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container)). By volume that is roughly 9 to 10 tonnes of loose in-shell seed in a 20ft and 18 to 21 tonnes in a 40ft (calculated; our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft) shows how).",
+          "XingYi Trading's minimum order is one 20ft container, so for orders with us the choice is the container size and not shared freight. If you compare with a supplier who ships LCL, remember that LCL involves consolidating and de-consolidating shipments, which adds handling points."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The comparison of full and shared containers is general. Costs and transit times depend on the route and the season, so ask your forwarder for quotes on both before you decide."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[icontainers.com](https://www.icontainers.com/help/lcl-vs-fcl/) - cited for: general rule of thumb. Checked 2026-10-24.",
+          "[dsv.com](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container) - cited for: DSV container table. Checked 2026-10-24."
         ]
       },
       {
         "heading": "Plan Your Container Loading",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target volume, and note that our minimum order is one 20ft container. For the other decisions on a first order, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "[Request a quote](/contact#quote-form) with your target volume, and note that our minimum order is one 20ft container. For the other decisions on a first order, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1337,7 +1552,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Is Aflatoxin Risk Typically Screened?",
         "body": [
-          "Sunflower seed intended for food or feed use is generally expected to [test negative for aflatoxin](https://pmc.ncbi.nlm.nih.gov/articles/PMC9501980/). A quick field screening method, checking for Bright Greenish Yellow Fluorescence (BGYF) under black light, is sometimes used as a first-pass triage tool, but it isn't definitive on its own: fluorescence can occur without actual toxin presence, and toxin can be present without fluorescence. [Lab-grade testing](https://www.eurofinsus.com/food-testing/resources/ask-the-expert-mycotoxins-grain-grading/) is the reliable method for a genuine pass/fail determination."
+          "Sunflower seed intended for food or feed use is commonly tested for aflatoxin, and buyers often ask for the result. A quick field screening method, checking for Bright Greenish Yellow Fluorescence (BGYF) under black light, is sometimes used as a first-pass triage tool, but it isn't definitive on its own: fluorescence can occur without actual toxin presence, and toxin can be present without fluorescence. Lab-grade testing is the reliable method for a genuine pass/fail determination."
         ]
       },
       {
@@ -1366,7 +1581,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Should You Arrange Independent Testing on Arrival?",
         "body": [
-          "For a first order or a particularly large shipment, arranging [independent lab testing](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) on arrival, rather than relying solely on the supplier's own pre-shipment inspection, adds a genuine layer of verification, particularly for aflatoxin risk. This is a reasonable step even with a trusted supplier, since it protects both parties by catching any issue that may have developed during transit rather than assuming pre-shipment condition holds all the way to your warehouse. See our [third-party inspection guide](/blog/third-party-inspection-sunflower-seeds) for how this typically works in practice."
+          "For a first order or a particularly large shipment, arranging independent lab testing on arrival, rather than relying solely on the supplier's own pre-shipment inspection, adds a genuine layer of verification, particularly for aflatoxin risk. This is a reasonable step even with a trusted supplier, since it protects both parties by catching any issue that may have developed during transit rather than assuming pre-shipment condition holds all the way to your warehouse. See our [third-party inspection guide](/blog/third-party-inspection-sunflower-seeds) for how this typically works in practice."
         ]
       },
       {
@@ -1389,9 +1604,27 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Does Foreign Material Look Like in the Data?",
+        "body": [
+          "Foreign material is one of the measures a buyer can check on arrival. The [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports average foreign material in US confection seed of 11.6% to 12.8% across five crop years, which shows that a figure of that size is normal before cleaning. Write the limit you need, and the method and the lot it applies to, into the specification, and test the lot on arrival, since an average says nothing about a particular container."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The defect categories are general and the thresholds that matter depend on your product and market. Agree the limits and the test method in writing, and test each lot on arrival."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[sunflowernsa.com](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - cited for: NSA 2024 Crop Quality Report. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Seeds With Full Quality Inspection",
         "body": [
-          "[Request samples (the buyer pays shipping)](/contact#quote-form) to review our current quality data before placing a bulk order."
+          "[Request samples (the buyer pays shipping)](/contact#quote-form) to review our current quality data before placing a bulk order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1414,7 +1647,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Moisture content is the single most important factor in whether a bulk sunflower seed shipment stores safely or spoils in transit. Here's what industry-published benchmarks say, and why the number matters more than it might seem."
+          "Moisture is the main factor in whether bulk sunflower seed stores safely. [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) considers 9.5% safe for seed storage and says confection types can be stored for less than six months at 10% moisture and longer at 9%. This guide sets out published benchmarks and how to write a limit into a specification."
         ]
       },
       {
@@ -1431,13 +1664,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Moisture Range Do Industry Sources Recommend?",
         "body": [
-          "[Published agronomic guidance](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed) generally recommends a range of roughly 7.5-9% moisture content to minimize mold and pest risk while preserving seed quality, with the higher end of that range (around 9-10%) considered acceptable for shorter-term storage and the lower end recommended for longer-term storage, figures broadly consistent with [South Dakota State University Extension's own storage guidance](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf). These figures come from grain-storage and agronomic research sources rather than a single unified global regulatory standard, so exact thresholds can vary slightly by source and by how long the seed will be stored before use."
+          "Published guidance varies by seed type. [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) considers 9.5% moisture safe for seed storage and says confection sunflower can be stored for less than six months at 10% moisture and for longer at 9%, while [GRDC](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed) says optimal storage is below 9% for seed with 40% oil, and at 7.5% for seed with 50% oil or more.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf). These figures come from grain-storage and agronomic research sources rather than a single unified global regulatory standard, so exact thresholds can vary slightly by source and by how long the seed will be stored before use."
         ]
       },
       {
         "heading": "What Does \"Purity\" Mean for a Sunflower Seed Shipment?",
         "body": [
-          "Purity generally refers to the percentage of foreign material, soil, plant debris, other seed types, mixed into the shipment, alongside the percentage of damaged, broken, or undersized kernels (the specific defect categories covered in our [quality inspection checklist](/blog/sunflower-seed-defects-quality-inspection)). International grain trade contracts (such as [those published by GAFTA](https://www.gafta.com/contracts/), the Grain and Feed Trade Association) commonly specify maximum moisture and foreign-material thresholds as part of a standard contract, along with standardized testing methods used across the industry."
+          "Purity generally refers to the percentage of foreign material, soil, plant debris, other seed types, mixed into the shipment, alongside the percentage of damaged, broken, or undersized kernels (the specific defect categories covered in our [quality inspection checklist](/blog/sunflower-seed-defects-quality-inspection)). International grain trade contracts, such as the standard forms published by [GAFTA](https://www.gafta.com/contracts/) (the Grain and Feed Trade Association), give buyers and sellers a common contract basis, and a moisture and foreign-material limit can be written into any such contract."
         ]
       },
       {
@@ -1489,9 +1722,30 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do the US Crop Averages Suggest?",
+        "body": [
+          "The [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports average moisture of 8.9% to 10.7% for US confection seed over five crop years, and average foreign material of 11.6% to 12.8%. These are US crop averages and not limits, but they show the range a buyer should expect and the point at which a written limit starts to matter."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The benchmarks come from extension guidance and a US crop report, not from our own lots. A moisture limit in your contract should name the test method and the lot it applies to."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[extension.sdstate.edu](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) - cited for: SDSU Extension. Checked 2026-10-24.",
+          "[grdc.com.au](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed) - cited for: GRDC. Checked 2026-10-24.",
+          "[gafta.com](https://www.gafta.com/contracts/) - cited for: GAFTA. Checked 2026-10-24.",
+          "[sunflowernsa.com](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - cited for: NSA 2024 Crop Quality Report. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Request Current Specifications",
         "body": [
-          "[Request samples (the buyer pays shipping)](/contact#quote-form) to review current moisture and purity data for your target series."
+          "[Request samples (the buyer pays shipping)](/contact#quote-form) to review current moisture and purity data for your target series. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1514,7 +1768,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Raw or roasted isn't just a flavor decision for a bulk buyer, it affects shelf life, how much processing control you retain, and how ready the product is for immediate resale. Here's how the two compare."
+          "Raw or roasted is not only a flavor choice for a bulk buyer: it affects shelf life, how much processing control you keep and how ready the product is for resale. USDA lists dry roasted kernels at 582 kcal per 100 g against 584 for dried, so roasting changes calories little and salt changes sodium a great deal."
         ]
       },
       {
@@ -1525,7 +1779,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Raw, unroasted seed generally holds up longer in storage than roasted product."
         },
         "body": [
-          "Counterintuitively, roasting shortens shelf life rather than extending it. Raw in-shell seed can last up to around two years in cool, dark, airtight storage, while raw hulled kernel keeps for roughly six months under good conditions. [Roasted seed, by contrast, typically lasts only a few months](https://www.sunflowernsa.com/seed/seedshelf-stability-study/) at room temperature, because the roasting process alters the seed's structure in a way that exposes its natural oils to oxygen more readily, accelerating oxidative rancidity."
+          "Counterintuitively, roasting shortens shelf life rather than extending it. Raw in-shell seed can last up to around two years in cool, dark, airtight storage, while raw hulled kernel keeps for roughly six months under good conditions. Roasted seed generally keeps for a shorter time than raw seed, because the roasting process alters the seed's structure in a way that exposes its natural oils to oxygen more readily, accelerating oxidative rancidity."
         ]
       },
       {
@@ -1543,7 +1797,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Does the Choice Affect Packaging Requirements?",
         "body": [
-          "It can, because roasted seed is more exposed to [oxidative rancidity](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed), packaging with a stronger moisture and oxygen barrier (nitrogen-flushed or vacuum-sealed formats) matters more for roasted product than for raw. See our comparison of [vacuum-sealed vs. standard export bags](/blog/vacuum-sealed-vs-standard-export-bags) for how packaging format interacts with this."
+          "It can, because roasted seed is more exposed to oxidative rancidity, packaging with a stronger moisture and oxygen barrier (nitrogen-flushed or vacuum-sealed formats) matters more for roasted product than for raw. See our comparison of [vacuum-sealed vs. standard export bags](/blog/vacuum-sealed-vs-standard-export-bags) for how packaging format interacts with this."
         ]
       },
       {
@@ -1589,9 +1843,29 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do the USDA Records Say About Roasting?",
+        "body": [
+          "USDA lists dried kernels at 584 kcal and 20.8 g of protein per 100 g, and dry roasted kernels without salt at 582 kcal and 19.3 g ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). Roasting changes calories very little, and salt is the nutrient that changes most: 655 mg of sodium per 100 g in the salted record against 3 mg without.",
+          "For roasting at home, the National Center for Home Food Preservation gives 300°F (149°C) for 10 to 15 minutes. A buyer who roasts at commercial scale has to set the time, temperature and salting for their own equipment and product."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The USDA values are reference records for generic products and the shelf-life comparison is general. Your own process, packaging and storage decide the result, so test both forms for your product."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/) - cited for: vitamin E and mineral content per USDA's database. Checked 2026-10-24.",
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - cited for: USDA FoodData Central. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Raw or Roasted Sunflower Seeds",
         "body": [
-          "[Request a quote](/contact#quote-form) specifying raw or roasted, along with your target series and volume."
+          "[Request a quote](/contact#quote-form) specifying raw or roasted, along with your target series and volume. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1614,7 +1888,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Not all sunflower seeds are grown for the same purpose, and confusing the two types can lead to sourcing the wrong product entirely. Here's the actual agricultural distinction between confectionery and oil-type sunflower, and why it matters for buyers."
+          "Confection sunflower seeds are usually striped and larger than oil-type seeds, with a lower oil percentage and test weight, according to the [Northern Crops Institute](https://www.northern-crops.com/crops-of-the-northern-region/2014/3/15/sunflowers). Confusing the two can mean sourcing the wrong product, so name the type in every specification. This guide sets out the distinction and why it matters to buyers."
         ]
       },
       {
@@ -1689,9 +1963,32 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do the US Crop Numbers Show About the Two Types?",
+        "body": [
+          "The [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports average test weight of 29.0 to 31.7 lb per bushel for oil-type seed against 21.1 to 24.0 for confection seed, and foreign material of 3.7% to 4.7% against 11.6% to 12.8%. Oil content of the oil-type samples ranged from 42.2% to 44.9%.",
+          "Production differs too: USDA NASS lists 2024 production at 947,060 thousand pounds of oil-type sunflower and 198,545 thousand pounds of non-oil ([USDA NASS](https://www.nass.usda.gov/Publications/Todays_Reports/reports/cropan25.pdf)). A buyer should therefore state which type, and which specification, a quote is for."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The comparison rests on US sources and describes typical differences. Particular varieties can vary, so name the type and the specification in every quote."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[northern-crops.com](https://www.northern-crops.com/crops-of-the-northern-region/2014/3/15/sunflowers) - cited for: Northern Crops Institute. Checked 2026-10-24.",
+          "[agmrc.org](https://www.agmrc.org/commodities-products/grains-oilseeds/sunflower-profile) - cited for: USDA's Agricultural Marketing Resource Center. Checked 2026-10-24.",
+          "[en.wikipedia.org](https://en.wikipedia.org/wiki/Sunflower_seed) - cited for: botanically a cypsela. Checked 2026-10-24.",
+          "[sunflowernsa.com](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - cited for: NSA 2024 Crop Quality Report. Checked 2026-10-24.",
+          "[nass.usda.gov](https://www.nass.usda.gov/Publications/Todays_Reports/reports/cropan25.pdf) - cited for: USDA NASS. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Confectionery Sunflower Seeds",
         "body": [
-          "If you're sourcing whole seeds for snacking, retail, or food-service use, [request samples (the buyer pays shipping)](/contact#quote-form) across our [361, 363, or Tongqing No.6](/products) series."
+          "If you're sourcing whole seeds for snacking, retail, or food-service use, [request samples (the buyer pays shipping)](/contact#quote-form) across our [361, 363, or Tongqing No.6](/products) series. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1714,7 +2011,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "North American snack brands and distributors regularly source bulk seeds and nuts overseas for private-label and co-manufactured products. Here's what a US or Canadian buyer sourcing sunflower seeds from China should know going in."
+          "US imports of sunflower seed in 2024 came mainly from Bulgaria, Canada and Argentina, and US-reported imports from China were about 1.0 thousand tonnes ([UN Comtrade](https://comtradeplus.un.org/), HS 1206). This guide explains what a US or Canadian buyer sourcing in-shell confection seed from China should know about duty, prior notice and private-label supply."
         ]
       },
       {
@@ -1725,13 +2022,13 @@ export const blogPosts: BlogPost[] = [
           "caption": "Established US distributors and private-label manufacturers regularly source seeds and nuts from overseas suppliers."
         },
         "body": [
-          "[SIGCO Sun Products](https://www.foodnavigator-usa.com/Article/2010/11/09/SunOpta-s-Dahlgren-acquisition-creates-huge-confection-sunflower-business/), founded in 1958 and based in Breckenridge, Minnesota, has a long history in confection sunflower seed processing (now operating as part of SunOpta following a 2003 acquisition). Earth Ranch, based in Jackson, Wisconsin, is a clean-label snack manufacturer offering private-label and co-manufacturing services covering nuts, trail mix, and related bulk snack products. Companies like these illustrate a well-established North American model of blending overseas-sourced raw material with domestic repackaging and private-label manufacturing."
+          "Earth Ranch, based in Jackson, Wisconsin, is a clean-label snack manufacturer offering private-label and co-manufacturing services covering nuts, trail mix, and related bulk snack products. Companies like these illustrate a well-established North American model of blending overseas-sourced raw material with domestic repackaging and private-label manufacturing."
         ]
       },
       {
         "heading": "How Big Is the Private-Label Opportunity in North America?",
         "body": [
-          "[US private-label sales have approached record levels](https://www.just-food.com/comment/private-labels-growth-surge-and-the-us-brand-battle-ahead/) in dollar terms in recent years, and private-label manufacturing lets brands and retailers launch snack products without owning a factory, a trend toward new formats (grab-and-go, portion control) and functional/health positioning has been shaping demand in this category."
+          "PLMA reports US private-label sales of $282.8 billion in 2025 ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025)), and private-label manufacturing lets brands and retailers launch snack products without owning a factory, a trend toward new formats (grab-and-go, portion control) and functional/health positioning has been shaping demand in this category."
         ]
       },
       {
@@ -1743,7 +2040,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Should a First-Time North American Buyer Confirm?",
         "body": [
-          "US-bound food imports specifically require the exporting facility to be FDA-registered and [Prior Notice to be filed](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods) before the shipment arrives, see our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for how this fits into the overall process. Confirming these requirements with your supplier and a customs broker before your first order avoids delays at the port."
+          "US-bound food imports specifically require the exporting facility to be FDA-registered and [Prior Notice to be filed](https://www.fda.gov/media/161541/download) before the shipment arrives, see our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for how this fits into the overall process. Confirming these requirements with your supplier and a customs broker before your first order avoids delays at the port."
         ]
       },
       {
@@ -1783,9 +2080,30 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do US Import Figures Show?",
+        "body": [
+          "US-reported imports of HS 1206 in 2024 came mainly from Bulgaria (51.4 thousand tonnes), Canada (35.3) and Argentina (17.3), while imports from China were 1.0 thousand tonnes ([UN Comtrade](https://comtradeplus.un.org/)). Our [US import guide](/blog/us-import-duty-sunflower-seeds-hts-1206) gives the duty rate and the full table.",
+          "China is therefore a small supplier to the US in these records, which does not rule out a niche for a specific in-shell confection seed, but it means a buyer should expect to compare our quote with other origins."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The import figures describe all sunflower seed and not only in-shell confection seed. Duty, prior notice and labeling rules change, so confirm them with a customs broker before you order."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[comtradeplus.un.org](https://comtradeplus.un.org/) - cited for: UN Comtrade. Checked 2026-10-24.",
+          "[plma.com](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025) - cited for: PLMA. Checked 2026-10-24.",
+          "[fda.gov](https://www.fda.gov/media/161541/download) - cited for: Prior Notice to be filed. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Bulk Sunflower Seeds for North America",
         "body": [
-          "[Request samples (the buyer pays shipping)](/contact#quote-form) to evaluate our series against your product before committing to a bulk order."
+          "[Request samples (the buyer pays shipping)](/contact#quote-form) to evaluate our series against your product before committing to a bulk order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1808,7 +2126,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Southeast Asia's snack food market has been growing steadily, and confectionery sunflower seeds are a meaningful part of that category across several countries in the region. Here's what buyers sourcing for this market should know."
+          "China's reported exports of sunflower seed to Viet Nam were 26.4 thousand tonnes in 2024, to Thailand 13.8 and to Indonesia 7.2 ([UN Comtrade](https://comtradeplus.un.org/), HS 1206). This guide sets out what buyers sourcing for Southeast Asia should check, including humidity, packaging and local import rules."
         ]
       },
       {
@@ -1819,7 +2137,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Southeast Asia's snack food market has shown consistent growth across multiple countries in the region."
         },
         "body": [
-          "[Southeast Asia's snack food market](https://www.statista.com/outlook/cmo/food/confectionery-snacks/snack-food/southeast-asia) has posted solid annual growth in recent years, with continued expansion projected. Platform-level trade data (reported by Alibaba.com based on its own seller activity) has pointed to rising buyer interest in sunflower kernels specifically, worth noting this reflects one platform's internal data rather than independent third-party market research, but it's a directionally consistent signal alongside the broader regional snack market growth."
+          "Platform-level trade data (reported by Alibaba.com based on its own seller activity) has pointed to rising buyer interest in sunflower kernels specifically, worth noting this reflects one platform's internal data rather than independent third-party market research, but it's a directionally consistent signal alongside the broader regional snack market growth."
         ]
       },
       {
@@ -1854,7 +2172,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Should You Confirm Before Sourcing for Southeast Asia?",
         "body": [
-          "Import documentation and food safety requirements vary by country in the region, so confirm your specific destination market's requirements rather than assuming uniform rules across Southeast Asia. [Country-level trade flow data](https://www.trademap.org/Browse/Product.aspx?PID=120600) is worth checking as a starting point for scoping which markets already import meaningful volume, alongside [FAOSTAT's annual agricultural trade data](https://www.fao.org/faostat/en/#data/FTP) for a longer historical view. Our [HS codes and documentation guide](/blog/sunflower-seed-hs-codes-export-documentation) covers the general document set, but destination-specific rules should be confirmed with a customs broker."
+          "Import documentation and food safety requirements vary by country in the region, so confirm your specific destination market's requirements rather than assuming uniform rules across Southeast Asia. [UN Comtrade](https://comtradeplus.un.org/) country-level trade data is worth checking as a starting point for scoping which markets already import meaningful volume. Our [HS codes and documentation guide](/blog/sunflower-seed-hs-codes-export-documentation) covers the general document set, but destination-specific rules should be confirmed with a customs broker."
         ]
       },
       {
@@ -1877,9 +2195,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do China's Export Figures Show for the Region?",
+        "body": [
+          "China-reported exports under HS 1206 to Viet Nam were 26.4 thousand tonnes in 2019 and 26.4 in 2024, to Thailand 7.7 and 13.8, and to Indonesia 12.0 and 7.2 ([UN Comtrade](https://comtradeplus.un.org/)). Thailand's volume grew over the period, while Indonesia's fell.",
+          "Customs data show shipments and not final sales, and they cover all sunflower seed. Humidity is a practical concern for the region, so agree the moisture limit and the packaging before you order."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The regional figures are customs records and do not show final sales or prices. Import rules differ by country and change over time, so confirm them locally before you ship."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[comtradeplus.un.org](https://comtradeplus.un.org/) - cited for: UN Comtrade. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Confectionery Sunflower Seeds for Southeast Asia",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target country and volume, and we'll confirm pricing, series, and documentation for your order."
+          "[Request a quote](/contact#quote-form) with your target country and volume, and we'll confirm pricing, series, and documentation for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1913,13 +2250,13 @@ export const blogPosts: BlogPost[] = [
           "caption": "Dubai and Jebel Ali function as regional redistribution hubs for goods entering the wider Gulf market."
         },
         "body": [
-          "Dubai and Jebel Ali function as [major redistribution hubs](https://grain.org/en/article/7170-from-land-to-logistics-uae-s-growing-power-in-the-global-food-system) for the region, a substantial share of food imported into the UAE is re-exported onward to neighboring markets, which makes the UAE a strategic entry point rather than only an end destination. Trade data has shown meaningful year-over-year growth in UAE sunflower seed shipment volumes, reflecting this redistribution role."
+          "A report by GRAIN notes that traders in the UAE can [import and re-export products quickly](https://grain.org/en/article/7170-from-land-to-logistics-uae-s-growing-power-in-the-global-food-system) to other markets, which makes the UAE a possible entry point and not only an end destination. Trade data has shown meaningful year-over-year growth in UAE sunflower seed shipment volumes, reflecting this redistribution role."
         ]
       },
       {
         "heading": "How Big Is the GCC Snack Food Market?",
         "body": [
-          "[The GCC snacks market](https://www.marknteladvisors.com/research-library/gcc-snacks-market.html) has been valued in the high single-digit billions of dollars, with salted snacks, including nuts and seeds, as the dominant sub-segment, and continued growth projected through the rest of the decade. That growth trajectory is a meaningful part of why sunflower seed demand in the region has been trending upward."
+          "One market research firm values the [GCC snacks market](https://www.marknteladvisors.com/research-library/gcc-snacks-market.html) at about USD 8.49 billion in 2024 and projects USD 12.87 billion by 2030. That growth trajectory is a meaningful part of why sunflower seed demand in the region has been trending upward."
         ]
       },
       {
@@ -1977,9 +2314,31 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do China's Export Figures Show for the Region?",
+        "body": [
+          "China-reported exports under HS 1206 to Iraq rose from 41.3 thousand tonnes in 2019 to 60.7 thousand tonnes in 2024, to Saudi Arabia they moved from 15.0 to 11.5, and to the UAE they fell from 44.3 to 16.4 ([UN Comtrade](https://comtradeplus.un.org/)). Exports to Türkiye fell from 125.3 to 21.9 thousand tonnes.",
+          "The data are customs records by partner country and do not show where seed is finally sold, and HS 1206 covers all sunflower seed. Use them to see where shipments went, and check import conditions, sanctions rules and documents for each destination before you ship."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The regional figures are customs records and market research of different kinds and do not show final sales. Import conditions, sanctions rules and documents differ by country and must be checked for each destination."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[grain.org](https://grain.org/en/article/7170-from-land-to-logistics-uae-s-growing-power-in-the-global-food-system) - cited for: import and re-export products quickly. Checked 2026-10-24.",
+          "[marknteladvisors.com](https://www.marknteladvisors.com/research-library/gcc-snacks-market.html) - cited for: GCC snacks market. Checked 2026-10-24.",
+          "[moccae.gov.ae](https://www.moccae.gov.ae/en/services/import-permit) - cited for: UAE's own import permit service. Checked 2026-10-24.",
+          "[comtradeplus.un.org](https://comtradeplus.un.org/) - cited for: UN Comtrade. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Source Sunflower Seeds for Middle East Distribution",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target market and volume, and we'll confirm pricing and documentation for shipment to your destination."
+          "[Request a quote](/contact#quote-form) with your target market and volume, and we'll confirm pricing and documentation for shipment to your destination. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2079,9 +2438,31 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Do FOB and CIF Differ in Trade Statistics?",
+        "body": [
+          "The International Chamber of Commerce issues 11 Incoterms rules, and each states when the risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). The UN's recommendation for trade statistics values exports at FOB-type value and imports at CIF-type value ([UN Statistics Division](https://unstats.un.org/wiki/spaces/I2CG/pages/6325157/A.+Statistical+value+and+its+components+an+overview)). The FOB-type value is the transaction value plus the cost of delivering goods to the exporting country's border, and the CIF-type value adds the cost of carrying them to the importing country's border.",
+          "This is why an importer's declared value per tonne is higher than an exporter's for the same seed: it includes freight and insurance. XingYi Trading quotes on FOB terms, so when you compare our quote with a CIF quote, add the freight and insurance to ours before you compare."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The terms are explained in general. The exact responsibilities depend on the Incoterms edition and on what the contract says, so agree the term and the named place in writing."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[iccwbo.org](https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/) - cited for: Incoterms. Checked 2026-10-24.",
+          "[trade.gov](https://www.trade.gov/know-your-incoterms) - cited for: the ICC's own guidance. Checked 2026-10-24.",
+          "[kuehne-nagel.com](https://www.kuehne-nagel.com/how-to/customs-clearance/incoterms) - cited for: customs-clearance and Incoterms explainer. Checked 2026-10-24.",
+          "[unstats.un.org](https://unstats.un.org/wiki/spaces/I2CG/pages/6325157/A.+Statistical+value+and+its+components+an+overview) - cited for: UN Statistics Division. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Get a Quote With Your Preferred Incoterm",
         "body": [
-          "[Request a quote](/contact#quote-form) and note that XingYi Trading quotes on FOB terms. For the wider buying checklist, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "[Request a quote](/contact#quote-form) and note that XingYi Trading quotes on FOB terms. For the wider buying checklist, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2121,7 +2502,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Why Is MOQ Often Tied to Container Size?",
         "body": [
-          "Once cargo fills roughly 60-70% or more of a container's capacity, shipping a Full Container Load (FCL) becomes more cost-efficient than Less than Container Load (LCL) shipping, which involves consolidation fees and shared handling. A [20ft container typically holds around 10 standard pallets](https://ecu360.com/contentHub/blog/fcl-container-size-and-dimensions-a-complete-guide/) of palletized cargo in a single tier, while a 40ft container holds roughly double that, so suppliers often set MOQ at or near a full container's worth of product to align with this natural cost break point. See our guide on [FCL vs. LCL container loading](/blog/container-loading-fcl-lcl-sunflower-seeds) for more detail on how this works."
+          "Once cargo fills roughly 60-70% or more of a container's capacity, shipping a Full Container Load (FCL) becomes more cost-efficient than Less than Container Load (LCL) shipping, which involves consolidation fees and shared handling. A 40ft container holds more pallets than a 20ft container, so suppliers often set MOQ at or near a full container's worth of product to align with this natural cost break point. See our guide on [FCL vs. LCL container loading](/blog/container-loading-fcl-lcl-sunflower-seeds) for more detail on how this works."
         ]
       },
       {
@@ -2146,7 +2527,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Does MOQ Interact With Your Total Landed Cost?",
         "body": [
-          "A smaller order via [LCL shipping carries a higher per-unit freight cost](https://www.freightos.com/freight-resources/) than a full container, so the effective MOQ that makes financial sense for you may be higher than the supplier's stated minimum once you factor in your own freight economics. See our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) and [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) for the fuller cost picture beyond the quoted per-ton price."
+          "A smaller order shipped as LCL generally carries a higher per-unit freight cost than a full container, so the effective MOQ that makes financial sense for you may be higher than the supplier's stated minimum once you factor in your own freight economics. See our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) and [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) for the fuller cost picture beyond the quoted per-ton price."
         ]
       },
       {
@@ -2181,9 +2562,27 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Many Bags Fill the Minimum Order?",
+        "body": [
+          "Because the minimum order is one 20ft container, it helps to know what that means in bags. By volume, a 20ft container holds about 9.7 tonnes of loose in-shell seed, which is about 388 bags of 25 kg (calculated; our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft) shows the calculation and why a real loading plan will usually show less). Ask for the bags per container in the quote, so that you can plan storage and cash for the whole minimum."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The container figures are estimates calculated from volume, not a loading plan. The minimum order for any supplier is set by that supplier and should be confirmed in the quote."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[icontainers.com](https://www.icontainers.com/help/lcl-vs-fcl/) - cited for: LCL for a smaller trial order. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Confirm MOQ for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target volume and destination, and our team will confirm what we can supply. For the full buying process, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "[Request a quote](/contact#quote-form) with your target volume and destination, and our team will confirm what we can supply. For the full buying process, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2290,9 +2689,31 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Does Customs Data Say About Declared Export Values?",
+        "body": [
+          "As a sanity check on an FOB quote, compare it with the average declared export value. China's reported HS 1206 exports in 2024 were 480 thousand tonnes worth $819 million, an average of $1,706 per tonne ([UN Comtrade](https://comtradeplus.un.org/), calculated). UN statistics value exports at FOB-type value, so this is the nearest official comparison for an FOB price.",
+          "The average mixes every type and grade of seed, so a quote for one grade can sit well above or below it. A quote far from the average is a prompt to ask what is different about the seed, the packaging or the terms, and not a reason to accept or reject it."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The cost components are typical and not a quotation. Real prices depend on grade, packaging, volume, timing and the terms agreed, and a quote should be compared line by line."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[blue-alligator.com](https://www.blue-alligator.com/2025/05/01/fob-cost-calculation-what-exporters-really-need-to-know/) - cited for: FOB price represents the value of goods. Checked 2026-10-24.",
+          "[trade.gov](https://www.trade.gov/know-your-incoterms) - cited for: official Incoterms rules. Checked 2026-10-24.",
+          "[foodsecurityportal.org](https://www.foodsecurityportal.org/tools/COVID-19-food-trade-policy-tracker) - cited for: export restrictions or bans. Checked 2026-10-24.",
+          "[comtradeplus.un.org](https://comtradeplus.un.org/) - cited for: UN Comtrade. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Get an FOB Quote for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target series, quantity, and destination, and our team will provide current FOB pricing and specifications for your order."
+          "[Request a quote](/contact#quote-form) with your target series, quantity, and destination, and our team will provide current FOB pricing and specifications for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2327,13 +2748,13 @@ export const blogPosts: BlogPost[] = [
         },
         "body": [
           "A [phytosanitary certificate](https://www.aphis.usda.gov/plant-exports/certification) is a legally binding document attesting that a shipment of plants or plant products is free of regulated pests and meets the importing country's phytosanitary requirements. It's required for regulated articles including seeds, grain, and other plant products, inspection typically covers the product itself, its packaging, and the transport vehicle, with samples lab-tested when needed before the certificate is issued.",
-          "The underlying justification is a [Pest Risk Analysis (PRA)](https://www.fao.org/4/y3241e/y3241e06.htm), the technical process import countries use to identify seed-borne pests, contaminating arthropods, fungal structures, and even weed seeds mixed into a seed lot as genuine pest risks worth screening for at the border."
+          "Import countries decide their phytosanitary requirements through a pest risk analysis, so the requirements differ by destination."
         ]
       },
       {
         "heading": "Who Issues Phytosanitary Certificates for Shipments From China?",
         "body": [
-          "Phytosanitary certificates for Chinese exports are issued by port animal and plant quarantine offices under the General Administration of Customs China (GACC). China has [notified the WTO of standard certificate templates](https://www.fas.usda.gov/data/china-updated-phytosanitary-certificates-wto-notified), including a separate template for re-export shipments where relevant."
+          "Phytosanitary certificates for Chinese exports are issued by port animal and plant quarantine offices under the General Administration of Customs China (GACC). "
         ]
       },
       {
@@ -2346,17 +2767,6 @@ export const blogPosts: BlogPost[] = [
         "heading": "What's the Practical Difference Between These Two Documents?",
         "body": [
           "It's easy to conflate the two since both accompany the same shipment, but they answer different questions: the phytosanitary certificate answers \"is this shipment pest-free and safe to enter,\" while the certificate of origin answers \"where was this actually grown.\" A shipment needs both because customs and agricultural authorities use them for different purposes, trade treatment and duty eligibility on one hand, pest-risk screening on the other."
-        ]
-      },
-      {
-        "heading": "Is There a Different Process for Re-Export Shipments?",
-        "image": {
-          "src": "/images/ai-export-documents-desk-stamp.jpg",
-          "alt": "Export shipping documents and an ink stamp on an office desk",
-          "caption": "Re-export shipments use a separate certificate template from goods grown and processed directly in China."
-        },
-        "body": [
-          "Yes, China has notified the WTO of a separate phytosanitary certificate template specifically for re-export shipments, distinct from the standard certificate used for goods grown and processed directly in China. If your shipment involves any re-export component, confirm with your supplier and freight forwarder which template applies, since using the wrong one can cause delays at the destination."
         ]
       },
       {
@@ -2397,9 +2807,27 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Should You Ask Before You Order?",
+        "body": [
+          "Ask which documents come with the shipment and which you must arrange yourself. Each XingYi Trading shipment comes with a commercial invoice and a packing list. If your market requires a phytosanitary certificate or a certificate of origin, say so in your quote request and confirm in writing who will arrange it and how long it takes, because the issuing offices work on their own schedule."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This article explains the two documents in general terms. The requirements of your destination apply, and the issuing offices work to their own timelines, so confirm both with your broker and your supplier."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[aphis.usda.gov](https://www.aphis.usda.gov/plant-exports/certification) - cited for: phytosanitary certificate. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Sourcing Seeds With Full Documentation Already Handled?",
         "body": [
-          "Each XingYi Trading shipment comes with a commercial invoice and a packing list. Confirm with us before you order whether you need a phytosanitary certificate or a certificate of origin. [Request a quote](/contact#quote-form) with your destination country and documentation requirements."
+          "Each XingYi Trading shipment comes with a commercial invoice and a packing list. Confirm with us before you order whether you need a phytosanitary certificate or a certificate of origin. [Request a quote](/contact#quote-form) with your destination country and documentation requirements. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2422,7 +2850,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Packaging affects more than presentation, bag format influences container loading efficiency, shelf life in transit, and how ready a shipment is for retail once it arrives. Here's what's standard in bulk sunflower seed export, and what's typically negotiable."
+          "Bulk sunflower seeds are usually packed in PP woven bags, and the bag format changes container loading, shelf life in transit and how ready a shipment is for retail. XingYi Trading packs in 25 kg bags, 50 lb bags and FIBC (jumbo) bags (XingYi Trading company data, 2026), with custom packaging on request."
         ]
       },
       {
@@ -2433,7 +2861,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Bulk sunflower seeds are most commonly packed in PP woven bags at the 25kg or 50kg mark."
         },
         "list": [
-          "[PP (polypropylene) woven bags](https://jnplastic.en.made-in-china.com/product/tKAQrTXJIoRv/China-25kg-50kg-PP-Woven-Bag-Packaging-Sunflower-Seed.html), the standard bulk export format, most commonly in 25kg and 50kg sizes",
+          "PP (polypropylene) woven bags are a common bulk export format, and XingYi Trading packs in 25 kg and 50 lb sizes",
           "Smaller variants (10-20kg) with BOPP lamination for added moisture resistance and print quality, used in some markets",
           "FIBC / jumbo bags, bulk bags for larger-volume shipments, generally used where handling equipment supports bigger unit loads"
         ],
@@ -2501,7 +2929,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Should You Confirm About Food Safety Testing at the Packaging Stage?",
         "body": [
-          "Some buyers, particularly in the EU and North America, ask about aflatoxin test reports alongside standard export documentation. Exact required thresholds vary by destination market and should be confirmed against your specific country's current regulatory limits via [FDA's food safety resources](https://www.fda.gov/food) or the equivalent agency for your destination, ask your supplier what testing is performed and at what stage, and confirm current documentation directly when you request a quote."
+          "Some buyers, particularly in the EU and North America, ask about aflatoxin test reports alongside standard export documentation. Exact required thresholds vary by destination market and should be confirmed against your specific country's current regulatory limits via the food safety authority of your destination or the equivalent agency for your destination, ask your supplier what testing is performed and at what stage, and confirm current documentation directly when you request a quote."
         ]
       },
       {
@@ -2545,9 +2973,27 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Do the Bag Sizes Compare?",
+        "body": [
+          "A 25 kg bag and a 50 lb bag are close but not equal: 50 lb is 22.68 kg (calculated from the exact definition of the pound), so a 50 lb bag holds about 9% less seed. By volume, a 20ft container holds about 9.7 tonnes of loose in-shell seed, which is about 388 bags of 25 kg or about 428 bags of 50 lb (calculated; see our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft)). Compare quotes by weight and not by the number of bags."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The packaging formats are described in general terms. Exact bag specifications, minimum quantities and lead times for custom packaging are set in the quote and should be confirmed in writing."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[packaging-gateway.com](https://www.packaging-gateway.com/features/the-benefits-of-vacuum-packing-in-food-packaging/) - cited for: removing oxygen entirely. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Ready to Discuss Packaging for Your Order?",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target bag size, branding needs, and order volume, and we'll confirm packaging options for your specific shipment. To see how packaging fits the rest of an order, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "[Request a quote](/contact#quote-form) with your target bag size, branding needs, and order volume, and we'll confirm packaging options for your specific shipment. To see how packaging fits the rest of an order, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2581,7 +3027,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Food safety certifications and hands-on quality inspection are two separate things worth asking about."
         },
         "body": [
-          "[GFSI-recognized food safety certification schemes](https://safefoodalliance.com/food-safety-resources/what-is-gfsi/), BRCGS, IFS, and FSSC 22000 are the three most commonly cited, are a standard reference point B2B buyers use when evaluating a supplier's food safety management system. Which one matters most can depend on your own destination market's retail requirements, so it's worth asking a prospective supplier directly which certifications they hold and requesting the certificate itself rather than taking a general claim at face value.",
+          "[GFSI-recognized food safety certification schemes](https://mygfsi.com/wp-content/uploads/2024/08/GFSI-Recognised-CPOs-202408.pdf), such as BRCGS, IFS and FSSC 22000, are a common reference point B2B buyers use when evaluating a supplier's food safety management system. Which one matters most can depend on your own destination market's retail requirements, so it's worth asking a prospective supplier directly which certifications they hold and requesting the certificate itself rather than taking a general claim at face value.",
           "Regional preference varies in practice: buyers selling into UK retail commonly expect BRCGS, German retail buyers often prefer IFS, and global B2B buyers more broadly tend to accept any of the three GFSI-recognized schemes. If you're sourcing for a specific retail market, it's worth checking which certification that market's retailers actually expect before assuming any one scheme is universally sufficient."
         ]
       },
@@ -2610,7 +3056,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Do You Verify a Supplier Is Credible Before Committing?",
         "body": [
-          "Check business licenses, request client references you can actually contact, and ask for documentation of past third-party audits (through firms like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) or [Intertek](https://www.intertek.com/food/)) or regulatory inspections, including how any past non-compliance was corrected. A supplier confident in its own process should have no issue sharing this. Independently tested samples, not just a supplier-provided spec sheet, are standard practice before committing to volume, see our guide on [what happens after you request samples](/contact#quote-form) for how that process works with us specifically."
+          "Check business licenses, request client references you can actually contact, and ask for documentation of past third-party audits (from an independent inspection or certification body) or regulatory inspections, including how any past non-compliance was corrected. A supplier confident in its own process should have no issue sharing this. Independently tested samples, not just a supplier-provided spec sheet, are standard practice before committing to volume, see our guide on [what happens after you request samples](/contact#quote-form) for how that process works with us specifically."
         ]
       },
       {
@@ -2661,9 +3107,27 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Can XingYi Trading Confirm Today?",
+        "body": [
+          "Our confirmed certification is ISO 22000, and the current certificate is available on request. Each shipment comes with a commercial invoice and a packing list, and customers are welcome to visit our factory in Bayannur."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The checklist is general and applies to any supplier. A supplier's answers are only as reliable as the documents behind them, so verify certificates, references and samples yourself."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[mygfsi.com](https://mygfsi.com/wp-content/uploads/2024/08/GFSI-Recognised-CPOs-202408.pdf) - cited for: GFSI-recognized food safety certification schemes. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "How Does XingYi Trading Answer These Questions?",
         "body": [
-          "We've operated from Linhe First Farm, Bayannur City, Inner Mongolia since 2014, and our [Capabilities section](/about#capabilities) covers our own 16-stage inspection line, production capacity, and quality control process in detail. Ask us anything you'd ask another supplier, [request samples (the buyer pays shipping)](/contact#quote-form) and compare the answers directly."
+          "We've operated from Linhe First Farm, Bayannur City, Inner Mongolia since 2014, and our [Capabilities section](/about#capabilities) covers our own 16-stage inspection line, production capacity, and quality control process in detail. Ask us anything you'd ask another supplier, [request samples (the buyer pays shipping)](/contact#quote-form) and compare the answers directly. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2723,7 +3187,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Will the Grade and Size Stay Consistent Across Harvest Seasons?",
         "body": [
-          "Seed of all three series passes through the same 16-stage grading line (XingYi Trading company data, 2026). This kind of documented, repeatable grading process is the same underlying principle behind [GFSI-benchmarked quality schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) like [BRCGS](https://www.brcgs.com), consistency has to be built into the process itself, not checked for after the fact. If your product depends on a specific size band staying consistent across repeat orders, tell us in your quote request so it can be built into the agreement."
+          "Seed of all three series passes through the same 16-stage grading line (XingYi Trading company data, 2026). This kind of documented, repeatable grading process is the same underlying principle behind [GFSI-benchmarked quality schemes](https://mygfsi.com/how-to-implement/certification/) like BRCGS, consistency has to be built into the process itself, not checked for after the fact. If your product depends on a specific size band staying consistent across repeat orders, tell us in your quote request so it can be built into the agreement."
         ]
       },
       {
@@ -2774,9 +3238,31 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Should You Compare the Three Series Before Ordering?",
+        "body": [
+          "Compare them on the same basis, not on names. Request samples of the series you are considering (the buyer pays shipping), and write down the same checks for each one: seed size, moisture, foreign material and how the seed looks in your own packaging. Ask for each series' figures in writing, so that the comparison rests on numbers you can hold the supplier to.",
+          "For a reference point, the [NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) reports US confection seed averaging 8.9% to 10.7% moisture and 11.6% to 12.8% foreign material across five crop years. Those are US crop averages and not figures for our series, but they show the range in which a buyer should expect to write limits.",
+          "Then match the series to your product. XingYi Trading describes 361 as a general-purpose grade for snacking, baking and garnishing, 363 as a premium raw grade for branded or health-focused products, and Tongqing No.6 as a named large-kernel cultivar. All three pass through the same 16-stage grading line (XingYi Trading company data, 2026). The right choice is the one whose sample suits your product, at a price your customers accept."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The descriptions of the three series are the company's own and are not an independent grading. Sample and specify before you order, and ask for each series' figures in writing."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[mygfsi.com](https://mygfsi.com/how-to-implement/certification/) - cited for: GFSI-benchmarked quality schemes. Checked 2026-10-24.",
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/) - cited for: vitamin E, magnesium, and selenium. Checked 2026-10-24.",
+          "[sunflowernsa.com](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - cited for: NSA 2024 Crop Quality Report. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Still Not Sure Which Series Fits Your Product?",
         "body": [
-          "[Request samples (the buyer pays shipping)](/contact#quote-form) across all three series so you can compare them directly against your product before committing to a bulk order."
+          "[Request samples (the buyer pays shipping)](/contact#quote-form) across all three series so you can compare them directly against your product before committing to a bulk order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2805,8 +3291,8 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Is the HS Code for Sunflower Seeds?",
         "body": [
-          "Sunflower seeds fall under [Heading 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/), \"Sunflower seeds, whether or not broken\", in the World Customs Organization's Harmonized System, the 6-digit classification standard used globally. Countries then add their own digits for more specific import declarations: the US uses a [10-digit HTS code](https://www.datamyne.com/hts/12/1206000069), while the EU uses an 8-digit Combined Nomenclature (CN) code and a [10-digit TARIC code](https://www.taricsupport.com/nomenclature/en/1206009900.html) for the actual import declaration.",
-          "Within Heading 1206, the exact subheading depends on the product's processing state. In the EU's Combined Nomenclature, for example, code 1206 00 10 covers sunflower seed \"for sowing\" (planting seed, not relevant to food-grade product), 1206 00 91 covers shelled (dehulled kernel), and 1206 00 99 is the residual \"other\" category that typically covers in-shell seed not intended for sowing. In the US, HTS code 1206.00.0069 specifically covers \"sunflower seeds for human use, shelled.\"",
+          "Sunflower seeds fall under [Heading 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/), \"Sunflower seeds, whether or not broken\", in the World Customs Organization's Harmonized System, the 6-digit classification standard used globally. Countries then add their own digits for more specific import declarations: the US uses a 10-digit HTS code ([USITC](https://hts.usitc.gov/)), while the EU uses its own Combined Nomenclature and TARIC codes.",
+          "Within Heading 1206, the exact subheading depends on the product's processing state.",
           "Because the exact subheading can depend on processing state (in-shell vs. shelled) and destination-country ruling precedent, always confirm the precise classification with a licensed customs broker for your specific destination market and product form before relying on it for a customs filing."
         ],
         "table": {
@@ -2852,7 +3338,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Do You Actually Look Up the Correct Tariff Code?",
         "body": [
-          "For US-bound shipments, the [USITC's Harmonized Tariff Schedule search tool](https://hts.usitc.gov/) lets you search by keyword or browse by chapter to find the exact 10-digit HTS subheading and its current duty rate, Chapter 12 covers oil seeds and includes Heading 1206 for sunflower seeds. For EU-bound shipments, the [EU's TARIC database](https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp) serves the same function for the 10-digit TARIC code. Both tools are free and public, but the search results still benefit from a customs broker's review, the tool finds candidate codes, but confirming which one applies to your specific product form and intended use is a judgment call worth getting a second opinion on before you rely on it for an actual filing."
+          "For US-bound shipments, the [USITC's Harmonized Tariff Schedule search tool](https://hts.usitc.gov/) lets you search by keyword or browse by chapter to find the exact 10-digit HTS subheading and its current duty rate, Chapter 12 covers oil seeds and includes Heading 1206 for sunflower seeds. For EU-bound shipments, the EU's TARIC database serves the same function. Both tools are free and public, but the search results still benefit from a customs broker's review, the tool finds candidate codes, but confirming which one applies to your specific product form and intended use is a judgment call worth getting a second opinion on before you rely on it for an actual filing."
         ]
       },
       {
@@ -2870,7 +3356,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Does HS Classification Connect to US FDA Requirements?",
         "body": [
-          "For US-bound shipments specifically, HS/HTS classification and FDA compliance are two separate but connected steps, correct classification determines the duty and entry process at US Customs and Border Protection (CBP), while FDA's Prior Notice system requires advance notice of the shipment before it arrives, and CBP will not release a food shipment without proof that Prior Notice was filed. Prior Notice is an FDA requirement under the 2002 Bioterrorism Act, filed electronically through CBP's ACE/ABI or FDA's own Prior Notice System Interface and confirmed before arrival (no less than 8 hours for ocean freight, 4 hours for air, 2 hours for road); a [September 2025 amendment](https://www.fda.gov/industry/fda-import-process/prior-notice-imported-foods) added a mail-tracking-number requirement specifically for food arriving by international mail, and does not change the filing rules for ocean containers. See our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for how this fits into the broader US import process."
+          "For US-bound shipments specifically, HS/HTS classification and FDA compliance are two separate but connected steps, correct classification determines the duty and entry process at US Customs and Border Protection (CBP), while FDA's Prior Notice system requires advance notice of the shipment before it arrives, FDA's [prior notice guidance](https://www.fda.gov/media/161541/download) sets the filing times by mode of transport: at least 8 hours before arrival for ocean freight, 4 hours for air and rail, and 2 hours for road. See our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for how this fits into the broader US import process."
         ]
       },
       {
@@ -2899,7 +3385,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Is ISPM 15 and Why Does It Matter for Wood Packaging?",
         "body": [
-          "[ISPM 15](https://www.aphis.usda.gov/plant-exports/wood-packaging-material/export) is the international standard requiring wood packaging material, pallets, crates, dunnage, to be debarked and heat-treated (or, less commonly today, fumigated) and stamped with an official IPPC mark before crossing borders. Non-compliant wood packaging can result in a shipment being held, returned, or destroyed at the destination port at the shipper's or consignee's expense, so it's worth confirming with your freight forwarder that any wood packaging used meets this standard before the container is sealed."
+          "ISPM 15 is the international standard requiring wood packaging material, pallets, crates, dunnage, to be debarked and heat-treated (or, less commonly today, fumigated) and stamped with an official IPPC mark before crossing borders. Non-compliant wood packaging can result in a shipment being held, returned, or destroyed at the destination port at the shipper's or consignee's expense, so it's worth confirming with your freight forwarder that any wood packaging used meets this standard before the container is sealed."
         ]
       },
       {
@@ -2932,9 +3418,23 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The document list is a general framework, and the classification and documents required differ by destination market. Confirm the exact code and document set with a licensed customs broker before you rely on them for a filing."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[flexport.com](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - cited for: Heading 1206. Checked 2026-10-24.",
+          "[hts.usitc.gov](https://hts.usitc.gov/) - cited for: USITC. Checked 2026-10-24.",
+          "[fda.gov](https://www.fda.gov/media/161541/download) - cited for: prior notice guidance. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Need Sunflower Seeds With Complete Export Documentation?",
         "body": [
-          "Each XingYi Trading shipment comes with a commercial invoice and a packing list. Confirm with us before you order whether you also need other documents, such as a certificate of origin or a phytosanitary certificate. [Request a quote](/contact#quote-form) with your destination country."
+          "Each XingYi Trading shipment comes with a commercial invoice and a packing list. Confirm with us before you order whether you also need other documents, such as a certificate of origin or a phytosanitary certificate. [Request a quote](/contact#quote-form) with your destination country. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2987,7 +3487,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Payment Terms Are Standard for a Sunflower Seed Import Order?",
         "body": [
-          "T/T (telegraphic transfer) is the most common payment method for small-to-mid-size orders from Chinese suppliers, typically structured as a deposit (often around 30%) before production begins and the balance before or against shipping documents. L/C (letter of credit) shifts more verification risk onto the banks, since the buyer's bank only releases payment against compliant shipping documents, but the extra banking costs mean it's generally considered [impractical for smaller orders](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/), with L/C banking fees running noticeably higher than the fees on an equivalent T/T transfer.",
+          "T/T (telegraphic transfer) is the most common payment method for small-to-mid-size orders from Chinese suppliers, typically structured as a deposit (often around 30%) before production begins and the balance before or against shipping documents. L/C (letter of credit) shifts more verification risk onto the banks, since the buyer's bank only releases payment against compliant shipping documents, but the extra banking costs mean many smaller factories refuse it ([unionsourcechina.com](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/)), with L/C banking fees running noticeably higher than the fees on an equivalent T/T transfer.",
           "Whichever method you use, agree on the deposit/balance split and the exact trigger for the balance payment (shipment, arrival, or against specific documents) in writing before production starts."
         ]
       },
@@ -3000,7 +3500,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Should First-Time Importers Know About Destination-Country Requirements?",
         "body": [
-          "Requirements vary by destination market, so confirm the specifics for your country before your first shipment. As one example: buyers importing into the United States should know that foreign facilities producing food for U.S. consumption must be registered with the FDA, and that [Prior Notice of the shipment must be filed with the FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods) before the goods arrive, [U.S. Customs and Border Protection](https://www.cbp.gov/trade) will not release a food shipment without proof that Prior Notice was filed. Buyers importing into the EU or other markets face a different but analogous set of food-contact and phytosanitary requirements, so it's worth confirming the destination-specific rules with a customs broker or your own import compliance team early in the process, not after the shipment is already in transit."
+          "Requirements vary by destination market, so confirm the specifics for your country before your first shipment. As one example: buyers importing into the United States should know that foreign facilities producing food for U.S. consumption must be registered with the FDA, and that [Prior Notice of the shipment must be filed with the FDA](https://www.fda.gov/media/161541/download) before the goods arrive, and your customs broker will ask for proof that it was filed. Buyers importing into the EU or other markets face a different but analogous set of food-contact and phytosanitary requirements, so it's worth confirming the destination-specific rules with a customs broker or your own import compliance team early in the process, not after the shipment is already in transit."
         ]
       },
       {
@@ -3017,7 +3517,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Do You Need a Customs Broker for a First Import Order?",
         "body": [
-          "It's not always legally required, but many first-time importers work with a licensed customs broker specifically because navigating destination-country food import requirements (FDA/CBP in the US, or the equivalent regime elsewhere) involves rules that change and vary by product and origin, a point [general China-sourcing compliance guidance](https://www.chinaimportal.com) makes consistently for first-time importers. A broker's fee on a first order is often worth it simply to avoid a documentation error that delays release at the port."
+          "It's not always legally required, but many first-time importers work with a licensed customs broker specifically because navigating destination-country food import requirements (FDA/CBP in the US, or the equivalent regime elsewhere) involves rules that change and vary by product and origin. A broker's fee on a first order is often worth it simply to avoid a documentation error that delays release at the port."
         ]
       },
       {
@@ -3055,6 +3555,19 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This is a general guide to the import process. Requirements differ by destination and change over time, so confirm duty, documents and food rules with your customs broker before you order."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[unionsourcechina.com](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/) - cited for: unionsourcechina.com. Checked 2026-10-24.",
+          "[fda.gov](https://www.fda.gov/media/161541/download) - cited for: Prior Notice of the shipment must be filed with the FDA. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Ready to Start Sourcing Sunflower Seeds From China?",
         "body": [
           "XingYi Trading exports confectionery-type 361, 363, and Tongqing No.6 sunflower seeds from our own facility in Bayannur, Inner Mongolia. [Request samples (the buyer pays shipping)](/contact#quote-form) to start the process, or browse our [product series](/products). For a shorter decision checklist, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
@@ -3080,7 +3593,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Sunflower seeds are nutrient-dense in ways that go well beyond a quick snack, vitamin E, protein, fiber, healthy fats, and a dense mineral profile all show up in meaningful amounts per serving."
+          "Per 28 g, dried sunflower kernels provide about 164 kcal, 5.8 g of protein and 9.8 mg of vitamin E, 66% of the Daily Value, plus magnesium, selenium and fiber ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled to 28 g). These are food-composition figures, not health claims, and this guide explains what each nutrient does."
         ]
       },
       {
@@ -3191,7 +3704,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Do These Nutrients Support Weight Management?",
         "body": [
-          "Protein increases fullness, supports metabolism, and helps preserve muscle mass during weight loss, this isn't unique to sunflower seeds, but a well-established mechanism in nutrition research. A [clinical review of high-protein diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539343/) found that higher protein intake raises levels of several fullness-signaling hormones, which in turn reduces hunger and supports weight-loss maintenance over time.",
+          "Protein increases fullness, supports metabolism, and helps preserve muscle mass during weight loss, this isn't unique to sunflower seeds, but a well-established mechanism in nutrition research. A [clinical review of high-protein diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539343/) reports that they raise levels of appetite-suppressing gut hormones, increasing satiety signaling and reducing food intake.",
           "Fiber works differently but toward the same end, it slows digestion and promotes a feeling of fullness that lasts longer than the calories alone would suggest. Healthy fats, consumed in moderation, further increase satiety and support hormone balance, which is part of why a small handful of seeds tends to be more satisfying than an equivalent amount of a low-fat, low-fiber snack."
         ]
       },
@@ -3235,13 +3748,34 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Why Does Nutrient Density Matter for Snack Brand Buyers?",
         "body": [
-          "For snack brands and distributors, this full nutrient picture, not just vitamin E, is a genuine differentiator on packaging. Magnesium and selenium content in particular are underused claims compared to the more commonly marketed vitamin E: according to [NIH Office of Dietary Supplements data](https://ods.od.nih.gov/factsheets/Magnesium-Consumer/), a large share of U.S. adults get less magnesium from food than recommended, which makes a naturally magnesium-rich snack a genuinely relevant selling point rather than a marketing footnote. These are USDA reference values for dried kernels and not test results for any particular series."
+          "For snack brands and distributors, this full nutrient picture, not just vitamin E, is a genuine differentiator on packaging. adults get less magnesium from food than recommended, which makes a naturally magnesium-rich snack a genuinely relevant selling point rather than a marketing footnote. These are USDA reference values for dried kernels and not test results for any particular series."
+        ]
+      },
+      {
+        "heading": "What Does a 28 g Serving Provide, According to USDA?",
+        "body": [
+          "Scaling the USDA record for dried sunflower kernels to 28 g gives about 164 kcal, 5.8 g of protein, 9.8 mg of vitamin E, 91 mg of magnesium and 15 mcg of selenium ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), calculated). Against the FDA Daily Values of 15 mg, 420 mg and 55 mcg, that is about 66%, 22% and 27% respectively.",
+          "These are reference values for dried kernels, not test results for a particular series, and they describe food composition rather than health outcomes. A claim on a pack has to follow the rules of the market where the product is sold."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The figures are USDA reference values for dried kernels, not test results for any series, and they describe food composition and not medical outcomes. People with a medical condition or a prescribed diet should follow their clinician's advice."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - cited for: USDA FoodData Central. Checked 2026-10-24.",
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/) - cited for: USDA FoodData Central. Checked 2026-10-24.",
+          "[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539343/) - cited for: clinical review of high-protein diets. Checked 2026-10-24."
         ]
       },
       {
         "heading": "Where Can You Source Sunflower Seeds for a Health or Wellness Brand?",
         "body": [
-          "For more on how to put this nutrition profile to work in a recipe, see our [complete cooking guide](/blog/sunflower-seeds-recipes). Sourcing seeds for a health, weight-management, or wellness-positioned brand? [Request samples (the buyer pays shipping)](/contact#quote-form) for the series that best matches your product."
+          "For more on how to put this nutrition profile to work in a recipe, see our [complete cooking guide](/blog/sunflower-seeds-recipes). Sourcing seeds for a health, weight-management, or wellness-positioned brand? [Request samples (the buyer pays shipping)](/contact#quote-form) for the series that best matches your product. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3286,7 +3820,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Does the Research Say About the Sunflower Maturity Window?",
         "body": [
-          "This isn't just field folklore, [NDSU Extension's Sunflower Production Guide](https://www.ndsu.edu/agriculture/extension/publications/sunflower-production-guide) documents the same physiological markers: growers consider a crop mature at growth stage R9, when the back of the head has turned from yellow to brown and moisture typically sits between 20-50% at that point, well before it's dry enough for combine harvest or storage. That gap between physiological maturity and harvest-ready moisture is exactly why timing judgment matters, harvesting right at R9 usually means additional field drying or artificial drying is still needed before the crop is storage-safe."
+          "This isn't just field folklore: [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) says sunflowers are physiologically mature at growth stage R9, when the back of the head has turned yellow and the bracts yellow or brown, and that seed moisture is then around 35% or below. That gap between physiological maturity and harvest-ready moisture is exactly why timing judgment matters, harvesting right at R9 usually means additional field drying or artificial drying is still needed before the crop is storage-safe."
         ]
       },
       {
@@ -3298,7 +3832,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What happens if sunflowers are harvested too early?",
         "body": [
-          "Seeds harvested before reaching adequate moisture drop-off tend to be smaller, lighter, and lower in oil content, since the seed hasn't finished filling out. They're also harder to dry safely to a storage-ready moisture level without additional energy and time, which adds cost without adding yield, [University of Missouri Extension's sunflower guide](https://extension.missouri.edu/publications/g4290) puts long-term storage moisture at around 9%, well below the 30-35% typical at physiological maturity."
+          "Seeds harvested before reaching adequate moisture drop-off tend to be smaller, lighter, and lower in oil content, since the seed hasn't finished filling out. They're also harder to dry safely to a storage-ready moisture level without additional energy and time, which adds cost without adding yield, [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) says seed stored for longer should be at around 9% moisture, well below the roughly 35% at physiological maturity."
         ]
       },
       {
@@ -3343,9 +3877,29 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do Extension Guides Say About Harvest Timing?",
+        "body": [
+          "[SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) says sunflowers are usually ready for harvest about 120 days after planting, though this varies with climate and genetics. The crop is physiologically mature at growth stage R9, when the back of the head has turned yellow and the bracts yellow or brown, and seed moisture is then around 35% or below.",
+          "The same guide notes that growers may desiccate the crop to speed up harvest, but only after physiological maturity, to avoid reduced yield and quality. Seed harvested at higher moisture has to be dried before storage, which is why harvest timing, drying capacity and the storage target should be planned together."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The harvest guidance describes common practice and extension advice for other regions. Timing and equipment depend on your climate, variety and fields, and a local agronomist should advise on your own crop."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[extension.sdstate.edu](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) - cited for: SDSU Extension. Checked 2026-10-24.",
+          "[sunflowernsa.com](https://www.sunflowernsa.com/growers/HarvestingStorage/) - cited for: National Sunflower Association's harvesting and storage guidance. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "From Field to Export Grade",
         "body": [
-          "Whatever the timing and harvest method, what happens next, drying, cleaning, and grading, is what actually determines export quality. Our guide on [drying and storing sunflower seeds](/blog/harvesting-sunflower-seeds-drying) covers that next stage. Our [Capabilities](/about#capabilities) section covers the processing line, and our [361](/products/361-series), [363](/products/363-series), and [Tongqing No.6](/products/tq6-series) series pages describe each series. For sourcing questions, [contact our team](/contact#quote-form) directly."
+          "Whatever the timing and harvest method, what happens next, drying, cleaning, and grading, is what actually determines export quality. Our guide on [drying and storing sunflower seeds](/blog/harvesting-sunflower-seeds-drying) covers that next stage. Our [Capabilities](/about#capabilities) section covers the processing line, and our [361](/products/361-series), [363](/products/363-series), and [Tongqing No.6](/products/tq6-series) series pages describe each series. For sourcing questions, [contact our team](/contact#quote-form) directly. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3393,7 +3947,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Do You Test Whether Sunflower Seeds Are Dry Enough?",
         "body": [
-          "Three simple checks confirm seeds are ready for storage: bite a seed to confirm it's crisp, shake the container and listen for a rattle, and check for any lingering softness or moisture. Commercial operations use a calibrated moisture meter for the same purpose, [SDSU Extension's sunflower harvesting guide](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) recommends checking moisture at multiple points in a load, since a percentage point or two of extra moisture is hard to detect by touch alone but meaningfully increases mold risk over months of storage."
+          "Three simple checks confirm seeds are ready for storage: bite a seed to confirm it's crisp, shake the container and listen for a rattle, and check for any lingering softness or moisture. Commercial operations use a calibrated moisture meter for the same purpose, and [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) considers 9.5% moisture safe for seed storage."
         ]
       },
       {
@@ -3419,7 +3973,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Why Is Moisture Content the Real Risk Factor for Mold?",
         "body": [
-          "Mold and toxin risk in stored oilseeds is driven overwhelmingly by moisture, not just time in storage. [Iowa State University Extension research](https://crops.extension.iastate.edu/cropnews/2012/09/aflatoxin-and-grain-storage) on grain storage found that kernels held below about 15% moisture and kept cool are at substantially lower risk of the mold growth that produces aflatoxin, while the combination of warm temperatures (roughly 75-95°F) and higher moisture creates the conditions aflatoxin-producing molds need to establish.",
+          "Mold and toxin risk in stored oilseeds is driven overwhelmingly by moisture, not just time in storage. [Iowa State University Extension research](https://crops.extension.iastate.edu/cropnews/2012/09/aflatoxin-and-grain-storage) on grain storage found that the optimum temperature for aflatoxin production is 75-95°F at moistures above 18 percent, so cool, dry storage lowers the risk.",
           ""
         ]
       },
@@ -3427,7 +3981,7 @@ export const blogPosts: BlogPost[] = [
         "heading": "What Are the Most Common Threats to Stored Sunflower Seeds?",
         "body": [
           "Molds such as Aspergillus, Penicillium, and Fusarium thrive in seeds stored above safe moisture thresholds. Pests including Indian meal moths, cigarette beetles, sawtoothed grain beetles, and rodents are the most common contamination risks in bulk storage.",
-          "Some Aspergillus strains produce aflatoxin, which is why food-safety regulators, the [FDA sets an action level of 20 parts per billion](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-action-levels-poisonous-or-deleterious-substances-human-food-and-animal-feed) for aflatoxin in human food, treat moisture control during storage as a food-safety issue, not just a quality one."
+          "Some Aspergillus strains produce aflatoxin, which is why food-safety regulators, regulators set limits for aflatoxin in human food, treat moisture control during storage as a food-safety issue, not just a quality one."
         ]
       },
       {
@@ -3443,9 +3997,31 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do Extension Services Recommend for Drying and Storage?",
+        "body": [
+          "US and Australian extension sources give consistent targets. [NDSU Extension](https://www.ag.ndsu.edu/news/newsreleases/2022/september/ndsu-offers-advice-on-harvesting-and-drying-sunflower-in-north-dakota) says oil sunflower should be dried to about 10% moisture for storage over winter and to 7% to 8% if it will be held into the following summer, and that non-oil sunflower can be stored at about 10% moisture during the summer. [SDSU Extension](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) considers 9.5% safe for seed storage, says confection types can be stored for less than six months at 10% moisture and for longer at 9%, and advises cooling the seed to 40°F or below when it goes into the bin.",
+          "[GRDC](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed) gives optimal storage below 9% moisture for seed with 40% oil, and 7.5% for seed with 50% oil or more. Seed type, storage time and temperature all change the target, so write the moisture limit you need, and the test method, into your purchase specification instead of relying on a general number."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The moisture targets come from extension guidance for North American and Australian conditions. Your seed type, climate and storage time may call for different limits, and a home dehydrator batch is not a commercial process."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[ag.ndsu.edu](https://www.ag.ndsu.edu/news/newsreleases/2022/september/ndsu-offers-advice-on-harvesting-and-drying-sunflower-in-north-dakota) - cited for: NDSU Extension guidance on sunflower harvesting and drying. Checked 2026-10-24.",
+          "[extension.sdstate.edu](https://extension.sdstate.edu/sites/default/files/2021-08/P-00205-08.pdf) - cited for: SDSU Extension. Checked 2026-10-24.",
+          "[crops.extension.iastate.edu](https://crops.extension.iastate.edu/cropnews/2012/09/aflatoxin-and-grain-storage) - cited for: Iowa State University Extension research. Checked 2026-10-24.",
+          "[grdc.com.au](https://grdc.com.au/resources-and-publications/all-publications/factsheets/2015/04/safe-storage-of-sunflower-seed) - cited for: GRDC. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "How Do These Storage Principles Apply to Container-Load Shipments?",
         "body": [
-          "For importers receiving container-load shipments, the same principles scale up: moisture readings at loading, appropriate ventilation or desiccant use inside the container, and a clear understanding of transit time to the destination port. Our [Capabilities](/about#capabilities) section describes our 16-stage grading line, and our [Compare](/compare) page covers what to ask any supplier, not just us, about their moisture control and quality testing before placing a large order."
+          "For importers receiving container-load shipments, the same principles scale up: moisture readings at loading, appropriate ventilation or desiccant use inside the container, and a clear understanding of transit time to the destination port. Our [Capabilities](/about#capabilities) section describes our 16-stage grading line, and our [Compare](/compare) page covers what to ask any supplier, not just us, about their moisture control and quality testing before placing a large order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       },
       {
@@ -3474,7 +4050,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "In Bayannur, Inner Mongolia, China's largest sunflower-growing region, sunflower seeds are more than a crop. They're a fixture of local festivals, cooking competitions, and community events throughout the harvest season, and the scale behind those celebrations is genuinely substantial."
+          "[Xinhua](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html) describes Bayannur, Inner Mongolia, as China's largest base for edible sunflower production, and sunflower seeds feature in its festivals, cooking events and harvest celebrations. This guide covers the main festivals, the Wuyuan sunflower scenic area, the 2024 International Sunflower Conference and a home roasting reference."
         ]
       },
       {
@@ -3485,8 +4061,8 @@ export const blogPosts: BlogPost[] = [
           "caption": "Sunflower fields near Bayannur, Inner Mongolia, the region's defining crop."
         },
         "body": [
-          "Bayannur's scale as a sunflower-growing region is a big part of why the festival culture exists at all. Local reporting from [People's Daily Online](http://en.people.cn/n3/2024/0208/c90000-20132728.html) put the city's sunflower planting area at roughly 4.4 million mu (about 293,000 hectares), nearly half of China's total sunflower planting area, with seed products exported to more than 40 countries, a scale [confirmed in separate coverage](http://www.china.org.cn/2026-01/16/content_118283187.shtml) of the region's export growth.",
-          "When a single crop underpins that much of a local economy, harvest-season festivals aren't just tourism events; they're a genuine community celebration of the year's work. [Coverage of Bayannur's export growth](https://www.chinadaily.com.cn/a/202502/18/WS67b3dc0da310c240449d5c70.html) puts sunflower-related exports at roughly 4.2 billion yuan annually, about 64% of the city's total agricultural export value, which is part of why the harvest carries the weight of a genuine civic celebration, not just a farming milestone."
+          "Bayannur's scale as a sunflower-growing region is a big part of why the festival culture exists at all. [People's Daily Online](http://en.people.cn/n3/2024/0208/c90000-20132728.html) put the city's sunflower planting area at about 4.1 million mu, with seed products sold to more than 40 countries and regions.",
+          "When a single crop underpins that much of a local economy, harvest-season festivals aren't just tourism events; they're a genuine community celebration of the year's work. That is part of why the harvest carries the weight of a civic celebration and not only a farming milestone."
         ]
       },
       {
@@ -3511,7 +4087,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Is the International Sunflower Conference?",
         "body": [
-          "Bayannur hosted the 21st International Sunflower Conference in Wuyuan County from August 20-24, 2024, the sunflower industry's most authoritative academic gathering, held once every four years under the [International Sunflower Association](https://www.isasunflower.org/news-events/news/article/20-24-august-2024-bayannur-china-21st-international-sunflower-conference). Nearly 100 sunflower varieties from around the world were showcased alongside presentations from 10 internationally recognized researchers.",
+          "Bayannur hosted the 21st International Sunflower Conference in Wuyuan County from August 20-24, 2024, the 21st International Sunflower Conference, organised by the [International Sunflower Association](https://www.isasunflower.org/news-events/news/article/20-24-august-2024-bayannur-china-21st-international-sunflower-conference). Nearly 100 sunflower varieties from around the world were showcased alongside presentations from 10 internationally recognized researchers.",
           "Hosting an event like this isn't just a cultural footnote, it reflects Bayannur's standing in the global sunflower industry as a place worth gathering growers, breeders, and researchers from around the world, not only a high-volume growing region."
         ]
       },
@@ -3542,9 +4118,31 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "Can Buyers Visit the Region?",
+        "body": [
+          "Customers are welcome to visit our factory in Bayannur in person. If you plan a visit around a festival or the bloom season, arrange it with us well ahead, because the region is busy at those times."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The article describes festivals and reporting that can change from year to year, and dates should be checked with local organisers. The regional figures come from news and government sources and are not our own measurements."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[english.news.cn](https://english.news.cn/20250203/3c35e22a97aa4bc5a57bb93da9273bdd/c.html) - cited for: Xinhua. Checked 2026-10-24.",
+          "[en.people.cn](http://en.people.cn/n3/2024/0208/c90000-20132728.html) - cited for: People's Daily Online. Checked 2026-10-24.",
+          "[goinnermongolia.com.cn](http://www.goinnermongolia.com.cn/2024-03/19/c_972386.htm) - cited for: as regional reporting notes. Checked 2026-10-24.",
+          "[isasunflower.org](https://www.isasunflower.org/news-events/news/article/20-24-august-2024-bayannur-china-21st-international-sunflower-conference) - cited for: International Sunflower Association. Checked 2026-10-24.",
+          "[nchfp.uga.edu](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) - cited for: National Center for Home Food Preservation. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "From Local Festival to Global Export",
         "body": [
-          "The same seeds celebrated at these local festivals are the ones that end up in export containers bound for snack brands and distributors abroad. Our [361](/products/361-series), [363](/products/363-series), and [Tongqing No.6](/products/tq6-series) series pages cover the specific grades that come out of this region, and our [About](/about) page covers XingYi Trading's own history operating out of Bayannur since 2014. For sourcing inquiries, [request a quote](/contact#quote-form) directly, or browse [our blog](/blog) for more on how these seeds are grown, harvested, and used."
+          "The same seeds celebrated at these local festivals are the ones that end up in export containers bound for snack brands and distributors abroad. Our [361](/products/361-series), [363](/products/363-series), and [Tongqing No.6](/products/tq6-series) series pages cover the specific grades that come out of this region, and our [About](/about) page covers XingYi Trading's own history operating out of Bayannur since 2014. For sourcing inquiries, [request a quote](/contact#quote-form) directly, or browse [our blog](/blog) for more on how these seeds are grown, harvested, and used. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3562,7 +4160,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Beyond snacking, sunflower seeds are a valuable raw material for the beauty industry, and it's an ingredient with real, well-documented dermatological research behind it, not just marketing appeal. Worth noting upfront: the oil used in cosmetic formulations is typically pressed from oil-type sunflower cultivars grown specifically for oil content. That's a different crop from the confectionery, in-shell [361, 363, and Tongqing No.6](/products) seeds XingYi Trading exports for snacking, retail, and food-service use, this article covers the industry and the ingredient generally, not a product XingYi supplies. See our [full breakdown of the confectionery-vs-oil-type distinction](/blog/confectionery-vs-oil-type-sunflower-seeds) for more on why the two aren't interchangeable from a sourcing standpoint."
+          "Sunflower oil and ground seed hulls are both used in cosmetics. The oil is pressed from oil-type cultivars, a different crop from the in-shell confection seed XingYi Trading exports, so this article covers the ingredient generally and not a product we supply. Our guide to [confectionery versus oil-type seed](/blog/confectionery-vs-oil-type-sunflower-seeds) explains why the two are not interchangeable."
         ]
       },
       {
@@ -3582,8 +4180,8 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Is Sunflower Seed Oil Used in Skincare and Exfoliation?",
         "body": [
-          "Linoleic acid supports hydration, vitamin E offers anti-aging properties, oleic acid supports the skin barrier, and B-complex vitamins provide soothing effects. A controlled study cited in [cosmetic ingredient safety documentation](https://www.cir-safety.org/ingredient/helianthus-annuus-sunflower-seed-oil) found that sunflower seed oil helped preserve skin barrier integrity and reduce water loss, and the ingredient (listed as Helianthus Annuus Seed Oil under INCI naming) has been reviewed and confirmed safe for cosmetic use by the Cosmetic Ingredient Review Expert Panel.",
-          "Ground sunflower seeds are also used as a biodegradable alternative to plastic microbeads, offering gentle exfoliation without the environmental cost. That distinction matters more than it used to: the [FDA's Microbead-Free Waters Act](https://www.fda.gov/cosmetics/cosmetics-laws-regulations/microbead-free-waters-act-faqs) has prohibited plastic microbeads in rinse-off cosmetics in the United States since 2017, which has pushed formulators toward natural exfoliants like ground seed hulls as a direct replacement."
+          "Linoleic acid supports hydration, vitamin E offers anti-aging properties, oleic acid supports the skin barrier, and B-complex vitamins provide soothing effects. In ingredient lists the oil appears under its INCI name, Helianthus Annuus Seed Oil.",
+          "Ground sunflower seeds are also used as a biodegradable alternative to plastic microbeads, offering gentle exfoliation without the environmental cost. That distinction matters more than it used to: the US Microbead-Free Waters Act has prohibited plastic microbeads in rinse-off cosmetics in the United States since 2017, which has pushed formulators toward natural exfoliants like ground seed hulls as a direct replacement."
         ]
       },
       {
@@ -3607,7 +4205,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Does the Research Support Sunflower Seed Oil's Hair Care Claims?",
         "body": [
-          "Vitamin E and fatty acids give sunflower seed oil natural conditioning properties, while its light texture means it absorbs without weighing hair down. The antioxidant mechanism has some real research behind it: vitamin E helps counter oxidative stress in the scalp, a factor researchers have linked to hair thinning, and a clinical trial published in [Tropical Life Sciences Research](https://pubmed.ncbi.nlm.nih.gov/24575202/) found that participants taking a vitamin-E-family supplement (tocotrienols) over eight months saw a meaningfully higher hair count than a placebo group.",
+          "Vitamin E and fatty acids give sunflower seed oil natural conditioning properties, while its light texture means it absorbs without weighing hair down. The antioxidant mechanism has some real research behind it: vitamin E helps counter oxidative stress in the scalp, a factor researchers have linked to hair thinning.",
           "That study used an oral supplement rather than a topical oil, so the mechanism, reducing oxidative stress, is the relevant takeaway rather than a direct claim about scalp application. Sunflower seed oil sits in the same general category as argan or jojoba oil for hair use, a light, non-comedogenic carrier oil rather than a heavy sealant like coconut oil."
         ]
       },
@@ -3637,9 +4235,22 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Should a Brand Source an Oil Ingredient?",
+        "body": [
+          "A cosmetic brand buying sunflower oil should ask the oil supplier for the ingredient's INCI name, a written specification, a certificate of analysis for the lot and the documents its market requires for cosmetic raw materials. The oil is a different product from the whole seeds we export, so the questions go to a supplier of oil and not to a seed exporter.",
+          "Ask also what grade the oil is, how it was refined or pressed, and how it is packed and stored, since these affect stability. Treat marketing claims about hair or skin results with caution: this article states only what the sources support, and it leaves out claims that lack reliable evidence."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This article describes the ingredient in general terms and is not a formulation or regulatory guide. Claims about skin or hair results need evidence for your own product and must follow the rules of your market."
+        ]
+      },
+      {
         "heading": "Looking for Whole Sunflower Seeds Instead of Oil?",
         "body": [
-          "XingYi Trading doesn't process or supply sunflower oil, we export whole, in-shell confectionery sunflower seeds. If your business is sourcing whole seeds for snacking, retail, or food-service use rather than an oil ingredient, browse our [361, 363, and Tongqing No.6](/products) series, or [request samples (the buyer pays shipping)](/contact#quote-form) directly."
+          "XingYi Trading doesn't process or supply sunflower oil, we export whole, in-shell confectionery sunflower seeds. If your business is sourcing whole seeds for snacking, retail, or food-service use rather than an oil ingredient, browse our [361, 363, and Tongqing No.6](/products) series, or [request samples (the buyer pays shipping)](/contact#quote-form) directly. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3693,7 +4304,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Food Safety Precautions Apply to Garlic-in-Oil Pesto?",
         "body": [
-          "Because this pesto combines raw garlic with oil in a low-acid mixture, it needs the same food-safety handling as any garlic-in-oil preparation. According to [USDA food safety guidance](https://ask.usda.gov/s/article/Can-you-get-botulism-from-garlic-in-oil), garlic-in-oil mixtures should be refrigerated and used within about a week, since low-oxygen, low-acid conditions at room temperature can support the growth of Clostridium botulinum.",
+          "Because this pesto combines raw garlic with oil in a low-acid mixture, it needs the same food-safety handling as any garlic-in-oil preparation. Garlic-in-oil mixtures are a known botulism risk at room temperature, because low-oxygen, low-acid conditions can support Clostridium botulinum, so keep pesto refrigerated and use it promptly.",
           "Refrigerated in an airtight container, the pesto keeps about a week. Freezing in small batches is the safer option for longer storage, up to three months, with a layer of oil on top to help preserve freshness."
         ]
       },
@@ -3718,8 +4329,8 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Is Sunflower Seed Butter a Genuine Nut-Free Alternative?",
         "body": [
-          "Yes, sunflower seed butter contains no tree nuts or peanuts, which is why it has become a standard substitute in nut-free schools and households. Food allergies affect a meaningful share of children: the [CDC's most recent data](https://www.cdc.gov/nchs/products/databriefs/db546.htm) puts diagnosed food allergies at around 5% of children in the United States, with peanut and tree-nut allergies among the most common.",
-          "It holds up nutritionally, too. A nutritional comparison published in a peer-reviewed [sensory and consumer analysis of sunflower seed butter](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12111572/) found it holds its own against nut butters on multiple minerals, alongside its well-established vitamin E and healthy fat content."
+          "Yes, sunflower seed butter contains no tree nuts or peanuts, which is why it has become a standard substitute in nut-free schools and households.",
+          "It holds up nutritionally, too."
         ]
       },
       {
@@ -3742,9 +4353,29 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Do the USDA Records Say About Seed Butter?",
+        "body": [
+          "USDA lists sunflower seed butter without salt at 617 kcal and 17.3 g of protein per 100 g, against 584 kcal and 20.8 g for dried kernels, so the butter is a little denser in energy and lower in protein ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)). The salted record carries 331 mg of sodium per 100 g against 3 mg without salt.",
+          "That difference matters for a recipe. If you add salt to a homemade batch, measure it, and remember that a pesto with cheese adds sodium of its own. These are database records for generic products and not for any particular recipe, so a brand selling a packaged version has to test or calculate its own label values."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The recipes are for home use. A packaged pesto or seed butter needs its own shelf-life testing, allergen review and labeling, and USDA records are reference values for generic products."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/) - cited for: USDA nutrient data. Checked 2026-10-24.",
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - cited for: USDA FoodData Central. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Where Can You Source 363 Series or Tongqing No.6 for Product Development?",
         "body": [
-          "Food brands developing a packaged pesto, seed butter, or similar product for retail or nut-free school programs can see our [363 Series](/products/363-series) and [Tongqing No.6](/products/tq6-series) pages (we supply in-shell seed, which a brand would dehull itself), or [request samples (the buyer pays shipping)](/contact#quote-form) to test which kernel roasts and blends best for their formulation. For more ways to cook with whole seeds, see our [complete cooking guide](/blog/sunflower-seeds-recipes)."
+          "Food brands developing a packaged pesto, seed butter, or similar product for retail or nut-free school programs can see our [363 Series](/products/363-series) and [Tongqing No.6](/products/tq6-series) pages (we supply in-shell seed, which a brand would dehull itself), or [request samples (the buyer pays shipping)](/contact#quote-form) to test which kernel roasts and blends best for their formulation. For more ways to cook with whole seeds, see our [complete cooking guide](/blog/sunflower-seeds-recipes). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3811,7 +4442,7 @@ export const blogPosts: BlogPost[] = [
         },
         "body": [
           "Sunflower seed oil, typically pressed from oil-type sunflower cultivars grown specifically for oil content, a different crop from the confectionery, in-shell seeds we export, is one of the more versatile oils in the kitchen thanks to its mild flavor and high smoke point. See our [full breakdown of the confectionery-vs-oil-type distinction](/blog/confectionery-vs-oil-type-sunflower-seeds) for why the two aren't interchangeable from a sourcing standpoint.",
-          "Refined sunflower oil has a considerably higher smoke point than unrefined, cold-pressed versions, because refining removes the free fatty acids and impurities that break down first under heat, see the comparison in this [smoke point reference for cooking oils](https://en.wikipedia.org/wiki/Template:Smoke_point_of_cooking_oils). In practice, refined oil is the better choice for stir-frying, deep frying, and roasting, while an unrefined, cold-pressed oil is better reserved for dressings and finishing, where its lower heat tolerance doesn't matter and its fuller flavor comes through."
+          "Refined sunflower oil has a considerably higher smoke point than unrefined, cold-pressed versions, because refining removes impurities that break down first under heat. In practice, refined oil is the better choice for stir-frying, deep frying, and roasting, while an unrefined, cold-pressed oil is better reserved for dressings and finishing, where its lower heat tolerance doesn't matter and its fuller flavor comes through."
         ]
       },
       {
@@ -3835,7 +4466,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Toasting deepens the flavor of sunflower seeds before they go on a salad."
         },
         "body": [
-          "Toast seeds at 350°F for 5-10 minutes, stirring occasionally, to deepen flavor, a similar low-heat approach to the one in [this roasted sunflower seed and seasoning guide](https://daniellewalker.com/roasted-sunflower-seeds-more-seasoning-blend-recipes/), and start with 1-2 tablespoons per serving. A handful of sunflower seeds does more for a salad than most toppings, texture, nutrition, and flavor all in one addition.",
+          "Toast seeds in a shallow pan at 300°F (149°C) for 10 to 15 minutes, stirring occasionally ([National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/)), and start with 1-2 tablespoons per serving. A handful of sunflower seeds does more for a salad than most toppings, texture, nutrition, and flavor all in one addition.",
           "Kernel size changes how a seed reads on a plate as much as it changes texture: [Tongqing No.6 (TQ6)](/products/tq6-series) has a noticeably larger kernel that works well as a visible, standalone garnish rather than mixed through greens. A kale Caesar with toasted seeds, a Mediterranean quinoa salad, and a roasted beet salad are three easy places to start."
         ]
       },
@@ -3864,9 +4495,30 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "How Do You Roast and Season Seeds for a Recipe?",
+        "body": [
+          "Roast in a shallow pan at 300°F (149°C) for 10 to 15 minutes, stirring occasionally, as the University of Georgia's [National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) advises. Check early, because small seeds cook faster than large ones and hot seeds keep cooking after they leave the oven.",
+          "Season after roasting if you want to control sodium. USDA lists dry roasted kernels without salt at 1 mg of sodium per 28 g and the salted record at 183 mg ([USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients), scaled to 28 g). Since sodium is about 39% of the weight of table salt, that salted figure corresponds to roughly 0.5 g of salt per serving (calculated), a useful target if you season at home."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The recipes are general guidance and the roasting figure comes from one home-preservation source. Nutrient values are USDA reference records and not test results for any product, and allergy or dietary needs should be checked for every ingredient you add."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/) - cited for: USDA FoodData Central. Checked 2026-10-24.",
+          "[nchfp.uga.edu](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) - cited for: National Center for Home Food Preservation. Checked 2026-10-24.",
+          "[fdc.nal.usda.gov](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - cited for: USDA FoodData Central. Checked 2026-10-24."
+        ]
+      },
+      {
         "heading": "Where Can You Source Sunflower Seeds for Recipe Development or Retail?",
         "body": [
-          "Food brands and product developers testing recipes at scale, whether for a retail snack line, a food-service application, or a private-label product, can [request samples (the buyer pays shipping)](/contact#quote-form) across all three whole-seed series to find the right fit before committing to a bulk order. For a deeper dive into two specific recipes, see our guide to [sunflower seed pesto and seed butter](/blog/sunflower-seed-pesto-and-seed-butter)."
+          "Food brands and product developers testing recipes at scale, whether for a retail snack line, a food-service application, or a private-label product, can [request samples (the buyer pays shipping)](/contact#quote-form) across all three whole-seed series to find the right fit before committing to a bulk order. For a deeper dive into two specific recipes, see our guide to [sunflower seed pesto and seed butter](/blog/sunflower-seed-pesto-and-seed-butter). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
