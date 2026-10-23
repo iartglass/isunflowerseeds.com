@@ -46,6 +46,210 @@ export const blogCategories = [
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "bulk-sunflower-seeds-buyers-guide",
+    title: "Bulk Sunflower Seeds: The Complete Buyer's Guide to Series, Packaging, Shipping and Documents",
+    seoTitle: "Bulk Sunflower Seeds: A Complete Buyer's Guide",
+    seoDescription: "Buy bulk sunflower seeds from China: compare 3 series, 25 kg and 50 kg bags, FCL vs LCL, FOB vs CIF, and the documents to confirm before you pay.",
+    excerpt: "How to buy bulk confectionery sunflower seeds from China: which series to specify, how seeds are packed and shipped, which Incoterm fits, and which documents to confirm before you pay.",
+    category: "Importing & Trade",
+    date: "2026-12-15",
+    author: "James Feng",
+    image: "/images/kie-bulk-hero.webp",
+    relatedSeries: [
+      "361-series",
+      "363-series",
+      "tq6-series"
+    ],
+    sections: [
+      {
+        "body": [
+          "To buy sunflower seeds in bulk from China, specify the series (361, 363 or Tongqing No.6) and the bag format. The standard export sacks are 25 kg and 50 kg PP woven bags. Next, name your destination port, then choose full or partial container shipping and an Incoterm such as FOB. Finally, confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026).",
+          "A first bulk order goes wrong when the buyer treats it as a price comparison. The decisions that change your landed cost and your clearance risk are the series, the packaging, the shipping mode, the Incoterm and the paperwork. This guide walks through each one in the order you will face them, and links to the detailed guides where a topic needs more depth."
+        ]
+      },
+      {
+        "heading": "What Are the Key Numbers?",
+        "list": [
+          "Bulk sunflower seeds are classified under HS code 1206, \"Sunflower seeds, whether or not broken\" ([Flexport HS reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
+          "Incoterms are 11 rules issued by the International Chamber of Commerce that set who bears cost and risk in an international sale ([trade.gov](https://www.trade.gov/know-your-incoterms)).",
+          "There is no universal volume at which a full container beats a shared one, so quote both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "XingYi Trading runs 9 production lines with up to 300 tons of daily output (XingYi Trading company data, 2026).",
+          "Two documents most often hold up clearance: the phytosanitary certificate and the certificate of origin. Government bodies issue both on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
+        ]
+      },
+      {
+        "heading": "What Do the Key Terms Mean?",
+        "body": [
+          "**Bulk sunflower seeds** are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags. Buyers use them for repacking, private label or distribution rather than retail packs.",
+          "**Minimum order quantity (MOQ)** is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
+          "An **Incoterm** is a standard trade term that splits cost and risk between seller and buyer. **FOB (Free on Board)** is an Incoterm that puts the handover at the port of loading. **CIF (Cost, Insurance and Freight)** is an Incoterm under which the seller arranges freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
+        ]
+      },
+      {
+        "heading": "What Should You Specify When Ordering Bulk Sunflower Seeds?",
+        "image": {
+          "src": "/images/product-grading-caliper.jpg",
+          "alt": "Calipers measuring the width of in-shell sunflower seeds during size grading",
+          "caption": "Size grading with calipers: confirm the kernel and shell size you need before quoting. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed. They pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
+          "Then write down the grade details you will hold the supplier to: moisture, purity and size. Our guides to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards) and [common seed defects](/blog/sunflower-seed-defects-quality-inspection) list what to ask for."
+        ],
+        "table": {
+          "headers": [
+            "Series",
+            "Positioning",
+            "Typical use"
+          ],
+          "rows": [
+            [
+              "[361 Series](/products/361-series)",
+              "General-purpose, volume-friendly grade with plump, aromatic kernels",
+              "Snacking, baking, garnishing, cost-optimized private label"
+            ],
+            [
+              "[363 Series](/products/363-series)",
+              "Premium raw grade, organically grown and pesticide-free",
+              "Branded and health-focused retail lines"
+            ],
+            [
+              "[Tongqing No.6](/products/tq6-series)",
+              "Named cultivar with a larger kernel and richer flavor",
+              "Premium and large-kernel product lines"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Are Bulk Sunflower Seeds Packed?",
+        "image": {
+          "src": "/images/packaging-worker.jpg",
+          "alt": "Worker filling a PP woven sack with sunflower seeds at an automated bagging station",
+          "caption": "Automated bagging into PP woven sacks. Photo: XingYi Trading facility."
+        },
+        "body": [
+          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment. Laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
+          "Private-label printing is generally possible, but minimums, artwork lead times and cost vary by order, so confirm them in writing. See [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) and vacuum-sealed vs standard bags."
+        ]
+      },
+      {
+        "heading": "Should You Ship a Full Container or a Shared One?",
+        "body": [
+          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. No fixed volume separates the two. One freight source states there is no universal threshold at which FCL becomes cheaper, so it advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
+          "For this reason, supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
+        ]
+      },
+      {
+        "heading": "Which Incoterm Should You Choose for a First Order?",
+        "body": [
+          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. In contrast, CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
+          "Whichever you pick, compare quotes on the same term. Our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) explains what moves the price."
+        ]
+      },
+      {
+        "heading": "What Documents Does a Bulk Shipment Need?",
+        "body": [
+          "Confirm the document list before production, not after the container is loaded. The table covers the documents that most often decide whether cargo clears on time."
+        ],
+        "table": {
+          "headers": [
+            "Document",
+            "What it does",
+            "Where to read more"
+          ],
+          "rows": [
+            [
+              "Phytosanitary certificate",
+              "Attests that plant products are inspected and meet the importing country's pest requirements ([USDA APHIS](https://www.aphis.usda.gov/plant-exports/certification))",
+              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
+            ],
+            [
+              "Certificate of origin",
+              "States the country where the goods were produced",
+              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
+            ],
+            [
+              "HS code on customs paperwork",
+              "Classifies the goods as HS 1206 for duty and declaration",
+              "[HS codes and export documents](/blog/sunflower-seed-hs-codes-export-documentation)"
+            ],
+            [
+              "FDA Prior Notice (US-bound food)",
+              "Must be filed with FDA before the shipment arrives ([FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods))",
+              "[FDA filing guide](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Do You Verify a Supplier Before Paying?",
+        "body": [
+          "First, ask for the certifications the supplier holds. Then request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion (third-party inspection guide).",
+          "Our checklist of questions to ask a supplier and the comparison of buying direct versus through a trading company cover the rest."
+        ]
+      },
+      {
+        "heading": "What Does the Ordering Process Look Like?",
+        "image": {
+          "src": "/images/bulk-order-process.svg",
+          "alt": "Four-step bulk order process: request a quote, review samples, confirm order terms, production and shipment",
+          "caption": "The four-step order process as run by XingYi Trading (XingYi Trading company data, 2026)."
+        },
+        "body": [
+          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. In practice, put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
+        ]
+      },
+      {
+        "heading": "Where Do These Numbers Come From?",
+        "list": [
+          "[Flexport: HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the tariff heading and statistical subheadings for sunflower seeds. Checked October 2026.",
+          "[trade.gov: Know your Incoterms](https://www.trade.gov/know-your-incoterms) - what Incoterms are and who issues them. Checked October 2026.",
+          "[iContainers: LCL vs FCL](https://www.icontainers.com/help/lcl-vs-fcl/) - how to compare shared and full-container shipping. Checked October 2026.",
+          "[USDA APHIS: phytosanitary certification](https://www.aphis.usda.gov/plant-exports/certification) - what a phytosanitary certificate attests. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Is the Minimum Order for Bulk Sunflower Seeds?",
+        "body": [
+          "It depends on the series, packaging and container choice, and some suppliers treat MOQ as a starting point for negotiation. State your target volume and destination in the quote request and the supplier will confirm what is possible. See [MOQ explained](/blog/sunflower-seed-moq-explained)."
+        ]
+      },
+      {
+        "heading": "Can You Get Private-Label Packaging on a Bulk Order?",
+        "body": [
+          "Private-label printing and custom bag specifications are generally available, with minimums and lead times that vary by order. Send your bag size, branding and volume with the quote request so they can be confirmed together."
+        ]
+      },
+      {
+        "heading": "Which Series Suits a First Order?",
+        "body": [
+          "Pick by end use: 361 for volume and cost-optimized lines, 363 for premium raw and health-focused retail, and Tongqing No.6 for larger-kernel appeal. Request samples of two series if you are undecided. See the [three-series comparison](/blog/361-vs-363-vs-tongqing-no6-comparison)."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This guide describes how bulk orders of in-shell confection seed are usually specified, packed and shipped. It does not replace a quote, a written specification or advice from your customs broker, and figures taken from other sources describe those sources, not any particular lot."
+        ]
+      },
+      {
+        "heading": "Request a Bulk Quote",
+        "body": [
+          "[Request a quote](/contact#quote-form) with your series, target volume, bag format and destination port, and we will confirm specifications and shipping options for your order. Product details are on our [products page](/products)."
+        ]
+      },
+      {
+        "heading": "Related Reading",
+        "list": [
+          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)",
+          "How to write an RFQ for bulk sunflower seeds",
+          "T/T vs letter of credit for sunflower seeds"
+        ]
+      }
+    ],
+  },
+  {
     slug: "are-sunflower-seeds-good-for-you",
     title: "Are Sunflower Seeds Good for You? What a 28 g Serving Provides, and Where to Be Careful",
     seoTitle: "Are Sunflower Seeds Good for You? USDA Data",
@@ -90,7 +294,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-good-1.webp",
           "alt": "Shelled sunflower kernels weighed on a kitchen scale",
-          "caption": "A single measured serving. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: A single measured serving. AI-generated image, not a product photo."
         },
         "body": [
           "The table scales the USDA record for dried sunflower seed kernels (FDC ID 170562) to a 28 g serving. Percent Daily Value is shown only where this guide has the FDA reference amount, and each row names its source."
@@ -226,7 +430,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-good-2.webp",
           "alt": "A small scoop of sunflower kernels as a portion",
-          "caption": "Portion size matters. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Portion size matters. AI-generated image, not a product photo."
         }
       },
       {
@@ -238,10 +442,10 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - nutrient values for dried sunflower seed kernels (FDC ID 170562).",
-          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts used for percent Daily Value.",
-          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens under US law.",
-          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens and how they are emphasised."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - nutrient values for dried sunflower seed kernels (FDC ID 170562). Checked October 2026.",
+          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts used for percent Daily Value. Checked October 2026.",
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens under US law. Checked October 2026.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens and how they are emphasised. Checked October 2026."
         ]
       },
       {
@@ -260,12 +464,19 @@ export const blogPosts: BlogPost[] = [
         "heading": "Where Do the Numbers Come From?",
         "body": [
           "Every nutrient value is the USDA FoodData Central record 'Seeds, sunflower seed kernels, dried' ([USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients)), multiplied by 0.28 to give 28 g. Percent Daily Value uses the FDA reference amounts ([FDA](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)). Your product's label is the final authority."
+        ],
+        "list": []
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The figures describe food composition from USDA reference records and are not medical advice. Anyone with a medical condition, an allergy or a diet set by a clinician should follow that clinician's advice, and the numbers do not describe any particular brand."
         ]
       },
       {
         "heading": "Buying Sunflower Seeds for a Food Business",
         "body": [
-          "If you source seeds for a snack brand, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form)."
+          "If you source seeds for a snack brand, read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) or [request a quote](/contact#quote-form). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       },
       {
@@ -274,204 +485,6 @@ export const blogPosts: BlogPost[] = [
           "[Sunflower seed nutrition benefits](/blog/sunflower-seed-nutrition-benefits)",
           "[How long do sunflower seeds last?](/blog/sunflower-seed-shelf-life)",
           "[Raw vs roasted sunflower seeds](/blog/raw-vs-roasted-sunflower-seeds)"
-        ]
-      }
-    ],
-  },
-  {
-    slug: "bulk-sunflower-seeds-buyers-guide",
-    title: "Bulk Sunflower Seeds: The Complete Buyer's Guide to Series, Packaging, Shipping and Documents",
-    seoTitle: "Bulk Sunflower Seeds: A Complete Buyer's Guide",
-    seoDescription: "Buy bulk sunflower seeds from China: compare 3 series, 25 kg and 50 kg bags, FCL vs LCL, FOB vs CIF, and the documents to confirm before you pay.",
-    excerpt: "How to buy bulk confectionery sunflower seeds from China: which series to specify, how seeds are packed and shipped, which Incoterm fits, and which documents to confirm before you pay.",
-    category: "Importing & Trade",
-    date: "2026-12-15",
-    author: "James Feng",
-    image: "/images/kie-bulk-hero.webp",
-    relatedSeries: [
-      "361-series",
-      "363-series",
-      "tq6-series"
-    ],
-    sections: [
-      {
-        "body": [
-          "To buy sunflower seeds in bulk from China, specify the series (361, 363 or Tongqing No.6) and the bag format. The standard export sacks are 25 kg and 50 kg PP woven bags. Next, name your destination port, then choose full or partial container shipping and an Incoterm such as FOB. Finally, confirm the phytosanitary certificate and certificate of origin before production starts. XingYi Trading supplies in-shell confectionery seed from Bayannur, Inner Mongolia, through a 16-stage grading line (XingYi Trading company data, 2026).",
-          "A first bulk order goes wrong when the buyer treats it as a price comparison. The decisions that change your landed cost and your clearance risk are the series, the packaging, the shipping mode, the Incoterm and the paperwork. This guide walks through each one in the order you will face them, and links to the detailed guides where a topic needs more depth."
-        ]
-      },
-      {
-        "heading": "What Are the Key Numbers?",
-        "list": [
-          "Bulk sunflower seeds are classified under HS code 1206, \"Sunflower seeds, whether or not broken\" ([Flexport HS reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/)).",
-          "Incoterms are 11 rules issued by the International Chamber of Commerce that set who bears cost and risk in an international sale ([trade.gov](https://www.trade.gov/know-your-incoterms)).",
-          "There is no universal volume at which a full container beats a shared one, so quote both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
-          "XingYi Trading runs 9 production lines with up to 300 tons of daily output (XingYi Trading company data, 2026).",
-          "Two documents most often hold up clearance: the phytosanitary certificate and the certificate of origin. Government bodies issue both on their own schedule ([our documentation guide](/blog/phytosanitary-certificate-certificate-of-origin))."
-        ]
-      },
-      {
-        "heading": "What Do the Key Terms Mean?",
-        "body": [
-          "**Bulk sunflower seeds** are confectionery (in-shell, non-oil-type) sunflower seeds sold by the ton in sacks or bulk bags. Buyers use them for repacking, private label or distribution rather than retail packs.",
-          "**Minimum order quantity (MOQ)** is the smallest quantity a supplier will sell in one transaction. In bulk export it is often set around what fills a container efficiently ([MOQ explained](/blog/sunflower-seed-moq-explained)).",
-          "An **Incoterm** is a standard trade term that splits cost and risk between seller and buyer. **FOB (Free on Board)** is an Incoterm that puts the handover at the port of loading. **CIF (Cost, Insurance and Freight)** is an Incoterm under which the seller arranges freight and insurance to the destination port ([FOB vs CIF guide](/blog/incoterms-sunflower-seeds-fob-cif))."
-        ]
-      },
-      {
-        "heading": "What Should You Specify When Ordering Bulk Sunflower Seeds?",
-        "image": {
-          "src": "/images/product-grading-caliper.jpg",
-          "alt": "Calipers measuring the width of in-shell sunflower seeds during size grading",
-          "caption": "Size grading with calipers: confirm the kernel and shell size you need before quoting. Photo: XingYi Trading facility."
-        },
-        "body": [
-          "Start with the series, because it sets flavor, kernel size and price. All three series are in-shell, non-oil-type seed. They pass through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection (XingYi Trading company data, 2026).",
-          "Then write down the grade details you will hold the supplier to: moisture, purity and size. Our guides to [moisture and purity standards](/blog/sunflower-seed-moisture-content-purity-standards) and [common seed defects](/blog/sunflower-seed-defects-quality-inspection) list what to ask for."
-        ],
-        "table": {
-          "headers": [
-            "Series",
-            "Positioning",
-            "Typical use"
-          ],
-          "rows": [
-            [
-              "[361 Series](/products/361-series)",
-              "General-purpose, volume-friendly grade with plump, aromatic kernels",
-              "Snacking, baking, garnishing, cost-optimized private label"
-            ],
-            [
-              "[363 Series](/products/363-series)",
-              "Premium raw grade, organically grown and pesticide-free",
-              "Branded and health-focused retail lines"
-            ],
-            [
-              "[Tongqing No.6](/products/tq6-series)",
-              "Named cultivar with a larger kernel and richer flavor",
-              "Premium and large-kernel product lines"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "How Are Bulk Sunflower Seeds Packed?",
-        "image": {
-          "src": "/images/packaging-worker.jpg",
-          "alt": "Worker filling a PP woven sack with sunflower seeds at an automated bagging station",
-          "caption": "Automated bagging into PP woven sacks. Photo: XingYi Trading facility."
-        },
-        "body": [
-          "The standard export format is the PP (polypropylene) woven sack, most commonly 25 kg or 50 kg. Larger FIBC (jumbo) bags suit high-volume loads where the receiving site has handling equipment. Laminated or vacuum formats are used for retail-ready packs rather than raw bulk.",
-          "Private-label printing is generally possible, but minimums, artwork lead times and cost vary by order, so confirm them in writing. See [packaging options for bulk export](/blog/sunflower-seed-packaging-options-bulk-export) and [vacuum-sealed vs standard bags](/blog/vacuum-sealed-vs-standard-export-bags)."
-        ]
-      },
-      {
-        "heading": "Should You Ship a Full Container or a Shared One?",
-        "body": [
-          "FCL (full container load) gives your cargo a dedicated container, while LCL (less than container load) shares space with other shipments. No fixed volume separates the two. One freight source states there is no universal threshold at which FCL becomes cheaper, so it advises quoting both for larger consignments ([iContainers](https://www.icontainers.com/help/lcl-vs-fcl/)).",
-          "For this reason, supplier MOQs are usually tied to container-fill economics. A small LCL trial order costs more per unit than a full container, but it limits your first commitment. Our [container loading guide](/blog/container-loading-fcl-lcl-sunflower-seeds) covers the trade-off in more detail."
-        ]
-      },
-      {
-        "heading": "Which Incoterm Should You Choose for a First Order?",
-        "body": [
-          "Incoterms are published by the International Chamber of Commerce and define when risk of loss or damage passes from seller to buyer ([trade.gov](https://www.trade.gov/know-your-incoterms)). For a first order, FOB keeps the supplier's quote simple and lets you compare freight offers yourself. In contrast, CIF bundles freight and insurance into the supplier's price, which is easier to budget but harder to audit.",
-          "Whichever you pick, compare quotes on the same term. Our [FOB pricing guide](/blog/fob-pricing-sunflower-seeds) explains what moves the price."
-        ]
-      },
-      {
-        "heading": "What Documents Does a Bulk Shipment Need?",
-        "body": [
-          "Confirm the document list before production, not after the container is loaded. The table covers the documents that most often decide whether cargo clears on time."
-        ],
-        "table": {
-          "headers": [
-            "Document",
-            "What it does",
-            "Where to read more"
-          ],
-          "rows": [
-            [
-              "Phytosanitary certificate",
-              "Attests that plant products are inspected and meet the importing country's pest requirements ([USDA APHIS](https://www.aphis.usda.gov/plant-exports/certification))",
-              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
-            ],
-            [
-              "Certificate of origin",
-              "States the country where the goods were produced",
-              "[Documentation checklist](/blog/phytosanitary-certificate-certificate-of-origin)"
-            ],
-            [
-              "HS code on customs paperwork",
-              "Classifies the goods as HS 1206 for duty and declaration",
-              "[HS codes and export documents](/blog/sunflower-seed-hs-codes-export-documentation)"
-            ],
-            [
-              "FDA Prior Notice (US-bound food)",
-              "Must be filed with FDA before the shipment arrives ([FDA](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods))",
-              "[FDA filing guide](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods)"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "How Do You Verify a Supplier Before Paying?",
-        "body": [
-          "First, ask for the certifications the supplier holds. Then request a sample from the batch you will actually receive, and check that photos and facility claims match what you can verify independently. For larger orders, a paid pre-shipment inspection by an independent firm adds a second opinion ([third-party inspection guide](/blog/third-party-inspection-sunflower-seeds)).",
-          "Our checklist of [questions to ask a supplier](/blog/what-to-ask-sunflower-seed-supplier) and the comparison of [buying direct versus through a trading company](/compare) cover the rest."
-        ]
-      },
-      {
-        "heading": "What Does the Ordering Process Look Like?",
-        "image": {
-          "src": "/images/bulk-order-process.svg",
-          "alt": "Four-step bulk order process: request a quote, review samples, confirm order terms, production and shipment",
-          "caption": "The four-step order process as run by XingYi Trading (XingYi Trading company data, 2026)."
-        },
-        "body": [
-          "The process has four steps: request a quote, review samples, confirm order terms, then production and shipment. In practice, put the series, packaging, Incoterm and document list into the quote request so each later step starts from agreed specifics."
-        ]
-      },
-      {
-        "heading": "Where Do These Numbers Come From?",
-        "list": [
-          "[Flexport: HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the tariff heading and statistical subheadings for sunflower seeds.",
-          "[trade.gov: Know your Incoterms](https://www.trade.gov/know-your-incoterms) - what Incoterms are and who issues them.",
-          "[iContainers: LCL vs FCL](https://www.icontainers.com/help/lcl-vs-fcl/) - how to compare shared and full-container shipping.",
-          "[USDA APHIS: phytosanitary certification](https://www.aphis.usda.gov/plant-exports/certification) - what a phytosanitary certificate attests."
-        ]
-      },
-      {
-        "heading": "What Is the Minimum Order for Bulk Sunflower Seeds?",
-        "body": [
-          "It depends on the series, packaging and container choice, and some suppliers treat MOQ as a starting point for negotiation. State your target volume and destination in the quote request and the supplier will confirm what is possible. See [MOQ explained](/blog/sunflower-seed-moq-explained)."
-        ]
-      },
-      {
-        "heading": "Can You Get Private-Label Packaging on a Bulk Order?",
-        "body": [
-          "Private-label printing and custom bag specifications are generally available, with minimums and lead times that vary by order. Send your bag size, branding and volume with the quote request so they can be confirmed together."
-        ]
-      },
-      {
-        "heading": "Which Series Suits a First Order?",
-        "body": [
-          "Pick by end use: 361 for volume and cost-optimized lines, 363 for premium raw and health-focused retail, and Tongqing No.6 for larger-kernel appeal. Request samples of two series if you are undecided. See the [three-series comparison](/blog/361-vs-363-vs-tongqing-no6-comparison)."
-        ]
-      },
-      {
-        "heading": "Request a Bulk Quote",
-        "body": [
-          "[Request a quote](/contact#quote-form) with your series, target volume, bag format and destination port, and we will confirm specifications and shipping options for your order."
-        ]
-      },
-      {
-        "heading": "Related Reading",
-        "list": [
-          "[How to import sunflower seeds from China](/blog/how-to-import-sunflower-seeds-from-china)",
-          "[How to write an RFQ for bulk sunflower seeds](/blog/how-to-write-rfq-bulk-sunflower-seeds)",
-          "[T/T vs letter of credit for sunflower seeds](/blog/tt-vs-letter-of-credit-sunflower-seeds)"
         ]
       }
     ],
@@ -534,7 +547,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-inshell-2.webp",
           "alt": "A cup of in-shell seeds, the kernels from them and empty shells",
-          "caption": "Hulls are a large part of the weight. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Hulls are a large part of the weight. AI-generated image, not a product photo."
         }
       },
       {
@@ -595,7 +608,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-inshell-1.webp",
           "alt": "A large sack of in-shell seed beside a smaller sack of kernels",
-          "caption": "Same kernel, different freight. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Same kernel, different freight. AI-generated image, not a product photo."
         },
         "body": [
           "Freight is paid on the weight or volume you ship, so in-shell seed carries its hull to the destination. The table shows the effect with three illustrative kernel yields. The yields are invented for the arithmetic, and your own series and equipment will differ."
@@ -656,15 +669,15 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - portion weights and kernel energy (FDC ID 170562).",
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture averages and the kernel specification.",
-          "[Flexport HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the HS heading wording."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - portion weights and kernel energy (FDC ID 170562). Checked October 2026.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture averages and the kernel specification. Checked October 2026.",
+          "[Flexport HS code 1206](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the HS heading wording. Checked October 2026."
         ]
       },
       {
         "heading": "Ask Which Series Suits Your Product",
         "body": [
-          "[Request a quote](/contact#quote-form) and tell us whether you will sell the seed in the shell or dehull it. See the product pages for [361](/products/361-series), [363](/products/363-series) and [Tongqing No.6](/products/tq6-series)."
+          "[Request a quote](/contact#quote-form) and tell us whether you will sell the seed in the shell or dehull it. See the product pages for [361](/products/361-series), [363](/products/363-series) and [Tongqing No.6](/products/tq6-series). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -713,7 +726,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-plma-1.webp",
           "alt": "Plain retail pouches of sunflower seeds on a shelf",
-          "caption": "Store brand packs. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Store brand packs. AI-generated image, not a product photo."
         },
         "body": [
           "PLMA's release, based on Circana Unify+ data for the 52 weeks ending December 28, 2025, reports record store brand dollar sales and unit volume. Dollar sales rose a little over $9 billion, almost three times the growth rate of national brands, and unit volume rose by 434.3 million to 68.7 billion ([PLMA](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025))."
@@ -870,7 +883,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-plma-2.webp",
           "alt": "Blank packaging film and pouches",
-          "caption": "Packaging minimums. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Packaging minimums. AI-generated image, not a product photo."
         }
       },
       {
@@ -898,14 +911,14 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[PLMA release, 'US Private Label Industry Reached $282.8 Billion in Sales in 2025'](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025) - all store brand figures and category growth, from Circana Unify+ data.",
-          "The relative-share calculation is ours."
+          "[PLMA release, 'US Private Label Industry Reached $282.8 Billion in Sales in 2025'](https://www.plma.com/article/us-private-label-industry-reached-2828-billion-sales-2025) - all store brand figures and category growth, from Circana Unify+ data. Checked October 2026.",
+          "The relative-share calculation is ours. Checked October 2026."
         ]
       },
       {
         "heading": "Discuss a Private-Label Programme",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target pack size, destination and branding needs, and we will confirm what we can supply."
+          "[Request a quote](/contact#quote-form) with your target pack size, destination and branding needs, and we will confirm what we can supply. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -954,7 +967,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-butter-1.webp",
           "alt": "Seed butter jar beside the kernels it is made from",
-          "caption": "Butter and kernels. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Butter and kernels. AI-generated image, not a product photo."
         },
         "body": [
           "The table scales the USDA records to a 28 g serving. The records come from different samples, so small differences should not be read as the effect of processing."
@@ -1090,7 +1103,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-butter-2.webp",
           "alt": "Roasted kernels on a tray",
-          "caption": "Roasting before grinding. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Roasting before grinding. AI-generated image, not a product photo."
         }
       },
       {
@@ -1119,20 +1132,27 @@ export const blogPosts: BlogPost[] = [
         "heading": "Where Does XingYi Trading Fit?",
         "body": [
           "XingYi Trading supplies in-shell confection seed, not hulled kernels. A seed butter brand either buys kernels from a processor or dehulls in-shell seed itself, a choice we compare in our guide to [in-shell versus kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk). The kernel checklist is in our [kernel specification guide](/blog/sunflower-kernel-specification-sheet-quality-factors)."
-        ]
+        ],
+        "list": []
       },
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - SR Legacy records 170562, 170563, 170564, 170155, 168595 and 168604, read from the official download.",
-          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the sodium reference amount.",
-          "Serving-size arithmetic is ours."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - SR Legacy records 170562, 170563, 170564, 170155, 168595 and 168604, read from the official download. Checked October 2026.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the sodium reference amount. Checked October 2026.",
+          "Serving-size arithmetic is ours. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The nutrition values come from USDA records for generic products, not for a specific recipe. A seed butter maker has to test its own product, and ingredient, allergen and labeling rules differ by market."
         ]
       },
       {
         "heading": "Discuss Raw Material for Your Seed Butter",
         "body": [
-          "[Request a quote](/contact#quote-form) with your volume and requirements, and tell us whether you plan to dehull in-shell seed."
+          "[Request a quote](/contact#quote-form) with your volume and requirements, and tell us whether you plan to dehull in-shell seed. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1187,7 +1207,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-sideeffects-1.webp",
           "alt": "A large bowl of seeds beside a small cup",
-          "caption": "Portions add up. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Portions add up. AI-generated image, not a product photo."
         },
         "body": [
           "Seeds are small, so portions are easy to underestimate. The table scales USDA's dried kernel record to four portion sizes."
@@ -1298,7 +1318,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-sideeffects-2.webp",
           "alt": "A measuring cup of sunflower kernels",
-          "caption": "One cup of kernels. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: One cup of kernels. AI-generated image, not a product photo."
         }
       },
       {
@@ -1335,16 +1355,16 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - sunflower kernel records 170562, 170563 and 169418 (SR Legacy download).",
-          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium (2,300 mg) and fiber (28 g) reference amounts.",
-          "[EFSA-hosted cadmium table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the 0.50 mg/kg limit and the Finnish mean; older data.",
-          "Serving-size arithmetic is ours."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - sunflower kernel records 170562, 170563 and 169418 (SR Legacy download). Checked October 2026.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium (2,300 mg) and fiber (28 g) reference amounts. Checked October 2026.",
+          "[EFSA-hosted cadmium table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the 0.50 mg/kg limit and the Finnish mean; older data. Checked October 2026.",
+          "Serving-size arithmetic is ours. Checked October 2026."
         ]
       },
       {
         "heading": "Ask for Test Results With Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) and ask what contaminant and allergen documentation is available for your order."
+          "[Request a quote](/contact#quote-form) and ask what contaminant and allergen documentation is available for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1442,7 +1462,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-units-2.webp",
           "alt": "Two stacks of sacks of different sizes",
-          "caption": "Bag weights differ by unit. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Bag weights differ by unit. AI-generated image, not a product photo."
         }
       },
       {
@@ -1456,7 +1476,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-units-1.webp",
           "alt": "Two sacks of different sizes side by side",
-          "caption": "Different bag sizes, different units. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Different bag sizes, different units. AI-generated image, not a product photo."
         },
         "body": [
           "The table compares two invented quotes to show the effect. The numbers are illustrative only."
@@ -1567,14 +1587,20 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - exact definitions of the pound, short ton, long ton, metric ton and bushel.",
-          "All conversions and the invented price examples are our own arithmetic."
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - exact definitions of the pound, short ton, long ton, metric ton and bushel. Checked October 2026.",
+          "All conversions and the invented price examples are our own arithmetic. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The conversions are exact only for the unit definitions given from NIST Handbook 44. A real quote can use its own bag weights, tolerances or rounding, so confirm the unit and the basis in writing before comparing two prices."
         ]
       },
       {
         "heading": "Get a Quote With Clear Units",
         "body": [
-          "[Request a quote](/contact#quote-form) and tell us the unit you prefer. We will quote in metric tonnes with the bag weight and bags per container written out. See our guide on [writing an RFQ](/blog/how-to-write-rfq-bulk-sunflower-seeds)."
+          "[Request a quote](/contact#quote-form) and tell us the unit you prefer. We will quote in metric tonnes with the bag weight and bags per container written out. See our guide on [writing an RFQ](/blog/how-to-write-rfq-bulk-sunflower-seeds). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1761,7 +1787,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-pumpkin-1.webp",
           "alt": "Sunflower kernels beside pumpkin seeds",
-          "caption": "Two seeds, two profiles. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Two seeds, two profiles. AI-generated image, not a product photo."
         },
         "body": [
           "Pumpkin does, though the calorie gap is small. A 28 g serving of pumpkin kernels has about 157 kcal against 164 kcal for sunflower, a 4.3% difference. The carbohydrate gap is wider: 3.0 g against 5.6 g, roughly half as much (calculated from [USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients))."
@@ -1822,7 +1848,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-pumpkin-2.webp",
           "alt": "A jar of mixed sunflower and pumpkin seeds",
-          "caption": "Many brands use both. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Many brands use both. AI-generated image, not a product photo."
         }
       },
       {
@@ -1840,15 +1866,21 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562 (sunflower seed kernels, dried), 170556 (pumpkin and squash seed kernels, dried) and 170557 (roasted without salt), read from the official SR Legacy download.",
-          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts behind each percentage.",
-          "Calculations (28 g serving, ratios) are ours."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562 (sunflower seed kernels, dried), 170556 (pumpkin and squash seed kernels, dried) and 170557 (roasted without salt), read from the official SR Legacy download. Checked October 2026.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the reference amounts behind each percentage. Checked October 2026.",
+          "Calculations (28 g serving, ratios) are ours. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The comparison uses USDA reference records for dried kernels, so it describes the foods and not a specific product. Nutrient content claims on a pack follow the rules of the market where it is sold, and the figures are not health claims."
         ]
       },
       {
         "heading": "Looking for Sunflower Seeds for a Seed Mix?",
         "body": [
-          "XingYi Trading supplies sunflower seeds only, not pumpkin seeds. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "XingYi Trading supplies sunflower seeds only, not pumpkin seeds. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -1897,7 +1929,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-spec-1.webp",
           "alt": "Kernel samples on an inspection table",
-          "caption": "Checking kernel quality. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Checking kernel quality. AI-generated image, not a product photo."
         },
         "body": [
           "The table reproduces the factors in the order the NSA lists them, with the NSA's description of each."
@@ -2004,7 +2036,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-spec-2.webp",
           "alt": "Laboratory glassware next to a dish of kernels",
-          "caption": "Lot testing. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Lot testing. AI-generated image, not a product photo."
         }
       },
       {
@@ -2138,14 +2170,14 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Specifications Come From?",
         "list": [
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 'U.S. Sunflower Kernel Product Specifications' table (page 4).",
-          "Our advice on limits and methods is practical guidance, not part of the NSA document."
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 'U.S. Sunflower Kernel Product Specifications' table (page 4). Checked October 2026.",
+          "Our advice on limits and methods is practical guidance, not part of the NSA document. Checked October 2026."
         ]
       },
       {
         "heading": "Need In-Shell Seed Instead of Kernels?",
         "body": [
-          "XingYi Trading exports in-shell confection seed. [Request a quote](/contact#quote-form) if you need in-shell seed for your own dehulling, and read our guide to [in-shell versus kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk)."
+          "XingYi Trading exports in-shell confection seed. [Request a quote](/contact#quote-form) if you need in-shell seed for your own dehulling, and read our guide to [in-shell versus kernel buying](/blog/in-shell-vs-kernel-sunflower-seeds-bulk). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2197,7 +2229,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-cropq-2.webp",
           "alt": "Seed samples and a moisture meter on a lab bench",
-          "caption": "Sample testing. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Sample testing. AI-generated image, not a product photo."
         }
       },
       {
@@ -2268,7 +2300,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-cropq-1.webp",
           "alt": "A combine harvesting sunflowers",
-          "caption": "Harvest. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Harvest. AI-generated image, not a product photo."
         },
         "body": [
           "US confection production was 167 million pounds in 2021, 242 in 2022, 295 in 2023 and 199 in 2024 ([NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf)). Year-on-year that is +45%, +22% and -33% ([NSA](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf); calculated). The NSA links the 2024 decline to drought in several states and to damage from the red sunflower seed weevil in South Dakota."
@@ -2385,14 +2417,20 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture, test weight, foreign material, size and production, crop years 2020-2024.",
-          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% drying guidance."
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture, test weight, foreign material, size and production, crop years 2020-2024. Checked October 2026.",
+          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% drying guidance. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The report covers US confection samples for crop years 2020 to 2024. It does not describe seed grown in China, and an average hides the spread between lots, so use it as context for a specification, not as a substitute for testing your own lots."
         ]
       },
       {
         "heading": "Ask for Batch Test Results",
         "body": [
-          "[Request a quote](/contact#quote-form) and ask for moisture, size and foreign-material results for the batch you will receive."
+          "[Request a quote](/contact#quote-form) and ask for moisture, size and foreign-material results for the batch you will receive. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2588,7 +2626,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-grading-1.webp",
           "alt": "Three piles of sunflower seeds of different sizes",
-          "caption": "Size grades side by side. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Size grades side by side. AI-generated image, not a product photo."
         },
         "body": [
           "Size depends on variety, season and grading, so ask for a size line on each series you are considering rather than assuming one number fits all. See the [comparison of the 361, 363 and Tongqing No.6 series](/blog/361-vs-363-vs-tongqing-no6-comparison), or look at the product pages for [361](/products/361-series), [363](/products/363-series) and [Tongqing No.6](/products/tq6-series)."
@@ -2597,14 +2635,14 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - share over 20/64, foreign material and test weight, crop years 2020-2024 (United States crop).",
-          "Our calculation of 20/64 inch in millimetres uses 1 inch = 25.4 mm."
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - share over 20/64, foreign material and test weight, crop years 2020-2024 (United States crop). Checked October 2026.",
+          "Our calculation of 20/64 inch in millimetres uses 1 inch = 25.4 mm. Checked October 2026."
         ]
       },
       {
         "heading": "Ask for a Size Line on Your Quote",
         "body": [
-          "[Request a quote](/contact#quote-form) and tell us the size you need, in-shell or kernel. We will confirm what we can supply for your order."
+          "[Request a quote](/contact#quote-form) and tell us the size you need, in-shell or kernel. We will confirm what we can supply for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -2663,7 +2701,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-container-2.webp",
           "alt": "An empty shipping container with open doors",
-          "caption": "An empty container before loading. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: An empty container before loading. AI-generated image, not a product photo."
         }
       },
       {
@@ -2713,7 +2751,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-container-1.webp",
           "alt": "A shipping container partly loaded with bagged seeds",
-          "caption": "A loading plan leaves space. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: A loading plan leaves space. AI-generated image, not a product photo."
         },
         "body": [
           "Bagged cargo does not fill a box like grain poured into it. Bags leave gaps between them and the container walls, pallets use height, and some space is kept for ventilation and door clearance. These losses vary by load, so the table below is a sensitivity illustration, not an industry norm."
@@ -2792,15 +2830,15 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - test weights, crop years 2020-2024 (United States crop).",
-          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - pound and bushel definitions used for the conversion.",
-          "[DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container) and [BWS 40-foot dry specification](https://www.bws.net/toolbox/container-specifications/40-foot-dry) - container volumes and payloads, which vary by unit."
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - test weights, crop years 2020-2024 (United States crop). Checked October 2026.",
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - pound and bushel definitions used for the conversion. Checked October 2026.",
+          "[DSV container table](https://www.dsv.com/en-ae/our-solutions/modes-of-transport/sea-freight/shipping-container-dimensions/dry-container) and [BWS 40-foot dry specification](https://www.bws.net/toolbox/container-specifications/40-foot-dry) - container volumes and payloads, which vary by unit. Checked October 2026."
         ]
       },
       {
         "heading": "Plan Your Container Loading With Real Numbers",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target volume and destination, and we will confirm how many bags and tonnes fit in the container size you prefer. For the full buying process, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "[Request a quote](/contact#quote-form) with your target volume and destination, and we will confirm how many bags and tonnes fit in the container size you prefer. For the full buying process, see our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3056,7 +3094,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-blacksea-1.webp",
           "alt": "A cargo ship on a long sea voyage",
-          "caption": "Distance and freight. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Distance and freight. AI-generated image, not a product photo."
         }
       },
       {
@@ -3084,14 +3122,20 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. Importer-reported imports (flow M) by origin: Spain 2023, Germany 2023, Türkiye 2024.",
-          "Ratios and the product-mix explanation are our own calculation and inference."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. Importer-reported imports (flow M) by origin: Spain 2023, Germany 2023, Türkiye 2024. Checked October 2026.",
+          "Ratios and the product-mix explanation are our own calculation and inference. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "Declared customs values are averages over everything an importer brought in, and they mix seed types, grades and packaging. The gap between origins is a gap in declared value, not a measured gap in quality or in the price of the same product."
         ]
       },
       {
         "heading": "Compare Quotes on the Same Basis",
         "body": [
-          "[Request a quote](/contact#quote-form) with your required size and moisture, and we will state the Incoterm and the specification, so the price can be compared fairly."
+          "[Request a quote](/contact#quote-form) with your required size and moisture, and we will state the Incoterm and the specification, so the price can be compared fairly. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3262,7 +3306,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-whobuys-2.webp",
           "alt": "Sacks of seeds stacked on a quay",
-          "caption": "Ready for export. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Ready for export. AI-generated image, not a product photo."
         }
       },
       {
@@ -3288,7 +3332,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-whobuys-1.webp",
           "alt": "Container ships loading at a port",
-          "caption": "Export shipments. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Export shipments. AI-generated image, not a product photo."
         },
         "body": [
           "Ranking the same twelve destinations by volume in 2019 and 2024 shows how much the order moved."
@@ -3406,14 +3450,20 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) by partner, 2019-2024.",
-          "India-reported imports come from the same source. Multiples and shares are our own calculations."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) by partner, 2019-2024. Checked October 2026.",
+          "India-reported imports come from the same source. Multiples and shares are our own calculations. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The ranking is based on China-reported exports and shows where shipments were declared to go, not where the seed was finally sold. Re-exports, reporting differences between countries and the mix of seed types all affect the order."
         ]
       },
       {
         "heading": "Discuss Your Market With Us",
         "body": [
-          "[Request a quote](/contact#quote-form) and tell us your destination and product, and we will say whether we can supply it and on what documents."
+          "[Request a quote](/contact#quote-form) and tell us your destination and product, and we will say whether we can supply it and on what documents. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3509,7 +3559,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-sea-1.webp",
           "alt": "A Southeast Asian port with stacked containers",
-          "caption": "Regional ports. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Regional ports. AI-generated image, not a product photo."
         },
         "body": [
           "The table lists China-reported exports to the three destinations in kilotonnes for every year, with each destination's share of China's total in 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
@@ -3737,7 +3787,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-sea-2.webp",
           "alt": "A moisture meter by a sack of seeds in a humid warehouse",
-          "caption": "Humidity and seed moisture. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Humidity and seed moisture. AI-generated image, not a product photo."
         }
       },
       {
@@ -3783,14 +3833,20 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and importer-reported imports (flow M), 2019-2024.",
-          "Changes, shares and unit values are our own calculations."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and importer-reported imports (flow M), 2019-2024. Checked October 2026.",
+          "Changes, shares and unit values are our own calculations. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The figures are customs data for three countries and do not show product type, final buyer or price of a single grade. Import rules in each country are not covered here and must be confirmed locally."
         ]
       },
       {
         "heading": "Ask About Shipping to Southeast Asia",
         "body": [
-          "[Request a quote](/contact#quote-form) with your port and volume, and we will confirm the series and documents."
+          "[Request a quote](/contact#quote-form) with your port and volume, and we will confirm the series and documents. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -3997,7 +4053,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-mirror-1.webp",
           "alt": "Two stacks of trade documents compared",
-          "caption": "Two reports of one trade. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Two reports of one trade. AI-generated image, not a product photo."
         },
         "body": [
           "The usual causes are timing, because goods shipped in December arrive in January and fall in different years; transit and re-export, because seed shipped to one country may be recorded as arriving from another; valuation, because exporters report free on board and importers report cost, insurance and freight; and classification, because a lot may be coded under another heading on one side. These are general explanations, and the data do not say which applies to Türkiye."
@@ -4029,7 +4085,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-mirror-2.webp",
           "alt": "Different grades of seed in different bags",
-          "caption": "One average, many products. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: One average, many products. AI-generated image, not a product photo."
         }
       },
       {
@@ -4063,15 +4119,21 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and importer-reported imports, 2023 and 2024.",
-          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206.",
-          "Differences and shares are our own calculations."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and importer-reported imports, 2023 and 2024. Checked October 2026.",
+          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206. Checked October 2026.",
+          "Differences and shares are our own calculations. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The method works for HS 1206 annual data from UN Comtrade. Other databases, other years and other product codes have their own flags and revisions, and a gap between two reports is a prompt to ask questions, not proof of an error."
         ]
       },
       {
         "heading": "Use Data as Context, Then Ask for a Specification",
         "body": [
-          "[Request a quote](/contact#quote-form) and we will quote against your specification, since trade data describe the market but not your lot."
+          "[Request a quote](/contact#quote-form) and we will quote against your specification, since trade data describe the market but not your lot. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -4271,7 +4333,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-importers-2.webp",
           "alt": "Sunflower oil bottle beside sunflower seeds",
-          "caption": "Sunflower seed also goes to oil. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Sunflower seed also goes to oil. AI-generated image, not a product photo."
         }
       },
       {
@@ -4361,7 +4423,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-importers-1.webp",
           "alt": "Container ships near a busy harbour",
-          "caption": "Imports arrive by sea. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Imports arrive by sea. AI-generated image, not a product photo."
         },
         "body": [
           "Dividing customs value by net weight gives an average unit value. Among the top ten it ranged from about 0.48 USD per kg for Portugal to 1.40 USD per kg for France (calculated). Customs values are declared at import and may include freight and insurance, and they mix oilseed with confection seed, so they are not a price for any one product."
@@ -4452,14 +4514,14 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/) public preview API - HS 1206 imports, reporter-level annual totals, partner: world, 2023 and 2024, retrieved October 2026.",
-          "Ranking, shares, changes and unit values are our own calculations; the selection of reporting countries is ours."
+          "[UN Comtrade](https://comtradeplus.un.org/) public preview API - HS 1206 imports, reporter-level annual totals, partner: world, 2023 and 2024, retrieved October 2026. Checked October 2026.",
+          "Ranking, shares, changes and unit values are our own calculations; the selection of reporting countries is ours. Checked October 2026."
         ]
       },
       {
         "heading": "Selling Sunflower Seeds Into One of These Markets?",
         "body": [
-          "XingYi Trading exports in-shell confection sunflower seeds from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) and tell us your destination country, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "XingYi Trading exports in-shell confection sunflower seeds from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) and tell us your destination country, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -4514,7 +4576,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-usduty-1.webp",
           "alt": "Containers waiting for customs inspection",
-          "caption": "Customs clearance. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Customs clearance. AI-generated image, not a product photo."
         },
         "body": [
           "The schedule splits the heading into statistical suffixes so the government can count different uses separately."
@@ -4625,7 +4687,8 @@ export const blogPosts: BlogPost[] = [
               "4,081"
             ]
           ]
-        }
+        },
+        "list": []
       },
       {
         "heading": "How Big Is the Flow From China?",
@@ -4669,14 +4732,14 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-usduty-2.webp",
           "alt": "A food warehouse receiving dock",
-          "caption": "Importing food into the US involves more than duty. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Importing food into the US involves more than duty. AI-generated image, not a product photo."
         }
       },
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USITC Harmonized Tariff Schedule](https://hts.usitc.gov/) - HTS 1206.00.00 description, general rate (Free), column 2 rate (4.4 cents/kg) and statistical suffixes, retrieved through the USITC search interface on 16 October 2026.",
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. US-reported imports (flow M) by origin, 2019-2024."
+          "[USITC Harmonized Tariff Schedule](https://hts.usitc.gov/) - HTS 1206.00.00 description, general rate (Free), column 2 rate (4.4 cents/kg) and statistical suffixes, retrieved through the USITC search interface on 16 October 2026. Checked October 2026.",
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. US-reported imports (flow M) by origin, 2019-2024. Checked October 2026."
         ]
       },
       {
@@ -4785,13 +4848,19 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Would the Column 2 Rate Add to an Average Load?",
         "body": [
-          "At 4.4 cents per kilogram, the column 2 rate equals $44 per tonne. For a load of 9.7 tonnes, as estimated in our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft), that is $427 (calculated). Most importers face the general rate of Free, so this is only the size of the number, not a cost most buyers will pay."
+          "At 4.4 cents per kilogram, the column 2 rate equals $44 per tonne. For a load of 9.7 tonnes, as estimated in our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft), that is $427 (calculated). Most importers face the general rate of Free, so this is only the size of the number, not a cost an importer under the general rate will pay."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The duty rate shown is the rate in the schedule on the date we retrieved it, and additional duties on specific origins can apply outside it. This is general information and not customs advice, so confirm the rate and the ten-digit line with a customs broker before each order."
         ]
       },
       {
         "heading": "Ask About Shipping to the United States",
         "body": [
-          "[Request a quote](/contact#quote-form) and tell us your volume and the product you need, and we will tell you plainly whether we can supply it."
+          "[Request a quote](/contact#quote-form) and tell us your volume and the product you need, and we will tell you plainly whether we can supply it. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -4903,7 +4972,8 @@ export const blogPosts: BlogPost[] = [
         },
         "body": [
           "France is Spain's largest supplier by far: in 2024 it supplied 192 kt worth $115 million, against 35 kt and $73 million from China. China's volume is smaller but its value is second, because its seed is declared at about $2,097 per tonne ([UN Comtrade](https://comtradeplus.un.org/))."
-        ]
+        ],
+        "list": []
       },
       {
         "heading": "Where Does Germany's Seed Come From?",
@@ -4914,7 +4984,8 @@ export const blogPosts: BlogPost[] = [
         },
         "body": [
           "Germany's largest suppliers in 2024 by value were Bulgaria ($73 million), France ($50 million) and China ($26 million), with Austria and Hungary behind ([UN Comtrade](https://comtradeplus.un.org/)). China supplied 13.9 kt, about the same tonnage as in 2023, at a declared $1,897 per tonne."
-        ]
+        ],
+        "list": []
       },
       {
         "heading": "How Did Spain's Main Suppliers Change Over Three Years?",
@@ -4980,7 +5051,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-europe-1.webp",
           "alt": "Sample bags and blank documents on a desk",
-          "caption": "Specifications and documents. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Specifications and documents. AI-generated image, not a product photo."
         }
       },
       {
@@ -5022,9 +5093,9 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and Spain- and Germany-reported imports by origin, 2019-2024.",
-          "[FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens; [EFSA-hosted table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the cadmium level.",
-          "Unit values and comparisons are our own calculations."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports and Spain- and Germany-reported imports by origin, 2019-2024. Checked October 2026.",
+          "[FSAI](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the EU's 14 allergens; [EFSA-hosted table](https://www.efsa.europa.eu/sites/default/files/2023-07/a.-6.2-3-cadmium-in-flaxseed-products.pdf) - the cadmium level. Checked October 2026.",
+          "Unit values and comparisons are our own calculations. Checked October 2026."
         ]
       },
       {
@@ -5071,7 +5142,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Ask About Supplying Europe",
         "body": [
-          "[Request a quote](/contact#quote-form) and tell us the destination country, and we will confirm the documents and test results we can provide."
+          "[Request a quote](/contact#quote-form) and tell us the destination country, and we will confirm the documents and test results we can provide. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -5120,7 +5191,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-middleeast-1.webp",
           "alt": "Sunflower seeds on sale at a market stall",
-          "caption": "Regional demand. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Regional demand. AI-generated image, not a product photo."
         },
         "body": [
           "The table gives China-reported exports in kilotonnes for six destinations in the region from 2019 to 2024 ([UN Comtrade](https://comtradeplus.un.org/))."
@@ -5213,7 +5284,8 @@ export const blogPosts: BlogPost[] = [
         },
         "body": [
           "In 2023 the largest origins by volume were Ukraine (368 kt), Romania (206 kt) and Bulgaria (74 kt), with China at 30.2 kt. In 2024 Moldova led with 115 kt, followed by Romania, Ukraine and China at 33.1 kt ([UN Comtrade](https://comtradeplus.un.org/)). China's tonnage held up while the Black Sea origins fell, which is why its share rose."
-        ]
+        ],
+        "list": []
       },
       {
         "heading": "How Did Türkiye's Imports From Each Origin Change?",
@@ -5318,8 +5390,8 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and Türkiye-reported imports (flow M), by partner, 2019-2024.",
-          "Shares, changes and unit values are our own calculations; the 2024 fall in Türkiye's imports is reported, not explained."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) and Türkiye-reported imports (flow M), by partner, 2019-2024. Checked October 2026.",
+          "Shares, changes and unit values are our own calculations; the 2024 fall in Türkiye's imports is reported, not explained. Checked October 2026."
         ]
       },
       {
@@ -5433,9 +5505,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The data are customs records by partner country and do not show where seed is finally sold. This guide gives trade figures only. Sanctions, import conditions and documents for each destination must be checked separately before any shipment."
+        ]
+      },
+      {
         "heading": "Ask About Supply for Your Market",
         "body": [
-          "[Request a quote](/contact#quote-form) with your destination and series, and we will confirm documents and shipping options."
+          "[Request a quote](/contact#quote-form) with your destination and series, and we will confirm documents and shipping options. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -5619,7 +5697,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-cn-exports-1.webp",
           "alt": "A container lifted by a port crane",
-          "caption": "One container load. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: One container load. AI-generated image, not a product photo."
         }
       },
       {
@@ -5655,9 +5733,9 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) to the world and to each partner, net weight and primary value.",
-          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206.",
-          "Growth rates, shares and per-unit conversions are our own arithmetic."
+          "[UN Comtrade](https://comtradeplus.un.org/), HS 1206, annual data downloaded 16 October 2026. China-reported exports (flow X) to the world and to each partner, net weight and primary value. Checked October 2026.",
+          "[Flexport HS 1206 reference](https://www.flexport.com/data/hs-code/1206-sunflower-seeds-whether-or-not-broken/) - the scope of HS 1206. Checked October 2026.",
+          "Growth rates, shares and per-unit conversions are our own arithmetic. Checked October 2026."
         ]
       },
       {
@@ -5741,9 +5819,15 @@ export const blogPosts: BlogPost[] = [
         }
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The figures are customs data for all sunflower seed under HS 1206 as reported by China, six years long. They do not separate confection from oilseed, and an average value per tonne is not the price of any one grade."
+        ]
+      },
+      {
         "heading": "Ask for a Quote on Your Specification",
         "body": [
-          "[Request a quote](/contact#quote-form) with your series, volume, bag format and destination, and we will quote against your specification, not against an average. Read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) for the full process."
+          "[Request a quote](/contact#quote-form) with your series, volume, bag format and destination, and we will quote against your specification, not against an average. Read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide) for the full process. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -5791,7 +5875,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-supply-1.webp",
           "alt": "Dry sunflower heads in a parched field",
-          "caption": "Weather affects yield. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Weather affects yield. AI-generated image, not a product photo."
         },
         "body": [
           "The NSA reports US confection production of 167 million pounds in 2021, 242 in 2022, 295 in 2023 and 199 in 2024. It attributes the 2024 decline to drought in several states and to damage from the red sunflower seed weevil in South Dakota."
@@ -5873,11 +5957,12 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-supply-2.webp",
           "alt": "Containers waiting in a busy port",
-          "caption": "Port delays are a supply risk. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Port delays are a supply risk. AI-generated image, not a product photo."
         },
         "body": [
           "Even when the crop is large, shipping can delay it. Port congestion, container availability and holiday shutdowns all move delivery dates, and our guide to [Chinese New Year shipping](/blog/chinese-new-year-sunflower-seed-shipping) covers the best-known calendar gap. Freight rates change often, so ask for the validity period on every quote rather than treating the number as fixed."
-        ]
+        ],
+        "list": []
       },
       {
         "heading": "What Would a 33% Shortfall Mean for Your Order Book?",
@@ -5933,7 +6018,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-supply-3.webp",
           "alt": "Safety stock of bagged seeds in a warehouse",
-          "caption": "Safety stock. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Safety stock. AI-generated image, not a product photo."
         }
       },
       {
@@ -5961,8 +6046,8 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - confection and oil-type production for 2021-2024, and the drought and weevil explanation (United States crop).",
-          "Year-on-year changes are our calculation from those figures."
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - confection and oil-type production for 2021-2024, and the drought and weevil explanation (United States crop). Checked October 2026.",
+          "Year-on-year changes are our calculation from those figures. Checked October 2026."
         ]
       },
       {
@@ -6012,9 +6097,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The production figures are for the US crop over four years. They show how far one origin can swing and say nothing about the crop in China. The risk register is a generic starting point and has to be adapted to your volumes, contracts and lead times."
+        ]
+      },
+      {
         "heading": "Plan Your Supply Before the Next Season",
         "body": [
-          "[Request a quote](/contact#quote-form) with your annual volume and delivery windows, and we will discuss how to schedule your orders."
+          "[Request a quote](/contact#quote-form) with your annual volume and delivery windows, and we will discuss how to schedule your orders. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -6083,7 +6174,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-warehouse-1.webp",
           "alt": "Aeration fan and duct at a storage silo",
-          "caption": "Aeration moves air through stored seed. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Aeration moves air through stored seed. AI-generated image, not a product photo."
         }
       },
       {
@@ -6146,9 +6237,9 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% target, rebound example, aeration rate, hot spots and fibre fire risk.",
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 2024 nonoil moisture average.",
-          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - the pound definition used in the aeration conversion."
+          "[NSA harvesting and storage guide](https://www.sunflowernsa.com/growers/HarvestingStorage/) - the under-10% target, rebound example, aeration rate, hot spots and fibre fire risk. Checked October 2026.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - the 2024 nonoil moisture average. Checked October 2026.",
+          "[NIST Handbook 44](https://www.nist.gov/document/2026-nist-handbook-44-appendix-c) - the pound definition used in the aeration conversion. Checked October 2026."
         ]
       },
       {
@@ -6210,9 +6301,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The aeration and moisture guidance comes from US extension and industry sources and is converted to metric units here. It does not replace the instructions of your warehouse operator, local fire and safety rules, or testing of the stored seed."
+        ]
+      },
+      {
         "heading": "Plan Storage Before the Shipment Arrives",
         "body": [
-          "[Request a quote](/contact#quote-form) with your destination and storage conditions, and we will discuss packaging and moisture limits that suit them."
+          "[Request a quote](/contact#quote-form) with your destination and storage conditions, and we will discuss packaging and moisture limits that suit them. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -6262,7 +6359,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-macros-1.webp",
           "alt": "Sunflower kernels on a kitchen scale",
-          "caption": "Weighing a serving. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Weighing a serving. AI-generated image, not a product photo."
         },
         "body": [
           "The table scales each USDA record to 28 g. Values are for kernels, not seeds in the shell."
@@ -6412,14 +6509,14 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-macros-2.webp",
           "alt": "A measuring cup full of sunflower kernels",
-          "caption": "One cup of kernels. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: One cup of kernels. AI-generated image, not a product photo."
         }
       },
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562, 170563, 170564, 169418, 168593 and 168594 for sunflower seed kernels.",
-          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the 2,300 mg sodium reference amount."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170562/nutrients) - records 170562, 170563, 170564, 169418, 168593 and 168594 for sunflower seed kernels. Checked October 2026.",
+          "[FDA: Daily Value on nutrition labels](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - the 2,300 mg sodium reference amount. Checked October 2026."
         ]
       },
       {
@@ -6498,9 +6595,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The values are USDA reference records for generic kernels, not for a specific brand or recipe. A product label has to describe your own product, and the per-100 g figures do not apply to seeds still in the shell, where the hull is part of the weight."
+        ]
+      },
+      {
         "heading": "How Many Servings Fit in a 1 kg Bag?",
         "body": [
-          "A 1 kg bag holds about 36 servings of 28 g. At the USDA energy value of 584 kcal per 100 g, a kilogram of dried kernels carries about 5,840 kcal and 208 g of protein (calculated). The figures are for kernels, so the same calculation for seed in the shell would give fewer kernel calories per kilogram."
+          "A 1 kg bag holds about 36 servings of 28 g. At the USDA energy value of 584 kcal per 100 g, a kilogram of dried kernels carries about 5,840 kcal and 208 g of protein (calculated). The figures are for kernels, so the same calculation for seed in the shell would give fewer kernel calories per kilogram. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       },
       {
@@ -6558,7 +6661,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-allergen-1.webp",
           "alt": "Sunflower seeds, almonds, peanuts and sesame in separate dishes",
-          "caption": "Common seeds and nuts, kept apart. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Common seeds and nuts, kept apart. AI-generated image, not a product photo."
         },
         "body": [
           "No. FDA's list of nine major allergens does not include sunflower ([FDA](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies)). The law requires labels to identify the food source of every major allergen used to make the food, so a product made only from sunflower seeds needs no allergen statement for the seed itself."
@@ -6648,14 +6751,14 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-allergen-2.webp",
           "alt": "Blank food pouches awaiting labels",
-          "caption": "Label wording is agreed before printing. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Label wording is agreed before printing. AI-generated image, not a product photo."
         }
       },
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods.",
-          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised."
+          "[FDA: Food allergies](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) - the nine major allergens, the FASTER Act and the two accepted declaration methods. Checked October 2026.",
+          "[FSAI: Food information to consumers](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - the 14 EU allergens and how they must be emphasised. Checked October 2026."
         ]
       },
       {
@@ -6767,9 +6870,15 @@ export const blogPosts: BlogPost[] = [
         }
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This guide covers the US and EU lists only. Other markets have their own allergen lists and wording rules, the text is general information and not legal advice, and the importer or a regulatory adviser in the destination should confirm what applies."
+        ]
+      },
+      {
         "heading": "How Many Listed Allergens Could a Seed Mix Contain?",
         "body": [
-          "A mix of sunflower seeds with nuts, peanuts, sesame, wheat-based coating and milk chocolate could contain up to five US major allergens from the table above, with the seed itself contributing none. The count depends on the recipe, not on the seed, so the allergen statement has to be written from the finished product's ingredient list for each market."
+          "A mix of sunflower seeds with nuts, peanuts, sesame, wheat-based coating and milk chocolate could contain up to five US major allergens from the table above, with the seed itself contributing none. The count depends on the recipe, not on the seed, so the allergen statement has to be written from the finished product's ingredient list for each market. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       },
       {
@@ -7016,7 +7125,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-almonds-1.webp",
           "alt": "Equal spoonfuls of six seeds and nuts",
-          "caption": "Equal portions compared. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Equal portions compared. AI-generated image, not a product photo."
         },
         "body": [
           "Per 100 kcal, the order changes. Chia seeds give 7.1 g of fiber per 100 kcal, and hemp seeds, hulled give 5.7 g of protein. Sunflower kernels give 3.6 g of protein and 6.0 mg of vitamin E per 100 kcal, the highest vitamin E figure in the group (calculated from [USDA FoodData Central](https://fdc.nal.usda.gov/))."
@@ -7097,8 +7206,15 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-almonds-2.webp",
           "alt": "Almonds, peanuts and sesame in separate dishes",
-          "caption": "Listed allergens. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Listed allergens. AI-generated image, not a product photo."
         }
+      },
+      {
+        "heading": "How Do Sunflower Kernels and Almonds Differ Most?",
+        "body": [
+          "Sunflower kernels and almonds are the closest pair in the group on energy, at 584 and 579 kcal per 100 g in the USDA records. The differences are in the details. Sunflower kernels carry 1.4 times the vitamin E (35.2 against 25.6 mg) and 13 times the selenium (53 against 4.1 mcg), while almonds carry 1.5 times the fiber (12.5 against 8.6 g) and 3.4 times the calcium (269 against 78 mg) (calculated from USDA FoodData Central).",
+          "The choice also changes the labeling work. Almonds are tree nuts and need an allergen declaration in the US and EU, while sunflower seeds do not appear on either list. A brand that sells a nut-free product has a reason to prefer seeds, and a brand that wants more fiber has a reason to look at almonds, chia or flax."
+        ]
       },
       {
         "heading": "Which Food Should You Choose?",
@@ -7115,16 +7231,16 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (sunflower seed kernels, dried), 170567 (almonds), 170554 (chia seeds, dried), 169414 (flaxseed), 170150 (sesame seeds, whole, dried), 170148 (hemp seed, hulled), 172430 (peanuts, raw) and 170187 (walnuts, English), read from the official CSV download.",
-          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - fiber 28 g, protein 50 g, vitamin E 15 mg, magnesium 420 mg, zinc 11 mg, iron 18 mg, selenium 55 mcg and calcium 1,300 mg.",
-          "[FDA food allergies page](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) and [FSAI food information labelling](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - allergen lists.",
-          "Per-serving and per-100 kcal values are our own calculations from those records."
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (sunflower seed kernels, dried), 170567 (almonds), 170554 (chia seeds, dried), 169414 (flaxseed), 170150 (sesame seeds, whole, dried), 170148 (hemp seed, hulled), 172430 (peanuts, raw) and 170187 (walnuts, English), read from the official CSV download. Checked October 2026.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - fiber 28 g, protein 50 g, vitamin E 15 mg, magnesium 420 mg, zinc 11 mg, iron 18 mg, selenium 55 mcg and calcium 1,300 mg. Checked October 2026.",
+          "[FDA food allergies page](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies) and [FSAI food information labelling](https://www.fsai.ie/Business-Advice/Labelling/Food-Information-to-Consumers) - allergen lists. Checked October 2026.",
+          "Per-serving and per-100 kcal values are our own calculations from those records. Checked October 2026."
         ]
       },
       {
         "heading": "Looking for Sunflower Seeds for a Seed Mix or Snack Line?",
         "body": [
-          "XingYi Trading supplies sunflower seeds only, not the other seeds and nuts compared here. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "XingYi Trading supplies sunflower seeds only, not the other seeds and nuts compared here. [Request a quote](/contact#quote-form) for 361, 363 or Tongqing No.6, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -7175,7 +7291,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-roast-2.webp",
           "alt": "Kernels in a single layer on a baking pan",
-          "caption": "A shallow pan, one layer. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: A shallow pan, one layer. AI-generated image, not a product photo."
         }
       },
       {
@@ -7183,7 +7299,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-roast-1.webp",
           "alt": "A food dehydrator with trays of drying seeds",
-          "caption": "Drying at a low temperature. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Drying at a low temperature. AI-generated image, not a product photo."
         },
         "body": [
           "Yes. The same source describes drying seeds in the sun or in a dehydrator at 100°F (38°C) as an alternative to oven roasting ([National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/)). Drying leaves the seed raw, so its nutrient values stay close to the USDA record for dried kernels. The page does not give a drying time, and we have not added one."
@@ -7337,17 +7453,23 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) - 100°F drying; 300°F for 10-15 minutes roasting; source: \"So Easy to Preserve\", 6th edition, Bulletin 989, University of Georgia.",
-          "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (dried), 170563 and 169418 (dry roasted, without and with salt), 170564 and 168593 (oil roasted, without and with salt).",
-          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium 2,300 mg.",
-          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture of sampled crop.",
-          "Celsius conversions and per-serving values are our calculations."
+          "[National Center for Home Food Preservation](https://nchfp.uga.edu/how/dry/recipes/sunflower-seeds/) - 100°F drying; 300°F for 10-15 minutes roasting; source: \"So Easy to Preserve\", 6th edition, Bulletin 989, University of Georgia. Checked October 2026.",
+          "[USDA FoodData Central](https://fdc.nal.usda.gov/) - SR Legacy records 170562 (dried), 170563 and 169418 (dry roasted, without and with salt), 170564 and 168593 (oil roasted, without and with salt). Checked October 2026.",
+          "[FDA Daily Values](https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels) - sodium 2,300 mg. Checked October 2026.",
+          "[NSA 2024 Crop Quality Report](https://www.sunflowernsa.com/uploads/38/2024sunflowercropqualityreport.pdf) - moisture of sampled crop. Checked October 2026.",
+          "Celsius conversions and per-serving values are our calculations. Checked October 2026."
+        ]
+      },
+      {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The settings come from one University of Georgia source for home preservation, and it gives no figures for seeds in the shell, salting or storage. Ovens vary, so judge doneness by color and aroma. The guide does not cover commercial roasting."
         ]
       },
       {
         "heading": "Looking for Sunflower Seeds to Roast?",
         "body": [
-          "XingYi Trading exports in-shell confection sunflower seeds in bulk to food businesses, not to home cooks. If you roast at commercial scale, [request a quote](/contact#quote-form) and read our [bulk buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "XingYi Trading exports in-shell confection sunflower seeds in bulk to food businesses, not to home cooks. If you roast at commercial scale, [request a quote](/contact#quote-form) and read our [bulk buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -7599,7 +7721,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-search-1.webp",
           "alt": "A bowl of roasted sunflower seeds with autumn leaves",
-          "caption": "Roasted seeds. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Roasted seeds. AI-generated image, not a product photo."
         },
         "body": [
           "The roasted phrase behaves differently. It reached 22,200 searches in Oct 2025 and 14,800 in November 2025, then fell to between 3,600 and 5,400 from February to May and to 2,400 in June and July. The October and November 2025 peak is much larger than any other month, and one year of data cannot show whether it repeats or was a one-time event, so we do not treat it as a seasonal rule."
@@ -7613,7 +7735,7 @@ export const blogPosts: BlogPost[] = [
         "image": {
           "src": "/images/kie-search-2.webp",
           "alt": "Pallets of bagged seeds ready for dispatch",
-          "caption": "Stock planned ahead. Illustrative AI-generated image, not a product photo."
+          "caption": "Illustration: Stock planned ahead. AI-generated image, not a product photo."
         }
       },
       {
@@ -7625,14 +7747,14 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Do These Numbers Come From?",
         "list": [
-          "[DataForSEO documentation](https://docs.dataforseo.com/v3/keywords_data/google_ads/search_volume/live/) - Google Ads search volume, location United States, language English, monthly searches for October 2025 to September 2026, retrieved on October 16, 2026.",
-          "Peak, low and ratio figures are our calculations from those monthly values."
+          "[DataForSEO documentation](https://docs.dataforseo.com/v3/keywords_data/google_ads/search_volume/live/) - Google Ads search volume, location United States, language English, monthly searches for October 2025 to September 2026, retrieved on October 16, 2026. Checked October 2026.",
+          "Peak, low and ratio figures are our calculations from those monthly values. Checked October 2026."
         ]
       },
       {
         "heading": "Planning Stock Around a Seasonal Peak?",
         "body": [
-          "XingYi Trading exports sunflower seeds in bulk from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) with your target arrival month, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
+          "XingYi Trading exports sunflower seeds in bulk from Bayannur, Inner Mongolia. [Request a quote](/contact#quote-form) with your target arrival month, and read our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide). Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -7655,7 +7777,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Before paying for a formal third-party audit or inspection, most buyers run their own structured review of a supplier — a self-audit. This is a checklist for doing that systematically rather than relying on impressions from a single email exchange."
+          "Before paying for a formal third-party audit or inspection, buyers often run their own structured review of a supplier, a self-audit. This is a checklist for doing that systematically rather than relying on impressions from a single email exchange."
         ]
       },
       {
@@ -7674,9 +7796,9 @@ export const blogPosts: BlogPost[] = [
           "caption": "Confirming production capacity and equipment against what a supplier claims is part of a thorough self-audit."
         },
         "list": [
-          "Business registration and licenses — ask for documentation, don't just take a verbal claim",
-          "Production capacity and equipment — does what they describe match what a facility their size could realistically produce?",
-          "Food safety certifications held, and copies of the actual certificates — check them against a [GFSI-recognized scheme](https://safefoodalliance.com/food-safety-resources/what-is-gfsi/) like BRCGS, SQF, or FSSC 22000 rather than an unfamiliar private certification",
+          "Business registration and licenses, ask for documentation, don't just take a verbal claim",
+          "Production capacity and equipment, does what they describe match what a facility their size could realistically produce?",
+          "Food safety certifications held, and copies of the actual certificates, check them against a [GFSI-recognized scheme](https://safefoodalliance.com/food-safety-resources/what-is-gfsi/) like BRCGS, SQF, or FSSC 22000 rather than an unfamiliar private certification",
           "Client references you can independently contact, not just testimonials on their own site",
           "Documented history of past third-party audits or regulatory inspections, including how any past issues were resolved"
         ]
@@ -7684,7 +7806,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Many References Should You Actually Contact?",
         "body": [
-          "More than one — a supplier who can only provide a single reference, or hesitates when asked for more, is worth a closer look. Where possible, contact a reference buying a similar volume or shipping to a similar destination market, since their experience will be more directly comparable to what you can expect."
+          "More than one, a supplier who can only provide a single reference, or hesitates when asked for more, is worth a closer look. Where possible, contact a reference buying a similar volume or shipping to a similar destination market, since their experience will be more directly comparable to what you can expect."
         ]
       },
       {
@@ -7696,25 +7818,25 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Should You Request a Video Walkthrough If You Can't Visit in Person?",
         "body": [
-          "Yes — a live video walkthrough of the facility, where you can ask the supplier to show specific areas in real time, is a meaningful step up from photos alone (which can be selectively taken or dated) and doesn't require travel. This is a reasonable middle ground between fully trusting a supplier's own materials and arranging an in-person visit, particularly for a first order."
+          "Yes, a live video walkthrough of the facility, where you can ask the supplier to show specific areas in real time, is a meaningful step up from photos alone (which can be selectively taken or dated) and doesn't require travel. This is a reasonable middle ground between fully trusting a supplier's own materials and arranging an in-person visit, particularly for a first order."
         ]
       },
       {
         "heading": "How Does a Self-Audit Differ From a Paid Third-Party Audit?",
         "body": [
-          "A self-audit is something you do yourself, based on documentation and conversation — it's free but relies on the supplier's willingness to share information honestly. A [paid third-party inspection](/blog/third-party-inspection-sunflower-seeds) — typically through firms like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) or [Intertek](https://www.intertek.com/food/) — involves an independent party physically checking the actual product and, in some cases, the facility itself, which catches things a documentation-only self-audit can't. Many buyers do both: a self-audit before committing to a supplier relationship, then periodic third-party inspections on actual shipments."
+          "A self-audit is something you do yourself, based on documentation and conversation, it's free but relies on the supplier's willingness to share information honestly. A [paid third-party inspection](/blog/third-party-inspection-sunflower-seeds), typically through firms like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) or [Intertek](https://www.intertek.com/food/), involves an independent party physically checking the actual product and, in some cases, the facility itself, which catches things a documentation-only self-audit can't. Many buyers do both: a self-audit before committing to a supplier relationship, then periodic third-party inspections on actual shipments."
         ]
       },
       {
         "heading": "What's a Reasonable Timeline for a Self-Audit?",
         "body": [
-          "This shouldn't be rushed to meet an internal deadline — a proper self-audit (checking documentation, contacting references, reviewing certifications) takes real time, and compressing it to save a few days can cost far more if it leads to a bad supplier relationship. Build this into your sourcing timeline as its own step, not something squeezed in after you've already mentally committed."
+          "This shouldn't be rushed to meet an internal deadline, a proper self-audit (checking documentation, contacting references, reviewing certifications) takes real time, and compressing it to save a few days can cost far more if it leads to a bad supplier relationship. Build this into your sourcing timeline as its own step, not something squeezed in after you've already mentally committed."
         ]
       },
       {
         "heading": "Does a Long Operating History Substitute for a Self-Audit?",
         "body": [
-          "It's a positive signal, but not a substitute — even an established supplier's current capacity, certifications, and quality controls should be confirmed for your specific order rather than assumed from reputation alone. Certifications lapse, capacity changes, and a supplier that was a good fit for a previous buyer's product may not be for yours."
+          "It's a positive signal, but not a substitute, even an established supplier's current capacity, certifications, and quality controls should be confirmed for your specific order rather than assumed from reputation alone. Certifications lapse, capacity changes, and a supplier that was a good fit for a previous buyer's product may not be for yours."
         ]
       },
       {
@@ -7725,25 +7847,25 @@ export const blogPosts: BlogPost[] = [
           "caption": "Our facility in Linhe First Farm, Bayannur City, has operated since 2014."
         },
         "body": [
-          "We've operated from Linhe First Farm, Bayannur City, Inner Mongolia since 2014, and our [Capabilities section](/about#capabilities) documents our production lines, capacity, and 16-stage inspection process directly. Ask us anything on this checklist — we're glad to answer before you commit to anything."
+          "We've operated from Linhe First Farm, Bayannur City, Inner Mongolia since 2014, and our [Capabilities section](/about#capabilities) documents our production lines, capacity, and 16-stage inspection process directly. Ask us anything on this checklist, we're glad to answer before you commit to anything."
         ]
       },
       {
         "heading": "Should You Score or Rank Suppliers Numerically During a Self-Audit?",
         "body": [
-          "A simple scoring approach — rating each checklist item as satisfactory, needs follow-up, or fails to meet the bar — can help when comparing multiple suppliers side by side, since it forces a consistent evaluation rather than an overall gut impression that's hard to compare across candidates. This doesn't need to be complicated; even a basic checklist with pass/fail/unclear notes per item is more useful for comparison than an unstructured set of notes from different conversations."
+          "A simple scoring approach, rating each checklist item as satisfactory, needs follow-up, or fails to meet the bar, can help when comparing multiple suppliers side by side, since it forces a consistent evaluation rather than an overall gut impression that's hard to compare across candidates. This doesn't need to be complicated; even a basic checklist with pass/fail/unclear notes per item is more useful for comparison than an unstructured set of notes from different conversations."
         ]
       },
       {
         "heading": "What's a Common Mistake Buyers Make During a Self-Audit?",
         "body": [
-          "Accepting a supplier's own marketing materials — professionally shot facility photos, polished capability statements — as equivalent to verified information. These materials aren't necessarily misleading, but they're produced by the supplier to present their best case, which is a different thing from independently confirmed facts. Weight information you can verify independently (references, certificates, video walkthroughs where you can ask to see specific areas) more heavily than material the supplier controls entirely."
+          "Accepting a supplier's own marketing materials, professionally shot facility photos, polished capability statements, as equivalent to verified information. These materials aren't necessarily misleading, but they're produced by the supplier to present their best case, which is a different thing from independently confirmed facts. Weight information you can verify independently (references, certificates, video walkthroughs where you can ask to see specific areas) more heavily than material the supplier controls entirely."
         ]
       },
       {
         "heading": "How Do You Balance Thoroughness Against Moving Too Slowly?",
         "body": [
-          "A structured self-audit doesn't need to take weeks — most of the checklist items above can be confirmed within a few business days if the supplier is responsive and has nothing to hide. If a supplier is slow or evasive in providing basic documentation during this stage, that's itself useful information about what working with them on an actual order might look like."
+          "A structured self-audit doesn't need to take weeks, most of the checklist items above can be confirmed within a few business days if the supplier is responsive and has nothing to hide. If a supplier is slow or evasive in providing basic documentation during this stage, that's itself useful information about what working with them on an actual order might look like."
         ]
       },
       {
@@ -7839,9 +7961,15 @@ export const blogPosts: BlogPost[] = [
         }
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "A self-audit is a desk review, and it does not replace a third-party audit, a site visit or testing of your own samples. The checklist is general and should be adapted to your product, your market and your own requirements."
+        ]
+      },
+      {
         "heading": "Start Your Own Supplier Self-Audit",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form) and use this checklist to evaluate us the same way you would any other supplier."
+          "[Request samples and a specification sheet](/contact#quote-form) and use this checklist to evaluate us the same way you would any other supplier. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -7864,7 +7992,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "BRC and IFS come up constantly in buyer questionnaires, and it's easy to treat them as interchangeable since both are GFSI-recognized. They're not identical — here's what actually differs, and why the right one to ask about depends on your specific market."
+          "BRC and IFS come up constantly in buyer questionnaires, and it's easy to treat them as interchangeable since both are GFSI-recognized. They're not identical, here's what actually differs, and why the right one to ask about depends on your specific market."
         ]
       },
       {
@@ -7883,7 +8011,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Both certifications audit a facility's food safety management system, but with different methodology and geographic emphasis."
         },
         "body": [
-          "Both are GFSI-recognized food safety certification schemes, meaning [both are generally accepted by retailers worldwide as meeting a baseline food safety standard](https://www.asifood.com/asi-food-safety-blog/whats-the-difference-between-ifs-fssc-brcgs) — GFSI itself isn't a certification, it's a benchmarking framework that BRC, IFS, and a handful of other schemes are measured against. A supplier holding either generally clears the same fundamental bar, but the audit approach and regional expectations differ."
+          "Both are GFSI-recognized food safety certification schemes, meaning [both are generally accepted by retailers worldwide as meeting a baseline food safety standard](https://www.asifood.com/asi-food-safety-blog/whats-the-difference-between-ifs-fssc-brcgs), GFSI itself isn't a certification, it's a benchmarking framework that BRC, IFS, and a handful of other schemes are measured against. A supplier holding either generally clears the same fundamental bar, but the audit approach and regional expectations differ."
         ]
       },
       {
@@ -7894,13 +8022,13 @@ export const blogPosts: BlogPost[] = [
           "caption": "BRCGS audits spend significant time observing the production line itself, in contrast to IFS's more document-driven approach."
         },
         "body": [
-          "[BRCGS audits are centered on the production line and specific products, with auditors spending significant time observing the factory floor in real time; IFS evaluates both the production process and the final product, with more prescriptive, detailed operational requirements](https://tcisys.com/blog/comparing-brc-ifs/). Neither approach is objectively better — they reflect different audit philosophies that happen to have taken hold in different regions."
+          "[BRCGS audits are centered on the production line and specific products, with auditors spending significant time observing the factory floor in real time; IFS evaluates both the production process and the final product, with more prescriptive, detailed operational requirements](https://tcisys.com/blog/comparing-brc-ifs/). Neither approach is objectively better, they reflect different audit philosophies that happen to have taken hold in different regions."
         ]
       },
       {
         "heading": "Do BRC and IFS Use the Same Scoring System?",
         "body": [
-          "No — [BRCGS uses a letter-grade system (AA, A, B, C, D) based on the number and severity of non-conformances found, while IFS uses a percentage-and-level scoring system](https://www.nsf.org/knowledge-library/comparing-gfsi-benchmarked-certifications-for-your-business). If you're comparing two suppliers' certification results directly, confirm which scheme each one holds before assuming the grades are directly comparable — they aren't the same scale."
+          "No, [BRCGS uses a letter-grade system (AA, A, B, C, D) based on the number and severity of non-conformances found, while IFS uses a percentage-and-level scoring system](https://www.nsf.org/knowledge-library/comparing-gfsi-benchmarked-certifications-for-your-business). If you're comparing two suppliers' certification results directly, confirm which scheme each one holds before assuming the grades are directly comparable, they aren't the same scale."
         ]
       },
       {
@@ -7918,37 +8046,37 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Should a Buyer Accept Either Certification, or Insist on a Specific One?",
         "body": [
-          "For most buyers, either GFSI-recognized scheme demonstrates a real, audited food safety management system — insisting on one specific scheme over the other usually matters only when your own retail customers have a stated requirement. If you're not sure what your customers expect, it's worth checking before you rule out an otherwise well-qualified supplier over scheme choice alone."
+          "In general, either GFSI-recognized scheme demonstrates a real, audited food safety management system, insisting on one specific scheme over the other usually matters only when your own retail customers have a stated requirement. If you're not sure what your customers expect, it's worth checking before you rule out an otherwise well-qualified supplier over scheme choice alone."
         ]
       },
       {
         "heading": "What Should You Ask a Supplier About Their Certification?",
         "body": [
-          "Ask which specific scheme they hold, request a copy of the actual current certificate (not just a claim), and confirm the certificate's expiration date and grade/score. This is the same pattern covered in our [guide to what to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier) — a real certification holder shares this without hesitation."
+          "Ask which specific scheme they hold, request a copy of the actual current certificate (not just a claim), and confirm the certificate's expiration date and grade/score. This is the same pattern covered in our [guide to what to ask a sunflower seed supplier](/blog/what-to-ask-sunflower-seed-supplier), a real certification holder shares this without hesitation."
         ]
       },
       {
         "heading": "Does XingYi Trading Hold BRC or IFS Certification?",
         "body": [
-          "Confirm current certification status directly with us when you request a quote — we're glad to share what's held and current for your specific order. This is general information, not legal or compliance advice; confirm your destination market's specific retail requirements with your own compliance team or the retailer directly."
+          "Confirm current certification status directly with us when you request a quote, we're glad to share what's held and current for your specific order. This is general information, not legal or compliance advice; confirm your destination market's specific retail requirements with your own compliance team or the retailer directly."
         ]
       },
       {
         "heading": "Are There Other GFSI-Recognized Schemes Besides BRC and IFS?",
         "body": [
-          "Yes — FSSC 22000 and SQF are the other two most commonly referenced GFSI-recognized certification schemes, and a supplier might hold one of these instead of BRC or IFS. FSSC 22000 tends to have a stronger presence in some Asian and Middle Eastern markets, while SQF is more established in North American retail alongside BRCGS. If a supplier holds a GFSI-recognized scheme other than the one you initially asked about, it's still worth understanding, since all schemes benchmarked against GFSI are considered to meet an equivalent fundamental safety standard."
+          "Yes, FSSC 22000 and SQF are the other two most commonly referenced GFSI-recognized certification schemes, and a supplier might hold one of these instead of BRC or IFS. FSSC 22000 tends to have a stronger presence in some Asian and Middle Eastern markets, while SQF is more established in North American retail alongside BRCGS. If a supplier holds a GFSI-recognized scheme other than the one you initially asked about, it's still worth understanding, since all schemes benchmarked against GFSI are considered to meet an equivalent fundamental safety standard."
         ]
       },
       {
         "heading": "How Often Does a Facility Need to Renew Its Certification?",
         "body": [
-          "An IFS Food certificate has 12-month validity, and BRCGS certificate cycles can differ by grade, so check the dates printed on each certificate; both require a re-audit to maintain certification — this is why confirming the current expiration date on a certificate matters, not just whether a supplier has ever held the certification. A certificate that expired months ago and hasn't been renewed is a materially different situation than an active, current one, even though both might come up in casual conversation as \"we're BRC certified.\""
+          "An IFS Food certificate has 12-month validity, and BRCGS certificate cycles can differ by grade, so check the dates printed on each certificate; both require a re-audit to maintain certification, this is why confirming the current expiration date on a certificate matters, not just whether a supplier has ever held the certification. A certificate that expired months ago and hasn't been renewed is a materially different situation than an active, current one, even though both might come up in casual conversation as \"we're BRC certified.\""
         ]
       },
       {
         "heading": "Does Certification Guarantee a Supplier Has No Quality Issues?",
         "body": [
-          "No — certification confirms a facility's food safety management system meets an audited standard at the time of the audit, not that every batch produced will be flawless. It's a strong baseline signal, but it complements rather than replaces the batch-specific verification covered in our [third-party inspection](/blog/third-party-inspection-sunflower-seeds) and [supplier self-audit](/blog/supplier-self-audit-checklist-sunflower-seeds) guides."
+          "No, certification confirms a facility's food safety management system meets an audited standard at the time of the audit, not that every batch produced will be flawless. It's a strong baseline signal, but it complements rather than replaces the batch-specific verification covered in our [third-party inspection](/blog/third-party-inspection-sunflower-seeds) and [supplier self-audit](/blog/supplier-self-audit-checklist-sunflower-seeds) guides."
         ]
       },
       {
@@ -8004,9 +8132,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The scheme details come from the standard owners and GFSI pages where we could check them, and BRCGS grading and certificate cycles should be confirmed on the certificate itself. A certificate describes a site's management system at the audit date, not each lot."
+        ]
+      },
+      {
         "heading": "Ask About Our Certifications",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form) and ask directly about current food safety certifications for your order."
+          "[Request samples and a specification sheet](/contact#quote-form) and ask directly about current food safety certifications for your order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -8029,7 +8163,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "FSVP is one of the parts of the [Food Safety Modernization Act](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/food-safety-modernization-act-fsma) that directly affects US importers, not just domestic food facilities. Here's what it actually requires. This is general information, not legal or compliance advice — confirm your specific obligations with a licensed customs broker or food-compliance specialist."
+          "FSVP is one of the parts of the [Food Safety Modernization Act](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/food-safety-modernization-act-fsma) that directly affects US importers, not just domestic food facilities. Here's what it actually requires. This is general information, not legal or compliance advice, confirm your specific obligations with a licensed customs broker or food-compliance specialist."
         ]
       },
       {
@@ -8048,7 +8182,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "FSVP puts the verification obligation on the US importer, not the foreign supplier."
         },
         "body": [
-          "The Foreign Supplier Verification Program [requires US importers to verify that their foreign food suppliers meet US food safety standards](https://www.pcbusa.com/post/are-you-compliance-with-fsvp-requirements) — it applies to the US-based importer, not the overseas factory, and covers manufacturers, retailers, and distributors bringing food into the US, with some exemptions for specific food categories."
+          "The Foreign Supplier Verification Program [requires US importers to verify that their foreign food suppliers meet US food safety standards](https://www.pcbusa.com/post/are-you-compliance-with-fsvp-requirements), it applies to the US-based importer, not the overseas factory, and covers manufacturers, retailers, and distributors bringing food into the US, with some exemptions for specific food categories."
         ]
       },
       {
@@ -8056,7 +8190,7 @@ export const blogPosts: BlogPost[] = [
         "list": [
           "Conduct a hazard analysis identifying biological, chemical, and physical hazards for each imported food",
           "Evaluate the foreign supplier's food safety practices and compliance history before approving them",
-          "Perform ongoing verification activities — audits, sampling/testing, or documented record review, depending on the hazard level",
+          "Perform ongoing verification activities, audits, sampling/testing, or documented record review, depending on the hazard level",
           "Take corrective action if a verification activity identifies a problem",
           "Maintain records demonstrating all of the above"
         ]
@@ -8064,31 +8198,31 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Who Is the \"Qualified Individual\" FSVP Requires?",
         "body": [
-          "[All FSVP activities must be performed or overseen by a \"Qualified Individual\" — someone with the education, training, or experience needed to conduct hazard analyses and evaluate food safety practices](https://www.dnv.us/services/fsvp-foreign-supplier-verification-program-190893/). This doesn't have to be a specialized outside consultant, but it does mean the responsibility can't be handled casually by someone without relevant background."
+          "[All FSVP activities must be performed or overseen by a \"Qualified Individual\", someone with the education, training, or experience needed to conduct hazard analyses and evaluate food safety practices](https://www.dnv.us/services/fsvp-foreign-supplier-verification-program-190893/). This doesn't have to be a specialized outside consultant, but it does mean the responsibility can't be handled casually by someone without relevant background."
         ]
       },
       {
         "heading": "What Identification Does an Importer Need at Entry?",
         "body": [
-          "[Importers must provide their name, email address, and a recognized Unique Facility Identifier (UFI) — typically a free D&B DUNS Number — at the time of each entry filing](https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-foreign-supplier-verification-programs-fsvp-importers-food-humans-and-animals). This is a straightforward registration step, but missing it can hold up an otherwise compliant shipment at the port."
+          "[Importers must provide their name, email address, and a recognized Unique Facility Identifier (UFI), typically a free D&B DUNS Number, at the time of each entry filing](https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-foreign-supplier-verification-programs-fsvp-importers-food-humans-and-animals). This is a straightforward registration step, but missing it can hold up an otherwise compliant shipment at the port."
         ]
       },
       {
         "heading": "Are There Any Exemptions From FSVP?",
         "body": [
-          "Yes, for specific categories — dietary supplements have modified requirements under separate FDA CGMP rules, and certain foods already subject to other FDA regulatory frameworks (like FDA-regulated fish and juice under HACCP) may be exempt from some FSVP provisions. Confectionery sunflower seed doesn't fall into a documented exemption category, so treat FSVP as applicable unless your specific compliance team confirms otherwise for your product form."
+          "Yes, for specific categories, dietary supplements have modified requirements under separate FDA CGMP rules, and certain foods already subject to other FDA regulatory frameworks (like FDA-regulated fish and juice under HACCP) may be exempt from some FSVP provisions. Confectionery sunflower seed doesn't fall into a documented exemption category, so treat FSVP as applicable unless your specific compliance team confirms otherwise for your product form."
         ]
       },
       {
         "heading": "How Does FSVP Connect to Choosing a Supplier?",
         "body": [
-          "FSVP's supplier-evaluation requirement is exactly why the vetting process covered in our [what to ask a supplier guide](/blog/what-to-ask-sunflower-seed-supplier) and [self-audit checklist](/blog/supplier-self-audit-checklist-sunflower-seeds) matters beyond just quality assurance — documenting that evaluation is part of what FSVP compliance actually looks like in practice, not a separate exercise."
+          "FSVP's supplier-evaluation requirement is exactly why the vetting process covered in our [what to ask a supplier guide](/blog/what-to-ask-sunflower-seed-supplier) and [self-audit checklist](/blog/supplier-self-audit-checklist-sunflower-seeds) matters beyond just quality assurance, documenting that evaluation is part of what FSVP compliance actually looks like in practice, not a separate exercise."
         ]
       },
       {
         "heading": "What Happens If an Importer Isn't FSVP-Compliant?",
         "body": [
-          "Non-compliance can result in shipment holds, refused entry, or placement on FDA's import alert list — consequences that affect the importer directly, which is part of why FSVP puts the obligation on the US side of the transaction rather than solely on the overseas supplier."
+          "Non-compliance can result in shipment holds, refused entry, or placement on FDA's import alert list, consequences that affect the importer directly, which is part of why FSVP puts the obligation on the US side of the transaction rather than solely on the overseas supplier."
         ]
       },
       {
@@ -8105,7 +8239,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Often Does an Importer Need to Re-Verify a Supplier Under FSVP?",
         "body": [
-          "FSVP is not a one-time approval — verification activities need to continue on an ongoing basis, with the frequency and type (audit, sampling, or documentation review) determined by the hazard analysis for that specific food. A supplier that passed an initial evaluation still needs periodic re-verification, which is one of the reasons FSVP compliance is closer to an ongoing program than a single checklist you complete once and file away."
+          "FSVP is not a one-time approval, verification activities need to continue on an ongoing basis, with the frequency and type (audit, sampling, or documentation review) determined by the hazard analysis for that specific food. A supplier that passed an initial evaluation still needs periodic re-verification, which is one of the reasons FSVP compliance is closer to an ongoing program than a single checklist you complete once and file away."
         ]
       },
       {
@@ -8117,14 +8251,14 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Can an Importer Outsource FSVP Compliance to a Third Party?",
         "body": [
-          "The Qualified Individual role can be filled by an outside consultant or compliance firm rather than an in-house employee, and many smaller importers take this approach rather than building internal food-safety expertise from scratch. The importer of record remains legally responsible for FSVP compliance even when the actual verification work is performed by a contracted specialist — outsourcing the work doesn't transfer the underlying obligation."
+          "The Qualified Individual role can be filled by an outside consultant or compliance firm rather than an in-house employee, and many smaller importers take this approach rather than building internal food-safety expertise from scratch. The importer of record remains legally responsible for FSVP compliance even when the actual verification work is performed by a contracted specialist, outsourcing the work doesn't transfer the underlying obligation."
         ]
       },
       {
         "heading": "How Should a New Importer Get Started With FSVP Compliance?",
         "body": [
-          "Start by identifying who within your organization (or which outside consultant) will serve as your Qualified Individual, since every other FSVP requirement flows from that role being properly filled before your first shipment arrives. From there, the hazard analysis and supplier evaluation for your specific product and supplier can proceed in parallel with the commercial side of finalizing your order — there's no requirement to complete FSVP paperwork before placing an order, but it needs to be in place before the shipment reaches a US port, so starting it early avoids a last-minute scramble.",
-          "For a first-time importer, it's worth budgeting real time for this alongside the commercial negotiation, rather than treating FSVP as something to figure out only once a shipment is already in transit — a hazard analysis and supplier evaluation done properly take genuine research and documentation effort, not just a quick form to fill in."
+          "Start by identifying who within your organization (or which outside consultant) will serve as your Qualified Individual, since every other FSVP requirement flows from that role being properly filled before your first shipment arrives. From there, the hazard analysis and supplier evaluation for your specific product and supplier can proceed in parallel with the commercial side of finalizing your order, there's no requirement to complete FSVP paperwork before placing an order, but it needs to be in place before the shipment reaches a US port, so starting it early avoids a last-minute scramble.",
+          "For a first-time importer, it's worth budgeting real time for this alongside the commercial negotiation, rather than treating FSVP as something to figure out only once a shipment is already in transit, a hazard analysis and supplier evaluation done properly take genuine research and documentation effort, not just a quick form to fill in."
         ]
       },
       {
@@ -8162,9 +8296,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This guide describes FSVP in general terms and is not legal or compliance advice. Whether a given importer is covered, and by which requirements, depends on its own facts, so confirm with FDA guidance or a qualified adviser."
+        ]
+      },
+      {
         "heading": "Discuss Documentation for Your Order",
         "body": [
-          "[Request a quote](/contact#quote-form) and let us know what documentation supports your FSVP compliance process."
+          "[Request a quote](/contact#quote-form) and let us know what documentation supports your FSVP compliance process. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -8187,7 +8327,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Prior Notice is a specific, deadline-driven filing requirement — getting the timing wrong can hold up a shipment even when every other document is in order. Here's exactly how the deadlines work. This is general information, not legal or compliance advice — confirm your specific filing obligations with a licensed customs broker."
+          "Prior Notice is a specific, deadline-driven filing requirement, getting the timing wrong can hold up a shipment even when every other document is in order. Here's exactly how the deadlines work. This is general information, not legal or compliance advice, confirm your specific filing obligations with a licensed customs broker."
         ]
       },
       {
@@ -8206,7 +8346,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Prior Notice must be confirmed by FDA before a food shipment arrives at a US port."
         },
         "body": [
-          "Prior Notice is advance notification to the FDA that a food shipment is entering the US, required [before the shipment arrives at the first US port](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods). FDA must electronically receive and confirm the notice — a food shipment arriving without confirmed Prior Notice can be held at the port."
+          "Prior Notice is advance notification to the FDA that a food shipment is entering the US, required [before the shipment arrives at the first US port](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods). FDA must electronically receive and confirm the notice, a food shipment arriving without confirmed Prior Notice can be held at the port."
         ]
       },
       {
@@ -8218,13 +8358,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What's the Minimum Notice Required Before Arrival?",
         "body": [
-          "[At least 8 hours before arrival for ocean freight](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods) — shorter windows apply to air, rail, and road transport, but ocean freight is the relevant mode for essentially all bulk sunflower seed shipments. This 8-hour minimum is a floor, not a target — filing well before this deadline avoids risk from any last-minute processing delay."
+          "[At least 8 hours before arrival for ocean freight](https://www.fda.gov/industry/prior-notice-imported-foods/filing-prior-notice-imported-foods), shorter windows apply to air, rail, and road transport, but ocean freight is the relevant mode for essentially all bulk sunflower seed shipments. This 8-hour minimum is a floor, not a target, filing well before this deadline avoids risk from any last-minute processing delay."
         ]
       },
       {
         "heading": "How Is Prior Notice Actually Submitted?",
         "body": [
-          "Through either CBP's Automated Broker Interface/Automated Commercial Environment (ABI/ACE) or FDA's own Prior Notice System Interface (PNSI). In practice, most importers have their customs broker file this as part of standard entry processing rather than filing it separately themselves — a pattern covered in more general terms in [chinaimportal.com's China-sourcing documentation guides](https://www.chinaimportal.com)."
+          "Through either CBP's Automated Broker Interface/Automated Commercial Environment (ABI/ACE) or FDA's own Prior Notice System Interface (PNSI). In practice, most importers have their customs broker file this as part of standard entry processing rather than filing it separately themselves, a pattern covered in more general terms in [chinaimportal.com's China-sourcing documentation guides](https://www.chinaimportal.com)."
         ]
       },
       {
@@ -8236,7 +8376,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Happens If Prior Notice Isn't Filed Correctly?",
         "body": [
-          "The shipment can be held at the port until the notice is properly filed and confirmed — for a bulk food shipment, this means demurrage costs accumulating while the issue is resolved, on top of the delay itself. This is exactly the kind of documentation timing risk covered generally in our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china)."
+          "The shipment can be held at the port until the notice is properly filed and confirmed, for a bulk food shipment, this means demurrage costs accumulating while the issue is resolved, on top of the delay itself. This is exactly the kind of documentation timing risk covered generally in our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china)."
         ]
       },
       {
@@ -8259,25 +8399,25 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Does Prior Notice Apply Separately From FSVP?",
         "body": [
-          "Yes — Prior Notice and [FSVP](/blog/fsvp-sunflower-seed-importers) are two separate, independent requirements that both apply to most food shipments entering the US. FSVP is about verifying your foreign supplier's food safety practices on an ongoing basis; Prior Notice is a per-shipment filing confirming a specific shipment's arrival details. Meeting one requirement doesn't satisfy the other — both need to be handled for a compliant import."
+          "Yes, Prior Notice and [FSVP](/blog/fsvp-sunflower-seed-importers) are two separate, independent requirements that both apply to most food shipments entering the US. FSVP is about verifying your foreign supplier's food safety practices on an ongoing basis; Prior Notice is a per-shipment filing confirming a specific shipment's arrival details. Meeting one requirement doesn't satisfy the other, both need to be handled for a compliant import."
         ]
       },
       {
         "heading": "Can Prior Notice Be Filed Too Early?",
         "body": [
-          "Yes — filing outside the allowed window (more than 15 days ahead via FDA's PNSI, or more than 30 days ahead via CBP's ABI/ACS) means the submission won't be accepted, and it will need to be refiled once you're within the correct window. This is part of why coordinating the exact filing timing with your customs broker, rather than filing speculatively far in advance, matters."
+          "Yes, filing outside the allowed window (more than 15 days ahead via FDA's PNSI, or more than 30 days ahead via CBP's ABI/ACS) means the submission won't be accepted, and it will need to be refiled once you're within the correct window. This is part of why coordinating the exact filing timing with your customs broker, rather than filing speculatively far in advance, matters."
         ]
       },
       {
         "heading": "What Information Does a Prior Notice Filing Actually Require?",
         "body": [
-          "Beyond the importer's identification details, a Prior Notice filing includes information about the specific shipment — product description, quantity, manufacturer, country of origin, anticipated port of arrival, and carrier information. Your customs broker will typically pull most of this directly from your commercial invoice and other shipping documents, which is one more reason having accurate, complete documentation ready before the shipment departs matters."
+          "Beyond the importer's identification details, a Prior Notice filing includes information about the specific shipment, product description, quantity, manufacturer, country of origin, anticipated port of arrival, and carrier information. Your customs broker will typically pull most of this directly from your commercial invoice and other shipping documents, which is one more reason having accurate, complete documentation ready before the shipment departs matters."
         ]
       },
       {
         "heading": "Does Prior Notice Need to Be Refiled If a Shipment's Schedule Changes?",
         "body": [
-          "Yes — if the vessel's estimated arrival shifts enough to fall outside the window your original Prior Notice was filed under, or if key shipment details change (carrier, port of arrival, quantity), an amended or new filing is generally needed rather than assuming the original filing still covers the updated schedule. Ocean freight schedules shift often enough — weather delays, port congestion, carrier rerouting — that this is a realistic scenario worth planning for rather than a rare edge case.",
+          "Yes, if the vessel's estimated arrival shifts enough to fall outside the window your original Prior Notice was filed under, or if key shipment details change (carrier, port of arrival, quantity), an amended or new filing is generally needed rather than assuming the original filing still covers the updated schedule. Ocean freight schedules shift often enough, weather delays, port congestion, carrier rerouting, that this is a realistic scenario worth planning for rather than a rare edge case.",
           "Keeping your customs broker informed of any schedule change as soon as you're aware of it, rather than after the fact, gives them the best chance of refiling within the correct window without it becoming a last-minute scramble right before arrival."
         ]
       },
@@ -8330,9 +8470,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The timing rules are those in FDA's guidance on the date we checked. Systems and rules change, and this guide does not replace your customs broker, who files the notice and knows the current process."
+        ]
+      },
+      {
         "heading": "Plan Your Shipment Timeline",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target arrival date, and we'll help you plan a production and shipping timeline that leaves room for documentation like Prior Notice."
+          "[Request a quote](/contact#quote-form) with your target arrival date, and we'll help you plan a production and shipping timeline that leaves room for documentation like Prior Notice. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -8355,7 +8501,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Private-label sunflower seeds means a brand's own name and packaging on a product manufactured by a supplier like XingYi Trading — the brand controls positioning, pricing, and where it sells, without owning a processing facility. Here's how that relationship actually works."
+          "Private-label sunflower seeds means a brand's own name and packaging on a product manufactured by a supplier like XingYi Trading, the brand controls positioning, pricing, and where it sells, without owning a processing facility. Here's how that relationship actually works."
         ]
       },
       {
@@ -8374,14 +8520,14 @@ export const blogPosts: BlogPost[] = [
           "caption": "Private-label production runs the same processing and packaging line, with your branding on the finished bag."
         },
         "body": [
-          "[A private-label or co-packing arrangement means a manufacturer produces the product to your specifications, but it's sold under your brand name rather than the manufacturer's own](https://www.thfoods.com/co-manufacturing-private-label/) — you control branding, packaging design, pricing, and distribution channel. This is distinct from buying a supplier's own branded product to resell; private label puts your name on the package from the start."
+          "[A private-label or co-packing arrangement means a manufacturer produces the product to your specifications, but it's sold under your brand name rather than the manufacturer's own](https://www.thfoods.com/co-manufacturing-private-label/), you control branding, packaging design, pricing, and distribution channel. This is distinct from buying a supplier's own branded product to resell; private label puts your name on the package from the start."
         ]
       },
       {
         "heading": "What Does the Private-Label Process Actually Involve?",
         "list": [
           "Confirm target series, grade, and form (raw or roasted, in-shell or kernel)",
-          "Finalize packaging format — bag size, material, and your artwork/branding",
+          "Finalize packaging format, bag size, material, and your artwork/branding",
           "Confirm nutrition labeling requirements for your destination market, including the [specific rounding and formatting rules](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9) that apply to a US nutrition facts panel",
           "Agree on minimum order quantity and lead time",
           "Approve a sample run before the full production order"
@@ -8390,19 +8536,19 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Can You Customize Flavor or Seasoning for a Private-Label Line?",
         "body": [
-          "This depends on the supplier's processing capability — some suppliers offer roasting and light seasoning as part of their line, while others supply raw or roasted-plain product for the brand to season separately at a co-packer. Confirm what's actually possible with your specific supplier rather than assuming full customization is standard across the industry."
+          "This depends on the supplier's processing capability, some suppliers offer roasting and light seasoning as part of their line, while others supply raw or roasted-plain product for the brand to season separately at a co-packer. Confirm what's actually possible with your specific supplier rather than assuming full customization is standard across the industry."
         ]
       },
       {
         "heading": "How Does Private-Label Differ From Buying Wholesale to Resell?",
         "body": [
-          "Buying wholesale to resell means purchasing an existing product (possibly already branded) and selling it as-is or repackaging it minimally. Private-label means the product is built around your brand from the start — your packaging, your label, your positioning — which gives you more control but generally requires a higher minimum order to justify a dedicated production run."
+          "Buying wholesale to resell means purchasing an existing product (possibly already branded) and selling it as-is or repackaging it minimally. Private-label means the product is built around your brand from the start, your packaging, your label, your positioning, which gives you more control but generally requires a higher minimum order to justify a dedicated production run."
         ]
       },
       {
         "heading": "What Food Safety Documentation Should Come With a Private-Label Order?",
         "body": [
-          "The same documentation as any bulk order — certificate of origin, phytosanitary certificate, and current [food safety certifications](https://www.fda.gov/food) the supplier holds — plus, if your destination market requires it, documentation supporting your own nutrition facts panel. See our [certifications comparison guide](/blog/brc-vs-ifs-certification-sunflower-seeds) for what to ask about specifically."
+          "The same documentation as any bulk order, certificate of origin, phytosanitary certificate, and current [food safety certifications](https://www.fda.gov/food) the supplier holds, plus, if your destination market requires it, documentation supporting your own nutrition facts panel. See our [certifications comparison guide](/blog/brc-vs-ifs-certification-sunflower-seeds) for what to ask about specifically."
         ]
       },
       {
@@ -8413,7 +8559,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Approving a physical sample, not just a spec sheet, is standard practice before a full private-label run."
         },
         "body": [
-          "Yes — this is standard practice for private-label specifically, since you're committing to packaging and branding built around a specific product spec. Approving a physical sample (not just a spec sheet) before the full run confirms the product matches what you're putting your brand name on, similar to the [sample-to-bulk process](/blog/sample-approval-to-bulk-order-sunflower-seeds) covered for standard bulk orders."
+          "Yes, this is standard practice for private-label specifically, since you're committing to packaging and branding built around a specific product spec. Approving a physical sample (not just a spec sheet) before the full run confirms the product matches what you're putting your brand name on, similar to the [sample-to-bulk process](/blog/sample-approval-to-bulk-order-sunflower-seeds) covered for standard bulk orders."
         ]
       },
       {
@@ -8425,31 +8571,31 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Does XingYi Trading Offer Private-Label Packaging?",
         "body": [
-          "Yes — tell us your target bag size, branding, and volume when you request a quote, and we'll confirm what's possible for your specific product line, alongside the [packaging formats](/blog/sunflower-seed-packaging-options-bulk-export) we offer more generally."
+          "Yes, tell us your target bag size, branding, and volume when you request a quote, and we'll confirm what's possible for your specific product line, alongside the [packaging formats](/blog/sunflower-seed-packaging-options-bulk-export) we offer more generally."
         ]
       },
       {
         "heading": "How Long Does It Take to Launch a Private-Label Product?",
         "body": [
-          "Timeline depends heavily on how much customization is involved — a straightforward private-label run using an existing bag format with only artwork changed can move faster than a fully custom packaging development with new bag dimensions or materials. Confirm a realistic timeline for your specific requirements early, particularly if you're planning a launch date tied to a retail placement or selling season."
+          "Timeline depends heavily on how much customization is involved, a straightforward private-label run using an existing bag format with only artwork changed can move faster than a fully custom packaging development with new bag dimensions or materials. Confirm a realistic timeline for your specific requirements early, particularly if you're planning a launch date tied to a retail placement or selling season."
         ]
       },
       {
         "heading": "Who Owns the Packaging Artwork and Design in a Private-Label Arrangement?",
         "body": [
-          "You do — private-label means your brand, your artwork, and your intellectual property, with the supplier producing to your specification rather than retaining any ownership claim over your branding. Confirm this is addressed clearly in your purchase agreement, particularly around file ownership and whether the supplier can reuse your artwork for any other purpose (they generally shouldn't, without your separate agreement)."
+          "You do, private-label means your brand, your artwork, and your intellectual property, with the supplier producing to your specification rather than retaining any ownership claim over your branding. Confirm this is addressed clearly in your purchase agreement, particularly around file ownership and whether the supplier can reuse your artwork for any other purpose (they generally shouldn't, without your separate agreement)."
         ]
       },
       {
         "heading": "Can a Small Brand Start With a Smaller Private-Label Trial Run?",
         "body": [
-          "Some suppliers offer more flexibility on a first private-label order specifically to let a newer brand test the product and packaging before committing to a larger volume — but this isn't universal, and private-label setup costs (artwork proofing, packaging tooling) mean a very small first run may not be cost-effective for either side. Raise your target volume honestly when you first inquire so a supplier can tell you directly whether it's workable rather than finding out after significant back-and-forth."
+          "Some suppliers offer more flexibility on a first private-label order specifically to let a newer brand test the product and packaging before committing to a larger volume, but this isn't universal, and private-label setup costs (artwork proofing, packaging tooling) mean a very small first run may not be cost-effective for either side. Raise your target volume honestly when you first inquire so a supplier can tell you directly whether it's workable rather than finding out after significant back-and-forth."
         ]
       },
       {
         "heading": "What Ongoing Communication Does a Private-Label Relationship Require?",
         "body": [
-          "More than a one-time transaction — a private-label relationship generally works best with periodic check-ins on production consistency, any planned changes to formulation or packaging, and forward visibility into your ordering calendar so the supplier can plan production capacity accordingly. This is different from a spot-market bulk purchase, where each order can be treated somewhat independently; private-label brands tend to get better consistency and service from a supplier when the relationship is treated as ongoing rather than renegotiated from scratch with each order.",
+          "More than a one-time transaction, a private-label relationship generally works best with periodic check-ins on production consistency, any planned changes to formulation or packaging, and forward visibility into your ordering calendar so the supplier can plan production capacity accordingly. This is different from a spot-market bulk purchase, where each order can be treated somewhat independently; private-label brands tend to get better consistency and service from a supplier when the relationship is treated as ongoing rather than renegotiated from scratch with each order.",
           "Sharing your rough forecast for the next few orders, even informally, generally helps a supplier plan raw material and production scheduling more reliably than being asked to fulfill each order as a surprise request, which can also translate into more consistent lead times for you."
         ]
       },
@@ -8482,9 +8628,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "A private-label programme depends on your market, your retailer's requirements and the packaging rules where you sell. This guide describes the general steps and does not fix prices, minimums or timelines, which have to be agreed in a quote."
+        ]
+      },
+      {
         "heading": "Start a Private-Label Conversation",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target packaging and branding requirements, and we'll confirm what we can supply for your product line."
+          "[Request a quote](/contact#quote-form) with your target packaging and branding requirements, and we'll confirm what we can supply for your product line. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -8507,7 +8659,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "If you're building a private-label sunflower seed product, you need nutrition numbers for your own label — not a general wellness overview. Here's the USDA data, framed for that specific use."
+          "If you're building a private-label sunflower seed product, you need nutrition numbers for your own label, not a general wellness overview. Here's the USDA data, framed for that specific use."
         ]
       },
       {
@@ -8536,25 +8688,26 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Where Does This Data Come From, and Can You Verify It?",
         "body": [
-          "These figures come from [USDA FoodData Central](https://fdc.nal.usda.gov/), the same public database referenced in our [general nutrition benefits guide](/blog/sunflower-seed-nutrition-benefits) — search food ID 170562 directly to pull the full nutrient breakdown yourself rather than relying solely on a secondary source when you're finalizing a label."
-        ]
+          "These figures come from [USDA FoodData Central](https://fdc.nal.usda.gov/), the same public database referenced in our [general nutrition benefits guide](/blog/sunflower-seed-nutrition-benefits), search food ID 170562 directly to pull the full nutrient breakdown yourself rather than relying solely on a secondary source when you're finalizing a label."
+        ],
+        "list": []
       },
       {
         "heading": "Do These Numbers Change Based on Raw vs. Roasted Form?",
         "body": [
-          "Yes, modestly — roasting can slightly alter moisture content and, by extension, the per-100g calorie and fat density, though the core nutrient profile stays broadly similar. If you're building a label for a specifically roasted product, confirm you're pulling data for that exact form (USDA FoodData Central lists raw, dry-roasted, and oil-roasted as separate entries) rather than raw-kernel figures."
+          "Yes, modestly, roasting can slightly alter moisture content and, by extension, the per-100g calorie and fat density, though the core nutrient profile stays broadly similar. If you're building a label for a specifically roasted product, confirm you're pulling data for that exact form (USDA FoodData Central lists raw, dry-roasted, and oil-roasted as separate entries) rather than raw-kernel figures."
         ]
       },
       {
         "heading": "Do Nutrition Numbers Vary Between the 361, 363, and TQ6 Series?",
         "body": [
-          "The core nutritional profile is broadly consistent across our series, since all three are confectionery-type sunflower rather than nutritionally distinct crops — see our [series comparison guide](/blog/361-vs-363-vs-tongqing-no6-comparison) for how they actually differ (kernel size and market positioning, not nutrition). For a label requiring your specific batch's tested values rather than USDA reference data, request current lab-tested nutrition data from your supplier directly."
+          "The core nutritional profile is broadly consistent across our series, since all three are confectionery-type sunflower rather than nutritionally distinct crops, see our [series comparison guide](/blog/361-vs-363-vs-tongqing-no6-comparison) for how they actually differ (kernel size and market positioning, not nutrition). For a label requiring your specific batch's tested values rather than USDA reference data, request current lab-tested nutrition data from your supplier directly."
         ]
       },
       {
         "heading": "Should Your Label Use USDA Reference Data or Your Supplier's Batch-Specific Testing?",
         "body": [
-          "This depends on your destination market's labeling regulations — some markets accept standard reference database values for a raw agricultural commodity, while others expect nutrition testing on your specific finished product, particularly if it's roasted, seasoned, or otherwise processed beyond the raw kernel. Confirm your specific market's requirement with a regulatory/labeling specialist rather than assuming reference data is always sufficient."
+          "This depends on your destination market's labeling regulations, some markets accept standard reference database values for a raw agricultural commodity, while others expect nutrition testing on your specific finished product, particularly if it's roasted, seasoned, or otherwise processed beyond the raw kernel. Confirm your specific market's requirement with a regulatory/labeling specialist rather than assuming reference data is always sufficient."
         ]
       },
       {
@@ -8571,7 +8724,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Batch-specific lab-tested nutrition data can support a finished-product label where reference data alone isn't sufficient."
         },
         "body": [
-          "Confirm your specific labeling needs when you request samples — we can discuss what documentation is available to support your label's nutrition panel for your target market."
+          "Confirm your specific labeling needs when you request samples, we can discuss what documentation is available to support your label's nutrition panel for your target market."
         ]
       },
       {
@@ -8587,19 +8740,19 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Are the FDA's Rounding Rules for a Nutrition Facts Panel?",
         "body": [
-          "[FDA rounding rules are specific and vary by nutrient](https://foodlabelmaker.com/regulatory-hub/fda/rounding-rules/): calories round to the nearest 5 if between 5-50 per serving, or to the nearest 10 above 50. Carbohydrates, fiber, sugars, and protein under 0.5g are labeled as 0; between 0.5g and 1g they're labeled \"less than 1g\" or rounded to 1g; and 1g or more rounds to the nearest whole gram. These rules exist specifically so labels are consistent and comparable across products — getting them right matters for compliance, not just cosmetic label design."
+          "[FDA rounding rules are specific and vary by nutrient](https://foodlabelmaker.com/regulatory-hub/fda/rounding-rules/): calories round to the nearest 5 if between 5-50 per serving, or to the nearest 10 above 50. Carbohydrates, fiber, sugars, and protein under 0.5g are labeled as 0; between 0.5g and 1g they're labeled \"less than 1g\" or rounded to 1g; and 1g or more rounds to the nearest whole gram. These rules exist specifically so labels are consistent and comparable across products, getting them right matters for compliance, not just cosmetic label design."
         ]
       },
       {
         "heading": "What Counts as a Standard Serving Size for Sunflower Seeds on a US Label?",
         "body": [
-          "FDA maintains reference amounts customarily consumed (RACC) for specific food categories that determine standard serving size for labeling purposes — for seeds and nuts, this is typically defined in the applicable federal reference tables rather than left to a brand's discretion. [If a serving size falls exactly halfway between two standard increments, labeling rules require rounding up to the next size](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9). Confirm the current applicable reference amount for your specific product category with a labeling specialist rather than choosing a serving size that happens to make the numbers look more favorable."
+          "FDA maintains reference amounts customarily consumed (RACC) for specific food categories that determine standard serving size for labeling purposes, for seeds and nuts, this is typically defined in the applicable federal reference tables rather than left to a brand's discretion. [If a serving size falls exactly halfway between two standard increments, labeling rules require rounding up to the next size](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9). Confirm the current applicable reference amount for your specific product category with a labeling specialist rather than choosing a serving size that happens to make the numbers look more favorable."
         ]
       },
       {
         "heading": "Does Country of Sale Change Which Nutrition Format You Need?",
         "body": [
-          "Yes, meaningfully — a US Nutrition Facts panel follows FDA's specific format and rounding rules, while the EU uses a different nutrition declaration format under its own food information regulations, and other markets have their own distinct requirements again. If you're selling the same private-label product into multiple countries, you'll typically need a separate, correctly formatted label for each market rather than one universal panel that satisfies every jurisdiction at once.",
+          "Yes, meaningfully, a US Nutrition Facts panel follows FDA's specific format and rounding rules, while the EU uses a different nutrition declaration format under its own food information regulations, and other markets have their own distinct requirements again. If you're selling the same private-label product into multiple countries, you'll typically need a separate, correctly formatted label for each market rather than one universal panel that satisfies every jurisdiction at once.",
           "This is worth planning for early in a multi-market private-label launch, since retrofitting a second country's label format after packaging is already finalized for one market can mean redesigning artwork rather than making a simple addition."
         ]
       },
@@ -8737,9 +8890,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "This guide explains how label values are usually derived and is not regulatory advice. Rounding rules and serving sizes are set by law in each market, and the label has to describe your own product, tested or calculated by a qualified person."
+        ]
+      },
+      {
         "heading": "Get Nutrition Data for Your Label",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form) and let us know what nutrition documentation your label requires."
+          "[Request samples and a specification sheet](/contact#quote-form) and let us know what nutrition documentation your label requires. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -8762,7 +8921,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Buyers find sunflower seed suppliers through a few common channels — trade shows like the [Canton Fair](https://www.cantonfair.org.cn/en-US), B2B marketplaces, or direct outreach to a supplier's own site. The channel affects how you first make contact, but not the verification work that comes after — here's what stays the same no matter where you found a supplier."
+          "Buyers find sunflower seed suppliers through a few common channels, trade shows like the [Canton Fair](https://www.cantonfair.org.cn/en-US), B2B marketplaces, or direct outreach to a supplier's own site. The channel affects how you first make contact, but not the verification work that comes after, here's what stays the same no matter where you found a supplier."
         ]
       },
       {
@@ -8781,25 +8940,25 @@ export const blogPosts: BlogPost[] = [
           "caption": "Trade show exhibitor screening confirms a supplier is a real, registered manufacturer — it doesn't replace your own product and documentation checks."
         },
         "body": [
-          "Partially. [Major trade fairs like the Canton Fair do vet exhibitors for legitimacy, filtering out unregistered traders](https://cncwmt.com/exhibition-news/what-is-the-canton-fair/) — so meeting a supplier there is a reasonable signal they're a real, operating manufacturer, not an anonymous listing. But exhibitor screening confirms the company is legitimate; it doesn't confirm their specific product meets your spec, their documentation is current, or their capacity matches what they claim on the show floor. That verification is still on you."
+          "Partially. [Major trade fairs like the Canton Fair do vet exhibitors for legitimacy, filtering out unregistered traders](https://cncwmt.com/exhibition-news/what-is-the-canton-fair/), so meeting a supplier there is a reasonable signal they're a real, operating manufacturer, not an anonymous listing. But exhibitor screening confirms the company is legitimate; it doesn't confirm their specific product meets your spec, their documentation is current, or their capacity matches what they claim on the show floor. That verification is still on you."
         ]
       },
       {
         "heading": "What's the Real Advantage of Meeting a Supplier in Person?",
         "body": [
-          "[Face-to-face meetings let you inspect samples directly, assess professionalism, and ask clarifying questions in real time](https://www.maplesourcing.com/canton-fair---the-largest-import-and-export-fair-in-china.html) — genuinely useful, and something a marketplace listing or cold email can't replicate. But the advantage is speed and directness of first contact, not a shortcut around the vetting steps covered in our [supplier self-audit checklist](/blog/supplier-self-audit-checklist-sunflower-seeds)."
+          "[Face-to-face meetings let you inspect samples directly, assess professionalism, and ask clarifying questions in real time](https://www.maplesourcing.com/canton-fair---the-largest-import-and-export-fair-in-china.html), genuinely useful, and something a marketplace listing or cold email can't replicate. But the advantage is speed and directness of first contact, not a shortcut around the vetting steps covered in our [supplier self-audit checklist](/blog/supplier-self-audit-checklist-sunflower-seeds)."
         ]
       },
       {
         "heading": "How Does Sourcing Through a B2B Marketplace Compare?",
         "body": [
-          "Marketplaces (Alibaba, Made-in-China, and similar) offer scale and searchability — you can compare many suppliers' stated capabilities quickly — but verification depth on individual listings varies widely by platform and by the specific supplier's own transparency. A marketplace listing with extensive photos and reviews is a reasonable starting point, not a substitute for your own reference checks and documentation requests."
+          "Marketplaces (Alibaba, Made-in-China, and similar) offer scale and searchability, you can compare many suppliers' stated capabilities quickly, but verification depth on individual listings varies widely by platform and by the specific supplier's own transparency. A marketplace listing with extensive photos and reviews is a reasonable starting point, not a substitute for your own reference checks and documentation requests."
         ]
       },
       {
         "heading": "What's the Advantage of Going Direct to a Supplier's Own Site?",
         "body": [
-          "Going direct means you can review a supplier's actual facility documentation, real photography, and specific capabilities on their own terms, without a marketplace's listing format constraining what they show you. The tradeoff is you're not comparing multiple suppliers side by side in the same interface the way a marketplace lets you — direct sourcing works best once you already have a reasonable shortlist, or when a supplier's own transparency is itself part of what convinces you."
+          "Going direct means you can review a supplier's actual facility documentation, real photography, and specific capabilities on their own terms, without a marketplace's listing format constraining what they show you. The tradeoff is you're not comparing multiple suppliers side by side in the same interface the way a marketplace lets you, direct sourcing works best once you already have a reasonable shortlist, or when a supplier's own transparency is itself part of what convinces you."
         ]
       },
       {
@@ -8815,7 +8974,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Should You Ever Skip the Verification Steps for a Trade-Show Contact?",
         "body": [
-          "No — even a positive in-person impression at a trade show is not a substitute for the documentation and reference checks covered in our [what to ask a supplier guide](/blog/what-to-ask-sunflower-seed-supplier). A good first meeting is a reason to move forward with vetting, not a reason to skip it."
+          "No, even a positive in-person impression at a trade show is not a substitute for the documentation and reference checks covered in our [what to ask a supplier guide](/blog/what-to-ask-sunflower-seed-supplier). A good first meeting is a reason to move forward with vetting, not a reason to skip it."
         ]
       },
       {
@@ -8831,13 +8990,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Is a Video Call Enough Verification If You Can't Visit the Facility in Person?",
         "body": [
-          "A live video walkthrough of the production floor and warehouse is a reasonable substitute when an in-person visit isn't practical — it lets you see real-time conditions rather than curated photos, and ask questions about specific equipment or processes as you go. It's not quite equivalent to a physical visit or a paid third-party inspection, but for buyers who can't travel, it's a meaningfully stronger check than photos and documents alone."
+          "A live video walkthrough of the production floor and warehouse is a reasonable substitute when an in-person visit isn't practical, it lets you see real-time conditions rather than curated photos, and ask questions about specific equipment or processes as you go. It's not quite equivalent to a physical visit or a paid third-party inspection, but for buyers who can't travel, it's a meaningfully stronger check than photos and documents alone."
         ]
       },
       {
         "heading": "How Long Should the Verification Process Take Before a First Order?",
         "body": [
-          "It varies by order size and how quickly documentation comes back, but a reasonable verification process — registration check, reference calls, sample review, and documentation request — typically takes one to three weeks for most buyers. A supplier pushing for a much faster timeline on a first, unproven order is worth a second look; legitimate suppliers are generally comfortable with a buyer taking the time to verify properly."
+          "It varies by order size and how quickly documentation comes back, but a reasonable verification process, registration check, reference calls, sample review, and documentation request, typically takes one to three weeks. A supplier pushing for a much faster timeline on a first, unproven order is worth a second look; legitimate suppliers are generally comfortable with a buyer taking the time to verify properly."
         ]
       },
       {
@@ -8848,7 +9007,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Our facility and production process are documented with real photography, published for any buyer to review directly."
         },
         "body": [
-          "Our [Capabilities section](/about#capabilities) documents our production lines, 16-stage inspection process, and facility directly with real photography — the same information we'd walk you through in person at a trade show is already published, whether you found us through a search, a marketplace listing, or a direct referral."
+          "Our [Capabilities section](/about#capabilities) documents our production lines, 16-stage inspection process, and facility directly with real photography, the same information we'd walk you through in person at a trade show is already published, whether you found us through a search, a marketplace listing, or a direct referral."
         ]
       },
       {
@@ -8882,7 +9041,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Start Verifying Us the Same Way",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form) and apply the same verification checklist you'd use for any supplier, wherever you found us."
+          "[Request samples and a specification sheet](/contact#quote-form) and apply the same verification checklist you'd use for any supplier, wherever you found us. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -8905,7 +9064,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "If you're planning a sunflower seed order for delivery in Q1, Chinese New Year is the single biggest scheduling factor to plan around — and the disruption window is considerably longer than the public holiday itself. Here's how it actually works."
+          "If you're planning a sunflower seed order for delivery in Q1, Chinese New Year is the single biggest scheduling factor to plan around, and the disruption window is considerably longer than the public holiday itself. Here's how it actually works."
         ]
       },
       {
@@ -8924,13 +9083,13 @@ export const blogPosts: BlogPost[] = [
           "caption": "Building inventory buffer ahead of the Chinese New Year shutdown window is standard practice for importers."
         },
         "body": [
-          "The 2027 Spring Festival falls on Saturday, February 6, and runs to the Lantern Festival on February 20 ([China Travel](https://www.chinatravel.com/chinese-new-year/date)). The official public holiday schedule for 2027 had not been published when we checked in October 2026, and published expectations of the break differ by a day or two, so confirm the dates once the State Council announces them. But the public holiday dates understate the real planning window — factories and freight capacity are affected well before and after those exact dates."
+          "The 2027 Spring Festival falls on Saturday, February 6, and runs to the Lantern Festival on February 20 ([China Travel](https://www.chinatravel.com/chinese-new-year/date)). The official public holiday schedule for 2027 had not been published when we checked in October 2026, and published expectations of the break differ by a day or two, so confirm the dates once the State Council announces them. But the public holiday dates understate the real planning window, factories and freight capacity are affected well before and after those exact dates."
         ]
       },
       {
         "heading": "How Long Does the Real Disruption Window Actually Last?",
         "body": [
-          "[The full disruption window typically spans six to eight weeks — manufacturers begin a gradual scale-down three to four weeks before the holiday, and it takes additional weeks after the holiday for factories to return to full capacity](https://insight-quality.com/chinese-new-year-factory-shutdown/), since many workers travel home for the holiday and don't return immediately. Treating this as a single closed week rather than a two-month window is the most common planning mistake."
+          "[The full disruption window typically spans six to eight weeks, manufacturers begin a gradual scale-down three to four weeks before the holiday, and it takes additional weeks after the holiday for factories to return to full capacity](https://insight-quality.com/chinese-new-year-factory-shutdown/), since many workers travel home for the holiday and don't return immediately. Treating this as a single closed week rather than a two-month window is the most common planning mistake."
         ]
       },
       {
@@ -8945,13 +9104,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "When Should You Place an Order to Avoid the Shutdown Window?",
         "body": [
-          "[Industry guidance generally recommends submitting purchase orders by November or December to ensure production starts before the pre-holiday slowdown begins](https://www.shipbob.com/blog/chinese-new-year-shutdown/), and scheduling shipment at least three to four weeks before the holiday itself so goods clear the port before freight capacity tightens. For a Q1-arrival order, this effectively means finalizing your order in Q4 — which is exactly why this topic matters for a buyer reading this in November or December."
+          "[Industry guidance generally recommends submitting purchase orders by November or December to ensure production starts before the pre-holiday slowdown begins](https://www.shipbob.com/blog/chinese-new-year-shutdown/), and scheduling shipment at least three to four weeks before the holiday itself so goods clear the port before freight capacity tightens. For a Q1-arrival order, this effectively means finalizing your order in Q4, which is exactly why this topic matters for a buyer reading this in November or December."
         ]
       },
       {
         "heading": "Should You Hold Extra Inventory to Cover the Shutdown Period?",
         "body": [
-          "Many experienced importers do — maintaining a 30-40% inventory buffer is a commonly cited guideline to cover the gap between your last pre-holiday shipment and your first post-holiday one, particularly if your business can't tolerate a supply gap of several weeks. Our [Q1 import planning checklist](/blog/q1-sunflower-seed-import-planning-checklist) walks through sizing that buffer against your own order cadence."
+          "Many experienced importers do, maintaining a 30-40% inventory buffer is a commonly cited guideline to cover the gap between your last pre-holiday shipment and your first post-holiday one, particularly if your business can't tolerate a supply gap of several weeks. Our [Q1 import planning checklist](/blog/q1-sunflower-seed-import-planning-checklist) walks through sizing that buffer against your own order cadence."
         ]
       },
       {
@@ -8962,37 +9121,37 @@ export const blogPosts: BlogPost[] = [
           "caption": "Working backward from a target arrival date to a realistic order deadline is the core of Chinese New Year planning."
         },
         "body": [
-          "Like most facilities in China, our own production schedule is affected by the holiday period. Confirm current production and shipping timelines directly with us when you request a quote, particularly if your target arrival date falls in Q1 — we'll help you work backward from your needed arrival date to a realistic order deadline."
+          "Like most facilities in China, our own production schedule is affected by the holiday period. Confirm current production and shipping timelines directly with us when you request a quote, particularly if your target arrival date falls in Q1, we'll help you work backward from your needed arrival date to a realistic order deadline."
         ]
       },
       {
         "heading": "What Should You Do If You're Reading This After the Ideal Ordering Window?",
         "body": [
-          "Reach out anyway — actual timelines vary by order size and current production schedule, and it's better to get a real answer on what's achievable than to assume the window has fully closed. Worst case, we'll confirm a realistic date on the other side of the shutdown period."
+          "Reach out anyway, actual timelines vary by order size and current production schedule, and it's better to get a real answer on what's achievable than to assume the window has fully closed. Worst case, we'll confirm a realistic date on the other side of the shutdown period."
         ]
       },
       {
         "heading": "Does the Shutdown Affect Ports and Customs Processing Too, or Just Factories?",
         "body": [
-          "Both, to varying degrees — Chinese ports generally continue operating during the holiday period, but with reduced staffing and slower processing than normal, which can add delay even for cargo that's already produced and ready to ship before the holiday begins. This is a separate effect from the factory-side slowdown and worth accounting for separately when estimating total transit time for a shipment moving through this window."
+          "Both, to varying degrees, Chinese ports generally continue operating during the holiday period, but with reduced staffing and slower processing than normal, which can add delay even for cargo that's already produced and ready to ship before the holiday begins. This is a separate effect from the factory-side slowdown and worth accounting for separately when estimating total transit time for a shipment moving through this window."
         ]
       },
       {
         "heading": "Does the Chinese New Year Disruption Affect All Suppliers Equally?",
         "body": [
-          "No — the length and severity of the slowdown varies by facility, largely based on how much of the workforce travels home for the holiday and how the factory manages the return-to-capacity ramp-up. Ask a specific supplier directly about their own typical shutdown and ramp-up dates rather than assuming a uniform, industry-wide timeline applies to every factory equally."
+          "No, the length and severity of the slowdown varies by facility, largely based on how much of the workforce travels home for the holiday and how the factory manages the return-to-capacity ramp-up. Ask a specific supplier directly about their own typical shutdown and ramp-up dates rather than assuming a uniform, industry-wide timeline applies to every factory equally."
         ]
       },
       {
         "heading": "Is This the Only Seasonal Disruption Worth Planning Around?",
         "body": [
-          "It's the largest, but not the only one — [harvest-season timing in September also affects availability and pricing](/blog/seasonal-harvest-timing-sunflower-seed-availability) at a different point in the year. Between the two, a buyer placing multiple orders annually is generally working around two distinct seasonal windows rather than one."
+          "It's the largest, but not the only one, [harvest-season timing in September also affects availability and pricing](/blog/seasonal-harvest-timing-sunflower-seed-availability) at a different point in the year. Between the two, a buyer placing multiple orders annually is generally working around two distinct seasonal windows rather than one."
         ]
       },
       {
         "heading": "Does the Disruption Window Shift From Year to Year?",
         "body": [
-          "Yes — because the Chinese New Year date follows the lunar calendar, its date moves between roughly late January and mid-February: it fell on January 22 in 2023 and on February 10 in 2024, so it can shift by about ten days earlier or by nearly three weeks later from one year to the next. This means a buyer can't simply reuse last year's exact planning calendar; the specific dates for submitting orders and booking freight need to be recalculated each year against the actual upcoming holiday dates, even though the underlying six-to-eight-week disruption pattern itself stays consistent."
+          "Yes, because the Chinese New Year date follows the lunar calendar, its date moves between roughly late January and mid-February: it fell on January 22 in 2023 and on February 10 in 2024, so it can shift by about ten days earlier or by nearly three weeks later from one year to the next. This means a buyer can't simply reuse last year's exact planning calendar; the specific dates for submitting orders and booking freight need to be recalculated each year against the actual upcoming holiday dates, even though the underlying six-to-eight-week disruption pattern itself stays consistent."
         ]
       },
       {
@@ -9071,9 +9230,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "Customs data show when goods left the country, not when factories stopped, so the figures cannot confirm how long a holiday disrupts production. The 2027 public holiday schedule had not been announced when we checked, and dates must be reconfirmed with your supplier."
+        ]
+      },
+      {
         "heading": "Plan Your Q1 Order Now",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target arrival date, and we'll help you plan a realistic timeline around the Chinese New Year period."
+          "[Request a quote](/contact#quote-form) with your target arrival date, and we'll help you plan a realistic timeline around the Chinese New Year period. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -9096,7 +9261,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Three separate factors converge on Q1 order timing: harvest-season pricing, the Chinese New Year factory shutdown, and standard documentation lead time. We've covered each individually — this brings them together into one year-end planning checklist."
+          "Three separate factors converge on Q1 order timing: harvest-season pricing, the Chinese New Year factory shutdown, and standard documentation lead time. We've covered each individually, this brings them together into one year-end planning checklist."
         ]
       },
       {
@@ -9115,48 +9280,48 @@ export const blogPosts: BlogPost[] = [
           "caption": "Confirming current inventory and production availability is the starting point for Q1 order planning."
         },
         "body": [
-          "Your target arrival date, worked backward to a realistic order-confirmation deadline. Given [Chinese New Year 2027 disruption effectively runs from early January through mid-March](/blog/chinese-new-year-sunflower-seed-shipping), an order intended to arrive in February or early March needs to be confirmed well before the shutdown window begins — realistically by mid-to-late December for most order sizes."
+          "Your target arrival date, worked backward to a realistic order-confirmation deadline. Given [Chinese New Year 2027 disruption effectively runs from early January through mid-March](/blog/chinese-new-year-sunflower-seed-shipping), an order intended to arrive in February or early March needs to be confirmed well before the shutdown window begins, realistically by mid-to-late December for most order sizes."
         ]
       },
       {
         "heading": "How Does Harvest Timing Factor Into Q1 Planning?",
         "body": [
-          "[Sunflower harvest in Inner Mongolia happens in September, with pricing typically lowest immediately post-harvest and rising through the storage year as available stock draws down](/blog/seasonal-harvest-timing-sunflower-seed-availability). A Q1 order is being priced several months into that post-harvest cycle — worth factoring into budget expectations rather than assuming harvest-season pricing still applies."
+          "[Sunflower harvest in Inner Mongolia happens in September, with pricing typically lowest immediately post-harvest and rising through the storage year as available stock draws down](/blog/seasonal-harvest-timing-sunflower-seed-availability). A Q1 order is being priced several months into that post-harvest cycle, worth factoring into budget expectations rather than assuming harvest-season pricing still applies."
         ]
       },
       {
         "heading": "Q1 Planning Checklist",
         "list": [
           "Confirm your target arrival date and work backward to an order-confirmation deadline, accounting for the Chinese New Year shutdown window",
-          "Request current pricing — don't assume post-harvest pricing still applies this far into the marketing year",
+          "Request current pricing, don't assume post-harvest pricing still applies this far into the marketing year",
           "Confirm current production lead time with your supplier, which can shift meaningfully around the holiday period",
           "If applicable, confirm current tariff/duty status for your specific [HS classification](https://hts.usitc.gov/search) before finalizing a landed-cost budget",
-          "Build in buffer time for documentation — phytosanitary certificate, certificate of origin, and Prior Notice filing for US-bound shipments — rather than assuming the fastest-case timeline",
+          "Build in buffer time for documentation, phytosanitary certificate, certificate of origin, and Prior Notice filing for US-bound shipments, rather than assuming the fastest-case timeline",
           "If you typically hold lean inventory, consider whether a larger Q4 order makes sense to cover the Chinese New Year gap"
         ]
       },
       {
         "heading": "Should You Place a Larger Order to Cover the Chinese New Year Period?",
         "body": [
-          "For buyers who can't tolerate a supply gap, this is a common strategy — ordering a larger volume in Q4 for arrival before the shutdown window, rather than a smaller order timed to arrive during the disruption period itself. Whether this makes sense depends on your storage capacity, cash flow, and how tight your typical inventory turnover is. Checking [current sunflower seed trade flow data](https://www.trademap.org/Browse/Product.aspx?PID=120600) can also help you gauge whether global supply is unusually tight heading into a given Q1."
+          "For buyers who can't tolerate a supply gap, this is a common strategy, ordering a larger volume in Q4 for arrival before the shutdown window, rather than a smaller order timed to arrive during the disruption period itself. Whether this makes sense depends on your storage capacity, cash flow, and how tight your typical inventory turnover is. Checking [current sunflower seed trade flow data](https://www.trademap.org/Browse/Product.aspx?PID=120600) can also help you gauge whether global supply is unusually tight heading into a given Q1."
         ]
       },
       {
         "heading": "What Documentation Should Be Confirmed Before Year-End?",
         "body": [
-          "If this isn't your first order with your supplier, confirm your documentation set is current — certifications can lapse, and a document valid for your last order may need renewal. If it is your first order, review our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for the full documentation checklist well before you need it."
+          "If this isn't your first order with your supplier, confirm your documentation set is current, certifications can lapse, and a document valid for your last order may need renewal. If it is your first order, review our [complete import guide](/blog/how-to-import-sunflower-seeds-from-china) for the full documentation checklist well before you need it."
         ]
       },
       {
         "heading": "Is Now a Good Time to Discuss a Longer-Term Supply Agreement?",
         "body": [
-          "Year-end planning is a natural point to consider this — if you're placing a Q1 order and expect to need multiple orders through the coming year, discussing a [longer-term supply agreement](/blog/sunflower-seed-supply-contract-terms) now can lock in more predictable terms than renegotiating from scratch on every individual order."
+          "Year-end planning is a natural point to consider this, if you're placing a Q1 order and expect to need multiple orders through the coming year, discussing a [longer-term supply agreement](/blog/sunflower-seed-supply-contract-terms) now can lock in more predictable terms than renegotiating from scratch on every individual order."
         ]
       },
       {
         "heading": "Should You Budget for Different Freight Rates in Q1 Than Other Quarters?",
         "body": [
-          "It's worth checking rather than assuming rates stay flat — ocean freight capacity tightens meaningfully in the weeks around Chinese New Year as noted above, which can push spot rates higher for bookings made close to or during that window. Getting a rate quote earlier, alongside your production timeline, gives you a more accurate landed-cost estimate than assuming your last quarter's freight rate still applies."
+          "It's worth checking rather than assuming rates stay flat, ocean freight capacity tightens meaningfully in the weeks around Chinese New Year as noted above, which can push spot rates higher for bookings made close to or during that window. Getting a rate quote earlier, alongside your production timeline, gives you a more accurate landed-cost estimate than assuming your last quarter's freight rate still applies."
         ]
       },
       {
@@ -9168,7 +9333,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Does This Checklist Apply the Same Way to a Small Trial Order as a Full Container?",
         "body": [
-          "The same factors apply either way, but the stakes differ — a buyer placing a small trial order has more flexibility to absorb a delay or timing surprise, while a buyer committing to a full container for Q1 delivery has less room for error and benefits more from confirming each item on this checklist well in advance."
+          "The same factors apply either way, but the stakes differ, a buyer placing a small trial order has more flexibility to absorb a delay or timing surprise, while a buyer committing to a full container for Q1 delivery has less room for error and benefits more from confirming each item on this checklist well in advance."
         ]
       },
       {
@@ -9179,14 +9344,14 @@ export const blogPosts: BlogPost[] = [
           "caption": "Working backward from your target arrival date accounts for both harvest-season pricing and the Chinese New Year period."
         },
         "body": [
-          "Reach out with your target arrival date as early as possible — we'll help you work backward to a realistic order and shipping timeline that accounts for both harvest-season pricing and the [Chinese New Year period](https://ship4wd.com/import-guides/when-factories-close-for-the-chinese-new-year)."
+          "Reach out with your target arrival date as early as possible, we'll help you work backward to a realistic order and shipping timeline that accounts for both harvest-season pricing and the [Chinese New Year period](https://ship4wd.com/import-guides/when-factories-close-for-the-chinese-new-year)."
         ]
       },
       {
         "heading": "Should This Checklist Be Revisited Mid-Quarter If Circumstances Change?",
         "body": [
-          "Yes — a checklist confirmed in December can still shift by January if a supplier's production schedule changes, freight rates move unexpectedly, or your own volume needs change. Treating this as a one-time exercise completed at year-end rather than a plan worth a quick reconfirmation partway through the quarter is a common way small assumptions go stale by the time they actually matter.",
-          "A brief check-in with your supplier a few weeks before your confirmed shipping date — verifying the production and freight timeline still holds — costs little and catches most of the surprises that would otherwise show up as a missed arrival date."
+          "Yes, a checklist confirmed in December can still shift by January if a supplier's production schedule changes, freight rates move unexpectedly, or your own volume needs change. Treating this as a one-time exercise completed at year-end rather than a plan worth a quick reconfirmation partway through the quarter is a common way small assumptions go stale by the time they actually matter.",
+          "A brief check-in with your supplier a few weeks before your confirmed shipping date, verifying the production and freight timeline still holds, costs little and catches most of the surprises that would otherwise show up as a missed arrival date."
         ]
       },
       {
@@ -9275,9 +9440,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The dates are calculated from the 2027 holiday date and a general planning rule of thumb, not from your supplier's schedule. Confirm production, booking and arrival dates with your supplier and forwarder before you rely on them."
+        ]
+      },
+      {
         "heading": "Start Planning Your Q1 Order",
         "body": [
-          "[Request a quote](/contact#quote-form) with your target arrival date, and we'll confirm a realistic timeline and current pricing for your Q1 order."
+          "[Request a quote](/contact#quote-form) with your target arrival date, and we'll confirm a realistic timeline and current pricing for your Q1 order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -9300,7 +9471,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "A first order is mostly about verification — samples, documentation, a trial shipment to confirm everything works as promised. A second or third order is a different relationship. Here's what actually changes."
+          "A first order is mostly about verification, samples, documentation, a trial shipment to confirm everything works as promised. A second or third order is a different relationship. Here's what actually changes."
         ]
       },
       {
@@ -9322,31 +9493,31 @@ export const blogPosts: BlogPost[] = [
           "Faster quote turnaround, since the supplier already has your specs and history on file",
           "More room to negotiate on MOQ, payment terms, or lead time based on your actual order pattern",
           "Less need for full documentation review each time, once a consistent track record is established",
-          "A more direct communication relationship — fewer formal introductions, more working-level coordination"
+          "A more direct communication relationship, fewer formal introductions, more working-level coordination"
         ]
       },
       {
         "heading": "Should You Renegotiate Payment Terms Once You're a Repeat Buyer?",
         "body": [
-          "It's worth raising — a supplier who required a larger deposit or stricter terms for a first, unproven order may be willing to adjust for a buyer with a demonstrated payment history. This isn't automatic, so ask directly rather than assuming terms are fixed indefinitely."
+          "It's worth raising, a supplier who required a larger deposit or stricter terms for a first, unproven order may be willing to adjust for a buyer with a demonstrated payment history. This isn't automatic, so ask directly rather than assuming terms are fixed indefinitely."
         ]
       },
       {
         "heading": "Does MOQ Flexibility Change for Repeat Buyers?",
         "body": [
-          "Often, yes — [some suppliers treat MOQ more as a starting point for negotiation than a hard floor, particularly for buyers with an established order history](/blog/sunflower-seed-moq-explained). If your typical order sits close to a supplier's stated minimum, a documented track record is a reasonable basis to ask whether some flexibility exists for a specific repeat order."
+          "Often, yes, [some suppliers treat MOQ more as a starting point for negotiation than a hard floor, particularly for buyers with an established order history](/blog/sunflower-seed-moq-explained). If your typical order sits close to a supplier's stated minimum, a documented track record is a reasonable basis to ask whether some flexibility exists for a specific repeat order."
         ]
       },
       {
         "heading": "How Should You Handle a Quality or Timing Issue With a Trusted Repeat Supplier?",
         "body": [
-          "The same way you would with any supplier — document the specific issue clearly, raise it directly, and confirm how it will be resolved before the next order. A strong track record with a supplier doesn't mean lowering your standards on inspection or documentation; it means you have a better basis for a direct, solution-focused conversation when something does go wrong."
+          "The same way you would with any supplier, document the specific issue clearly, raise it directly, and confirm how it will be resolved before the next order. A strong track record with a supplier doesn't mean lowering your standards on inspection or documentation; it means you have a better basis for a direct, solution-focused conversation when something does go wrong."
         ]
       },
       {
         "heading": "Should You Still Request Samples for Every Reorder?",
         "body": [
-          "Not necessarily for every single reorder, but it's reasonable to periodically re-confirm quality — especially around harvest season transitions, when [seasonal timing can affect availability and, occasionally, quality consistency](/blog/seasonal-harvest-timing-sunflower-seed-availability). Many repeat buyers scale back from full sample-checking to periodic [third-party inspections](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) once trust is well established, rather than dropping verification altogether."
+          "Not necessarily for every single reorder, but it's reasonable to periodically re-confirm quality, especially around harvest season transitions, when [seasonal timing can affect availability and, occasionally, quality consistency](/blog/seasonal-harvest-timing-sunflower-seed-availability). Many repeat buyers scale back from full sample-checking to periodic [third-party inspections](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) once trust is well established, rather than dropping verification altogether."
         ]
       },
       {
@@ -9357,37 +9528,37 @@ export const blogPosts: BlogPost[] = [
           "caption": "A written long-term supply agreement locks in pricing stability and priority scheduling rather than renegotiating from scratch each order."
         },
         "body": [
-          "For buyers planning multiple orders over an extended period, yes — a longer-term supply agreement can lock in pricing stability, priority production scheduling, and agreed terms rather than renegotiating from scratch on every order. See our [guide to supply contract terms](/blog/sunflower-seed-supply-contract-terms) for what's worth including."
+          "For buyers planning multiple orders over an extended period, yes, a longer-term supply agreement can lock in pricing stability, priority production scheduling, and agreed terms rather than renegotiating from scratch on every order. See our [guide to supply contract terms](/blog/sunflower-seed-supply-contract-terms) for what's worth including."
         ]
       },
       {
         "heading": "At What Point Does a Buyer Typically Become a 'Repeat' Buyer Rather Than a One-Off?",
         "body": [
-          "There's no fixed threshold, but most suppliers start treating a relationship as ongoing after two or three consistent orders over six to twelve months — enough to establish a pattern rather than a single transaction. If you know upfront that you're planning a recurring buying relationship rather than a one-time purchase, it's worth saying so early; suppliers often price and prioritize differently for a buyer who signals long-term intent from the start, a dynamic also reflected in general [B2B procurement best-practice guidance](https://www.maplesourcing.com/request-for-quotation-in-procurement-examples-and-best-practices.html) around building supplier relationships over time rather than treating every purchase as a one-off transaction."
+          "There's no fixed threshold, but most suppliers start treating a relationship as ongoing after two or three consistent orders over six to twelve months, enough to establish a pattern rather than a single transaction. If you know upfront that you're planning a recurring buying relationship rather than a one-time purchase, it's worth saying so early; suppliers often price and prioritize differently for a buyer who signals long-term intent from the start, a dynamic also reflected in general [B2B procurement best-practice guidance](https://www.maplesourcing.com/request-for-quotation-in-procurement-examples-and-best-practices.html) around building supplier relationships over time rather than treating every purchase as a one-off transaction."
         ]
       },
       {
         "heading": "Can Priority Production Scheduling Really Make a Difference for Repeat Buyers?",
         "body": [
-          "Yes, particularly around harvest-season demand spikes when [processing capacity gets tighter across the industry](/blog/seasonal-harvest-timing-sunflower-seed-availability). A supplier who knows a buyer places predictable, recurring orders has a practical incentive to slot that buyer's production earlier in the queue rather than treating every order as first-come, first-served — but this typically has to be discussed and agreed on directly, not assumed."
+          "Yes, particularly around harvest-season demand spikes when [processing capacity gets tighter across the industry](/blog/seasonal-harvest-timing-sunflower-seed-availability). A supplier who knows a buyer places predictable, recurring orders has a practical incentive to slot that buyer's production earlier in the queue rather than treating every order as first-come, first-served, but this typically has to be discussed and agreed on directly, not assumed."
         ]
       },
       {
         "heading": "What Should You Do If a Long-Term Supplier's Pricing Starts Drifting From Market Rates?",
         "body": [
-          "Raise it directly and ask for an explanation before assuming bad faith — input costs, freight rates, and currency movements genuinely shift a supplier's cost base over time, and a long-term relationship doesn't mean pricing stays frozen indefinitely. Checking [broader trade data on sunflower seed export values](https://tradingeconomics.com/european-union/exports/united-states/sunflower-seeds-broken) can help you tell whether a price change reflects the wider market or is specific to your supplier. What a strong relationship should get you is transparency about why a price is moving and advance notice before it changes, rather than a surprise on your next invoice."
+          "Raise it directly and ask for an explanation before assuming bad faith, input costs, freight rates, and currency movements genuinely shift a supplier's cost base over time, and a long-term relationship doesn't mean pricing stays frozen indefinitely. Checking [broader trade data on sunflower seed export values](https://tradingeconomics.com/european-union/exports/united-states/sunflower-seeds-broken) can help you tell whether a price change reflects the wider market or is specific to your supplier. What a strong relationship should get you is transparency about why a price is moving and advance notice before it changes, rather than a surprise on your next invoice."
         ]
       },
       {
         "heading": "What Does a Long-Term Relationship Look Like From XingYi Trading's Side?",
         "body": [
-          "We've operated from Bayannur since 2014, and repeat buyers get the benefit of that operating history directly — consistent grade and size across harvest seasons, documented quality control, and a team that already understands your specific product requirements rather than starting from zero on every order."
+          "We've operated from Bayannur since 2014, and repeat buyers get the benefit of that operating history directly, consistent grade and size across harvest seasons, documented quality control, and a team that already understands your specific product requirements rather than starting from zero on every order."
         ]
       },
       {
         "heading": "Do Repeat Buyers Get Any Advantage During Tight-Supply Periods?",
         "body": [
-          "Often, yes, though it's rarely formalized as an explicit guarantee — a supplier managing constrained capacity during a tight-supply period (post-harvest demand spikes, pre-Chinese-New-Year rushes) is generally more inclined to prioritize a buyer with a known, reliable order history over a new or infrequent one, simply because the relationship carries more expected future value. This isn't the same as a contractually guaranteed allocation unless it's specifically negotiated as part of a supply agreement, so a buyer who wants that certainty rather than an informal expectation should raise it directly and get it documented."
+          "Often, yes, though it's rarely formalized as an explicit guarantee, a supplier managing constrained capacity during a tight-supply period (post-harvest demand spikes, pre-Chinese-New-Year rushes) is generally more inclined to prioritize a buyer with a known, reliable order history over a new or infrequent one, simply because the relationship carries more expected future value. This isn't the same as a contractually guaranteed allocation unless it's specifically negotiated as part of a supply agreement, so a buyer who wants that certainty rather than an informal expectation should raise it directly and get it documented."
         ]
       },
       {
@@ -9462,9 +9633,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "A supplier relationship depends on the people and terms involved, and this guide gives general practice, not a promise of price, supply or priority. Terms for repeat orders have to be written into the contract."
+        ]
+      },
+      {
         "heading": "Start Building a Long-Term Relationship",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form) for your first order, with an eye toward what a repeat relationship could look like down the line."
+          "[Request samples and a specification sheet](/contact#quote-form) for your first order, with an eye toward what a repeat relationship could look like down the line. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -9487,7 +9664,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "A basic purchase order covers price, quantity, and delivery — a real supply agreement covers what happens when something doesn't go as planned. Here's what experienced buyers include beyond the basics."
+          "A basic purchase order covers price, quantity, and delivery, a real supply agreement covers what happens when something doesn't go as planned. Here's what experienced buyers include beyond the basics."
         ]
       },
       {
@@ -9501,7 +9678,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "What Should a Sunflower Seed Supply Contract Cover Beyond Price and Quantity?",
         "list": [
-          "Detailed product specification — series, grade, moisture/purity thresholds, and form (raw/roasted, in-shell/kernel)",
+          "Detailed product specification, series, grade, moisture/purity thresholds, and form (raw/roasted, in-shell/kernel)",
           "Packaging format and any private-label/branding requirements",
           "Delivery schedule, lead times, and destination port",
           "Payment terms and the exact trigger for balance payment",
@@ -9517,19 +9694,19 @@ export const blogPosts: BlogPost[] = [
           "caption": "A written specification tied to measurable thresholds is what turns \"sunflower seeds\" into an enforceable contract term."
         },
         "body": [
-          "[A product specification is the detailed, objective description of what you're actually buying](https://legalvision.com.au/food-industry-supplier-agreement/) — without one written into the agreement, \"sunflower seeds\" alone leaves grade, moisture content, and purity thresholds open to interpretation if a dispute arises. Referencing your agreed spec sheet directly in the contract closes that gap."
+          "[A product specification is the detailed, objective description of what you're actually buying](https://legalvision.com.au/food-industry-supplier-agreement/), without one written into the agreement, \"sunflower seeds\" alone leaves grade, moisture content, and purity thresholds open to interpretation if a dispute arises. Referencing your agreed spec sheet directly in the contract closes that gap."
         ]
       },
       {
         "heading": "What Should the Contract Say About a Shipment That Doesn't Match the Sample?",
         "body": [
-          "This is worth addressing explicitly before you need it, not after a problem occurs — specify how sample-matching will be verified (independent testing, agreed tolerance ranges) and what remedy applies if a shipment falls outside those tolerances (replacement, credit, partial refund). Leaving this undefined means negotiating remedies from scratch during an actual dispute, which is a worse position for both sides."
+          "This is worth addressing explicitly before you need it, not after a problem occurs, specify how sample-matching will be verified (independent testing, agreed tolerance ranges) and what remedy applies if a shipment falls outside those tolerances (replacement, credit, partial refund). Leaving this undefined means negotiating remedies from scratch during an actual dispute, which is a worse position for both sides."
         ]
       },
       {
         "heading": "Should Pricing Be Fixed for the Contract Term, or Allowed to Adjust?",
         "body": [
-          "[Agreements covering an extended period often include provisions for price adjustment tied to specific triggers](https://www.inecta.com/blog/a-comprehensive-guide-to-outsourced-food-manufacturing) — raw material cost shifts, seasonal harvest pricing changes, or freight rate movements — rather than a single fixed price for the full term. A fixed price protects the buyer from cost increases but can also mean a supplier pushes back on volume commitments if market prices move significantly against them; an adjustment mechanism tied to a transparent index is often a more durable structure for a multi-order relationship."
+          "[Agreements covering an extended period often include provisions for price adjustment tied to specific triggers](https://www.inecta.com/blog/a-comprehensive-guide-to-outsourced-food-manufacturing), raw material cost shifts, seasonal harvest pricing changes, or freight rate movements, rather than a single fixed price for the full term. A fixed price protects the buyer from cost increases but can also mean a supplier pushes back on volume commitments if market prices move significantly against them; an adjustment mechanism tied to a transparent index is often a more durable structure for a multi-order relationship."
         ]
       },
       {
@@ -9541,13 +9718,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Should a Force Majeure Clause Address Something Specific to This Industry?",
         "body": [
-          "A general force majeure clause (covering events like natural disasters or major supply chain disruptions) is standard, but for sunflower seed sourcing from China specifically, it's worth confirming how the clause treats [predictable seasonal disruptions like the Chinese New Year factory shutdown](/blog/chinese-new-year-sunflower-seed-shipping) — that's a known, recurring event rather than a true force majeure surprise, so a well-drafted contract should distinguish planned seasonal timing from genuine unforeseeable disruption."
+          "A general force majeure clause (covering events like natural disasters or major supply chain disruptions) is standard, but for sunflower seed sourcing from China specifically, it's worth confirming how the clause treats [predictable seasonal disruptions like the Chinese New Year factory shutdown](/blog/chinese-new-year-sunflower-seed-shipping), that's a known, recurring event rather than a true force majeure surprise, so a well-drafted contract should distinguish planned seasonal timing from genuine unforeseeable disruption."
         ]
       },
       {
         "heading": "Does a Contract Need to Address Termination Terms?",
         "body": [
-          "Yes — even in a relationship you expect to be long-term, specifying the conditions and notice period for either party to exit the agreement avoids ambiguity if circumstances change. This isn't a sign of distrust; it's standard commercial practice in any ongoing supply relationship."
+          "Yes, even in a relationship you expect to be long-term, specifying the conditions and notice period for either party to exit the agreement avoids ambiguity if circumstances change. This isn't a sign of distrust; it's standard commercial practice in any ongoing supply relationship."
         ]
       },
       {
@@ -9558,19 +9735,19 @@ export const blogPosts: BlogPost[] = [
           "caption": "Specifying arbitration venue and governing law upfront avoids negotiating jurisdiction during an actual dispute."
         },
         "body": [
-          "Yes — specifying a dispute resolution method (arbitration venue, governing law, and language) upfront avoids a much harder negotiation over jurisdiction if a real disagreement ever arises. For cross-border agreements between a US or EU buyer and a China-based supplier, international arbitration under a recognized body is common, since it's typically more enforceable across borders than a court judgment from either party's home country."
+          "Yes, specifying a dispute resolution method (arbitration venue, governing law, and language) upfront avoids a much harder negotiation over jurisdiction if a real disagreement ever arises. For cross-border agreements between a US or EU buyer and a China-based supplier, international arbitration under a recognized body is common, since it's typically more enforceable across borders than a court judgment from either party's home country."
         ]
       },
       {
         "heading": "Does a Private-Label Agreement Need Confidentiality or IP Terms?",
         "body": [
-          "Yes, if you're sharing proprietary packaging designs, branding, or a custom specification — a basic confidentiality clause protecting your private-label artwork and formulation details, and clear language confirming you retain ownership of your own branding, is standard practice and worth including even in an otherwise simple agreement. See our [private-label sourcing guide](/blog/private-label-sunflower-seeds) for how artwork ownership typically works in practice."
+          "Yes, if you're sharing proprietary packaging designs, branding, or a custom specification, a basic confidentiality clause protecting your private-label artwork and formulation details, and clear language confirming you retain ownership of your own branding, is standard practice and worth including even in an otherwise simple agreement. See our [private-label sourcing guide](/blog/private-label-sunflower-seeds) for how artwork ownership typically works in practice."
         ]
       },
       {
         "heading": "How Often Should an Existing Supply Contract Be Reviewed or Updated?",
         "body": [
-          "Annually is a reasonable default for an ongoing relationship, or whenever a material change occurs — a significant volume shift, a new product spec, or a pricing renegotiation. Treating a supply contract as a living document that gets revisited periodically, rather than a one-time document signed and forgotten, keeps it actually useful as the relationship evolves."
+          "Annually is a reasonable default for an ongoing relationship, or whenever a material change occurs, a significant volume shift, a new product spec, or a pricing renegotiation. Treating a supply contract as a living document that gets revisited periodically, rather than a one-time document signed and forgotten, keeps it actually useful as the relationship evolves."
         ]
       },
       {
@@ -9583,7 +9760,7 @@ export const blogPosts: BlogPost[] = [
         "heading": "Who Should Review a Supply Contract Before You Sign It?",
         "body": [
           "For a first significant contract with a new supplier, having a lawyer familiar with international trade or food-industry supply agreements review it before signing is a reasonable investment, particularly for the dispute-resolution, liability, and force majeure sections where the cost of an ambiguous clause is highest. This doesn't need to happen for every routine reorder once a relationship is established, but it's worth it for the initial agreement that sets the terms everything else builds on.",
-          "Buyers without in-house legal counsel sometimes skip this step to save time or cost on a first order, reasoning that the relationship is still small enough that a dispute is unlikely — but the terms agreed at the start of a relationship tend to carry forward into every subsequent order under the same contract, so an ambiguity that seemed minor at signing can matter considerably more once volume has scaled up."
+          "Buyers without in-house legal counsel sometimes skip this step to save time or cost on a first order, reasoning that the relationship is still small enough that a dispute is unlikely, but the terms agreed at the start of a relationship tend to carry forward into every subsequent order under the same contract, so an ambiguity that seemed minor at signing can matter considerably more once volume has scaled up."
         ]
       },
       {
@@ -9646,7 +9823,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Discuss a Supply Agreement",
         "body": [
-          "[Request a quote](/contact#quote-form) and let us know if you're interested in discussing a longer-term supply agreement rather than a single order."
+          "[Request a quote](/contact#quote-form) and let us know if you're interested in discussing a longer-term supply agreement rather than a single order. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -9688,7 +9865,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Every batch starts with raw material inspection before it enters the processing line."
         },
         "body": [
-          "Raw material inspection — checking [moisture content](https://www.sunflowernsa.com/growers/HarvestingStorage/), visible foreign material, and general batch condition before the seed enters the rest of the line. This first checkpoint matters because any moisture or contamination issue is far cheaper to catch here than after the batch has already been through multiple downstream processing stages."
+          "Raw material inspection, checking [moisture content](https://www.sunflowernsa.com/growers/HarvestingStorage/), visible foreign material, and general batch condition before the seed enters the rest of the line. This first checkpoint matters because any moisture or contamination issue is far cheaper to catch here than after the batch has already been through multiple downstream processing stages."
         ]
       },
       {
@@ -9699,7 +9876,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Cleaning and screening remove undersized, misshapen, and foreign material before finer sorting begins."
         },
         "body": [
-          "Primary screening removes undersized and misshapen seeds using mechanical sieves sized to the target grade, while stone removal and gravity separation equipment pull out stones, soil, and lighter debris by density difference. These are mechanical, physical separation stages — no chemicals involved — that narrow the batch down to seed matching the target size and density profile before it moves to optical sorting."
+          "Primary screening removes undersized and misshapen seeds using mechanical sieves sized to the target grade, while stone removal and gravity separation equipment pull out stones, soil, and lighter debris by density difference. These are mechanical, physical separation stages, no chemicals involved, that narrow the batch down to seed matching the target size and density profile before it moves to optical sorting."
         ]
       },
       {
@@ -9710,7 +9887,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Optical color sorters remove discolored kernels that can indicate mold or age."
         },
         "body": [
-          "Optical color-sorting equipment scans seed at high speed and rejects anything discolored — a possible sign of mold, age, or damage — that wouldn't be caught reliably by visual manual inspection alone at production volume. This stage runs on the same batch multiple times in some processing lines (a primary and secondary color sort) to catch what the first pass might miss."
+          "Optical color-sorting equipment scans seed at high speed and rejects anything discolored, a possible sign of mold, age, or damage, that wouldn't be caught reliably by visual manual inspection alone at production volume. This stage runs on the same batch multiple times in some processing lines (a primary and secondary color sort) to catch what the first pass might miss."
         ]
       },
       {
@@ -9721,7 +9898,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "X-ray inspection catches internal defects and foreign objects that visual and color sorting can't detect."
         },
         "body": [
-          "X-ray imaging detects internal defects — like interior insect damage — and foreign objects (stone fragments, metal) that neither visual inspection nor color sorting can catch, since these issues aren't visible from the outside of an intact kernel or shell. This is one of the more advanced stages in the line, and not every processing facility has this capability — worth asking a supplier about directly if internal defect detection matters for your product."
+          "X-ray imaging detects internal defects, like interior insect damage, and foreign objects (stone fragments, metal) that neither visual inspection nor color sorting can catch, since these issues aren't visible from the outside of an intact kernel or shell. This is one of the more advanced stages in the line, and not every processing facility has this capability, worth asking a supplier about directly if internal defect detection matters for your product."
         ]
       },
       {
@@ -9732,37 +9909,37 @@ export const blogPosts: BlogPost[] = [
           "caption": "Inspected, graded seed is packed into export bags on an automated line."
         },
         "body": [
-          "Once a batch clears every inspection stage, it moves to automated packaging — filled into the [bag format](/blog/sunflower-seed-packaging-options-bulk-export) specified for that order, whether standard PP woven bags, private-label bags, or another format. Packaging is generally the last stage before a batch moves to storage or directly to loading for shipment."
+          "Once a batch clears every inspection stage, it moves to automated packaging, filled into the [bag format](/blog/sunflower-seed-packaging-options-bulk-export) specified for that order, whether standard PP woven bags, private-label bags, or another format. Packaging is generally the last stage before a batch moves to storage or directly to loading for shipment."
         ]
       },
       {
         "heading": "How Many Total Stages Does a Batch Pass Through?",
         "body": [
-          "Our own line runs [16 total stages](/about#capabilities) from raw material inspection through final packaging — the sequence above covers the major checkpoints, but the full process includes additional screening and sorting passes to consistently hit target grade specifications."
+          "Our own line runs [16 total stages](/about#capabilities) from raw material inspection through final packaging, the sequence above covers the major checkpoints, but the full process includes additional screening and sorting passes to consistently hit target grade specifications."
         ]
       },
       {
         "heading": "Does Every Supplier's Processing Line Look Like This?",
         "body": [
-          "No — processing line sophistication varies significantly between suppliers, which is part of why [asking specifically about a supplier's inspection stages and equipment](/blog/what-to-ask-sunflower-seed-supplier) — not just accepting a general \"quality controlled\" claim, or a certification name dropped without documentation — is worth doing before committing to an order. [GFSI-benchmarked schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) exist precisely because \"quality controlled\" means very different things across different facilities, and independent inspectors like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) are one way to verify a specific facility's actual process against the claim."
+          "No, processing line sophistication varies significantly between suppliers, which is part of why [asking specifically about a supplier's inspection stages and equipment](/blog/what-to-ask-sunflower-seed-supplier), not just accepting a general \"quality controlled\" claim, or a certification name dropped without documentation, is worth doing before committing to an order. [GFSI-benchmarked schemes](https://en.wikipedia.org/wiki/Global_Food_Safety_Initiative) exist precisely because \"quality controlled\" means very different things across different facilities, and independent inspectors like [SGS](https://www.sgs.com/en-us/industry/agriculture-and-forestry/agricultural-commodities) are one way to verify a specific facility's actual process against the claim."
         ]
       },
       {
         "heading": "How Long Does a Batch Take to Move Through the Entire Line?",
         "body": [
-          "This varies by batch size and target grade, but a typical run through cleaning, sorting, inspection, and packaging takes a matter of hours for a given lot, not days — the constraint on total order lead time is usually less about processing-line speed itself and more about production scheduling, available raw material, and how many batches need to run to fill an order's total volume."
+          "This varies by batch size and target grade, but a typical run through cleaning, sorting, inspection, and packaging takes a matter of hours for a given lot, not days, the constraint on total order lead time is usually less about processing-line speed itself and more about production scheduling, available raw material, and how many batches need to run to fill an order's total volume."
         ]
       },
       {
         "heading": "What Happens to Seed That Gets Rejected During Sorting or Inspection?",
         "body": [
-          "Rejected material is separated out and doesn't enter the export-grade batch — depending on the reason for rejection, it may be reprocessed for a lower grade product, sold into a different market with different specifications, or discarded if it fails a food-safety threshold like mold or contamination. This is part of why a facility running multiple grade lines (like our [361, 363, and TQ6 series](/products)) can make productive use of material that doesn't meet the top-tier spec, rather than treating every rejection as waste."
+          "Rejected material is separated out and doesn't enter the export-grade batch, depending on the reason for rejection, it may be reprocessed for a lower grade product, sold into a different market with different specifications, or discarded if it fails a food-safety threshold like mold or contamination. This is part of why a facility running multiple grade lines (like our [361, 363, and TQ6 series](/products)) can make productive use of material that doesn't meet the top-tier spec, rather than treating every rejection as waste."
         ]
       },
       {
         "heading": "Is Roasting Part of This Same Processing Line?",
         "body": [
-          "Roasting, when ordered, is typically a separate stage from the raw-seed cleaning and sorting line described above — raw seed is cleaned and graded first, and roasting (along with any flavoring) happens afterward, since roasting parameters and flavor profiles vary by order and roasted product needs its own quality checkpoints after the roasting stage itself."
+          "Roasting, when ordered, is typically a separate stage from the raw-seed cleaning and sorting line described above, raw seed is cleaned and graded first, and roasting (along with any flavoring) happens afterward, since roasting parameters and flavor profiles vary by order and roasted product needs its own quality checkpoints after the roasting stage itself."
         ]
       },
       {
@@ -9829,9 +10006,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "The description of the line is the company's own account of its processing steps and has not been checked by an independent party. Capacity and quality figures for your order should come from the supplier's records and from your own testing."
+        ]
+      },
+      {
         "heading": "See Our Process Firsthand",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form), or ask about a video walkthrough of our facility if you can't visit Bayannur in person."
+          "[Request samples and a specification sheet](/contact#quote-form), or ask about a video walkthrough of our facility if you can't visit Bayannur in person. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -9854,7 +10037,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Tariff status on US-China trade shifts over time, and it varies by exact HS subheading — this article is a general framework for understanding how tariffs affect your landed cost, not a source for current rates. This is general information, not legal or compliance advice; confirm current rates with a licensed customs broker or CBP directly before finalizing a cost estimate."
+          "Tariff status on US-China trade shifts over time, and it varies by exact HS subheading, this article is a general framework for understanding how tariffs affect your landed cost, not a source for current rates. This is general information, not legal or compliance advice; confirm current rates with a licensed customs broker or CBP directly before finalizing a cost estimate."
         ]
       },
       {
@@ -9879,13 +10062,13 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Are Sunflower Seeds Specifically Subject to Section 301 Tariffs?",
         "body": [
-          "This depends on your exact HS subheading and current product-specific rulings — Section 301 tariffs apply to specific tariff lines, not blanket categories, and coverage has changed over time as lists and exclusions have been updated. Confirm your specific classification's current status using the [USITC's HTS lookup tool](https://hts.usitc.gov/) (see our [HS codes guide](/blog/sunflower-seed-hs-codes-export-documentation) for how to search it) or directly with a customs broker rather than assuming either way."
+          "This depends on your exact HS subheading and current product-specific rulings, Section 301 tariffs apply to specific tariff lines, not blanket categories, and coverage has changed over time as lists and exclusions have been updated. Confirm your specific classification's current status using the [USITC's HTS lookup tool](https://hts.usitc.gov/) (see our [HS codes guide](/blog/sunflower-seed-hs-codes-export-documentation) for how to search it) or directly with a customs broker rather than assuming either way."
         ]
       },
       {
         "heading": "How Should a Buyer Estimate Landed Cost Given Tariff Uncertainty?",
         "body": [
-          "Request a current duty estimate as part of your [FOB or CIF quote](/blog/fob-pricing-sunflower-seeds) discussion rather than calculating it yourself from a general tariff article — a customs broker or your freight forwarder can confirm the actual applicable rate for your specific HS subheading and current entry date, which is the only way to get a number you can actually rely on for budgeting."
+          "Request a current duty estimate as part of your [FOB or CIF quote](/blog/fob-pricing-sunflower-seeds) discussion rather than calculating it yourself from a general tariff article, a customs broker or your freight forwarder can confirm the actual applicable rate for your specific HS subheading and current entry date, which is the only way to get a number you can actually rely on for budgeting."
         ]
       },
       {
@@ -9896,15 +10079,15 @@ export const blogPosts: BlogPost[] = [
           "caption": "Duty drawback applies specifically to goods later re-exported, such as redistribution into Canada or Mexico."
         },
         "body": [
-          "[Duty drawback is a CBP program allowing up to a 99% refund of duties paid on imported goods that are later exported or destroyed](https://www.jmrodgers.com/services/duty-drawback/what-is-duty-drawback/) — relevant if you're importing sunflower seed into the US and then re-exporting some portion of it (for example, a distributor redistributing into Canada or Mexico) rather than selling everything into the US market."
+          "[Duty drawback is a CBP program allowing up to a 99% refund of duties paid on imported goods that are later exported or destroyed](https://www.jmrodgers.com/services/duty-drawback/what-is-duty-drawback/), relevant if you're importing sunflower seed into the US and then re-exporting some portion of it (for example, a distributor redistributing into Canada or Mexico) rather than selling everything into the US market."
         ]
       },
       {
         "heading": "What Are the Main Types of Duty Drawback?",
         "list": [
-          "Manufacturing drawback — duties recovered on imported material used to produce goods that are later exported",
-          "Unused merchandise drawback — duties recovered on imported goods exported without being used domestically",
-          "Rejected merchandise drawback — duties recovered on goods that didn't meet spec and were exported back or destroyed"
+          "Manufacturing drawback, duties recovered on imported material used to produce goods that are later exported",
+          "Unused merchandise drawback, duties recovered on imported goods exported without being used domestically",
+          "Rejected merchandise drawback, duties recovered on goods that didn't meet spec and were exported back or destroyed"
         ]
       },
       {
@@ -9916,7 +10099,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Is Duty Drawback Worth Pursuing for a Sunflower Seed Redistribution Business?",
         "body": [
-          "If a meaningful share of your imported volume gets re-exported rather than sold domestically, it's worth evaluating — the potential refund can be significant on a bulk commodity shipment. Given the documentation and filing complexity, many importers work with a customs broker or drawback specialist to handle the claim rather than filing independently, particularly for a first claim."
+          "If a meaningful share of your imported volume gets re-exported rather than sold domestically, it's worth evaluating, the potential refund can be significant on a bulk commodity shipment. Given the documentation and filing complexity, many importers work with a customs broker or drawback specialist to handle the claim rather than filing independently, particularly for a first claim."
         ]
       },
       {
@@ -9932,19 +10115,19 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Can a Customs Broker Help Reduce Duty Exposure Beyond Drawback?",
         "body": [
-          "Sometimes — a broker can confirm whether your specific product qualifies for a more favorable HS classification than what you might assume, whether any exclusion currently applies to your subheading, and whether your sourcing and shipping pattern makes duty drawback or bonded warehousing worth setting up. This is exactly the kind of case-by-case analysis that's worth a broker consultation rather than guessing from a general article."
+          "Sometimes, a broker can confirm whether your specific product qualifies for a more favorable HS classification than what you might assume, whether any exclusion currently applies to your subheading, and whether your sourcing and shipping pattern makes duty drawback or bonded warehousing worth setting up. This is exactly the kind of case-by-case analysis that's worth a broker consultation rather than guessing from a general article."
         ]
       },
       {
         "heading": "How Often Does US-China Tariff Policy Actually Change?",
         "body": [
-          "More often than most buyers expect — Section 301 tariff lists, exclusions, and bilateral agreements have been revised multiple times over the past several years, and the new Board of Trade consultation described above shows that the framework itself is still being developed. This is the core reason we don't publish a specific duty percentage in this article: any number would likely be outdated by the time you're reading it."
+          "More often than a buyer might expect, Section 301 tariff lists, exclusions, and bilateral agreements have been revised multiple times over the past several years, and the new Board of Trade consultation described above shows that the framework itself is still being developed. This is the core reason we don't publish a specific duty percentage in this article: any number would likely be outdated by the time you're reading it."
         ]
       },
       {
         "heading": "How Does XingYi Trading Support Buyers Navigating Tariff Uncertainty?",
         "body": [
-          "We provide the documentation — commercial invoice, HS classification support, certificate of origin — that your broker needs to confirm accurate duty treatment for your specific order, whenever you're ready to finalize a quote."
+          "We provide the documentation, commercial invoice, HS classification support, certificate of origin, that your broker needs to confirm accurate duty treatment for your specific order, whenever you're ready to finalize a quote."
         ]
       },
       {
@@ -10005,9 +10188,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "Tariff measures change often, and this guide is general information as of the date written, not customs or legal advice. Duty drawback eligibility depends on your own entries and records, so confirm with a customs broker."
+        ]
+      },
+      {
         "heading": "Get a Current Cost Estimate",
         "body": [
-          "[Request a quote](/contact#quote-form), and we'll help you get the documentation needed for your broker to confirm current landed cost."
+          "[Request a quote](/contact#quote-form), and we'll help you get the documentation needed for your broker to confirm current landed cost. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
@@ -10030,7 +10219,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         "body": [
-          "Approving a sample feels like the hard part is over — but it's actually the starting point for a specific sequence of steps before a bulk container arrives. Here's what typically happens in between."
+          "Approving a sample feels like the hard part is over, but it's actually the starting point for a specific sequence of steps before a bulk container arrives. Here's what typically happens in between."
         ]
       },
       {
@@ -10049,7 +10238,7 @@ export const blogPosts: BlogPost[] = [
           "caption": "Sample approval confirms the specification the full production batch will be held against."
         },
         "body": [
-          "Sample approval effectively locks in the specification your bulk order will be produced and graded against — this is the reference point both you and the supplier use if a question about batch consistency comes up later. Confirm in writing exactly what was approved (series, grade, moisture range) rather than leaving it as an informal understanding."
+          "Sample approval effectively locks in the specification your bulk order will be produced and graded against, this is the reference point both you and the supplier use if a question about batch consistency comes up later. Confirm in writing exactly what was approved (series, grade, moisture range) rather than leaving it as an informal understanding."
         ]
       },
       {
@@ -10057,7 +10246,7 @@ export const blogPosts: BlogPost[] = [
         "list": [
           "Final volume and whether it's a trial LCL shipment or a full container",
           "[FOB or CIF pricing](/blog/fob-pricing-sunflower-seeds) and which [Incoterm](https://www.trade.gov/know-your-incoterms) applies",
-          "[Payment terms](/blog/tt-vs-letter-of-credit-sunflower-seeds) — deposit percentage and balance trigger",
+          "[Payment terms](/blog/tt-vs-letter-of-credit-sunflower-seeds), deposit percentage and balance trigger",
           "Packaging format and any private-label requirements",
           "Target production and shipping timeline"
         ]
@@ -10065,19 +10254,19 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Is There a Contract or Purchase Order Signed at This Stage?",
         "body": [
-          "Typically, yes — a sales contract or proforma invoice confirming the agreed terms is standard practice once sample approval and commercial terms are settled, before production begins. See our [supply contract terms guide](/blog/sunflower-seed-supply-contract-terms) for what a more comprehensive agreement should cover, particularly for a buyer planning repeat orders."
+          "Typically, yes, a sales contract or proforma invoice confirming the agreed terms is standard practice once sample approval and commercial terms are settled, before production begins. See our [supply contract terms guide](/blog/sunflower-seed-supply-contract-terms) for what a more comprehensive agreement should cover, particularly for a buyer planning repeat orders."
         ]
       },
       {
         "heading": "When Does the Deposit Payment Happen?",
         "body": [
-          "Generally after the contract terms are confirmed and before production begins — [the deposit gives the supplier working capital to purchase raw material and schedule production](/blog/tt-vs-letter-of-credit-sunflower-seeds) against your specific order rather than general inventory."
+          "Generally after the contract terms are confirmed and before production begins, [the deposit gives the supplier working capital to purchase raw material and schedule production](/blog/tt-vs-letter-of-credit-sunflower-seeds) against your specific order rather than general inventory."
         ]
       },
       {
         "heading": "How Long Does Production Take Once the Order Is Confirmed?",
         "body": [
-          "This varies by order size, current production schedule, and — importantly — [proximity to the Chinese New Year shutdown period](/blog/chinese-new-year-sunflower-seed-shipping), which can significantly affect timelines for orders confirmed in the weeks before or after the holiday. Confirm a specific production timeline directly rather than assuming a fixed number applies year-round."
+          "This varies by order size, current production schedule, and, importantly, [proximity to the Chinese New Year shutdown period](/blog/chinese-new-year-sunflower-seed-shipping), which can significantly affect timelines for orders confirmed in the weeks before or after the holiday. Confirm a specific production timeline directly rather than assuming a fixed number applies year-round."
         ]
       },
       {
@@ -10088,43 +10277,43 @@ export const blogPosts: BlogPost[] = [
           "caption": "Export documentation is finalized and the shipment is booked with a freight forwarder once production completes."
         },
         "body": [
-          "The completed batch goes through final quality checks (and, if arranged, a [third-party inspection](/blog/third-party-inspection-sunflower-seeds)), export documentation is prepared — [phytosanitary certificate, certificate of origin, commercial invoice, packing list](/blog/phytosanitary-certificate-certificate-of-origin) — and the shipment is booked with your [freight forwarder](/blog/how-to-choose-freight-forwarder-sunflower-seeds). The balance payment is typically due at or around this stage, depending on your [agreed payment terms](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/)."
+          "The completed batch goes through final quality checks (and, if arranged, a third-party inspection), export documentation is prepared, phytosanitary certificate, certificate of origin, commercial invoice, packing list, and the shipment is booked with your freight forwarder. The balance payment is typically due at or around this stage, depending on your [agreed payment terms](https://www.unionsourcechina.com/tt-vs-lc-safer-payment-method-importers/)."
         ]
       },
       {
         "heading": "What Should You Confirm Once the Shipment Is Booked?",
         "body": [
-          "Confirm the vessel schedule and estimated arrival date with your forwarder, and make sure your customs broker has what's needed to file entry documentation — including [Prior Notice](/blog/fda-prior-notice-imported-food) for US-bound shipments and the correct [HS/HTS classification](https://hts.usitc.gov/search) for your product — well ahead of arrival rather than scrambling as the vessel approaches port."
+          "Confirm the vessel schedule and estimated arrival date with your forwarder, and make sure your customs broker has what's needed to file entry documentation, including [Prior Notice](/blog/fda-prior-notice-imported-food) for US-bound shipments and the correct [HS/HTS classification](https://hts.usitc.gov/search) for your product, well ahead of arrival rather than scrambling as the vessel approaches port."
         ]
       },
       {
         "heading": "Does This Process Change for a Repeat Order?",
         "body": [
-          "Yes — [once you have an established relationship and track record](/blog/repeat-orders-long-term-sunflower-seed-partner), many of these steps move faster since the supplier already has your specifications and payment history on file. The full sequence above is most relevant for a first order or a new product spec."
+          "Yes, [once you have an established relationship and track record](/blog/repeat-orders-long-term-sunflower-seed-partner), many of these steps move faster since the supplier already has your specifications and payment history on file. The full sequence above is most relevant for a first order or a new product spec."
         ]
       },
       {
         "heading": "What If the Bulk Shipment Doesn't Fully Match the Approved Sample?",
         "body": [
-          "This is exactly why sample approval should be documented in writing and why a [supply contract](/blog/sunflower-seed-supply-contract-terms) should spell out how a mismatch gets resolved — a small, normal batch-to-batch variance is common in any agricultural product, but a supplier should have a clear process for addressing a shipment that falls meaningfully outside your agreed tolerances, whether that's replacement, credit, or another remedy agreed in advance."
+          "This is exactly why sample approval should be documented in writing and why a [supply contract](/blog/sunflower-seed-supply-contract-terms) should spell out how a mismatch gets resolved, a small, normal batch-to-batch variance is common in any agricultural product, but a supplier should have a clear process for addressing a shipment that falls meaningfully outside your agreed tolerances, whether that's replacement, credit, or another remedy agreed in advance."
         ]
       },
       {
         "heading": "How Much Time Should You Budget Between Sample Approval and Container Arrival?",
         "body": [
-          "For a first order outside the Chinese New Year window, a reasonable planning estimate is production time plus ocean transit time plus customs clearance — often landing in the range of six to ten weeks total for many destinations, though this varies significantly by order size, destination, and season. Confirm a specific estimate directly with your supplier and forwarder rather than relying on a generic industry figure for your own planning."
+          "For a first order outside the Chinese New Year window, a reasonable planning estimate is production time plus ocean transit time plus customs clearance, often landing in the range of six to ten weeks total for many destinations, though this varies significantly by order size, destination, and season. Confirm a specific estimate directly with your supplier and forwarder rather than relying on a generic industry figure for your own planning."
         ]
       },
       {
         "heading": "Can You Request a Second Round of Samples If the First Doesn't Fully Meet Your Spec?",
         "body": [
-          "Yes, and it's a normal part of the process rather than something to hesitate over — a reputable supplier expects that a first sample round may need adjustment (roast level, moisture, size grading) before it fully matches what you're looking for. Approving a sample you're not fully satisfied with just to move the process forward faster usually creates a bigger problem once the full bulk order arrives."
+          "Yes, and it's a normal part of the process rather than something to hesitate over, a reputable supplier expects that a first sample round may need adjustment (roast level, moisture, size grading) before it fully matches what you're looking for. Approving a sample you're not fully satisfied with just to move the process forward faster usually creates a bigger problem once the full bulk order arrives."
         ]
       },
       {
         "heading": "What's the Most Common Point Where This Process Gets Delayed?",
         "body": [
-          "Documentation lead time is the most frequent bottleneck — buyers often budget generously for production and shipping but underestimate how long a phytosanitary certificate or certificate of origin actually takes to issue, since these come from government inspection bodies on their own schedule rather than the supplier's. The second most common delay point is a buyer taking longer than expected to finalize commercial terms or confirm a deposit after sample approval, which pushes the entire subsequent timeline back by however long that decision takes.",
+          "Documentation lead time is the most frequent bottleneck, buyers often budget generously for production and shipping but underestimate how long a phytosanitary certificate or certificate of origin actually takes to issue, since these come from government inspection bodies on their own schedule rather than the supplier's. The second most common delay point is a buyer taking longer than expected to finalize commercial terms or confirm a deposit after sample approval, which pushes the entire subsequent timeline back by however long that decision takes.",
           "Both of these are avoidable with early planning: confirming document lead times with your supplier before you need them, and treating sample approval as the point to move quickly on commercial terms rather than a natural pause in the process."
         ]
       },
@@ -10171,7 +10360,7 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "How Big Is a First Container?",
         "body": [
-          "By volume, a 20ft container holds roughly 9.7 tonnes of loose in-shell seed, about 388 bags of 25 kg (calculated from the NSA test weight and a 33.2 m³ container; see our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft)). A trial order smaller than that usually ships as a shared container, with a higher cost per tonne, which is the trade-off described in our [MOQ guide](/blog/sunflower-seed-moq-explained)."
+          "By volume, a 20ft container holds roughly 9.7 tonnes of loose in-shell seed, about 388 bags of 25 kg (calculated from the NSA test weight and a 33.2 m³ container; see our [container guide](/blog/tons-per-container-sunflower-seeds-20ft-40ft)). A trial order smaller than that usually ships as a shared container, with a higher cost per tonne, which is the trade-off described in our MOQ guide."
         ]
       },
       {
@@ -10191,9 +10380,15 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "What Are the Limits of This Guide?",
+        "body": [
+          "A sample shows the quality of that sample, and no sample guarantees the later lots. The steps are general practice, and the approval criteria, tests and timing for your order have to be agreed in writing."
+        ]
+      },
+      {
         "heading": "Start Your Sample-to-Order Process",
         "body": [
-          "[Request samples and a specification sheet](/contact#quote-form) to begin — we'll walk you through each step from there."
+          "[Request samples and a specification sheet](/contact#quote-form) to begin, we'll walk you through each step from there. Product details are on our [products page](/products), and the full buying process is in our [bulk sunflower seeds buyer's guide](/blog/bulk-sunflower-seeds-buyers-guide)."
         ]
       }
     ],
