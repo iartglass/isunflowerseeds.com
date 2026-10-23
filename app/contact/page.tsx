@@ -135,8 +135,7 @@ export default function ContactPage() {
               </div>
               <h3 className="font-bold mb-2 text-gray-900 dark:text-white">We Follow Up With Pricing</h3>
               <p className="text-gray-700 dark:text-gray-300 text-sm">
-                We respond with current pricing, specification sheets, and sample arrangements for your
-                destination.
+                We respond with current pricing and sample arrangements for your destination.
               </p>
             </div>
             <div className="bg-white dark:bg-gray-900 p-6 rounded-2xl text-center">
@@ -274,8 +273,8 @@ const faqs = [
       "Many suppliers sell the same grade codes. What we can speak to directly is our own facility's 16-stage inspection line, 9 production lines' worth of capacity, and a team that personally checks kernel size, color, and moisture at every stage — not just a grading certificate on paper. Ask us anything you'd ask another supplier and compare the answers.",
   },
   {
-    question: "How do I get pricing and a specification sheet?",
+    question: "How do I get pricing?",
     answer:
-      "Fill out the quote form above with your product series, destination, and order quantity, and our team will follow up with current pricing and detailed specifications.",
+      "Fill out the quote form above with your product series, destination, and order quantity, and our team will follow up with current pricing.",
   },
 ]

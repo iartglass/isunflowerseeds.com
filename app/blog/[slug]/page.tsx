@@ -311,8 +311,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                 >
                   <h3 className="text-xl font-bold mb-3">Sourcing Sunflower Seeds for Your Business?</h3>
                   <p className="text-gray-700 mb-6">
-                    Contact XingYi Trading for pricing, samples, and specification sheets on our 361, 363, and TQ6
-                    series.
+                    Contact XingYi Trading for pricing and samples (the buyer pays shipping) on our 361, 363, and TQ6 series.
                   </p>
                   <Button asChild className="bg-amber-500 hover:bg-amber-600 text-black font-semibold">
                     <Link href="/contact#quote-form">
@@ -343,8 +342,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                 <div className="bg-amber-500 rounded-2xl p-6 text-white">
                   <h3 className="font-bold text-lg mb-2">Request a Quote</h3>
                   <p className="text-white/90 text-sm mb-5">
-                    Tell us your series, quantity, and destination — our team responds with pricing and
-                    specification sheets.
+                    Tell us your series, quantity, and destination — our team responds with pricing.
                   </p>
                   <Button asChild className="w-full bg-white hover:bg-gray-100 text-amber-700 font-semibold">
                     <Link href="/contact#quote-form">

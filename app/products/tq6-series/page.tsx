@@ -11,7 +11,7 @@ import { pageSocial } from "@/lib/seo"
 
 const pageTitle = "Tongqing No.6 (TQ6) Sunflower Seeds — Large Kernel"
 const pageDescription =
-  "Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a large-kernel variety, organically grown and non-GMO. Processed in Bayannur for bulk export."
+  "Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a named large-kernel cultivar. Processed in Bayannur for bulk export."
 
 export const metadata = {
   title: pageTitle,
@@ -31,26 +31,26 @@ const tq6Faqs = [
   {
     question: "How does TQ6 differ from 361 and 363?",
     answer:
-      "361 and 363 are general grade codes used industry-wide; TQ6 is a specific named cultivar with a larger kernel and distinct flavor. See the comparison table above for a side-by-side.",
+      "361 and 363 are general grade codes used industry-wide; TQ6 is a specific named cultivar with a larger kernel. See the comparison table above for a side-by-side.",
   },
   {
     question: "Is TQ6 available in the same bulk volumes as 361/363?",
-    answer: "Share your target volume and timeline in your quote request and we'll confirm what we can supply for this series.",
+    answer: "Our minimum order is one 20ft container for every series. Share your target volume and timeline in your quote request.",
   },
   {
     question: "Is TQ6 certified organic?",
     answer:
-      "Confirm current certification status and documentation with our team when you request a quote — we'll provide what's available for your specific order.",
+      "No. The seed is not certified organic, and we make no non-GMO or pesticide-free claim. If your market needs test results, say so in your quote request and we will agree which tests are needed.",
   },
   {
-    question: "Will kernel size and grade stay consistent across harvest seasons?",
+    question: "How is TQ6 graded?",
     answer:
-      "Every batch — regardless of harvest season — passes through the same 16-stage inspection and grading line, including size grading and color sorting, before it's approved for packing. If you need a specific size band held consistent across repeat orders, tell us in your quote request.",
+      "Seed of all our series passes through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection. If you need a specific size band, tell us in your quote request.",
   },
   {
     question: "What export documentation do you provide?",
     answer:
-      "Sunflower seeds are classified under HS code 1206. Confirm the exact documentation you need — phytosanitary certificate, certificate of origin, commercial invoice — for your destination country when you submit your quote request, and we'll prepare accordingly.",
+      "Each shipment comes with a commercial invoice and a packing list, and sunflower seeds are classified under HS code 1206. If your destination also requires a phytosanitary certificate or a certificate of origin, tell us in your quote request before you order.",
   },
 ]
 
@@ -59,7 +59,7 @@ export default function SeriesTQ6Page() {
     <>
       <SchemaWebPage
         name="Tongqing No.6 (TQ6) Sunflower Seeds"
-        description="Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a large-kernel variety, organically grown and non-GMO."
+        description="Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a named large-kernel cultivar."
         url="/products/tq6-series"
       />
       <SchemaFAQ items={tq6Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
@@ -99,14 +99,12 @@ export default function SeriesTQ6Page() {
               </div>
               <h2 className="text-4xl font-bold mb-6">How Is TQ6 Series Sourced and Processed?</h2>
               <p className="text-gray-700 mb-6 text-lg">
-                Our Tongqing No.6 sunflower seeds are sourced from Inner Mongolia and combine rich flavor with a
-                strong nutritional profile, suited for dietary and snacking applications alike.
+                Tongqing No.6 is a named large-kernel cultivar of in-shell confection sunflower seed, sourced from Inner Mongolia.
               </p>
               <p className="text-gray-700 mb-8">
-                Organically grown, non-GMO, and free of pesticides or artificial additives — processed through
-                our full{" "}
+                Processed through our full{" "}
                 <Link href="/about#capabilities" className="underline decoration-dotted hover:text-amber-600">
-                  16-stage inspection line
+                  16-stage grading line
                 </Link>{" "}
                 before packing.
               </p>
@@ -243,17 +241,16 @@ export default function SeriesTQ6Page() {
           <div className="max-w-4xl mx-auto bg-amber-50 dark:bg-amber-900/20 rounded-2xl p-8 md:p-10 text-center">
             <h3 className="text-2xl font-bold mb-4">Need Size Grade, Moisture, or Packaging Specs?</h3>
             <p className="text-gray-700 text-lg mb-6">
-              Size grading, moisture content, purity percentage, and packaging options vary by order — contact
-              our team for a current specification sheet and pricing for the TQ6 Series.
+              Size grading, moisture content, purity percentage, and packaging options vary by order — contact our team for current pricing and availability for the TQ6 Series.
             </p>
             <ul className="space-y-3 text-left max-w-md mx-auto">
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-gray-700">Organic, non-GMO, pesticide-free</span>
+                <span className="text-gray-700">Named large-kernel cultivar</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-gray-700">Sourced directly from Inner Mongolia growers</span>
+                <span className="text-gray-700">Processed in Bayannur, Inner Mongolia</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />

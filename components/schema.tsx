@@ -97,7 +97,7 @@ export function SchemaOrganization() {
             brand: { "@type": "Brand", name: COMPANY_NAME },
             category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
             description:
-              "General-purpose, volume-friendly confectionery grade — plump, aromatic kernels for snacking, baking, garnishing, and cost-optimized private-label packaging.",
+              "General-purpose confectionery grade for snacking, baking, garnishing, and private-label packaging.",
           },
         },
         {
@@ -110,7 +110,7 @@ export function SchemaOrganization() {
             brand: { "@type": "Brand", name: COMPANY_NAME },
             category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
             description:
-              "Premium raw grade — organically grown, pesticide-free, with a consistently rich flavor, suited to branded and health-focused retail lines.",
+              "Premium raw grade, suited to branded and health-focused products.",
           },
         },
         {
@@ -123,7 +123,7 @@ export function SchemaOrganization() {
             brand: { "@type": "Brand", name: COMPANY_NAME },
             category: "Confectionery sunflower seeds (in-shell, non-oil-type)",
             description:
-              "A distinct, named cultivar with a larger kernel and richer flavor than the general 361/363 grade codes, sourced from Inner Mongolia.",
+              "A named cultivar with a larger kernel, sourced from Inner Mongolia.",
           },
         },
       ],

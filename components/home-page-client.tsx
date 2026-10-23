@@ -38,7 +38,7 @@ const homeProducts = [
   {
     title: "363 Series Premium Raw",
     description:
-      "Organic, non-GMO sunflower seeds rich in protein, healthy fats, and minerals — perfect for snacking, cooking, and baking.",
+      "A premium raw grade for branded or health-focused products.",
     image: "/images/product-363-detail.webp",
     link: "/products/363-series",
   },
@@ -471,7 +471,7 @@ export default function HomePageClient() {
                     Grown in Bayannur
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300 text-sm sm:text-base">
-                    Sourced from Inner Mongolia's sunflower-growing heartland for plump, aromatic kernels.
+                    Processed in Bayannur, in Inner Mongolia's sunflower-growing region.
                   </p>
                 </div>
               </HoverCard>

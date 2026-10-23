@@ -11,7 +11,7 @@ import { pageSocial } from "@/lib/seo"
 
 const pageTitle = "361 Series Sunflower Seeds — Bulk & Wholesale"
 const pageDescription =
-  "361 Series sunflower seeds for bulk buyers — plump, aromatic kernels for snacking, baking, and garnishing. Processed in Bayannur, Inner Mongolia."
+  "361 Series sunflower seeds for bulk buyers — a general-purpose grade for snacking, baking, and garnishing. Processed in Bayannur, Inner Mongolia."
 
 export const metadata = {
   title: pageTitle,
@@ -26,32 +26,32 @@ const series361Faqs = [
   {
     question: "How is 361 different from 363 or TQ6?",
     answer:
-      "361 is our general-purpose, volume-friendly grade. 363 is a premium raw grade for branded/health-focused lines, and Tongqing No.6 is a distinct large-kernel cultivar. See the comparison table above, or our full series comparison page, for a quick side-by-side.",
+      "361 is our general-purpose grade for snacking, baking and garnishing. 363 is a premium raw grade for branded/health-focused lines, and Tongqing No.6 is a distinct large-kernel cultivar. See the comparison table above, or our full series comparison page, for a quick side-by-side.",
   },
   {
     question: "Is 361 Series suitable for private-label packaging?",
     answer:
-      "Yes — this is one of the most common uses for this series. Tell us your packaging format and branding needs in your quote request.",
+      "Yes. We offer private-label and custom packaging, and the minimum quantity and lead time are set in the quote. Tell us your packaging format and branding needs in your quote request.",
   },
   {
     question: "Is 361 Series certified organic?",
     answer:
-      "Confirm current certification status and documentation with our team when you request a quote — we'll provide what's available for your specific order.",
+      "No. The seed is not certified organic, and we make no non-GMO or pesticide-free claim. If your market needs test results, say so in your quote request and we will agree which tests are needed.",
   },
   {
     question: "Can I get a sample before placing a bulk order?",
     answer:
-      "Yes — contact our team with your shipping details and we can arrange a sample so you can verify quality before committing to volume.",
+      "Yes. Samples are provided, and the buyer pays the shipping cost. Contact our team with your shipping details.",
   },
   {
-    question: "Will grade and size stay consistent across harvest seasons?",
+    question: "How is 361 Series graded?",
     answer:
-      "Every batch — regardless of harvest season — passes through the same 16-stage inspection and grading line, including size grading and color sorting, before it's approved for packing. If you need a specific size band held consistent across repeat orders, tell us in your quote request.",
+      "Seed of all our series passes through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection. If you need a specific size band, tell us in your quote request.",
   },
   {
     question: "What export documentation do you provide?",
     answer:
-      "Sunflower seeds are classified under HS code 1206. Confirm the exact documentation you need — phytosanitary certificate, certificate of origin, commercial invoice — for your destination country when you submit your quote request, and we'll prepare accordingly.",
+      "Each shipment comes with a commercial invoice and a packing list, and sunflower seeds are classified under HS code 1206. If your destination also requires a phytosanitary certificate or a certificate of origin, tell us in your quote request before you order.",
   },
 ]
 
@@ -60,7 +60,7 @@ export default function Series361Page() {
     <>
       <SchemaWebPage
         name="361 Series Sunflower Seeds"
-        description="361 Series sunflower seeds for bulk buyers — plump, aromatic kernels for snacking, baking, and garnishing."
+        description="361 Series sunflower seeds for bulk buyers — a general-purpose grade for snacking, baking, and garnishing."
         url="/products/361-series"
       />
       <SchemaFAQ items={series361Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
@@ -88,7 +88,7 @@ export default function Series361Page() {
         <div className="relative z-20 container mx-auto px-4 h-full flex flex-col justify-center items-center text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">361 Series Sunflower Seeds</h1>
           <p className="text-xl text-white/90 max-w-2xl">
-            A versatile, high-quality kernel for snacking, baking, and garnishing.
+            A general-purpose grade for snacking, baking, and garnishing.
           </p>
         </div>
       </section>
@@ -103,16 +103,14 @@ export default function Series361Page() {
               </div>
               <h2 className="text-4xl font-bold mb-6">What Makes 361 Series Nutritious and Versatile?</h2>
               <p className="text-gray-700 mb-6 text-lg">
-                Our 361 Series sunflower seeds are packed with nutrients and perfect for snacking, baking, or
-                garnishing — a delicious and healthy choice for a wide range of culinary applications.
+                Our 361 Series is a general-purpose grade of in-shell confection sunflower seed, suited to snacking, baking and garnishing.
               </p>
               <p className="text-gray-700 mb-8">
-                Grown in Bayannur, Inner Mongolia, and processed through our full{" "}
+                Processed in Bayannur, Inner Mongolia, through our full{" "}
                 <Link href="/about#capabilities" className="underline decoration-dotted hover:text-amber-600">
-                  16-stage inspection line
+                  16-stage grading line
                 </Link>
-                , this series is a reliable, general-purpose option for buyers who need consistent quality at
-                volume.
+                , this series is our general-purpose option.
               </p>
               <Button asChild className="bg-amber-500 hover:bg-amber-600 text-black">
                 <Link href="/contact#quote-form">
@@ -186,16 +184,14 @@ export default function Series361Page() {
             </div>
             <h2 className="text-4xl font-bold mb-6">Why Choose 361 Series for Volume Orders?</h2>
             <p className="text-gray-700 text-lg">
-              361 Series is our most commonly ordered grade among buyers prioritizing consistent quality at
-              accessible pricing.
+              361 Series is our general-purpose grade for volume orders.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
             <div className="p-6">
               <h3 className="font-bold text-lg mb-2">Private-Label Repackagers</h3>
               <p className="text-gray-700 text-sm">
-                Snack brands and repackagers who need a dependable, general-purpose kernel for their own
-                branded bags at competitive cost.
+                Snack brands and repackagers who need a general-purpose seed for their own branded bags.
               </p>
             </div>
             <div className="p-6">
@@ -245,17 +241,16 @@ export default function Series361Page() {
           <div className="max-w-4xl mx-auto bg-amber-50 dark:bg-amber-900/20 rounded-2xl p-8 md:p-10 text-center">
             <h3 className="text-2xl font-bold mb-4">Need Size Grade, Moisture, or Packaging Specs?</h3>
             <p className="text-gray-700 text-lg mb-6">
-              Size grading, moisture content, purity percentage, and packaging options vary by order — contact
-              our team for a current specification sheet and pricing for the 361 Series.
+              Size grading, moisture content, purity percentage, and packaging options vary by order — contact our team for current pricing and availability for the 361 Series.
             </p>
             <ul className="space-y-3 text-left max-w-md mx-auto">
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-gray-700">Organic, non-GMO sourcing</span>
+                <span className="text-gray-700">In-shell confection sunflower seed</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-gray-700">Hull-on, raw sunflower kernels</span>
+                <span className="text-gray-700">Hull on, in-shell seed</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
