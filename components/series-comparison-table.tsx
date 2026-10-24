@@ -1,9 +1,9 @@
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 
 const rows = [
-  { label: "Positioning", values: ["General-purpose, volume-friendly", "Premium raw, organic-forward", "Large-kernel regional cultivar"] },
+  { label: "Positioning", values: ["General-purpose", "Premium raw", "Large-kernel named cultivar"] },
   { label: "Best for", values: ["Everyday snacking, private-label repackaging", "Branded premium snack lines, health-focused retail", "Specialty or differentiated snack lines"] },
-  { label: "Flavor profile", values: ["Balanced, versatile", "Rich, pronounced", "Rich, distinctive"] },
+  { label: "Grade", values: ["General-purpose grade", "Premium raw grade", "Large-kernel cultivar"] },
 ]
 
 export function SeriesComparisonTable() {

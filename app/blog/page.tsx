@@ -81,7 +81,7 @@ export default function BlogPage() {
               Sourcing Sunflower Seeds for Your Business?
             </h2>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              Contact XingYi Trading for pricing, samples, and specification sheets on our 361, 363, and TQ6 series.
+              Contact XingYi Trading for pricing and samples (the buyer pays shipping) on our 361, 363, and TQ6 series.
             </p>
             <Button asChild className="bg-amber-500 hover:bg-amber-600 text-black font-semibold">
               <Link href="/contact#quote-form">

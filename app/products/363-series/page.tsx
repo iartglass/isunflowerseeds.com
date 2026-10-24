@@ -11,7 +11,7 @@ import { pageSocial } from "@/lib/seo"
 
 const pageTitle = "363 Series Premium Raw Sunflower Seeds"
 const pageDescription =
-  "363 Series premium raw sunflower seeds for bulk buyers — organic, non-GMO, rich in protein and healthy fats. Processed in Bayannur, Inner Mongolia."
+  "363 Series premium raw sunflower seeds for bulk buyers — a premium raw grade for branded or health-focused products. Processed in Bayannur, Inner Mongolia."
 
 export const metadata = {
   title: pageTitle,
@@ -26,12 +26,12 @@ const series363Faqs = [
   {
     question: 'What makes 363 a "premium" grade?',
     answer:
-      "It's organically grown, pesticide-free, and free of artificial additives, with a consistently rich flavor — verified through the same 16-stage inspection line as our other series, at a higher grading standard.",
+      "363 is our premium raw grade, intended for branded or health-focused products. Seed of all our series passes through the same 16-stage grading line. Tell us your requirements in your quote request.",
   },
   {
     question: "Is 363 Series certified organic?",
     answer:
-      "Confirm current certification status and documentation with our team when you request a quote — we'll provide what's available for your specific order.",
+      "No. The seed is not certified organic, and we make no non-GMO or pesticide-free claim. If your market needs test results, say so in your quote request and we will agree which tests are needed.",
   },
   {
     question: "How should 363 Series be stored after arrival?",
@@ -39,14 +39,14 @@ const series363Faqs = [
       "Keep in airtight containers in a cool, dry location; refrigeration or freezing extends shelf life further if you're holding stock long-term.",
   },
   {
-    question: "Will grade and quality stay consistent across harvest seasons?",
+    question: "How is 363 Series graded?",
     answer:
-      "Every batch — regardless of harvest season — passes through the same 16-stage inspection and grading line, including size grading and color sorting, before it's approved for packing. If you need a specific grade held consistent across repeat orders, tell us in your quote request.",
+      "Seed of all our series passes through the same 16-stage grading line, which includes screening, stone removal, color sorting, gravity separation and X-ray inspection. If you need a specific size band, tell us in your quote request.",
   },
   {
     question: "What export documentation do you provide?",
     answer:
-      "Sunflower seeds are classified under HS code 1206. Confirm the exact documentation you need — phytosanitary certificate, certificate of origin, commercial invoice — for your destination country when you submit your quote request, and we'll prepare accordingly.",
+      "Each shipment comes with a commercial invoice and a packing list, and sunflower seeds are classified under HS code 1206. If your destination also requires a phytosanitary certificate or a certificate of origin, tell us in your quote request before you order.",
   },
 ]
 
@@ -55,7 +55,7 @@ export default function Series363Page() {
     <>
       <SchemaWebPage
         name="363 Series Premium Raw Sunflower Seeds"
-        description="363 Series premium raw sunflower seeds for bulk buyers — organic, non-GMO, rich in protein and healthy fats."
+        description="363 Series premium raw sunflower seeds for bulk buyers — a premium raw grade for branded or health-focused products."
         url="/products/363-series"
       />
       <SchemaFAQ items={series363Faqs.map((f) => ({ q: f.question, a: f.answer }))} />
@@ -80,7 +80,7 @@ export default function Series363Page() {
         <div className="relative z-20 container mx-auto px-4 h-full flex flex-col justify-center items-center text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">363 Series Premium Raw</h1>
           <p className="text-xl text-white/90 max-w-2xl">
-            Organic, non-GMO sunflower seeds with rich flavor and superior quality.
+            Premium raw grade for branded and health-focused products.
           </p>
         </div>
       </section>
@@ -93,16 +93,14 @@ export default function Series363Page() {
               <div className="inline-block px-4 py-2 bg-amber-100 text-amber-700 rounded-full text-sm font-medium mb-4">
                 363 Series
               </div>
-              <h2 className="text-4xl font-bold mb-6">What Makes 363 Series' Flavor and Quality Superior?</h2>
+              <h2 className="text-4xl font-bold mb-6">What Is the 363 Series?</h2>
               <p className="text-gray-700 mb-6 text-lg">
-                Discover the rich flavor and superior quality of our 363 Series sunflower seeds. Organically
-                grown and meticulously processed, these seeds are perfect for snacking, cooking, and baking.
+                Our 363 Series is a premium raw grade of in-shell confection sunflower seed, intended for branded or health-focused products.
               </p>
               <p className="text-gray-700 mb-8">
-                Non-GMO, pesticide-free, and free of artificial additives — packed with protein, healthy fats,
-                and minerals for buyers who need a premium-grade kernel, verified through our{" "}
+                Processed in Bayannur, Inner Mongolia, through our{" "}
                 <Link href="/about#capabilities" className="underline decoration-dotted hover:text-amber-600">
-                  16-stage inspection line
+                  16-stage grading line
                 </Link>
                 .
               </p>
@@ -181,23 +179,20 @@ export default function Series363Page() {
             </div>
             <h2 className="text-4xl font-bold mb-6">Why Choose 363 Series for Premium Positioning?</h2>
             <p className="text-gray-700 text-lg">
-              363 Series is our go-to grade for buyers whose end product depends on visible quality and a
-              premium story.
+              363 Series is our premium raw grade for buyers whose end product is branded or health-focused.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
             <div className="p-6">
               <h3 className="font-bold text-lg mb-2">Branded Snack Manufacturers</h3>
               <p className="text-gray-700 text-sm">
-                Brands building a premium or health-focused product line who need a kernel that looks and
-                tastes the part.
+                Brands building a premium or health-focused product line.
               </p>
             </div>
             <div className="p-6">
               <h3 className="font-bold text-lg mb-2">Health-Focused Retail Lines</h3>
               <p className="text-gray-700 text-sm">
-                Retailers positioning organic, non-GMO snacks where nutritional profile is part of the sales
-                pitch.
+                Retailers positioning health-focused snacks.
               </p>
             </div>
             <div className="p-6">
@@ -240,17 +235,16 @@ export default function Series363Page() {
           <div className="max-w-4xl mx-auto bg-amber-50 dark:bg-amber-900/20 rounded-2xl p-8 md:p-10 text-center">
             <h3 className="text-2xl font-bold mb-4">Need Size Grade, Moisture, or Packaging Specs?</h3>
             <p className="text-gray-700 text-lg mb-6">
-              Size grading, moisture content, purity percentage, and packaging options vary by order — contact
-              our team for a current specification sheet and pricing for the 363 Series.
+              Size grading, moisture content, purity percentage, and packaging options vary by order — contact our team for current pricing and availability for the 363 Series.
             </p>
             <ul className="space-y-3 text-left max-w-md mx-auto mb-8">
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-gray-700">Organic, non-GMO, pesticide-free</span>
+                <span className="text-gray-700">Premium raw grade</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-gray-700">Premium raw grade, no artificial additives</span>
+                <span className="text-gray-700">In-shell confection sunflower seed</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle className="h-5 w-5 text-amber-500 mr-3 mt-1 flex-shrink-0" />

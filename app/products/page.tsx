@@ -10,7 +10,7 @@ import { pageSocial } from "@/lib/seo"
 
 const pageTitle = "Wholesale Sunflower Seed Products — 361, 363 & TQ6"
 const pageDescription =
-  "Wholesale sunflower seed series for bulk buyers — 361, 363, and Tongqing No.6 (TQ6). Organic, non-GMO, confectionery-grade, processed in Bayannur, Inner Mongolia."
+  "Wholesale sunflower seed series for bulk buyers — 361, 363, and Tongqing No.6 (TQ6). In-shell confection sunflower seed, processed in Bayannur, Inner Mongolia."
 
 export const metadata = {
   title: pageTitle,
@@ -52,7 +52,7 @@ export default function ProductsPage() {
             Our Sunflower Seeds
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-white/90 max-w-xl sm:max-w-2xl">
-            Export-grade sunflower seed series, organically grown and processed in Bayannur, Inner Mongolia.
+            In-shell confection sunflower seed series, processed in Bayannur, Inner Mongolia.
           </p>
         </div>
       </section>
@@ -279,7 +279,7 @@ export default function ProductsPage() {
         <div className="container mx-auto px-4 text-center max-w-4xl">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 md:mb-6">Ready to Place an Order?</h2>
           <p className="text-gray-300 text-sm sm:text-base md:text-lg max-w-xl md:max-w-2xl mx-auto mb-6 md:mb-10">
-            Contact us for current pricing, sample requests, and full specification sheets for any series.
+            Contact us for current pricing and sample requests for any series.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <Button
@@ -305,21 +305,21 @@ const products = [
   {
     title: "361 Series Sunflower Seeds",
     description:
-      "Packed with nutrients and perfect for snacking, baking, or garnishing — a versatile, high-quality kernel.",
+      "A general-purpose grade for snacking, baking, and garnishing.",
     image: "/images/361-1-mobile.webp",
     link: "/products/361-series",
   },
   {
     title: "363 Series Premium Raw",
     description:
-      "Organic, non-GMO sunflower seeds rich in protein, healthy fats, and minerals — perfect for snacking, cooking, and baking.",
+      "A premium raw grade for branded or health-focused products.",
     image: "/images/363.jpg",
     link: "/products/363-series",
   },
   {
     title: "Tongqing No.6 (TQ6) Series",
     description:
-      "A large-kernel cultivar sourced from Inner Mongolia, offering a rich source of protein, healthy fats, and essential minerals.",
+      "A named large-kernel cultivar sourced from Inner Mongolia.",
     image: "/images/product-seeds-closeup.webp",
     link: "/products/tq6-series",
   },
@@ -371,7 +371,7 @@ const productsFaqs = [
   {
     question: "Which series should I choose?",
     answer:
-      "361 is our general-purpose, volume-friendly grade. 363 is a premium raw grade suited to branded or health-focused retail lines. Tongqing No.6 (TQ6) is a distinct large-kernel cultivar for specialty or differentiated snack lines. See the comparison table above for a quick side-by-side, or tell us your intended use and we'll recommend a series.",
+      "361 is our general-purpose grade for snacking, baking and garnishing. 363 is a premium raw grade suited to branded or health-focused retail lines. Tongqing No.6 (TQ6) is a distinct large-kernel cultivar for specialty or differentiated snack lines. See the comparison table above for a quick side-by-side, or tell us your intended use and we'll recommend a series.",
   },
   {
     question: "Do all three series go through the same quality control?",
