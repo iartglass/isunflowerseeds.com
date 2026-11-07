@@ -9,7 +9,7 @@ import { getPublishedBlogPosts } from "@/lib/blog-posts"
 import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
 import { pageSocial } from "@/lib/seo"
 
-const pageTitle = "Tongqing No.6 (TQ6) Sunflower Seeds — Large Kernel"
+const pageTitle = "Tongqing No.6 (TQ6) Sunflower Seeds"
 const pageDescription =
   "Tongqing No.6 (TQ6) sunflower seeds from Inner Mongolia — a named large-kernel cultivar. Processed in Bayannur for bulk export."
 

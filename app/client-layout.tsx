@@ -9,6 +9,7 @@ import { AnimatePresence, motion } from "framer-motion"
 import { usePathname } from "next/navigation"
 import { ScrollToTop } from "@/components/scroll-to-top"
 import { WhatsAppButton } from "@/components/whatsapp-button"
+import { AnalyticsEvents } from "@/components/analytics-events"
 import { SchemaOrganization, SchemaWebSite } from "@/components/schema"
 
 import "@/app/globals.css"
@@ -68,6 +69,7 @@ export default function ClientLayout({
             <Footer />
             <ScrollToTop />
             <WhatsAppButton />
+            <AnalyticsEvents />
           </div>
         </ThemeProvider>
       </body>

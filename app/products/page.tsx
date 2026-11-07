@@ -8,7 +8,7 @@ import { SeriesComparisonTable } from "@/components/series-comparison-table"
 import { SchemaWebPage, SchemaBreadcrumb, SchemaFAQ, SchemaItemList } from "@/components/schema"
 import { pageSocial } from "@/lib/seo"
 
-const pageTitle = "Wholesale Sunflower Seed Products — 361, 363 & TQ6"
+const pageTitle = "Wholesale Sunflower Seeds: 361, 363 & TQ6"
 const pageDescription =
   "Wholesale sunflower seed series for bulk buyers — 361, 363, and Tongqing No.6 (TQ6). In-shell confection sunflower seed, processed in Bayannur, Inner Mongolia."
 

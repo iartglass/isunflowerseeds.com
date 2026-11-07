@@ -5,6 +5,7 @@ import type { FormEvent } from "react"
 import { ArrowRight, Loader2, CheckCircle2, AlertCircle } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
+import { trackEvent } from "@/components/analytics-events"
 
 type Status = "idle" | "submitting" | "success" | "error"
 
@@ -29,6 +30,7 @@ export function ContactForm() {
 
       if (result.success) {
         setStatus("success")
+        trackEvent("generate_lead", { page_path: window.location.pathname })
         form.reset()
       } else {
         setStatus("error")

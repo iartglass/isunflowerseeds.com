@@ -8,7 +8,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SchemaWebPage, SchemaBreadcrumb, SchemaFAQ } from "@/components/schema"
 import { pageSocial } from "@/lib/seo"
 
-const pageTitle = "Buying Direct vs. a Trading Company or Marketplace"
+const pageTitle = "Buying Direct vs. Trading Company"
 const pageDescription =
   "An honest comparison of buying sunflower seeds direct from the factory versus sourcing through a trading company or B2B marketplace listing."
 

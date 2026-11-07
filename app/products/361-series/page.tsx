@@ -9,7 +9,7 @@ import { getPublishedBlogPosts } from "@/lib/blog-posts"
 import { SchemaWebPage, SchemaFAQ, SchemaBreadcrumb } from "@/components/schema"
 import { pageSocial } from "@/lib/seo"
 
-const pageTitle = "361 Series Sunflower Seeds — Bulk & Wholesale"
+const pageTitle = "361 Series Sunflower Seeds, Bulk Wholesale"
 const pageDescription =
   "361 Series sunflower seeds for bulk buyers — a general-purpose grade for snacking, baking, and garnishing. Processed in Bayannur, Inner Mongolia."
 
