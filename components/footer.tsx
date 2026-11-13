@@ -150,6 +150,32 @@ export function Footer() {
           </div>
         </div>
 
+        {/* Buyer guides: sitewide links to key guides so crawlers reach them from every page */}
+        <nav aria-label="Buyer guides" className="border-t border-gray-800 mt-8 sm:mt-10 pt-6 max-w-6xl mx-auto">
+          <h3 className="text-lg font-semibold mb-4 text-white text-center sm:text-left">Buyer Guides</h3>
+          <ul className="grid grid-cols-1 gap-x-8 gap-y-2 sm:grid-cols-2 lg:grid-cols-4 text-center sm:text-left">
+            {[
+              ["sunflower-seed-moq-explained", "Minimum Order Quantity Explained"],
+              ["fob-pricing-sunflower-seeds", "FOB Pricing for Sunflower Seeds"],
+              ["incoterms-sunflower-seeds-fob-cif", "Incoterms: FOB vs. CIF"],
+              ["what-to-ask-sunflower-seed-supplier", "Questions to Ask a Supplier"],
+              ["sunflower-seed-moisture-content-purity-standards", "Moisture and Purity Standards"],
+              ["phytosanitary-certificate-certificate-of-origin", "Phytosanitary and Origin Certificates"],
+              ["sourcing-sunflower-seeds-middle-east", "Sourcing for the Middle East"],
+              ["sourcing-sunflower-seeds-north-america", "Sourcing for North America"],
+            ].map(([slug, label]) => (
+              <li key={slug}>
+                <Link
+                  href={`/blog/${slug}`}
+                  className="text-gray-400 text-sm hover:text-amber-500 transition-colors inline-block"
+                >
+                  {label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </nav>
+
         {/* Copyright */}
         <div className="border-t border-gray-800 mt-8 sm:mt-10 pt-6 text-center text-gray-400 text-sm max-w-6xl mx-auto">
           <p>&copy; {new Date().getFullYear()} XingYi Trading (Inner Mongolia XingYi Trading Co., Ltd). All rights reserved.</p>
